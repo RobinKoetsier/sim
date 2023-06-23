@@ -1,0 +1,563 @@
+Player 1,Player 2,Similarity
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","O. Dasa (24, Hapoel Ramat Gan, Liga Leumit 22-23)",21.483162336283357
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Hasson (21, Hapoel Ramat Gan, Liga Leumit 22-23)",40.61528231391468
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Guzmán (28, Guadalajara, Liga MX 22-23)",15.944712090881676
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Córdova (25, Tigres UANL, Liga MX 22-23)",23.93147887655761
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Fernández (24, Toluca, Liga MX 22-23)",10.087373871567154
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Navarro (34, Toluca, Liga MX 22-23)",31.632138308618728
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Benedetti (26, Mazatlán, Liga MX 22-23)",42.56637555350325
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Cortizo (26, Monterrey, Liga MX 22-23)",68.40730609632276
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Rodríguez (26, Club Tijuana, Liga MX 22-23)",48.65516096432507
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Villalpando (31, Atlético de San Luis, Liga MX 22-23)",33.27516240133588
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","O. Fernández (30, Puebla, Liga MX 22-23)",50.53116233987805
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","E. López (28, Pachuca, Liga MX 22-23)",27.50480765382036
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","T. Chery (34, Maccabi Haifa, Ligat Ha'al 22-23)",37.362946000622216
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Boateng (30, Maccabi Bnei Raina, Ligat Ha'al 22-23)",14.29597437405625
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Micha (31, Hapoel Be'er Sheva, Ligat Ha'al 22-23)",8.392423502523583
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Kehat (31, Ironi Kiryat Shmona, Ligat Ha'al 22-23)",14.821773189222611
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","B. Cohen (22, Beitar Jerusalem, Ligat Ha'al 22-23)",21.415757008088075
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Safouri (27, Hapoel Be'er Sheva, Ligat Ha'al 22-23)",-3.49452405865363
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Caqueret (23, Olympique Lyonnais, Ligue 1 22-23)",30.736453666954784
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Munetsi (26, Reims, Ligue 1 22-23)",16.163757635485947
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","T. Savanier (31, Montpellier, Ligue 1 22-23)",-0.7929735423289199
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Cabella (33, Lille, Ligue 1 22-23)",21.627088886426957
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Ünder (25, Olympique Marseille, Ligue 1 22-23)",16.928688497028336
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Thomasson (29, Lens, Ligue 1 22-23)",14.650451217921798
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Guendouzi (24, Olympique Marseille, Ligue 1 22-23)",46.49674323196039
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Khaoui (28, Clermont, Ligue 1 22-23)",6.908267173166818
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Cherki (19, Olympique Lyonnais, Ligue 1 22-23)",30.28616550095668
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","B. Dejaegere (32, Toulouse, Ligue 1 22-23)",44.82908814133213
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Ponceau (22, Lorient, Ligue 1 22-23)",60.17827416236821
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Faivre (24, Lorient, Ligue 1 22-23)",58.10764895879963
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Malinovskyi (30, Olympique Marseille, Ligue 1 22-23)",31.14192440548228
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Doumbia (20, Reims, Ligue 1 22-23)",48.048317797325645
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Mollet (31, Nantes, Ligue 1 22-23)",26.96510147383429
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Payet (36, Olympique Marseille, Ligue 1 22-23)",11.897074090160077
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","G. Weissbeck (26, Sochaux, Ligue 2 22-23)",21.71062649552536
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","B. Soumaré (24, Dijon, Ligue 2 22-23)",26.538414329849875
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","B. Brahimi (23, Caen, Ligue 2 22-23)",34.57179399756089
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","E. Sylvestre (23, Pau, Ligue 2 22-23)",25.861372373282357
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Y. Maziz (24, Metz, Ligue 2 22-23)",7.58180182415684
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Jacob (28, Dijon, Ligue 2 22-23)",-6.024156763427864
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Berthomier (33, Valenciennes, Ligue 2 22-23)",7.934427599200272
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Chambost (25, Saint-Étienne, Ligue 2 22-23)",5.775684402906765
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Bonnet (36, Quevilly Rouen, Ligue 2 22-23)",0.2819054179730261
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Ngando (29, Grenoble, Ligue 2 22-23)",27.59126263618436
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Romanovskij (26, Šiauliai, Lithuanian A Lyga 2023)",5.315716449713444
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Žebrauskas (21, Banga, Lithuanian A Lyga 2023)",18.20807359552765
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Paulo Josue (34, Kuala Lumpur City, Malaysian Super League 2023)",-9.105400396267726
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Nor Azam Abdul Azih (28, Sri Pahang, Malaysian Super League 2023)",-6.735004761413988
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Torres (23, Balzan, Malta Premier League 22-23)",30.17583531887266
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Busuttil (24, Floriana, Malta Premier League 22-23)",16.72667443498896
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Dimech (21, Valletta, Malta Premier League 22-23)",48.19369225858993
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","P. Mbong (21, Birkirkara, Malta Premier League 22-23)",21.87456402048772
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Vella (27, Hibernians, Malta Premier League 22-23)",26.94797100357469
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","T. Nagamatsu (28, Gudja United, Malta Premier League 22-23)",38.40004719611439
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","T. Linus (18, Mosta, Malta Premier League 22-23)",-2.782267293102527
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Lodeiro (34, Seattle Sounders, MLS 2023)",1.717389183487987
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Gazdag (27, Philadelphia Union, MLS 2023)",11.532829658078729
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","T. Almada (22, Atlanta United, MLS 2023)",22.362418746171503
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Rodríguez (23, New York City, MLS 2023)",29.65234630499215
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Acosta (29, Cincinnati, MLS 2023)",14.52714487975723
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Gauld (27, Vancouver Whitecaps, MLS 2023)",23.01355438314139
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Zelarayán (30, Columbus Crew, MLS 2023)",20.285416165195155
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Carles Gil (30, New England, MLS 2023)",21.55485398300337
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Măţan (23, Columbus Crew, MLS 2023)",55.260126808029554
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Torres (23, Orlando City, MLS 2023)",35.87353351681379
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Evander (24, Portland Timbers, MLS 2023)",10.333532894991812
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","B. Gutiérrez (19, Chicago Fire, MLS 2023)",35.699822596380145
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","B. Duke (22, CF Montréal, MLS 2023)",5.077395804127152
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","P. Vite (21, Vancouver Whitecaps, MLS 2023)",34.61760258933737
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Fragapane (30, Minnesota United, MLS 2023)",30.263769036405957
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Driussi (27, Austin FC, MLS 2023)",47.167343772792606
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Stefanelli (28, Inter Miami, MLS 2023)",27.499406736917525
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","X. Shaqiri (31, Chicago Fire, MLS 2023)",-4.658207928339039
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Gînsari (31, Milsami, Moldovan Super Liga 22-23)",34.87483554287426
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Danu (20, CSF Bălți, Moldovan Super Liga 22-23)",4.256263835071429
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Calaidjoglu (22, Sfîntul Gheorghe, Moldovan Super Liga 22-23)",16.379869351652843
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Pavlović (29, Jezero, Montenegro First League 22-23)",-11.78226500224042
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Božović (34, Dečić, Montenegro First League 22-23)",-1.45669706010444
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Eraković (23, Sutjeska, Montenegro First League 22-23)",38.32602334686429
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Adžović (29, Petrovac, Montenegro First League 22-23)",3.5272296056032326
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Ž. Popović (23, Iskra, Montenegro First League 22-23)",30.89397768486227
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","O. Hajrovic (27, Jedinstvo, Montenegro First League 22-23)",24.346054891963263
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Lucero (24, Budućnost, Montenegro First League 22-23)",9.591929031166336
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Janketić (26, Rudar, Montenegro First League 22-23)",31.25245874102075
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","E. Vucaj (32, Dečić, Montenegro First League 22-23)",12.545827423246823
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","B. Boričić (26, Petrovac, Montenegro First League 22-23)",33.13297975514875
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","P. Pavlićević (23, Iskra, Montenegro First League 22-23)",26.396193684966928
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Demir Škrijelj (25, Mornar, Montenegro First League 22-23)",20.341491634540724
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Carević (19, Petrovac, Montenegro First League 22-23)",-5.495559292506458
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Bakić (29, Budućnost, Montenegro First League 22-23)",24.7113302786695
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Beširović (29, Mezőkövesd-Zsóry, NB I 22-23)",25.729562675628703
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","B. Dzsudzsák (36, Debrecen, NB I 22-23)",1.7930849050210025
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","P. Dárdai (24, Fehérvár, NB I 22-23)",21.58540748136901
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Makowski (26, Várda SE, NB I 22-23)",22.859055008512684
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Katona (23, Fehérvár, NB I 22-23)",56.69329618195803
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Marquinhos (23, Ferencváros, NB I 22-23)",41.82363707202085
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Zsótér (27, Honvéd, NB I 22-23)",-13.565411703278013
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Băluță (29, Puskás FC, NB I 22-23)",5.740139182652479
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","T. Nguen (29, Ferencváros, NB I 22-23)",42.41417421422451
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Z. Haraszti (31, Paksi SE, NB I 22-23)",4.723376165152727
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Levi (27, Puskás FC, NB I 22-23)",34.346498759591334
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Jakobi (21, Újpest, NB I 22-23)",-9.468603641239016
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Houri (27, Fehérvár, NB I 22-23)",27.198622960122357
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","I. Bognár (32, MTK, NB II 22-23)",2.0757014994164105
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A.  Lőrinczy (29, Diósgyőr, NB II 22-23)",6.183570416054126
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","B. Rácz (27, Szombathelyi Haladás, NB II 22-23)",12.197251630365908
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Z. Daróczi (23, Szentlőrinc SE, NB II 22-23)",13.300215165657084
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Gazdag (19, Csákvári TK, NB II 22-23)",32.63672275545911
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Vitális (21, Győri ETO, NB II 22-23)",23.9994367892694
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Sejben (26, Ajka, NB II 22-23)",61.21943053896876
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Illés (29, Mosonmagyaróvári TE, NB II 22-23)",7.1298668308798
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Pantović (29, Nyíregyháza Spartacus, NB II 22-23)",26.28524272835105
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Márió Németh (28, Budafoki MTE, NB II 22-23)",9.484561414179336
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Zsolnai (28, Ajka, NB II 22-23)",11.124043356828125
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Szatmári (35, Szeged 2011, NB II 22-23)",-11.524045944741813
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Berzsenyi (19, Ajka, NB II 22-23)",31.100737511370266
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Köböl (21, Soroksár SC, NB II 22-23)",3.702016683423717
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","B. Szabó (27, Kazincbarcika, NB II 22-23)",11.322136135650036
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Székely (27, Kazincbarcika, NB II 22-23)",6.548735091530217
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","P. Nyári (21, Siófok, NB II 22-23)",-9.535709159307418
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","B. Bozinovski (42, Makedonija GjP, North Macedonia First League 22-23)",9.260418005476923
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Álvarez (28, Shkupi, North Macedonia First League 22-23)",7.376441630836787
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Stankovski (20, Rabotnički, North Macedonia First League 22-23)",3.676381581787362
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Mircevski (26, Vardar, North Macedonia First League 22-23)",55.066404779054615
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Todorovski (20, Rabotnički, North Macedonia First League 22-23)",28.41166807497681
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Jusufi (27, Renova, North Macedonia First League 22-23)",57.107236493984544
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Fernando Silva (31, Borec, North Macedonia First League 22-23)",28.19306122202047
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","E. Totre (26, Shkendija, North Macedonia First League 22-23)",33.7168792379556
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Stojkoski (31, Rabotnički, North Macedonia First League 22-23)",5.905273207853166
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Anderson (25, Carrick Rangers, Northern Ireland Premiership 22-23)",-6.964057570348786
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Hale (26, Cliftonville, Northern Ireland Premiership 22-23)",-0.5242558666761687
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Lynch (31, Coleraine, Northern Ireland Premiership 22-23)",17.68254892095419
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Winchester (30, Crusaders, Northern Ireland Premiership 22-23)",12.556611298509882
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. McCartan (28, Glentoran, Northern Ireland Premiership 22-23)",28.062857142006376
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Mayse (29, Dungannon Swifts, Northern Ireland Premiership 22-23)",-11.898677586108985
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. O'Mahony (23, Coleraine, Northern Ireland Premiership 22-23)",10.83834425948008
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Palmer (22, Linfield, Northern Ireland Premiership 22-23)",20.132056554174756
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Clarke (20, Linfield, Northern Ireland Premiership 22-23)",47.54336305241505
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. O'Connor (35, Glenavon, Northern Ireland Premiership 22-23)",-47.38159915741165
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Alexandersson (21, Moss, OBOS Ligaen 2023)",9.02227172159244
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Ali (23, Moss, OBOS Ligaen 2023)",45.49602342223285
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. González (31, Herrera, Panama LPF 2023)",-11.36180892380388
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Pimentel (32, Sporting San Miguelito, Panama LPF 2023)",26.192760903593985
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Ávila (24, Independiente, Panama LPF 2023)",19.49088157183397
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Vélez (28, César Vallejo, Peruvian Liga 1 2023)",1.8324123064499696
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Ó. Barreto (30, Unión Comercio, Peruvian Liga 1 2023)",-1.134277841090661
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Lliuya (31, Sport Huancayo, Peruvian Liga 1 2023)",14.94519166132874
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Sandoval (26, Cienciano, Peruvian Liga 1 2023)",19.99768538958937
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Rojas (33, Deportivo Garcilaso, Peruvian Liga 1 2023)",28.69587650482486
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Torres (31, Alianza Atlético, Peruvian Liga 1 2023)",-12.659845814003983
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Neira (22, Unión Comercio, Peruvian Liga 1 2023)",27.60688467677468
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","W. Mimbela (31, ADT, Peruvian Liga 1 2023)",2.19361261149894
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Ayarza (30, Cusco, Peruvian Liga 1 2023)",10.259105287962829
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Sánchez (33, UTC Cajamarca, Peruvian Liga 1 2023)",26.241199006005186
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Ramírez (28, Academia Cantolao, Peruvian Liga 1 2023)",15.17937581283574
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Luis Fernández (29, Wisła Kraków, Polish I Liga 22-23)",30.31930974062476
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Joan Román (30, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",37.6681106276978
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Steblecki (31, Chrobry Głogów, Polish I Liga 22-23)",38.29712685674918
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","E. Thiakane (31, Puszcza Niepołomice, Polish I Liga 22-23)",19.981491032833688
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Błąd (32, Katowice, Polish I Liga 22-23)",5.971960378298393
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","H. Adamczyk (25, Arka Gdynia, Polish I Liga 22-23)",33.35736132466508
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Olejarka (21, Stal Rzeszów, Polish I Liga 22-23)",47.94430513601121
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","P. Nocoń (32, SKRA Częstochowa, Polish I Liga 22-23)",-0.2289011222765303
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Marzec (28, Katowice, Polish I Liga 22-23)",41.478829362776096
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Sitek (22, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",51.13445569744111
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Janota (32, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",2.6796676983246392
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","H. Tomalski (29, Puszcza Niepołomice, Polish I Liga 22-23)",20.112366582972765
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Ł. Janoszka (36, Ruch Chorzów, Polish I Liga 22-23)",15.277845146343449
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","W. Szumilas (26, Zagłębie Sosnowiec, Polish I Liga 22-23)",-1.010464949995503
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Pawłowski (36, Zagłębie Sosnowiec, Polish I Liga 22-23)",30.378784468894853
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Hilbrycht (25, Nieciecza, Polish I Liga 22-23)",-2.1659474486392107
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Drzazga (27, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",27.389390558829884
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","T. Foszmańczyk (37, Ruch Chorzów, Polish I Liga 22-23)",23.1911452674362
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Toporkiewicz (21, Sandecja Nowy Sącz, Polish I Liga 22-23)",15.759255630865528
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Machaj (33, Chrobry Głogów, Polish I Liga 22-23)",-1.4461416904215552
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Potoma (23, Sandecja Nowy Sącz, Polish I Liga 22-23)",70.66187138815499
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Trubeha (25, Nieciecza, Polish I Liga 22-23)",1.80918887963452
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","P. Pyrdoł (24, SKRA Częstochowa, Polish I Liga 22-23)",48.27859258231664
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Kościelniak (28, Katowice, Polish I Liga 22-23)",39.61564302308682
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Gołębiowski (21, SKRA Częstochowa, Polish I Liga 22-23)",1.6013484836270284
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Zapolnik (30, Puszcza Niepołomice, Polish I Liga 22-23)",4.87334896666635
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Vasco Sousa (20, Porto II, Portugal Segunda Liga 22-23)",25.039263616587697
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Toro (26, Academico Viseu, Portugal Segunda Liga 22-23)",14.134993401927805
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Duarte (35, UD Oliveirense, Portugal Segunda Liga 22-23)",46.09027531222986
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L.  Trabulo (28, Mafra, Portugal Segunda Liga 22-23)",24.776837080651475
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Alan (23, Moreirense, Portugal Segunda Liga 22-23)",32.98862083956455
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Zé Tiago (34, Sporting Covilhã, Portugal Segunda Liga 22-23)",57.708316277468384
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","P. Santos (27, Moreirense, Portugal Segunda Liga 22-23)",47.67716922392791
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Feliz Vaz (34, Penafiel, Portugal Segunda Liga 22-23)",7.451499942468934
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Adriano Castanheira (30, Penafiel, Portugal Segunda Liga 22-23)",18.98580759392746
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Koné (22, Porto II, Portugal Segunda Liga 22-23)",27.78706312903959
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Bruno Fernandes (28, Manchester United, Premier League 22-23)",6.154464232984521
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Mount (24, Chelsea, Premier League 22-23)",23.880285964493893
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Maddison (26, Leicester City, Premier League 22-23)",22.125659876855693
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Matheus Nunes (24, Wolverhampton Wanderers, Premier League 22-23)",26.235016304897098
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Lucas Paquetà (25, West Ham United, Premier League 22-23)",8.755619613651227
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Gallagher (23, Chelsea, Premier League 22-23)",37.3026830173264
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","B. Aaronson (22, Leeds United, Premier League 22-23)",57.72685081075396
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Gibbs-White (23, Nottingham Forest, Premier League 22-23)",14.471017555177138
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","E. Eze (24, Crystal Palace, Premier League 22-23)",31.643287478243938
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Dewsbury-Hall (24, Leicester City, Premier League 22-23)",13.601085611647514
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","P. Billing (26, Bournemouth, Premier League 22-23)",22.81432763106117
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Andreas Pereira (27, Fulham, Premier League 22-23)",9.297639307298471
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Alcaraz (20, Southampton, Premier League 22-23)",48.82634426678919
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Lingard (30, Nottingham Forest, Premier League 22-23)",36.47745400010077
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","João Moutinho (36, Wolverhampton Wanderers, Premier League 22-23)",5.249944017540394
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","T. Cairney (32, Fulham, Premier League 22-23)",44.54018927963261
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Nabiyev (23, Kapaz, Premyer Liqa 22-23)",15.218009764575047
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Leandro Andrade (23, Qarabag, Premyer Liqa 22-23)",21.603632716320583
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Guseynov (23, Turan-T, Premyer Liqa 22-23)",-2.4979016268521304
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Hamdaoui (29, Zira, Premyer Liqa 22-23)",31.3773996660688
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Nuriev (27, Sabah, Premyer Liqa 22-23)",8.30666160919009
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","E. Safarov (20, Qabala, Premyer Liqa 22-23)",23.59597627911184
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Aliev (24, Sumqayıt, Premyer Liqa 22-23)",31.453226476397727
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Ljujić (29, Sabail, Premyer Liqa 22-23)",19.81458894997637
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Alasgarov (28, Sabah, Premyer Liqa 22-23)",18.978125463437568
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Kady (27, Qarabag, Premyer Liqa 22-23)",16.325407762311457
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Samu (27, Vizela, Primeira Liga 22-23)",15.10571170501349
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Fujimoto (23, Gil Vicente, Primeira Liga 22-23)",28.711697728784312
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Ruiz (29, Arouca, Primeira Liga 22-23)",5.23347314115753
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Ivo Rodrigues (28, Famalicão, Primeira Liga 22-23)",17.813939140123246
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","João Mendes (28, Chaves, Primeira Liga 22-23)",28.96363689853316
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Rafa Silva (30, Benfica, Primeira Liga 22-23)",51.48994823318623
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Brais Abelenda (27, Pontevedra, Primera División RFEF 22-23)",26.92654149373971
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Diego Esteban (23, SD Logroñés, Primera División RFEF 22-23)",18.34204482334451
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Iker Kortajarena (22, Real Sociedad B, Primera División RFEF 22-23)",19.543587169292337
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Agüero (27, Alcoyano, Primera División RFEF 22-23)",11.092669148779075
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Álex López (35, Racing Ferrol, Primera División RFEF 22-23)",19.840866716490947
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Álvaro Romero (26, Algeciras, Primera División RFEF 22-23)",18.67995970748965
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Sergio Moyita (30, Alcoyano, Primera División RFEF 22-23)",13.372284317485288
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Alberto Solís (25, Cultural Leonesa, Primera División RFEF 22-23)",5.476094442662726
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Yelko Pino (26, Pontevedra, Primera División RFEF 22-23)",-2.0014623429403717
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Emilio Lozano (27, SD Logroñés, Primera División RFEF 22-23)",45.981216942058126
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Jesús Carrillo (24, Numancia, Primera División RFEF 22-23)",38.798299789251786
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Adri Cuevas (33, Ceuta, Primera División RFEF 22-23)",13.235812558479823
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Arnau Ortiz (21, Real Murcia, Primera División RFEF 22-23)",64.68763167769673
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Juan Carlos Menudo (31, UD Logroñés, Primera División RFEF 22-23)",18.57548199217795
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Raúl Blanco (21, Celta de Vigo B, Primera División RFEF 22-23)",32.57962781463593
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Jorge García (30, La Nucía, Primera División RFEF 22-23)",12.33062333123418
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Luis Chacón (23, Racing Ferrol, Primera División RFEF 22-23)",52.60788824651226
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Álex Arias (33, CD Calahorra, Primera División RFEF 22-23)",4.011957727513446
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Asier Osambela (18, Osasuna B, Primera División RFEF 22-23)",-4.126049177915949
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Ander Martín (22, Real Sociedad B, Primera División RFEF 22-23)",0.3152096049117869
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Bicho (27, San Fernando, Primera División RFEF 22-23)",20.377104922694752
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Dani Lorenzo (20, Mérida AD, Primera División RFEF 22-23)",36.95932808060518
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Borja Calvo (21, La Nucía, Primera División RFEF 22-23)",69.09434328309116
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Alain Ribeiro (25, SD Logroñés, Primera División RFEF 22-23)",15.180611200151924
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Borja Díaz (32, Unionistas de Salamanca, Primera División RFEF 22-23)",15.32374011979338
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Juan Serrano (23, Algeciras, Primera División RFEF 22-23)",-9.896454917686851
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Bashar Rasan (26, Qatar SC, Qatari Stars League 22-23)",29.695980366970904
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Nam Tae-Hee (31, Al Duhail, Qatari Stars League 22-23)",34.841535524928574
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Boulaya (30, Al Gharafa, Qatari Stars League 22-23)",27.493189458425118
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","João Carlos Teixeira (30, Umm Salal, Qatari Stars League 22-23)",30.399231165709374
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Sassi (31, Al Duhail, Qatari Stars League 22-23)",7.953832936677278
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Akram Afif (26, Al Sadd, Qatari Stars League 22-23)",30.325416999665507
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Khaled Mohammed (22, Al Duhail, Qatari Stars League 22-23)",44.68551775277496
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Magid Mohamed (37, Al Shamal, Qatari Stars League 22-23)",47.60449431109409
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Rodrigo Barbosa Tabata (42, Al Sadd, Qatari Stars League 22-23)",41.13729431532738
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Roman (29, CSMS Iaşi, Romanian Liga II 22-23)",6.9953970344168965
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","G. Dodoi (24, Viitorul P. Targu Jiu, Romanian Liga II 22-23)",30.17225881119468
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Jebari (28, Csikszereda Miercurea Ciuc, Romanian Liga II 22-23)",38.29869171884176
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Mogoș (20, CSMS Iaşi, Romanian Liga II 22-23)",6.010642094624471
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Dudu (24, AS FC Buzău, Romanian Liga II 22-23)",18.02000353085591
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Kertanov (27, Veles, Russian FNL 2 22-23)",41.64346181307245
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Lomakin (28, Yenisey, Russian FNL 2 22-23)",19.10968397802527
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Abdokov (22, Kuban Krasnodar, Russian FNL 2 22-23)",52.52920116706181
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Palienko (28, Akron Togliatti, Russian FNL 2 22-23)",29.920824477492346
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Laykin (20, Neftekhimik, Russian FNL 2 22-23)",7.261690838913484
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Dvoretskov (26, Neftekhimik, Russian FNL 2 22-23)",5.008258094247867
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Kirsanov (28, Volga Ulyanovsk, Russian FNL 2 22-23)",5.547838848427452
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","I. Shkolik (22, Neftekhimik, Russian FNL 2 22-23)",39.26932332957803
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Akbashev (31, Fakel, Russian Premier League 22-23)",4.741777410693605
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","An. Miranchuk (27, Lokomotiv Moskva, Russian Premier League 22-23)",19.57755367288246
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","I. Oleynikov (24, Akhmat Grozny, Russian Premier League 22-23)",17.433573880033997
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Ignatov (23, Spartak Moskva, Russian Premier League 22-23)",11.38093933383896
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Troshechkin (27, Akhmat Grozny, Russian Premier League 22-23)",1.450266701817164
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Iljin (31, Akhmat Grozny, Russian Premier League 22-23)",44.51842736004743
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Vloet (28, Ural, Russian Premier League 22-23)",27.94948853343524
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Y. Reyna (29, Torpedo Moskva, Russian Premier League 22-23)",55.9866727266287
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Kaká (30, Al Akhdoud, Saudi First Division 22-23)",9.283720313621096
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Amissi (33, Al Qadisiyah, Saudi First Division 22-23)",-1.8571808805560075
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Muralha (30, Al Riyadh, Saudi First Division 22-23)",-0.7817245951817282
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Isael (35, Al Jabalain, Saudi First Division 22-23)",-8.188876822293954
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Tiago Real (34, Hajer, Saudi First Division 22-23)",5.946764240181592
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Biteghé (26, Al Sahel, Saudi First Division 22-23)",-13.096259508019251
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Saeed Al Zahrani (30, Al Ain, Saudi First Division 22-23)",29.667098097976165
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Boudebouz (33, Al Ahli, Saudi First Division 22-23)",4.229701537297406
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","W. Al-Salama (28, Al Qaisoma, Saudi First Division 22-23)",46.67333752187549
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Vásquez (30, Al Faisaly, Saudi First Division 22-23)",20.378893879575585
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Y. El Jebli (30, Ohod, Saudi First Division 22-23)",1.4842174958395464
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Al Telihi (0, Al Kholood, Saudi First Division 22-23)",10.031890567493027
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Youssef Obama (28, Al Hazem, Saudi First Division 22-23)",36.4084726882882
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Abdul Al Dhuwayhi (23, Jeddah, Saudi First Division 22-23)",-3.487360788579028
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Bander Al Qahtani (0, Al Shoalah, Saudi First Division 22-23)",32.915000351558795
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Abdulhadi Al-Harajin (28, Al Hazem, Saudi First Division 22-23)",56.30686577981335
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Wesam Waheab (31, Al Arabi, Saudi First Division 22-23)",58.51601893345564
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Hakizimana (28, Al Kholood, Saudi First Division 22-23)",-22.39928921099233
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Musona (32, Al Ta'ee, Saudi Professional League 22-23)",12.92313872045422
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Igor Coronado (30, Al Ittihad, Saudi Professional League 22-23)",12.059610157289264
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Anselmo (34, Al Wahda, Saudi Professional League 22-23)",34.3370884544665
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Guanca (30, Al Shabab, Saudi Professional League 22-23)",29.86439099135751
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Fajr (34, Al Wahda, Saudi Professional League 22-23)",-1.702275909888208
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Romarinho (32, Al Ittihad, Saudi Professional League 22-23)",60.10756518251408
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Bguir (29, Abha, Saudi Professional League 22-23)",7.673559615839205
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Bendebka (30, Al Fateh, Saudi Professional League 22-23)",17.526467293875843
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Kaku (28, Al Taawon, Saudi Professional League 22-23)",-1.5702270350167455
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Ala''a Al Haji (27, Al Wahda, Saudi Professional League 22-23)",-1.4268765798181198
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Sami Al Najei (26, Al Nassr, Saudi Professional League 22-23)",13.023243935612484
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Cristian Tello (31, Al Fateh, Saudi Professional League 22-23)",31.496605139941614
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","H. Al Abdan (23, Al Khaleej, Saudi Professional League 22-23)",59.066778529818606
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Rakan Al Shamlan (24, Al Batin, Saudi Professional League 22-23)",16.211748865930907
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Roa (30, Al Batin, Saudi Professional League 22-23)",31.56914356057768
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Crawford (28, Greenock Morton, Scottish Championship 22-23)",-2.596929831490582
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. McKenna (32, Arbroath, Scottish Championship 22-23)",-10.712951654195368
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","G. Savoury (22, Queen's Park, Scottish Championship 22-23)",68.08974652847628
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Turner (25, Partick Thistle, Scottish Championship 22-23)",9.155104633424209
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Stanton (29, Raith Rovers, Scottish Championship 22-23)",40.9951409897046
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Shaw (22, Inverness CT, Scottish Championship 22-23)",26.42932013701637
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Doran (32, Inverness CT, Scottish Championship 22-23)",43.76682322499458
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Vaughan (27, Raith Rovers, Scottish Championship 22-23)",32.57822702911113
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. McKinnon (20, Partick Thistle, Scottish Championship 22-23)",0.9703215145035766
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Smith (21, Hamilton Academical, Scottish Championship 22-23)",8.700135225378341
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Mochrie (20, Dunfermline Athletic, Scottish League One 22-23)",58.88590027578572
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Cardle (36, Kelty Hearts, Scottish League One 22-23)",8.537994011129289
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Murray (26, Queen of the South, Scottish League One 22-23)",27.823811946502847
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Donnelly (27, Alloa Athletic, Scottish League One 22-23)",40.54054905365683
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Connelly (23, Queen of the South, Scottish League One 22-23)",-4.51803613341588
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Hodge (22, Stenhousemuir, Scottish League Two 22-23)",12.869344419126955
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","B. Spittal (27, Motherwell, Scottish Premiership 22-23)",-11.564560574392162
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Campbell (23, Hibernian, Scottish Premiership 22-23)",-5.452036190194795
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Pittman (30, Livingston, Scottish Premiership 22-23)",4.98092689262957
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Y. Dhanda (24, Ross County, Scottish Premiership 22-23)",-1.6848274148354483
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Kelly (23, Livingston, Scottish Premiership 22-23)",9.951757128012929
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Tillman (20, Rangers, Scottish Premiership 22-23)",32.0272392700143
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Shinnie (33, Livingston, Scottish Premiership 22-23)",-3.4198097197404325
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Callachan (29, Ross County, Scottish Premiership 22-23)",-25.24126646379686
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Grant (28, Hearts, Scottish Premiership 22-23)",11.42056851632259
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","E. Henderson (23, Hibernian, Scottish Premiership 22-23)",1.574810221587606
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Arfield (34, Rangers, Scottish Premiership 22-23)",50.31153562528869
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Besuijen (21, Aberdeen, Scottish Premiership 22-23)",38.225169093553
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)",15.190086564552638
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","B. Natcho (35, Partizan, Serbian SuperLiga 22-23)",-2.3970490658166344
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Đ. Ivanović (27, Čukarički, Serbian SuperLiga 22-23)",39.15595928459387
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)",55.91513548498328
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Mijić (33, Novi Pazar, Serbian SuperLiga 22-23)",12.698709529877076
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)",48.88623776751489
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Nešković (23, Voždovac, Serbian SuperLiga 22-23)",50.49644622430737
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)",-0.1727219674947011
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)",-0.8244179159301743
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","U. Nikolić (29, Vojvodina, Serbian SuperLiga 22-23)",17.563233426496573
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)",42.93921618667151
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","P. Đuričković (31, Novi Pazar, Serbian SuperLiga 22-23)",-8.518530049915729
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Đ. Gordić (18, Mladost Lučani, Serbian SuperLiga 22-23)",43.42528389760679
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)",-2.715370042004309
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Dimić (30, Radnički Niš, Serbian SuperLiga 22-23)",54.62781580815873
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Babić (32, Radnik Surdulica, Serbian SuperLiga 22-23)",-8.331403780762027
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",33.99322908529505
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Vlašić (25, Torino, Serie A 22-23)",59.83385821339806
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Pellegrini (26, Roma, Serie A 22-23)",7.39898110352801
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","G. Caprari (29, Monza, Serie A 22-23)",49.37085169017918
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Ferguson (23, Bologna, Serie A 22-23)",52.417367163162034
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Al. Miranchuk (27, Torino, Serie A 22-23)",36.18360010871121
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Brahim Diaz (23, Milan, Serie A 22-23)",50.26493547366039
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Barák (28, Fiorentina, Serie A 22-23)",68.65288329638001
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Bajrami (24, Sassuolo, Serie A 22-23)",58.3183890592451
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","T. Baldanzi (20, Empoli, Serie A 22-23)",80.57196395854285
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Pašalić (28, Atalanta, Serie A 22-23)",34.05988546067109
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Radonjić (27, Torino, Serie A 22-23)",50.95744542632388
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",53.62101854962229
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",10.203458597244609
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",22.039401888673577
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Colpani (24, Monza, Serie A 22-23)",39.14435791759853
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",55.85745218720507
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",6.341128131210468
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",21.77128905946296
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",53.421150463549104
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",-7.596930787152854
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",44.18927442180004
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",14.596313968795185
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",12.023408781301564
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",-6.221672931350794
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",34.356547034019904
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",3.8243683955204695
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",2.879807849772972
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Botta (33, Bari, Serie B 22-23)",31.284634124194955
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",48.935897661515135
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",1.9806086800126328
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Parigini (27, Como, Serie B 22-23)",10.744065476375145
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Álex Blanco (24, Como, Serie B 22-23)",47.07653112170178
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",-1.972218165083828
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",15.6844449384975
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Camara (21, Parma, Serie B 22-23)",40.05717041306174
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",11.686130114248646
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",24.60782216371659
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",30.986109377754985
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",-2.8630018915260558
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",1.0266926177208764
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",13.565653783831252
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",23.99908576657344
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",40.88721976655747
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",56.97237941442573
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",30.49923883026566
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",30.86575509970416
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",22.74155650987004
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",48.85185835773602
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",-9.898576958491482
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-6.328361836249054
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",31.78852220280698
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",17.983550128723245
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",23.6166973175463
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",37.330864429958936
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Belloni (28, Siena, Serie C 22-23)",-11.70336820975572
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Frediani (29, Siena, Serie C 22-23)",14.505469163799209
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Urso (28, Torres, Serie C 22-23)",-5.625711359755504
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",-19.859831809434763
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","G. Lisai (33, Torres, Serie C 22-23)",-14.014552491894635
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",12.934962605959615
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Attys (22, Trento, Serie C 22-23)",33.45724827655752
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",39.85435774089968
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",26.40198792607982
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",35.90263881526774
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",26.371645913587216
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",12.3703955794115
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",14.690184931556072
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",21.20122802447061
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",11.963364576435156
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",35.77842914028459
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",19.152918483833155
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",2.68391516913617
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",18.25469744909524
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",15.842640109515903
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",41.93916334150207
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",-5.999238511413992
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",10.698621857902792
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",7.613708748711093
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",18.16071048787561
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",34.57075372096101
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",18.62660577597346
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",26.333479042085223
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",12.159084181522848
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",22.825079751139864
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",47.64003187783139
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",-7.739551785432421
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",5.671545908775964
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",15.206854906772138
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",23.969277990456327
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",12.051240735177757
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",25.31637321256264
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",6.434736651539004
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",64.97280407098343
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",36.08335635502991
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",43.176540993528434
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",13.754107832065957
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",41.93606569168534
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",40.387138527813946
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",64.41166573392148
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",12.423885498212192
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",53.48995735636084
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",34.54864461951562
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",59.15654849344387
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","I. Jebali (31, OB, Superliga 22-23)",19.128346667153277
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",24.71750793511753
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",34.96518809524021
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",34.82614827638738
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",53.652285051700446
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",25.571933417792174
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",2.0449095081188724
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",23.32085721121061
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",47.74955440758842
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",37.144633253798425
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",50.95113006321661
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",25.946809043934536
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",13.103938432075513
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",3.6183166259113206
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",39.21248388423447
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",1.3521698604109789
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",23.971403290851256
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",7.148235611384162
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",25.988977595544497
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",29.38247365835144
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",9.020363317091723
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",32.908642190068264
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",10.37303905733531
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",16.4868545868244
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",59.27696880665327
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",19.48414056859486
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",33.10685259398342
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",29.751367047262328
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",43.15782611032466
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",64.84536047916362
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",15.804381376630294
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",16.345894416708134
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",24.055145113158147
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",25.35844484500925
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",33.16040583099987
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",44.44685291420182
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",25.948356783397585
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",44.03926892845866
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",-8.424914939837132
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",27.372362785386866
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",32.019620864507104
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",45.36780231130725
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",9.052938934265391
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",22.279511520464148
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",24.61876733417851
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",43.62065751699796
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",35.8838535735994
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",-4.11347639027697
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",1.489516912076004
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",-2.517925274621156
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",47.516110862626185
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",40.78926999462685
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",9.727310062126438
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-18.70468368015323
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",22.18143735518448
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",39.59367506313882
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",-10.049703514833473
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",21.240730957412985
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",31.63137181834384
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",28.54003615023396
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",-3.815317233608845
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",0.6406721400313283
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",26.886544146010323
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",-8.313125696757368
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",31.83567662897936
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",54.224285787908336
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",51.79324233184827
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",19.900505473533205
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",2.177331004418532
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",23.502598622290076
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",1.4840394343842067
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",25.14366897957396
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",22.96407682198369
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",12.340730627120577
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",10.18498570830029
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",51.81232320800581
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",38.53909708074681
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",35.5857372913202
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",57.40180264491917
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",10.324886022362744
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",31.142446851279452
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",13.073551496018792
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",-2.4701912391660814
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",33.65326544612082
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",32.25012432192832
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",16.524993985506054
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",39.24515472571562
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",22.572646635738355
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",62.45457578270143
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",-24.27569172795499
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",57.91050047642934
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",17.072509782903488
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",6.662532745350022
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",45.77708723151045
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",31.42970826417884
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",13.025366337600644
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",21.369253906310878
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",2.497341197306958
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",4.084754231928642
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",45.94165313468055
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",0.0108136631285123
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",4.667093123717707

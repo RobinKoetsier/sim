@@ -1,0 +1,505 @@
+Player 1,Player 2,Similarity
+"T. Almada (22, Atlanta United, MLS 2023)","S. Rodríguez (23, New York City, MLS 2023)",80.12721921626125
+"T. Almada (22, Atlanta United, MLS 2023)","L. Acosta (29, Cincinnati, MLS 2023)",87.96967006353795
+"T. Almada (22, Atlanta United, MLS 2023)","R. Gauld (27, Vancouver Whitecaps, MLS 2023)",80.1097537261022
+"T. Almada (22, Atlanta United, MLS 2023)","L. Zelarayán (30, Columbus Crew, MLS 2023)",87.50918643780317
+"T. Almada (22, Atlanta United, MLS 2023)","Carles Gil (30, New England, MLS 2023)",92.42823725633154
+"T. Almada (22, Atlanta United, MLS 2023)","A. Măţan (23, Columbus Crew, MLS 2023)",63.12209937992388
+"T. Almada (22, Atlanta United, MLS 2023)","F. Torres (23, Orlando City, MLS 2023)",75.94664174486023
+"T. Almada (22, Atlanta United, MLS 2023)","Evander (24, Portland Timbers, MLS 2023)",76.51104977816291
+"T. Almada (22, Atlanta United, MLS 2023)","B. Gutiérrez (19, Chicago Fire, MLS 2023)",68.34453348437242
+"T. Almada (22, Atlanta United, MLS 2023)","B. Duke (22, CF Montréal, MLS 2023)",54.5276017428405
+"T. Almada (22, Atlanta United, MLS 2023)","P. Vite (21, Vancouver Whitecaps, MLS 2023)",59.97181050812282
+"T. Almada (22, Atlanta United, MLS 2023)","F. Fragapane (30, Minnesota United, MLS 2023)",65.77630767730804
+"T. Almada (22, Atlanta United, MLS 2023)","S. Driussi (27, Austin FC, MLS 2023)",63.4964181965554
+"T. Almada (22, Atlanta United, MLS 2023)","N. Stefanelli (28, Inter Miami, MLS 2023)",63.490807676734384
+"T. Almada (22, Atlanta United, MLS 2023)","X. Shaqiri (31, Chicago Fire, MLS 2023)",81.40960090551292
+"T. Almada (22, Atlanta United, MLS 2023)","R. Gînsari (31, Milsami, Moldovan Super Liga 22-23)",48.53208549253697
+"T. Almada (22, Atlanta United, MLS 2023)","D. Danu (20, CSF Bălți, Moldovan Super Liga 22-23)",45.41364896110058
+"T. Almada (22, Atlanta United, MLS 2023)","C. Calaidjoglu (22, Sfîntul Gheorghe, Moldovan Super Liga 22-23)",53.135527483054
+"T. Almada (22, Atlanta United, MLS 2023)","V. Pavlović (29, Jezero, Montenegro First League 22-23)",-33.172811132810146
+"T. Almada (22, Atlanta United, MLS 2023)","D. Božović (34, Dečić, Montenegro First League 22-23)",78.07781844399668
+"T. Almada (22, Atlanta United, MLS 2023)","N. Eraković (23, Sutjeska, Montenegro First League 22-23)",81.99162438567569
+"T. Almada (22, Atlanta United, MLS 2023)","A. Adžović (29, Petrovac, Montenegro First League 22-23)",26.53860695790348
+"T. Almada (22, Atlanta United, MLS 2023)","Ž. Popović (23, Iskra, Montenegro First League 22-23)",35.468033054544286
+"T. Almada (22, Atlanta United, MLS 2023)","O. Hajrovic (27, Jedinstvo, Montenegro First League 22-23)",50.1590989301591
+"T. Almada (22, Atlanta United, MLS 2023)","A. Lucero (24, Budućnost, Montenegro First League 22-23)",87.74987802041706
+"T. Almada (22, Atlanta United, MLS 2023)","V. Janketić (26, Rudar, Montenegro First League 22-23)",26.84703240406045
+"T. Almada (22, Atlanta United, MLS 2023)","E. Vucaj (32, Dečić, Montenegro First League 22-23)",54.01298251075847
+"T. Almada (22, Atlanta United, MLS 2023)","B. Boričić (26, Petrovac, Montenegro First League 22-23)",20.32966299347967
+"T. Almada (22, Atlanta United, MLS 2023)","P. Pavlićević (23, Iskra, Montenegro First League 22-23)",1.830978640165108
+"T. Almada (22, Atlanta United, MLS 2023)","Demir Škrijelj (25, Mornar, Montenegro First League 22-23)",55.57642311715267
+"T. Almada (22, Atlanta United, MLS 2023)","N. Carević (19, Petrovac, Montenegro First League 22-23)",17.274268272641493
+"T. Almada (22, Atlanta United, MLS 2023)","M. Bakić (29, Budućnost, Montenegro First League 22-23)",62.860881523536975
+"T. Almada (22, Atlanta United, MLS 2023)","D. Beširović (29, Mezőkövesd-Zsóry, NB I 22-23)",63.78773735991373
+"T. Almada (22, Atlanta United, MLS 2023)","B. Dzsudzsák (36, Debrecen, NB I 22-23)",81.63786820039849
+"T. Almada (22, Atlanta United, MLS 2023)","P. Dárdai (24, Fehérvár, NB I 22-23)",48.81232885127821
+"T. Almada (22, Atlanta United, MLS 2023)","R. Makowski (26, Várda SE, NB I 22-23)",-1.6870304411541064
+"T. Almada (22, Atlanta United, MLS 2023)","M. Katona (23, Fehérvár, NB I 22-23)",36.41199824729877
+"T. Almada (22, Atlanta United, MLS 2023)","Marquinhos (23, Ferencváros, NB I 22-23)",74.51296328022435
+"T. Almada (22, Atlanta United, MLS 2023)","D. Zsótér (27, Honvéd, NB I 22-23)",69.90789527370566
+"T. Almada (22, Atlanta United, MLS 2023)","A. Băluță (29, Puskás FC, NB I 22-23)",79.81294908163254
+"T. Almada (22, Atlanta United, MLS 2023)","T. Nguen (29, Ferencváros, NB I 22-23)",81.71601801509955
+"T. Almada (22, Atlanta United, MLS 2023)","Z. Haraszti (31, Paksi SE, NB I 22-23)",51.49180770908982
+"T. Almada (22, Atlanta United, MLS 2023)","J. Levi (27, Puskás FC, NB I 22-23)",74.23521741619089
+"T. Almada (22, Atlanta United, MLS 2023)","L. Jakobi (21, Újpest, NB I 22-23)",60.45347656965531
+"T. Almada (22, Atlanta United, MLS 2023)","L. Houri (27, Fehérvár, NB I 22-23)",77.83878601500784
+"T. Almada (22, Atlanta United, MLS 2023)","I. Bognár (32, MTK, NB II 22-23)",89.18704405570938
+"T. Almada (22, Atlanta United, MLS 2023)","A.  Lőrinczy (29, Diósgyőr, NB II 22-23)",80.52469418379759
+"T. Almada (22, Atlanta United, MLS 2023)","B. Rácz (27, Szombathelyi Haladás, NB II 22-23)",79.35523712375407
+"T. Almada (22, Atlanta United, MLS 2023)","Z. Daróczi (23, Szentlőrinc SE, NB II 22-23)",83.78974446732242
+"T. Almada (22, Atlanta United, MLS 2023)","V. Gazdag (19, Csákvári TK, NB II 22-23)",48.555305556241954
+"T. Almada (22, Atlanta United, MLS 2023)","M. Vitális (21, Győri ETO, NB II 22-23)",62.09952054263772
+"T. Almada (22, Atlanta United, MLS 2023)","V. Sejben (26, Ajka, NB II 22-23)",27.9473714705924
+"T. Almada (22, Atlanta United, MLS 2023)","D. Illés (29, Mosonmagyaróvári TE, NB II 22-23)",65.87132493807488
+"T. Almada (22, Atlanta United, MLS 2023)","N. Pantović (29, Nyíregyháza Spartacus, NB II 22-23)",83.53565011383468
+"T. Almada (22, Atlanta United, MLS 2023)","Márió Németh (28, Budafoki MTE, NB II 22-23)",69.35753080271563
+"T. Almada (22, Atlanta United, MLS 2023)","R. Zsolnai (28, Ajka, NB II 22-23)",45.05145196332556
+"T. Almada (22, Atlanta United, MLS 2023)","L. Szatmári (35, Szeged 2011, NB II 22-23)",62.57387717445981
+"T. Almada (22, Atlanta United, MLS 2023)","K. Berzsenyi (19, Ajka, NB II 22-23)",-11.20409992516002
+"T. Almada (22, Atlanta United, MLS 2023)","K. Köböl (21, Soroksár SC, NB II 22-23)",57.29773306131549
+"T. Almada (22, Atlanta United, MLS 2023)","B. Szabó (27, Kazincbarcika, NB II 22-23)",17.660869178025088
+"T. Almada (22, Atlanta United, MLS 2023)","D. Székely (27, Kazincbarcika, NB II 22-23)",-39.93231327066961
+"T. Almada (22, Atlanta United, MLS 2023)","P. Nyári (21, Siófok, NB II 22-23)",66.5370811272745
+"T. Almada (22, Atlanta United, MLS 2023)","B. Bozinovski (42, Makedonija GjP, North Macedonia First League 22-23)",29.22249789508921
+"T. Almada (22, Atlanta United, MLS 2023)","F. Álvarez (28, Shkupi, North Macedonia First League 22-23)",81.1936989901653
+"T. Almada (22, Atlanta United, MLS 2023)","L. Stankovski (20, Rabotnički, North Macedonia First League 22-23)",37.44576717543624
+"T. Almada (22, Atlanta United, MLS 2023)","M. Mircevski (26, Vardar, North Macedonia First League 22-23)",46.49244969048374
+"T. Almada (22, Atlanta United, MLS 2023)","D. Todorovski (20, Rabotnički, North Macedonia First League 22-23)",33.81731706456157
+"T. Almada (22, Atlanta United, MLS 2023)","F. Jusufi (27, Renova, North Macedonia First League 22-23)",57.78155838180792
+"T. Almada (22, Atlanta United, MLS 2023)","Fernando Silva (31, Borec, North Macedonia First League 22-23)",33.67226949610374
+"T. Almada (22, Atlanta United, MLS 2023)","E. Totre (26, Shkendija, North Macedonia First League 22-23)",62.57303650867093
+"T. Almada (22, Atlanta United, MLS 2023)","K. Stojkoski (31, Rabotnički, North Macedonia First League 22-23)",79.50173015931902
+"T. Almada (22, Atlanta United, MLS 2023)","L. Anderson (25, Carrick Rangers, Northern Ireland Premiership 22-23)",-24.29640363009292
+"T. Almada (22, Atlanta United, MLS 2023)","R. Hale (26, Cliftonville, Northern Ireland Premiership 22-23)",62.38565468575024
+"T. Almada (22, Atlanta United, MLS 2023)","L. Lynch (31, Coleraine, Northern Ireland Premiership 22-23)",74.41999672800382
+"T. Almada (22, Atlanta United, MLS 2023)","J. Winchester (30, Crusaders, Northern Ireland Premiership 22-23)",35.06627864884342
+"T. Almada (22, Atlanta United, MLS 2023)","S. McCartan (28, Glentoran, Northern Ireland Premiership 22-23)",74.61200187674642
+"T. Almada (22, Atlanta United, MLS 2023)","R. Mayse (29, Dungannon Swifts, Northern Ireland Premiership 22-23)",41.40920557034467
+"T. Almada (22, Atlanta United, MLS 2023)","J. O'Mahony (23, Coleraine, Northern Ireland Premiership 22-23)",-29.004123336947664
+"T. Almada (22, Atlanta United, MLS 2023)","C. Palmer (22, Linfield, Northern Ireland Premiership 22-23)",7.120811354899495
+"T. Almada (22, Atlanta United, MLS 2023)","A. Clarke (20, Linfield, Northern Ireland Premiership 22-23)",47.96089200572057
+"T. Almada (22, Atlanta United, MLS 2023)","M. O'Connor (35, Glenavon, Northern Ireland Premiership 22-23)",24.95597730626424
+"T. Almada (22, Atlanta United, MLS 2023)","N. Alexandersson (21, Moss, OBOS Ligaen 2023)",75.50545922374502
+"T. Almada (22, Atlanta United, MLS 2023)","A. Ali (23, Moss, OBOS Ligaen 2023)",34.29120631874768
+"T. Almada (22, Atlanta United, MLS 2023)","J. González (31, Herrera, Panama LPF 2023)",73.9979978301616
+"T. Almada (22, Atlanta United, MLS 2023)","V. Pimentel (32, Sporting San Miguelito, Panama LPF 2023)",9.3395877651016
+"T. Almada (22, Atlanta United, MLS 2023)","V. Ávila (24, Independiente, Panama LPF 2023)",75.05990824912999
+"T. Almada (22, Atlanta United, MLS 2023)","J. Vélez (28, César Vallejo, Peruvian Liga 1 2023)",83.95584265419762
+"T. Almada (22, Atlanta United, MLS 2023)","Ó. Barreto (30, Unión Comercio, Peruvian Liga 1 2023)",78.72957172002397
+"T. Almada (22, Atlanta United, MLS 2023)","M. Lliuya (31, Sport Huancayo, Peruvian Liga 1 2023)",64.78863290059795
+"T. Almada (22, Atlanta United, MLS 2023)","K. Sandoval (26, Cienciano, Peruvian Liga 1 2023)",77.87384103985704
+"T. Almada (22, Atlanta United, MLS 2023)","J. Rojas (33, Deportivo Garcilaso, Peruvian Liga 1 2023)",78.97466892751157
+"T. Almada (22, Atlanta United, MLS 2023)","R. Torres (31, Alianza Atlético, Peruvian Liga 1 2023)",78.7935666493935
+"T. Almada (22, Atlanta United, MLS 2023)","C. Neira (22, Unión Comercio, Peruvian Liga 1 2023)",90.9461767738159
+"T. Almada (22, Atlanta United, MLS 2023)","W. Mimbela (31, ADT, Peruvian Liga 1 2023)",61.03457075045162
+"T. Almada (22, Atlanta United, MLS 2023)","A. Ayarza (30, Cusco, Peruvian Liga 1 2023)",-21.71593676030667
+"T. Almada (22, Atlanta United, MLS 2023)","J. Sánchez (33, UTC Cajamarca, Peruvian Liga 1 2023)",66.8560420018443
+"T. Almada (22, Atlanta United, MLS 2023)","D. Ramírez (28, Academia Cantolao, Peruvian Liga 1 2023)",46.9316826556208
+"T. Almada (22, Atlanta United, MLS 2023)","Luis Fernández (29, Wisła Kraków, Polish I Liga 22-23)",67.33765496449958
+"T. Almada (22, Atlanta United, MLS 2023)","Joan Román (30, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",86.97579207254566
+"T. Almada (22, Atlanta United, MLS 2023)","S. Steblecki (31, Chrobry Głogów, Polish I Liga 22-23)",65.68887140024553
+"T. Almada (22, Atlanta United, MLS 2023)","E. Thiakane (31, Puszcza Niepołomice, Polish I Liga 22-23)",-3.913358464240792
+"T. Almada (22, Atlanta United, MLS 2023)","A. Błąd (32, Katowice, Polish I Liga 22-23)",57.9833050490979
+"T. Almada (22, Atlanta United, MLS 2023)","H. Adamczyk (25, Arka Gdynia, Polish I Liga 22-23)",71.71631144031451
+"T. Almada (22, Atlanta United, MLS 2023)","D. Olejarka (21, Stal Rzeszów, Polish I Liga 22-23)",53.286726633341445
+"T. Almada (22, Atlanta United, MLS 2023)","P. Nocoń (32, SKRA Częstochowa, Polish I Liga 22-23)",18.222917807027127
+"T. Almada (22, Atlanta United, MLS 2023)","M. Marzec (28, Katowice, Polish I Liga 22-23)",58.0375979825687
+"T. Almada (22, Atlanta United, MLS 2023)","M. Sitek (22, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",46.079282946067565
+"T. Almada (22, Atlanta United, MLS 2023)","M. Janota (32, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",68.68726046550371
+"T. Almada (22, Atlanta United, MLS 2023)","H. Tomalski (29, Puszcza Niepołomice, Polish I Liga 22-23)",40.96605987575197
+"T. Almada (22, Atlanta United, MLS 2023)","Ł. Janoszka (36, Ruch Chorzów, Polish I Liga 22-23)",54.465792799299805
+"T. Almada (22, Atlanta United, MLS 2023)","W. Szumilas (26, Zagłębie Sosnowiec, Polish I Liga 22-23)",36.34543206324936
+"T. Almada (22, Atlanta United, MLS 2023)","S. Pawłowski (36, Zagłębie Sosnowiec, Polish I Liga 22-23)",69.85472534036768
+"T. Almada (22, Atlanta United, MLS 2023)","D. Hilbrycht (25, Nieciecza, Polish I Liga 22-23)",15.449425707130088
+"T. Almada (22, Atlanta United, MLS 2023)","K. Drzazga (27, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",86.52717339637881
+"T. Almada (22, Atlanta United, MLS 2023)","T. Foszmańczyk (37, Ruch Chorzów, Polish I Liga 22-23)",29.360159920975036
+"T. Almada (22, Atlanta United, MLS 2023)","K. Toporkiewicz (21, Sandecja Nowy Sącz, Polish I Liga 22-23)",18.662506943249927
+"T. Almada (22, Atlanta United, MLS 2023)","M. Machaj (33, Chrobry Głogów, Polish I Liga 22-23)",54.01682578172458
+"T. Almada (22, Atlanta United, MLS 2023)","D. Potoma (23, Sandecja Nowy Sącz, Polish I Liga 22-23)",-16.53058484781327
+"T. Almada (22, Atlanta United, MLS 2023)","A. Trubeha (25, Nieciecza, Polish I Liga 22-23)",18.81227961808379
+"T. Almada (22, Atlanta United, MLS 2023)","P. Pyrdoł (24, SKRA Częstochowa, Polish I Liga 22-23)",5.967438704171982
+"T. Almada (22, Atlanta United, MLS 2023)","D. Kościelniak (28, Katowice, Polish I Liga 22-23)",43.702577321174296
+"T. Almada (22, Atlanta United, MLS 2023)","R. Gołębiowski (21, SKRA Częstochowa, Polish I Liga 22-23)",31.50771417583317
+"T. Almada (22, Atlanta United, MLS 2023)","K. Zapolnik (30, Puszcza Niepołomice, Polish I Liga 22-23)",-3.102879264663942
+"T. Almada (22, Atlanta United, MLS 2023)","Vasco Sousa (20, Porto II, Portugal Segunda Liga 22-23)",13.55351599188043
+"T. Almada (22, Atlanta United, MLS 2023)","J. Toro (26, Academico Viseu, Portugal Segunda Liga 22-23)",14.17515263346632
+"T. Almada (22, Atlanta United, MLS 2023)","D. Duarte (35, UD Oliveirense, Portugal Segunda Liga 22-23)",50.21410879333047
+"T. Almada (22, Atlanta United, MLS 2023)","L.  Trabulo (28, Mafra, Portugal Segunda Liga 22-23)",7.846052954516603
+"T. Almada (22, Atlanta United, MLS 2023)","Alan (23, Moreirense, Portugal Segunda Liga 22-23)",61.54978893834176
+"T. Almada (22, Atlanta United, MLS 2023)","Zé Tiago (34, Sporting Covilhã, Portugal Segunda Liga 22-23)",17.38996153385693
+"T. Almada (22, Atlanta United, MLS 2023)","P. Santos (27, Moreirense, Portugal Segunda Liga 22-23)",69.47541819960139
+"T. Almada (22, Atlanta United, MLS 2023)","Feliz Vaz (34, Penafiel, Portugal Segunda Liga 22-23)",65.06008855439921
+"T. Almada (22, Atlanta United, MLS 2023)","Adriano Castanheira (30, Penafiel, Portugal Segunda Liga 22-23)",57.098375924627376
+"T. Almada (22, Atlanta United, MLS 2023)","S. Koné (22, Porto II, Portugal Segunda Liga 22-23)",25.61427744419659
+"T. Almada (22, Atlanta United, MLS 2023)","Bruno Fernandes (28, Manchester United, Premier League 22-23)",88.3245083499547
+"T. Almada (22, Atlanta United, MLS 2023)","M. Mount (24, Chelsea, Premier League 22-23)",77.53717538055105
+"T. Almada (22, Atlanta United, MLS 2023)","J. Maddison (26, Leicester City, Premier League 22-23)",87.8751789228495
+"T. Almada (22, Atlanta United, MLS 2023)","Matheus Nunes (24, Wolverhampton Wanderers, Premier League 22-23)",31.093638223989277
+"T. Almada (22, Atlanta United, MLS 2023)","Lucas Paquetà (25, West Ham United, Premier League 22-23)",64.95478750290752
+"T. Almada (22, Atlanta United, MLS 2023)","C. Gallagher (23, Chelsea, Premier League 22-23)",20.36142764388601
+"T. Almada (22, Atlanta United, MLS 2023)","B. Aaronson (22, Leeds United, Premier League 22-23)",45.53700903117204
+"T. Almada (22, Atlanta United, MLS 2023)","M. Gibbs-White (23, Nottingham Forest, Premier League 22-23)",77.37886429709515
+"T. Almada (22, Atlanta United, MLS 2023)","E. Eze (24, Crystal Palace, Premier League 22-23)",74.23934088282348
+"T. Almada (22, Atlanta United, MLS 2023)","K. Dewsbury-Hall (24, Leicester City, Premier League 22-23)",57.91574667616752
+"T. Almada (22, Atlanta United, MLS 2023)","P. Billing (26, Bournemouth, Premier League 22-23)",-13.731511248011088
+"T. Almada (22, Atlanta United, MLS 2023)","Andreas Pereira (27, Fulham, Premier League 22-23)",50.33033024122301
+"T. Almada (22, Atlanta United, MLS 2023)","C. Alcaraz (20, Southampton, Premier League 22-23)",-11.044306368152505
+"T. Almada (22, Atlanta United, MLS 2023)","J. Lingard (30, Nottingham Forest, Premier League 22-23)",13.814523437257469
+"T. Almada (22, Atlanta United, MLS 2023)","João Moutinho (36, Wolverhampton Wanderers, Premier League 22-23)",49.7983169524886
+"T. Almada (22, Atlanta United, MLS 2023)","T. Cairney (32, Fulham, Premier League 22-23)",73.81810276182858
+"T. Almada (22, Atlanta United, MLS 2023)","F. Nabiyev (23, Kapaz, Premyer Liqa 22-23)",70.18842062665365
+"T. Almada (22, Atlanta United, MLS 2023)","Leandro Andrade (23, Qarabag, Premyer Liqa 22-23)",80.80217066393865
+"T. Almada (22, Atlanta United, MLS 2023)","A. Guseynov (23, Turan-T, Premyer Liqa 22-23)",60.57487832153963
+"T. Almada (22, Atlanta United, MLS 2023)","M. Hamdaoui (29, Zira, Premyer Liqa 22-23)",70.19695173626575
+"T. Almada (22, Atlanta United, MLS 2023)","A. Nuriev (27, Sabah, Premyer Liqa 22-23)",74.62323647632809
+"T. Almada (22, Atlanta United, MLS 2023)","E. Safarov (20, Qabala, Premyer Liqa 22-23)",1.351695426697438
+"T. Almada (22, Atlanta United, MLS 2023)","K. Aliev (24, Sumqayıt, Premyer Liqa 22-23)",61.463100483798
+"T. Almada (22, Atlanta United, MLS 2023)","M. Ljujić (29, Sabail, Premyer Liqa 22-23)",74.20861673576886
+"T. Almada (22, Atlanta United, MLS 2023)","N. Alasgarov (28, Sabah, Premyer Liqa 22-23)",39.97347461818077
+"T. Almada (22, Atlanta United, MLS 2023)","Kady (27, Qarabag, Premyer Liqa 22-23)",89.72488208494718
+"T. Almada (22, Atlanta United, MLS 2023)","Samu (27, Vizela, Primeira Liga 22-23)",54.83906010713593
+"T. Almada (22, Atlanta United, MLS 2023)","K. Fujimoto (23, Gil Vicente, Primeira Liga 22-23)",53.01602634032889
+"T. Almada (22, Atlanta United, MLS 2023)","A. Ruiz (29, Arouca, Primeira Liga 22-23)",60.06709763893482
+"T. Almada (22, Atlanta United, MLS 2023)","Ivo Rodrigues (28, Famalicão, Primeira Liga 22-23)",76.35310967798898
+"T. Almada (22, Atlanta United, MLS 2023)","João Mendes (28, Chaves, Primeira Liga 22-23)",73.18601350909202
+"T. Almada (22, Atlanta United, MLS 2023)","Rafa Silva (30, Benfica, Primeira Liga 22-23)",68.88232163026545
+"T. Almada (22, Atlanta United, MLS 2023)","Brais Abelenda (27, Pontevedra, Primera División RFEF 22-23)",57.47092978799512
+"T. Almada (22, Atlanta United, MLS 2023)","Diego Esteban (23, SD Logroñés, Primera División RFEF 22-23)",57.960670784833326
+"T. Almada (22, Atlanta United, MLS 2023)","Iker Kortajarena (22, Real Sociedad B, Primera División RFEF 22-23)",28.02916544407345
+"T. Almada (22, Atlanta United, MLS 2023)","Agüero (27, Alcoyano, Primera División RFEF 22-23)",48.869595536310136
+"T. Almada (22, Atlanta United, MLS 2023)","Álex López (35, Racing Ferrol, Primera División RFEF 22-23)",57.91317596756335
+"T. Almada (22, Atlanta United, MLS 2023)","Álvaro Romero (26, Algeciras, Primera División RFEF 22-23)",54.6547703870574
+"T. Almada (22, Atlanta United, MLS 2023)","Sergio Moyita (30, Alcoyano, Primera División RFEF 22-23)",85.84484821684491
+"T. Almada (22, Atlanta United, MLS 2023)","Alberto Solís (25, Cultural Leonesa, Primera División RFEF 22-23)",61.0416285918027
+"T. Almada (22, Atlanta United, MLS 2023)","Yelko Pino (26, Pontevedra, Primera División RFEF 22-23)",66.00724324052314
+"T. Almada (22, Atlanta United, MLS 2023)","Emilio Lozano (27, SD Logroñés, Primera División RFEF 22-23)",-10.283161187970457
+"T. Almada (22, Atlanta United, MLS 2023)","Jesús Carrillo (24, Numancia, Primera División RFEF 22-23)",73.77696283616973
+"T. Almada (22, Atlanta United, MLS 2023)","Adri Cuevas (33, Ceuta, Primera División RFEF 22-23)",49.2954064059258
+"T. Almada (22, Atlanta United, MLS 2023)","Arnau Ortiz (21, Real Murcia, Primera División RFEF 22-23)",49.68124323594862
+"T. Almada (22, Atlanta United, MLS 2023)","Juan Carlos Menudo (31, UD Logroñés, Primera División RFEF 22-23)",65.3168366038539
+"T. Almada (22, Atlanta United, MLS 2023)","Raúl Blanco (21, Celta de Vigo B, Primera División RFEF 22-23)",48.57355531055115
+"T. Almada (22, Atlanta United, MLS 2023)","Jorge García (30, La Nucía, Primera División RFEF 22-23)",71.78197037674657
+"T. Almada (22, Atlanta United, MLS 2023)","Luis Chacón (23, Racing Ferrol, Primera División RFEF 22-23)",67.92076854193876
+"T. Almada (22, Atlanta United, MLS 2023)","Álex Arias (33, CD Calahorra, Primera División RFEF 22-23)",75.81629098780581
+"T. Almada (22, Atlanta United, MLS 2023)","Asier Osambela (18, Osasuna B, Primera División RFEF 22-23)",-19.229724526280062
+"T. Almada (22, Atlanta United, MLS 2023)","Ander Martín (22, Real Sociedad B, Primera División RFEF 22-23)",82.60128145010907
+"T. Almada (22, Atlanta United, MLS 2023)","Bicho (27, San Fernando, Primera División RFEF 22-23)",59.78121128616386
+"T. Almada (22, Atlanta United, MLS 2023)","Dani Lorenzo (20, Mérida AD, Primera División RFEF 22-23)",36.058020349832695
+"T. Almada (22, Atlanta United, MLS 2023)","Borja Calvo (21, La Nucía, Primera División RFEF 22-23)",37.11670114096069
+"T. Almada (22, Atlanta United, MLS 2023)","Alain Ribeiro (25, SD Logroñés, Primera División RFEF 22-23)",-18.72859435523313
+"T. Almada (22, Atlanta United, MLS 2023)","Borja Díaz (32, Unionistas de Salamanca, Primera División RFEF 22-23)",-7.497011566168989
+"T. Almada (22, Atlanta United, MLS 2023)","Juan Serrano (23, Algeciras, Primera División RFEF 22-23)",-19.53963072439848
+"T. Almada (22, Atlanta United, MLS 2023)","Bashar Rasan (26, Qatar SC, Qatari Stars League 22-23)",75.34405261804507
+"T. Almada (22, Atlanta United, MLS 2023)","Nam Tae-Hee (31, Al Duhail, Qatari Stars League 22-23)",81.99918897472035
+"T. Almada (22, Atlanta United, MLS 2023)","F. Boulaya (30, Al Gharafa, Qatari Stars League 22-23)",86.47339837844231
+"T. Almada (22, Atlanta United, MLS 2023)","João Carlos Teixeira (30, Umm Salal, Qatari Stars League 22-23)",80.20752867537527
+"T. Almada (22, Atlanta United, MLS 2023)","F. Sassi (31, Al Duhail, Qatari Stars League 22-23)",74.80545936708263
+"T. Almada (22, Atlanta United, MLS 2023)","Akram Afif (26, Al Sadd, Qatari Stars League 22-23)",87.92496500293868
+"T. Almada (22, Atlanta United, MLS 2023)","Khaled Mohammed (22, Al Duhail, Qatari Stars League 22-23)",56.92494146991558
+"T. Almada (22, Atlanta United, MLS 2023)","Magid Mohamed (37, Al Shamal, Qatari Stars League 22-23)",9.839290973373052
+"T. Almada (22, Atlanta United, MLS 2023)","Rodrigo Barbosa Tabata (42, Al Sadd, Qatari Stars League 22-23)",62.37224219246025
+"T. Almada (22, Atlanta United, MLS 2023)","A. Roman (29, CSMS Iaşi, Romanian Liga II 22-23)",78.95052756341622
+"T. Almada (22, Atlanta United, MLS 2023)","G. Dodoi (24, Viitorul P. Targu Jiu, Romanian Liga II 22-23)",26.619204444303666
+"T. Almada (22, Atlanta United, MLS 2023)","S. Jebari (28, Csikszereda Miercurea Ciuc, Romanian Liga II 22-23)",80.90257269619106
+"T. Almada (22, Atlanta United, MLS 2023)","A. Mogoș (20, CSMS Iaşi, Romanian Liga II 22-23)",1.657978209181274
+"T. Almada (22, Atlanta United, MLS 2023)","Dudu (24, AS FC Buzău, Romanian Liga II 22-23)",68.2577322706972
+"T. Almada (22, Atlanta United, MLS 2023)","K. Kertanov (27, Veles, Russian FNL 2 22-23)",61.53310812115035
+"T. Almada (22, Atlanta United, MLS 2023)","A. Lomakin (28, Yenisey, Russian FNL 2 22-23)",65.65177884004389
+"T. Almada (22, Atlanta United, MLS 2023)","N. Abdokov (22, Kuban Krasnodar, Russian FNL 2 22-23)",33.34585185763561
+"T. Almada (22, Atlanta United, MLS 2023)","M. Palienko (28, Akron Togliatti, Russian FNL 2 22-23)",62.10771233664042
+"T. Almada (22, Atlanta United, MLS 2023)","M. Laykin (20, Neftekhimik, Russian FNL 2 22-23)",12.972126232048034
+"T. Almada (22, Atlanta United, MLS 2023)","F. Dvoretskov (26, Neftekhimik, Russian FNL 2 22-23)",52.94687450594696
+"T. Almada (22, Atlanta United, MLS 2023)","N. Kirsanov (28, Volga Ulyanovsk, Russian FNL 2 22-23)",-28.53636236356492
+"T. Almada (22, Atlanta United, MLS 2023)","I. Shkolik (22, Neftekhimik, Russian FNL 2 22-23)",38.077750726572845
+"T. Almada (22, Atlanta United, MLS 2023)","R. Akbashev (31, Fakel, Russian Premier League 22-23)",38.03651859051113
+"T. Almada (22, Atlanta United, MLS 2023)","An. Miranchuk (27, Lokomotiv Moskva, Russian Premier League 22-23)",93.55489307176612
+"T. Almada (22, Atlanta United, MLS 2023)","I. Oleynikov (24, Akhmat Grozny, Russian Premier League 22-23)",52.46117528027436
+"T. Almada (22, Atlanta United, MLS 2023)","M. Ignatov (23, Spartak Moskva, Russian Premier League 22-23)",43.33256826032088
+"T. Almada (22, Atlanta United, MLS 2023)","A. Troshechkin (27, Akhmat Grozny, Russian Premier League 22-23)",5.682173773758796
+"T. Almada (22, Atlanta United, MLS 2023)","V. Iljin (31, Akhmat Grozny, Russian Premier League 22-23)",1.0439730178379647
+"T. Almada (22, Atlanta United, MLS 2023)","R. Vloet (28, Ural, Russian Premier League 22-23)",28.04793477928506
+"T. Almada (22, Atlanta United, MLS 2023)","Y. Reyna (29, Torpedo Moskva, Russian Premier League 22-23)",64.97597978647957
+"T. Almada (22, Atlanta United, MLS 2023)","Kaká (30, Al Akhdoud, Saudi First Division 22-23)",86.53966586233291
+"T. Almada (22, Atlanta United, MLS 2023)","C. Amissi (33, Al Qadisiyah, Saudi First Division 22-23)",70.72382695337619
+"T. Almada (22, Atlanta United, MLS 2023)","Muralha (30, Al Riyadh, Saudi First Division 22-23)",82.34923494009361
+"T. Almada (22, Atlanta United, MLS 2023)","Isael (35, Al Jabalain, Saudi First Division 22-23)",64.68875378068081
+"T. Almada (22, Atlanta United, MLS 2023)","Tiago Real (34, Hajer, Saudi First Division 22-23)",69.72174434812858
+"T. Almada (22, Atlanta United, MLS 2023)","M. Biteghé (26, Al Sahel, Saudi First Division 22-23)",57.18227572586058
+"T. Almada (22, Atlanta United, MLS 2023)","Saeed Al Zahrani (30, Al Ain, Saudi First Division 22-23)",45.563990629240685
+"T. Almada (22, Atlanta United, MLS 2023)","R. Boudebouz (33, Al Ahli, Saudi First Division 22-23)",86.60487119962546
+"T. Almada (22, Atlanta United, MLS 2023)","W. Al-Salama (28, Al Qaisoma, Saudi First Division 22-23)",54.84956828643518
+"T. Almada (22, Atlanta United, MLS 2023)","M. Vásquez (30, Al Faisaly, Saudi First Division 22-23)",84.34425696650808
+"T. Almada (22, Atlanta United, MLS 2023)","Y. El Jebli (30, Ohod, Saudi First Division 22-23)",69.14249453122895
+"T. Almada (22, Atlanta United, MLS 2023)","M. Al Telihi (0, Al Kholood, Saudi First Division 22-23)",36.677086087055976
+"T. Almada (22, Atlanta United, MLS 2023)","Youssef Obama (28, Al Hazem, Saudi First Division 22-23)",30.942603442831096
+"T. Almada (22, Atlanta United, MLS 2023)","Abdul Al Dhuwayhi (23, Jeddah, Saudi First Division 22-23)",0.435846897277661
+"T. Almada (22, Atlanta United, MLS 2023)","Bander Al Qahtani (0, Al Shoalah, Saudi First Division 22-23)",59.39366593853038
+"T. Almada (22, Atlanta United, MLS 2023)","Abdulhadi Al-Harajin (28, Al Hazem, Saudi First Division 22-23)",37.233208738397096
+"T. Almada (22, Atlanta United, MLS 2023)","Wesam Waheab (31, Al Arabi, Saudi First Division 22-23)",46.49642393251445
+"T. Almada (22, Atlanta United, MLS 2023)","M. Hakizimana (28, Al Kholood, Saudi First Division 22-23)",-33.027185405001
+"T. Almada (22, Atlanta United, MLS 2023)","K. Musona (32, Al Ta'ee, Saudi Professional League 22-23)",82.50879820504498
+"T. Almada (22, Atlanta United, MLS 2023)","Igor Coronado (30, Al Ittihad, Saudi Professional League 22-23)",92.05477359781013
+"T. Almada (22, Atlanta United, MLS 2023)","Anselmo (34, Al Wahda, Saudi Professional League 22-23)",53.43810082096774
+"T. Almada (22, Atlanta United, MLS 2023)","C. Guanca (30, Al Shabab, Saudi Professional League 22-23)",77.67533979521058
+"T. Almada (22, Atlanta United, MLS 2023)","F. Fajr (34, Al Wahda, Saudi Professional League 22-23)",64.31928414395321
+"T. Almada (22, Atlanta United, MLS 2023)","Romarinho (32, Al Ittihad, Saudi Professional League 22-23)",49.38869674772507
+"T. Almada (22, Atlanta United, MLS 2023)","S. Bguir (29, Abha, Saudi Professional League 22-23)",63.8640475419496
+"T. Almada (22, Atlanta United, MLS 2023)","S. Bendebka (30, Al Fateh, Saudi Professional League 22-23)",54.70180651014793
+"T. Almada (22, Atlanta United, MLS 2023)","Kaku (28, Al Taawon, Saudi Professional League 22-23)",83.88631518505532
+"T. Almada (22, Atlanta United, MLS 2023)","Ala''a Al Haji (27, Al Wahda, Saudi Professional League 22-23)",-0.8071737898473923
+"T. Almada (22, Atlanta United, MLS 2023)","Sami Al Najei (26, Al Nassr, Saudi Professional League 22-23)",55.77367093993109
+"T. Almada (22, Atlanta United, MLS 2023)","Cristian Tello (31, Al Fateh, Saudi Professional League 22-23)",78.71973770375543
+"T. Almada (22, Atlanta United, MLS 2023)","H. Al Abdan (23, Al Khaleej, Saudi Professional League 22-23)",42.98820483796778
+"T. Almada (22, Atlanta United, MLS 2023)","Rakan Al Shamlan (24, Al Batin, Saudi Professional League 22-23)",77.45041173232983
+"T. Almada (22, Atlanta United, MLS 2023)","A. Roa (30, Al Batin, Saudi Professional League 22-23)",81.37665800412714
+"T. Almada (22, Atlanta United, MLS 2023)","R. Crawford (28, Greenock Morton, Scottish Championship 22-23)",-4.666973875777705
+"T. Almada (22, Atlanta United, MLS 2023)","M. McKenna (32, Arbroath, Scottish Championship 22-23)",47.72885206004614
+"T. Almada (22, Atlanta United, MLS 2023)","G. Savoury (22, Queen's Park, Scottish Championship 22-23)",31.97357219952245
+"T. Almada (22, Atlanta United, MLS 2023)","K. Turner (25, Partick Thistle, Scottish Championship 22-23)",55.708136028615804
+"T. Almada (22, Atlanta United, MLS 2023)","S. Stanton (29, Raith Rovers, Scottish Championship 22-23)",43.18015613716852
+"T. Almada (22, Atlanta United, MLS 2023)","N. Shaw (22, Inverness CT, Scottish Championship 22-23)",63.21471094553204
+"T. Almada (22, Atlanta United, MLS 2023)","A. Doran (32, Inverness CT, Scottish Championship 22-23)",22.789156585950604
+"T. Almada (22, Atlanta United, MLS 2023)","L. Vaughan (27, Raith Rovers, Scottish Championship 22-23)",27.197007347019948
+"T. Almada (22, Atlanta United, MLS 2023)","C. McKinnon (20, Partick Thistle, Scottish Championship 22-23)",2.2133699915418155
+"T. Almada (22, Atlanta United, MLS 2023)","C. Smith (21, Hamilton Academical, Scottish Championship 22-23)",58.75122596588776
+"T. Almada (22, Atlanta United, MLS 2023)","C. Mochrie (20, Dunfermline Athletic, Scottish League One 22-23)",78.89305988970912
+"T. Almada (22, Atlanta United, MLS 2023)","J. Cardle (36, Kelty Hearts, Scottish League One 22-23)",56.6387997880514
+"T. Almada (22, Atlanta United, MLS 2023)","C. Murray (26, Queen of the South, Scottish League One 22-23)",67.56187586978335
+"T. Almada (22, Atlanta United, MLS 2023)","L. Donnelly (27, Alloa Athletic, Scottish League One 22-23)",18.94832657813739
+"T. Almada (22, Atlanta United, MLS 2023)","L. Connelly (23, Queen of the South, Scottish League One 22-23)",67.19536409045803
+"T. Almada (22, Atlanta United, MLS 2023)","J. Hodge (22, Stenhousemuir, Scottish League Two 22-23)",6.950412241694434
+"T. Almada (22, Atlanta United, MLS 2023)","B. Spittal (27, Motherwell, Scottish Premiership 22-23)",44.88129121764605
+"T. Almada (22, Atlanta United, MLS 2023)","J. Campbell (23, Hibernian, Scottish Premiership 22-23)",6.243626998919402
+"T. Almada (22, Atlanta United, MLS 2023)","S. Pittman (30, Livingston, Scottish Premiership 22-23)",-54.68861697413514
+"T. Almada (22, Atlanta United, MLS 2023)","Y. Dhanda (24, Ross County, Scottish Premiership 22-23)",60.00535240759313
+"T. Almada (22, Atlanta United, MLS 2023)","S. Kelly (23, Livingston, Scottish Premiership 22-23)",31.668741615410276
+"T. Almada (22, Atlanta United, MLS 2023)","M. Tillman (20, Rangers, Scottish Premiership 22-23)",73.43993183733329
+"T. Almada (22, Atlanta United, MLS 2023)","A. Shinnie (33, Livingston, Scottish Premiership 22-23)",-34.57004718841426
+"T. Almada (22, Atlanta United, MLS 2023)","R. Callachan (29, Ross County, Scottish Premiership 22-23)",-35.4670538136914
+"T. Almada (22, Atlanta United, MLS 2023)","J. Grant (28, Hearts, Scottish Premiership 22-23)",38.55247286577246
+"T. Almada (22, Atlanta United, MLS 2023)","E. Henderson (23, Hibernian, Scottish Premiership 22-23)",73.01891896463732
+"T. Almada (22, Atlanta United, MLS 2023)","S. Arfield (34, Rangers, Scottish Premiership 22-23)",31.180927271352903
+"T. Almada (22, Atlanta United, MLS 2023)","V. Besuijen (21, Aberdeen, Scottish Premiership 22-23)",65.32846968672843
+"T. Almada (22, Atlanta United, MLS 2023)","L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)",82.86484165037403
+"T. Almada (22, Atlanta United, MLS 2023)","B. Natcho (35, Partizan, Serbian SuperLiga 22-23)",86.26518752899604
+"T. Almada (22, Atlanta United, MLS 2023)","Đ. Ivanović (27, Čukarički, Serbian SuperLiga 22-23)",37.94717802742161
+"T. Almada (22, Atlanta United, MLS 2023)","V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)",44.5616964306127
+"T. Almada (22, Atlanta United, MLS 2023)","M. Mijić (33, Novi Pazar, Serbian SuperLiga 22-23)",69.77301463315376
+"T. Almada (22, Atlanta United, MLS 2023)","P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)",48.8580241305064
+"T. Almada (22, Atlanta United, MLS 2023)","M. Nešković (23, Voždovac, Serbian SuperLiga 22-23)",28.90664250499154
+"T. Almada (22, Atlanta United, MLS 2023)","V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)",58.70129518965088
+"T. Almada (22, Atlanta United, MLS 2023)","N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)",63.03693301335871
+"T. Almada (22, Atlanta United, MLS 2023)","U. Nikolić (29, Vojvodina, Serbian SuperLiga 22-23)",79.34349795571543
+"T. Almada (22, Atlanta United, MLS 2023)","S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)",77.69337114611358
+"T. Almada (22, Atlanta United, MLS 2023)","P. Đuričković (31, Novi Pazar, Serbian SuperLiga 22-23)",4.0618923620509335
+"T. Almada (22, Atlanta United, MLS 2023)","Đ. Gordić (18, Mladost Lučani, Serbian SuperLiga 22-23)",-12.187963202945229
+"T. Almada (22, Atlanta United, MLS 2023)","S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)",35.585367069226265
+"T. Almada (22, Atlanta United, MLS 2023)","S. Dimić (30, Radnički Niš, Serbian SuperLiga 22-23)",45.90277301096039
+"T. Almada (22, Atlanta United, MLS 2023)","S. Babić (32, Radnik Surdulica, Serbian SuperLiga 22-23)",52.47812800872872
+"T. Almada (22, Atlanta United, MLS 2023)","S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",43.475841121850216
+"T. Almada (22, Atlanta United, MLS 2023)","N. Vlašić (25, Torino, Serie A 22-23)",48.66687489524718
+"T. Almada (22, Atlanta United, MLS 2023)","L. Pellegrini (26, Roma, Serie A 22-23)",69.67493417732695
+"T. Almada (22, Atlanta United, MLS 2023)","G. Caprari (29, Monza, Serie A 22-23)",63.90871467699802
+"T. Almada (22, Atlanta United, MLS 2023)","L. Ferguson (23, Bologna, Serie A 22-23)",-21.742240778158063
+"T. Almada (22, Atlanta United, MLS 2023)","Al. Miranchuk (27, Torino, Serie A 22-23)",67.180456268831
+"T. Almada (22, Atlanta United, MLS 2023)","Brahim Diaz (23, Milan, Serie A 22-23)",81.6907617678618
+"T. Almada (22, Atlanta United, MLS 2023)","A. Barák (28, Fiorentina, Serie A 22-23)",26.825993472567557
+"T. Almada (22, Atlanta United, MLS 2023)","N. Bajrami (24, Sassuolo, Serie A 22-23)",45.69643228328538
+"T. Almada (22, Atlanta United, MLS 2023)","T. Baldanzi (20, Empoli, Serie A 22-23)",37.53986022688882
+"T. Almada (22, Atlanta United, MLS 2023)","M. Pašalić (28, Atalanta, Serie A 22-23)",-1.2504553813321355
+"T. Almada (22, Atlanta United, MLS 2023)","N. Radonjić (27, Torino, Serie A 22-23)",51.31530626875304
+"T. Almada (22, Atlanta United, MLS 2023)","C. De Ketelaere (22, Milan, Serie A 22-23)",39.96173705980648
+"T. Almada (22, Atlanta United, MLS 2023)","S. Verdi (30, Hellas Verona, Serie A 22-23)",69.2213062600179
+"T. Almada (22, Atlanta United, MLS 2023)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",66.82225002745135
+"T. Almada (22, Atlanta United, MLS 2023)","A. Colpani (24, Monza, Serie A 22-23)",71.7621573552941
+"T. Almada (22, Atlanta United, MLS 2023)","M. Antonucci (24, Cittadella, Serie B 22-23)",27.032536556899068
+"T. Almada (22, Atlanta United, MLS 2023)","G. Luperini (29, Perugia, Serie B 22-23)",-27.471396416651046
+"T. Almada (22, Atlanta United, MLS 2023)","O. Moruţan (24, Pisa, Serie B 22-23)",77.36611255003298
+"T. Almada (22, Atlanta United, MLS 2023)","D. Falcinelli (31, Modena, Serie B 22-23)",-5.709229329795
+"T. Almada (22, Atlanta United, MLS 2023)","L. Tremolada (31, Modena, Serie B 22-23)",78.49896350165741
+"T. Almada (22, Atlanta United, MLS 2023)","C. D'Urso (25, Cosenza, Serie B 22-23)",55.80559089827024
+"T. Almada (22, Atlanta United, MLS 2023)","L. Garritano (29, Frosinone, Serie B 22-23)",69.5878500506149
+"T. Almada (22, Atlanta United, MLS 2023)","M. Mancosu (34, Cagliari, Serie B 22-23)",85.79291577406536
+"T. Almada (22, Atlanta United, MLS 2023)","C. Kouan (23, Perugia, Serie B 22-23)",-13.664260328248115
+"T. Almada (22, Atlanta United, MLS 2023)","C. Falletti (30, Ternana, Serie B 22-23)",73.39359942649438
+"T. Almada (22, Atlanta United, MLS 2023)","M. Aramu (28, Genoa, Serie B 22-23)",57.22651189670157
+"T. Almada (22, Atlanta United, MLS 2023)","N. Galazzi (22, Brescia, Serie B 22-23)",56.65246448850617
+"T. Almada (22, Atlanta United, MLS 2023)","R. Botta (33, Bari, Serie B 22-23)",82.52328958456884
+"T. Almada (22, Atlanta United, MLS 2023)","M. Tramoni (23, Pisa, Serie B 22-23)",51.585404550095504
+"T. Almada (22, Atlanta United, MLS 2023)","M. Falzerano (32, Ascoli, Serie B 22-23)",-1.8706956382131112
+"T. Almada (22, Atlanta United, MLS 2023)","V. Parigini (27, Como, Serie B 22-23)",41.02510419781687
+"T. Almada (22, Atlanta United, MLS 2023)","Álex Blanco (24, Como, Serie B 22-23)",37.34253265234874
+"T. Almada (22, Atlanta United, MLS 2023)","N. Bellomo (32, Bari, Serie B 22-23)",53.34046615456399
+"T. Almada (22, Atlanta United, MLS 2023)","D. Cheryshev (32, Venezia, Serie B 22-23)",66.80743415240177
+"T. Almada (22, Atlanta United, MLS 2023)","D. Camara (21, Parma, Serie B 22-23)",30.57255005979033
+"T. Almada (22, Atlanta United, MLS 2023)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",39.26085646469678
+"T. Almada (22, Atlanta United, MLS 2023)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",-11.64231275254085
+"T. Almada (22, Atlanta United, MLS 2023)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",35.21266263957923
+"T. Almada (22, Atlanta United, MLS 2023)","S. Hraiech (27, Cesena, Serie C 22-23)",23.98553373966239
+"T. Almada (22, Atlanta United, MLS 2023)","R. Chiarello (29, Cesena, Serie C 22-23)",44.40212534886352
+"T. Almada (22, Atlanta United, MLS 2023)","J. Bumbu (24, Cesena, Serie C 22-23)",8.86708742235774
+"T. Almada (22, Atlanta United, MLS 2023)","A. Arena (22, Gubbio, Serie C 22-23)",80.56377999354046
+"T. Almada (22, Atlanta United, MLS 2023)","L. Cuppone (25, Pescara, Serie C 22-23)",25.38473714630652
+"T. Almada (22, Atlanta United, MLS 2023)","J. Desogus (20, Pescara, Serie C 22-23)",37.755584243392526
+"T. Almada (22, Atlanta United, MLS 2023)","R. Kouda (20, Picerno, Serie C 22-23)",9.94173350104662
+"T. Almada (22, Atlanta United, MLS 2023)","G. Benedetti (24, Pontedera, Serie C 22-23)",77.65536258590848
+"T. Almada (22, Atlanta United, MLS 2023)","R. Zammarini (26, Pordenone, Serie C 22-23)",53.58331389636602
+"T. Almada (22, Atlanta United, MLS 2023)","F. Deli (28, Pordenone, Serie C 22-23)",24.560480673936127
+"T. Almada (22, Atlanta United, MLS 2023)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",56.46278496955651
+"T. Almada (22, Atlanta United, MLS 2023)","A. Sala (22, Pro Sesto, Serie C 22-23)",-36.21493160568286
+"T. Almada (22, Atlanta United, MLS 2023)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",36.947985107313606
+"T. Almada (22, Atlanta United, MLS 2023)","G. Bianco (20, Pro Sesto, Serie C 22-23)",-14.937854021586196
+"T. Almada (22, Atlanta United, MLS 2023)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",38.73495618396874
+"T. Almada (22, Atlanta United, MLS 2023)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",74.14387471010619
+"T. Almada (22, Atlanta United, MLS 2023)","N. Belloni (28, Siena, Serie C 22-23)",13.411535458122446
+"T. Almada (22, Atlanta United, MLS 2023)","M. Frediani (29, Siena, Serie C 22-23)",42.04159065380135
+"T. Almada (22, Atlanta United, MLS 2023)","F. Urso (28, Torres, Serie C 22-23)",74.56637305790548
+"T. Almada (22, Atlanta United, MLS 2023)","E. Saporiti (21, Torres, Serie C 22-23)",39.20243599122887
+"T. Almada (22, Atlanta United, MLS 2023)","G. Lisai (33, Torres, Serie C 22-23)",57.303759787332886
+"T. Almada (22, Atlanta United, MLS 2023)","C. Pasquato (33, Trento, Serie C 22-23)",66.59966632597705
+"T. Almada (22, Atlanta United, MLS 2023)","C. Attys (22, Trento, Serie C 22-23)",12.507966458655387
+"T. Almada (22, Atlanta United, MLS 2023)","C. Tavernelli (23, Triestina, Serie C 22-23)",66.20051217989227
+"T. Almada (22, Atlanta United, MLS 2023)","M. Minesso (33, Triestina, Serie C 22-23)",21.3693360896636
+"T. Almada (22, Atlanta United, MLS 2023)","M. Stoppa (22, Vicenza, Serie C 22-23)",70.28701462870657
+"T. Almada (22, Atlanta United, MLS 2023)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",62.453432268237016
+"T. Almada (22, Atlanta United, MLS 2023)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",70.28952187394488
+"T. Almada (22, Atlanta United, MLS 2023)","D. Danti (34, Virtus Verona, Serie C 22-23)",66.5634171641385
+"T. Almada (22, Atlanta United, MLS 2023)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",-2.9041764554149765
+"T. Almada (22, Atlanta United, MLS 2023)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",90.9906888033677
+"T. Almada (22, Atlanta United, MLS 2023)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",79.40304049855686
+"T. Almada (22, Atlanta United, MLS 2023)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",65.36595149488325
+"T. Almada (22, Atlanta United, MLS 2023)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",76.5401764317928
+"T. Almada (22, Atlanta United, MLS 2023)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",47.87097866032707
+"T. Almada (22, Atlanta United, MLS 2023)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",86.92745937399981
+"T. Almada (22, Atlanta United, MLS 2023)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",75.06590839775677
+"T. Almada (22, Atlanta United, MLS 2023)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",48.53718803376726
+"T. Almada (22, Atlanta United, MLS 2023)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",58.17663395438311
+"T. Almada (22, Atlanta United, MLS 2023)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",79.02187091711582
+"T. Almada (22, Atlanta United, MLS 2023)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",54.26069670514816
+"T. Almada (22, Atlanta United, MLS 2023)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",66.35094752024706
+"T. Almada (22, Atlanta United, MLS 2023)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",54.21139238186263
+"T. Almada (22, Atlanta United, MLS 2023)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",12.060320900509868
+"T. Almada (22, Atlanta United, MLS 2023)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",59.04244882435742
+"T. Almada (22, Atlanta United, MLS 2023)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",64.46819630472706
+"T. Almada (22, Atlanta United, MLS 2023)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",74.52546003541151
+"T. Almada (22, Atlanta United, MLS 2023)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",64.18460800983807
+"T. Almada (22, Atlanta United, MLS 2023)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",81.75836430695077
+"T. Almada (22, Atlanta United, MLS 2023)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",66.8776909356602
+"T. Almada (22, Atlanta United, MLS 2023)","Dominguês (39, Royal AM, South Africa PSL 22-23)",55.98016707211821
+"T. Almada (22, Atlanta United, MLS 2023)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",63.36354416459759
+"T. Almada (22, Atlanta United, MLS 2023)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",30.863153773644004
+"T. Almada (22, Atlanta United, MLS 2023)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",28.366978539233543
+"T. Almada (22, Atlanta United, MLS 2023)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",41.69360274708849
+"T. Almada (22, Atlanta United, MLS 2023)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",60.82987188040781
+"T. Almada (22, Atlanta United, MLS 2023)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",52.30785818428592
+"T. Almada (22, Atlanta United, MLS 2023)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",36.833425594024845
+"T. Almada (22, Atlanta United, MLS 2023)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",35.2844393735093
+"T. Almada (22, Atlanta United, MLS 2023)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-4.26757649485039
+"T. Almada (22, Atlanta United, MLS 2023)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",5.265023248254989
+"T. Almada (22, Atlanta United, MLS 2023)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",77.45122749532449
+"T. Almada (22, Atlanta United, MLS 2023)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",70.48915911647047
+"T. Almada (22, Atlanta United, MLS 2023)","K. Kusk (31, Silkeborg, Superliga 22-23)",87.97835168119478
+"T. Almada (22, Atlanta United, MLS 2023)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",12.340211494062446
+"T. Almada (22, Atlanta United, MLS 2023)","I. Jebali (31, OB, Superliga 22-23)",81.2429289978843
+"T. Almada (22, Atlanta United, MLS 2023)","H. Evjen (23, Brøndby, Superliga 22-23)",43.010993584144096
+"T. Almada (22, Atlanta United, MLS 2023)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",29.26837132952032
+"T. Almada (22, Atlanta United, MLS 2023)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",54.81316289220051
+"T. Almada (22, Atlanta United, MLS 2023)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",85.93067430804136
+"T. Almada (22, Atlanta United, MLS 2023)","C. Matei (31, Sepsi, SuperLiga României 22-23)",88.95866388141802
+"T. Almada (22, Atlanta United, MLS 2023)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",81.49562211883436
+"T. Almada (22, Atlanta United, MLS 2023)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",61.17108499612826
+"T. Almada (22, Atlanta United, MLS 2023)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",62.96939472477753
+"T. Almada (22, Atlanta United, MLS 2023)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",54.60726185584019
+"T. Almada (22, Atlanta United, MLS 2023)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",46.52831978779759
+"T. Almada (22, Atlanta United, MLS 2023)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",60.1805863310774
+"T. Almada (22, Atlanta United, MLS 2023)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",72.81960172072147
+"T. Almada (22, Atlanta United, MLS 2023)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",52.69289508810666
+"T. Almada (22, Atlanta United, MLS 2023)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",6.305419691761652
+"T. Almada (22, Atlanta United, MLS 2023)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",84.94152519765944
+"T. Almada (22, Atlanta United, MLS 2023)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",36.438185836052014
+"T. Almada (22, Atlanta United, MLS 2023)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",73.97724133171567
+"T. Almada (22, Atlanta United, MLS 2023)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",68.73246671215834
+"T. Almada (22, Atlanta United, MLS 2023)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",63.51774559591853
+"T. Almada (22, Atlanta United, MLS 2023)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",67.58489663552997
+"T. Almada (22, Atlanta United, MLS 2023)","M. Meyer (27, Luzern, Swiss Super League 22-23)",58.43262638337861
+"T. Almada (22, Atlanta United, MLS 2023)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",42.1552867037822
+"T. Almada (22, Atlanta United, MLS 2023)","D. Males (22, Basel, Swiss Super League 22-23)",59.46510220259136
+"T. Almada (22, Atlanta United, MLS 2023)","D. Kutesa (25, Servette, Swiss Super League 22-23)",51.02572179792125
+"T. Almada (22, Atlanta United, MLS 2023)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",80.01565774835538
+"T. Almada (22, Atlanta United, MLS 2023)","M. Bottani (32, Lugano, Swiss Super League 22-23)",74.98328420590174
+"T. Almada (22, Atlanta United, MLS 2023)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",53.4787215282922
+"T. Almada (22, Atlanta United, MLS 2023)","A. Antunes (22, Servette, Swiss Super League 22-23)",19.66644938599495
+"T. Almada (22, Atlanta United, MLS 2023)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",11.914385730279404
+"T. Almada (22, Atlanta United, MLS 2023)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",77.34187244240721
+"T. Almada (22, Atlanta United, MLS 2023)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",77.8622652641109
+"T. Almada (22, Atlanta United, MLS 2023)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",77.53878273621525
+"T. Almada (22, Atlanta United, MLS 2023)","Fredy (33, Antalyaspor, Süper Lig 22-23)",32.1874467544551
+"T. Almada (22, Atlanta United, MLS 2023)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",70.90559963983107
+"T. Almada (22, Atlanta United, MLS 2023)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",70.66866362137468
+"T. Almada (22, Atlanta United, MLS 2023)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",65.18952082192133
+"T. Almada (22, Atlanta United, MLS 2023)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",64.62919703336469
+"T. Almada (22, Atlanta United, MLS 2023)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",68.52898321872254
+"T. Almada (22, Atlanta United, MLS 2023)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",56.70816406255965
+"T. Almada (22, Atlanta United, MLS 2023)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",-8.718875177541683
+"T. Almada (22, Atlanta United, MLS 2023)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",63.91159871343128
+"T. Almada (22, Atlanta United, MLS 2023)","D. Saba (30, Sivasspor, Süper Lig 22-23)",89.02174039167373
+"T. Almada (22, Atlanta United, MLS 2023)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",88.26434732378551
+"T. Almada (22, Atlanta United, MLS 2023)","Heberty (34, Bangkok United, Thai League 1 22-23)",82.71281166752894
+"T. Almada (22, Atlanta United, MLS 2023)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",70.50946101935854
+"T. Almada (22, Atlanta United, MLS 2023)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",62.43255335416236
+"T. Almada (22, Atlanta United, MLS 2023)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",82.06182881487543
+"T. Almada (22, Atlanta United, MLS 2023)","S. Purisay (36, Chonburi, Thai League 1 22-23)",78.42857294049051
+"T. Almada (22, Atlanta United, MLS 2023)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",50.794614438222375
+"T. Almada (22, Atlanta United, MLS 2023)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",67.09494006917721
+"T. Almada (22, Atlanta United, MLS 2023)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",-0.0196505873168441
+"T. Almada (22, Atlanta United, MLS 2023)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",49.689397903162366
+"T. Almada (22, Atlanta United, MLS 2023)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",24.801125464115916
+"T. Almada (22, Atlanta United, MLS 2023)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-46.15800403803564
+"T. Almada (22, Atlanta United, MLS 2023)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",13.878526489720436
+"T. Almada (22, Atlanta United, MLS 2023)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",22.64767320454682
+"T. Almada (22, Atlanta United, MLS 2023)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",62.426600978973376
+"T. Almada (22, Atlanta United, MLS 2023)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",70.74541727119143
+"T. Almada (22, Atlanta United, MLS 2023)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",11.130943189575042
+"T. Almada (22, Atlanta United, MLS 2023)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",42.0615722347439
+"T. Almada (22, Atlanta United, MLS 2023)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",26.643096622904228
+"T. Almada (22, Atlanta United, MLS 2023)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",63.871179860063165
+"T. Almada (22, Atlanta United, MLS 2023)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",56.187824739310365
+"T. Almada (22, Atlanta United, MLS 2023)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-10.09820667437733
+"T. Almada (22, Atlanta United, MLS 2023)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",40.17166699932388
+"T. Almada (22, Atlanta United, MLS 2023)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",36.61687626913353
+"T. Almada (22, Atlanta United, MLS 2023)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",71.67496100645504
+"T. Almada (22, Atlanta United, MLS 2023)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-29.585913204874643
+"T. Almada (22, Atlanta United, MLS 2023)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",-3.196250109442477
+"T. Almada (22, Atlanta United, MLS 2023)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",83.50410039770517
+"T. Almada (22, Atlanta United, MLS 2023)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-36.18201963186171
+"T. Almada (22, Atlanta United, MLS 2023)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",32.3022133208081
+"T. Almada (22, Atlanta United, MLS 2023)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",25.49740718868092
+"T. Almada (22, Atlanta United, MLS 2023)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",77.15508976566221
+"T. Almada (22, Atlanta United, MLS 2023)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",34.28195044707446
+"T. Almada (22, Atlanta United, MLS 2023)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",82.14915846051748
+"T. Almada (22, Atlanta United, MLS 2023)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",78.70538354080043
+"T. Almada (22, Atlanta United, MLS 2023)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",23.68756887799516
+"T. Almada (22, Atlanta United, MLS 2023)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",40.62312486454708
+"T. Almada (22, Atlanta United, MLS 2023)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-7.738930682562595
+"T. Almada (22, Atlanta United, MLS 2023)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",76.50953712267288
+"T. Almada (22, Atlanta United, MLS 2023)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",47.62365597869129
+"T. Almada (22, Atlanta United, MLS 2023)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",50.06189971600643
+"T. Almada (22, Atlanta United, MLS 2023)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",59.52687673313005
+"T. Almada (22, Atlanta United, MLS 2023)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",82.4573875976566
+"T. Almada (22, Atlanta United, MLS 2023)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",58.77516990436658
+"T. Almada (22, Atlanta United, MLS 2023)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",76.53902330200316
+"T. Almada (22, Atlanta United, MLS 2023)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",55.1264221608579
+"T. Almada (22, Atlanta United, MLS 2023)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",3.840924193373703
+"T. Almada (22, Atlanta United, MLS 2023)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",44.04164302110031
+"T. Almada (22, Atlanta United, MLS 2023)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-36.82387272057339
+"T. Almada (22, Atlanta United, MLS 2023)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",38.30812290468306
+"T. Almada (22, Atlanta United, MLS 2023)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",60.485560390416346
+"T. Almada (22, Atlanta United, MLS 2023)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",27.293922460099584
+"T. Almada (22, Atlanta United, MLS 2023)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",51.26367573122019
+"T. Almada (22, Atlanta United, MLS 2023)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",90.67670122304368
+"T. Almada (22, Atlanta United, MLS 2023)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",71.8685058949008
+"T. Almada (22, Atlanta United, MLS 2023)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",80.19847726610078
+"T. Almada (22, Atlanta United, MLS 2023)","Willis Furtado (25, KTP, Veikkausliiga 2023)",31.861714209519175
+"T. Almada (22, Atlanta United, MLS 2023)","J. Laine (22, Haka, Veikkausliiga 2023)",62.76598314930774
+"T. Almada (22, Atlanta United, MLS 2023)","L. Vapne (19, FK Metta, Virsliga 2023)",77.1317034103704
