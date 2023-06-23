@@ -2,12 +2,12 @@ import pandas as pd
 
 # Read the Parquet file
 df = pd.read_parquet('Winger.parquet')
-df = pd.concat(pd.read_parquet('CAM.parquet'),
+df = pd.concat([pd.read_parquet('CAM.parquet'),
         pd.read_parquet('CM.parquet'),
         pd.read_parquet('DM.parquet'),
         pd.read_parquet('FB.parquet'),
         pd.read_parquet('ST.parquet'),
-        pd.read_parquet('Winger.parquet'))
+        pd.read_parquet('Winger.parquet')])
 # Convert the DataFrame to CSV
 #df.to_csv('output.csv', index=False)
 
