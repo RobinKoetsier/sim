@@ -1,3 +1,4 @@
+
 // Helper function to load CSV data
 function loadCSV(filename) {
     return new Promise(function (resolve, reject) {
@@ -88,7 +89,8 @@ function loadCSV(filename) {
           .attr("x", innerWidth / 2)
           .attr("y", -margin.top / 2)
           .attr("text-anchor", "middle")
-          .text("Player similar to " + selectedValue);
+          .text("Player similar to " + selectedValue)
+          .attr("fill", "black");
 
         // Create bars
         svg.selectAll("rect")
@@ -154,19 +156,7 @@ function loadCSV(filename) {
         console.log(error);
       });
     });
-  });
-// Get references to the checkbox and content elements
-const darkModeToggle = document.getElementById('dark-mode-toggle');
-const contentElement = document.getElementById('content');
+});
 
-// Function to toggle dark mode
-function toggleDarkMode() {
-  // Toggle the dark mode class on the body element
-  document.body.classList.toggle('dark-mode');
 
-  // Toggle the dark mode class on the content element
-  contentElement.classList.toggle('dark-mode');
-}
 
-// Event listener for checkbox change
-darkModeToggle.addEventListener('change', toggleDarkMode);
