@@ -1,12 +1,11 @@
 const checkbox = document.getElementById("checkbox");
+const chartTitle = document.getElementsByClassName("chart-title");
+
 checkbox.addEventListener("change", () => {
   document.body.classList.toggle("dark");
-
-  // Apply white text color in dark mode
-  const chartTitle = document.querySelector("svg text");
   if (checkbox.checked) {
-    chartTitle.setAttribute("fill", "white");
+    chartTitle.style.fill = "red"; // Set color to red when checkbox is checked
   } else {
-    chartTitle.removeAttribute("fill");
+    chartTitle.style.fill = "black"; // Set color to black when checkbox is unchecked
   }
 });
