@@ -91,7 +91,7 @@ d3.csv("names.csv").then(function (data) {
         .attr("y", -margin.top / 2) //positions it from the top by the margin top
         //.attr("fill", "black")
         .attr("text-anchor", "middle")
-        .text("Player similar to " + selectedValue);
+        .text("Players similar to " + selectedValue);
 
       // Create bars
       svg.selectAll("rect")
@@ -135,25 +135,26 @@ d3.csv("names.csv").then(function (data) {
           .attr("fill", "steelblue");
       }
 
-      // Create y-axis
-      svg.append("g")
-        .call(d3.axisLeft(yScale))
-        .selectAll("text")
-        .attr("dy", "0.55em") // Adjust the vertical alignment of the labels
-        .attr("x", -10) // Move the labels slightly to the left
-        .attr("text-anchor", "end") // Align the labels to the end of the tick
-        .style("font-size", "10px"); // Set the font size to 10 pixels
-      // .attr("transform", "rotate(-20)"); // Rotate the labels for better readability 
+// Create y-axis
+
+svg.append("g")
+  .call(d3.axisLeft(yScale))
+  .selectAll("text")
+  .attr("class", "y axis")
+  .attr("dy", "0.55em") // Adjust the vertical alignment of the labels
+  .attr("x", -10) // Move the labels slightly to the left
+  .attr("text-anchor", "end") // Align the labels to the end of the tick
+  .style("font-size", "10px") // Set the font size to 10 pixels
+  .style("cursor", "pointer") // Add cursor pointer to the y-axis labels
+  .on("click", function(_, d) { // Modify event binding to access the correct value
+    var labelValue = String(d).slice(0, String(d).indexOf("(")).trim(); // Convert d to a string and extract the value before "("
+    var formattedValue = labelValue.replace(/\s/g, ""); // Remove spaces from the extracted value
+    var transfermarktUrl = "https://www.transfermarkt.com/" + encodeURIComponent(formattedValue); // Construct the URL
+    window.location.href = transfermarktUrl; // Redirect to the specified URL
+  });
 
 
 
-
-  
-
-      // Create x-axis
-      svg.append("g")
-        .attr("transform", "translate(50, " + (height - 50) + ")")
-        .call(d3.axisBottom(xScale));
 
 
 
