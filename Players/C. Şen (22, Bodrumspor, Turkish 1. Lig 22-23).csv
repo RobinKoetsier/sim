@@ -1,224 +1,26 @@
-Player 1,Player 2,Similarity
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Ü. Ergün (30, Bodrumspor, Turkish 1. Lig 22-23)",-15.554101253524223
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","O. Ovacıklı (34, BB Erzurumspor, Turkish 1. Lig 22-23)",9.455343225933758
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","A. Dere (30, Altınordu, Turkish 1. Lig 22-23)",-7.4283320447477985
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","S. Sarıkaya (25, Altay, Turkish 1. Lig 22-23)",39.7774776501696
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","H. Bilgiç (30, Boluspor, Turkish 1. Lig 22-23)",16.139208772325482
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","G. Süzen (35, Denizlispor, Turkish 1. Lig 22-23)",-10.934030639398008
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)",-37.95430117117244
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)",23.66067703396233
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)",44.49430830576488
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","İ. Köybaşı (33, Göztepe, Turkish 1. Lig 22-23)",-18.366174902689316
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Şahin (22, Manisa BBSK, Turkish 1. Lig 22-23)",28.587892826810226
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)",17.327785359135376
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","O. Bayrak (24, Tuzlaspor, Turkish 1. Lig 22-23)",10.716119790755084
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Naderi (26, Altay, Turkish 1. Lig 22-23)",53.70012766716186
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","G. Kaya (27, Pendikspor, Turkish 1. Lig 22-23)",-35.47030084571319
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)",26.46716114802139
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Uçar (31, Eyüpspor, Turkish 1. Lig 22-23)",-22.16836462386715
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Pala (22, Rizespor, Turkish 1. Lig 22-23)",-6.834334432817826
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)",35.48712080987308
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","A. Şengül (24, Bandırmaspor, Turkish 1. Lig 22-23)",48.92447598347236
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)",20.811333360025746
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","S. Gönül (25, Samsunspor, Turkish 1. Lig 22-23)",30.10399930690662
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","A. Koç (26, Rizespor, Turkish 1. Lig 22-23)",3.6373270239557582
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","E. Özgenc (38, Pendikspor, Turkish 1. Lig 22-23)",-33.54790354935635
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","C. Cavlan (31, Bandırmaspor, Turkish 1. Lig 22-23)",26.327037248193825
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)",-28.65350520503473
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",61.275360141589154
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",4.131536955532169
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",58.79296827597052
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",25.598914934086917
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",37.70715007437251
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",48.20734071954923
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",44.984978095276205
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",33.63816618866907
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",-4.870697243645284
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",51.52708461500109
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",-26.89417474956777
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",43.117908778582986
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",74.6005278841956
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",26.21058259027324
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",26.08132379951532
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",47.41030191087345
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",-0.7637942911559099
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",14.718279605165158
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",5.87512541116499
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",47.15878078875255
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",4.4908766944017895
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",72.06009012856013
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",4.147430361473341
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",-5.915741095037854
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",-14.312712112138652
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",43.466807849952936
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",-18.82455731677674
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",31.53106081009227
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",-5.023647561402363
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",9.18794439672648
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",-29.889979548865902
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",-37.17414498865524
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",21.022399509727222
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",28.573176977354564
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",65.82152615413143
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",-37.67384020971777
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",45.84035856387406
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",38.16671555655635
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",-16.281288681444437
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",22.995693389734377
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",-17.423621150440788
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",69.36666864844231
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",11.345330265002396
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",11.957637501471002
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",30.825498572259868
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",31.13926423699631
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",-11.310430890241244
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",58.84633926510882
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",49.50284580116711
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",-4.387449467005197
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",35.17750586294989
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",11.107389602588343
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",16.71698313336899
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",60.27143402942308
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",27.09266411432553
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",7.208032500233322
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",63.270747103990985
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",16.973085659099482
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",13.064781829720756
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",62.86687780457241
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",41.557020609445935
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",54.09394261269331
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",42.56142408880553
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",5.704922456750095
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",52.88496570165935
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",18.452806408187243
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",55.28460236467452
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",33.950748682571486
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",25.650241738281988
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-35.53641179730136
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",-4.744768751263832
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",-46.39879908733529
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",1.2968483364468686
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",63.5213690761521
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",-20.77388233421061
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",-3.539560968209057
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",6.440545318874727
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",23.135759633420605
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",28.24948090902481
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",49.2608858278098
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",30.41113830275597
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",19.24291559562712
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",49.66799968807314
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",4.272673034671843
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",34.945488306867375
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",22.61130533489244
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",21.07658437135854
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",10.075754127068008
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",-27.47234666282788
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-37.46669394163275
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",12.252386848557212
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",43.10795289741555
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",5.118265983552209
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",68.24019842879532
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-15.650933356384591
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",-4.451721622212989
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",45.73967253509024
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-15.201194746791804
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",-37.12696117202408
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-26.96986016266385
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",19.05052028044809
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-43.55848861092259
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",3.910046775056869
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-30.87747982042052
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",-4.139143374676564
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",-0.9226867530406002
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",1.5815520953572586
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-33.2374338799336
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-8.645423170193833
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",30.756428818895596
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",40.27940561231495
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",60.23100038315121
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",-7.062673533979703
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",28.372353152386133
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",27.834081589603027
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",-45.759820213704266
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",49.60375876965711
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",25.06871560988452
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",45.65024769868764
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",-1.896508363726188
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",30.1125693357378
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",-6.907430202197928
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",-23.28340875947596
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",48.15981503004754
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",50.62837347846536
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",8.84862650967988
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",-14.621069864556231
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",-21.406192024725723
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",33.02300029736483
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",37.741779504235645
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",52.89222679958346
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",54.46471235372494
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",13.22541785649238
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",44.544945484839246
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",15.708377548790766
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",24.652686899826502
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",-1.903384202244812
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",6.575877138317922
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",2.336275459496309
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",23.708133354545705
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",-8.442474521089679
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",25.599174790407712
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",9.65048111064066
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",-1.8376677230696945
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",11.848935891787972
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",24.962180099766503
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",44.08661777818448
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",6.756903506415196
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",70.00863127241114
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",-10.11056564409909
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",74.3062531829556
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",-22.613860908605734
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",13.74112820492052
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",1.073347829464012
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",-11.353830320100595
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",-5.595884267718192
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",5.523091728415323
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",40.48802126997258
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",4.368806262619472
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",6.036276397230286
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",-10.92790830429036
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",58.99157973279714
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",25.462510808960243
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",21.456264349520893
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",8.319594601923862
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",5.008252160862949
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",-37.15331908528754
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",41.81791140647657
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",-15.279382375293856
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",-15.367552769268327
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",-19.086979169017976
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",-3.024722382330587
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",-10.550798600122338
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",39.00881167536629
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",-7.385921650620903
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",-30.27619654850202
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",32.72134365853848
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",51.73707614223727
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",-42.58777337275046
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",40.35743911537869
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","P. Mareš (32, RFS, Virsliga 2023)",-37.48109321714549
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-13.562838032203016
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",-3.607421085573356
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",-33.77210975163502
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",24.68100157416376
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",-25.909634693239266
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",69.40039777358452
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",15.565063830986528
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",12.46300483031871
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",17.4305789766541
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",-11.917141644283564
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",7.383086065755871
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",-5.324343890344039
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",41.12365585361311
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",-24.952532831149323
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",46.010407313845306
-"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",31.42168026599532
+Player 1,Similarity
+"J. Keohane (32, Rochdale, League Two 22-23)",86.01072088002584
+"H. Matriciani (23, Schalke 04, Bundesliga 22-23)",85.52998766410369
+"M. Hosni (32, EO Sidi Bouzid, Tunisian Ligue 1 22-23)",85.00726764312799
+"A. Delhiwala (23, Kenkre, I-League 22-23)",84.69801775582039
+"Alef (29, Khon Kaen United, Thai League 1 22-23)",83.67679145516176
+"I. Neacșu (18, Minaur Baia Mare, Romanian Liga II 22-23)",83.3369296039859
+"Pol Domingo (23, Gimnàstic Tarragona, Primera División RFEF 22-23)",83.24285710385337
+"A. Rzaev (21, Kapaz, Premyer Liqa 22-23)",83.08975625603281
+"F. Fabbri (21, Olbia, Serie C 22-23)",81.96061878238469
+"M. Mahasaranukul (25, Lampang, Thai League 1 22-23)",81.63772319152841
+"Mohamed El Maghraby (22, Smouha, Egyptian Premier League 22-23)",81.19198944442878
+"L. Rakesh (20, Neroca, I-League 22-23)",80.97837756246393
+"A. Odimayo (23, Northampton Town, League Two 22-23)",80.10317196159058
+"R. Law (23, Gillingham, League Two 22-23)",78.30944815727742
+"M. Stijepović (23, Jezero, Montenegro First League 22-23)",78.25974010459642
+"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)",78.23927325814437
+"K. Mima (25, Osaka, J3 2023)",78.18308681380019
+"A. Al-Sagour (0, Al Jabalain, Saudi First Division 22-23)",78.05449032709745
+"T. Eyoma (23, Lincoln City, League One 22-23)",77.92487381508629
+"S. Adhikari (28, Gokulam Kerala, I-League 22-23)",77.80141800797749
+"H. Palutaja (19, Tallinna Kalev, Estonian Meistriliiga 2023)",77.60130480305051
+"Ismail Dahqani (31, Umm Salal, Qatari Stars League 22-23)",76.69004248579355
+"A. Khityaev (22, Shinnik, Russian FNL 2 22-23)",76.67679770438653
+"U. García (22, Atlético de San Luis, Liga MX 22-23)",75.81483368295045
+"Hawsawi Islam Ahmed (21, Al Wahda, Saudi Professional League 22-23)",75.71568903528225

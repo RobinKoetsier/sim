@@ -1,56 +1,26 @@
-Player 1,Player 2,Similarity
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",27.74982133339176
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",27.39287193665369
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",16.095609023947514
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",41.01748696337393
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",11.7042060967001
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",24.426040929568344
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",-8.239613420177024
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",42.79056147447244
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",-7.455093834628286
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",27.085194045979584
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",24.13685859752568
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",52.58540787606862
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",49.87150937946217
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",-2.7845309906528706
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",-3.773715555903465
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",28.85354460257891
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",29.434744115328
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",44.86815927966418
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",59.57023855060313
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",45.27990611527965
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",34.62327334585265
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",26.999673596947737
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","N. Pallas (22, Oulu, Veikkausliiga 2023)",43.44314194723778
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","N. Friberg (27, Haka, Veikkausliiga 2023)",14.25469777391334
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","C. Antwi (23, KuPS, Veikkausliiga 2023)",43.400862126387295
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","M. Rale (22, Honka, Veikkausliiga 2023)",54.13069026566297
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",6.829760048127895
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",32.421221506100565
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","T. Ollila (23, HJK, Veikkausliiga 2023)",48.20303913331531
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",6.388170369694314
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","K. Ofori (21, SJK, Veikkausliiga 2023)",12.057843496268095
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",2.472165401330769
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","P. Soiri (28, HJK, Veikkausliiga 2023)",41.58575932138473
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",26.84173437721838
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",38.84339702730929
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",4.576945064154954
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","M. Gaye (24, Riga FC, Virsliga 2023)",19.5888415049782
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",7.061440174661267
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","P. Mareš (32, RFS, Virsliga 2023)",27.34147538638697
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",8.197663024509735
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",19.287919328579044
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",43.63854861630408
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",-17.812071138009454
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","N. Bretschneider (23, FK Auda, Virsliga 2023)",55.81099017073496
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",24.01125766311273
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",45.7633575087467
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",40.00193779569154
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",34.66599490554192
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","P. Fall (22, Valmiera FC, Virsliga 2023)",41.20268501595606
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",38.70446989404319
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","R. Skrebels (23, FK Auda, Virsliga 2023)",18.7410599226252
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","E. Birka (23, Valmiera FC, Virsliga 2023)",34.56370556191385
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","R. Savaļnieks (30, RFS, Virsliga 2023)",30.26810314886834
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",-19.351424801888765
-"P. Silva (26, Boston River, Uruguay Primera División 2023)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",49.59285734370052
+Player 1,Similarity
+"C. Cavlan (31, Bandırmaspor, Turkish 1. Lig 22-23)",74.56836995212625
+"K. Rosenberry (29, Colorado Rapids, MLS 2023)",70.67370127747746
+"E. Kusnyír (23, Debrecen, NB I 22-23)",68.72584670391612
+"H. ter Avest (26, Utrecht, Eredivisie 22-23)",68.37207058478558
+"T. Nyama (23, TS Galaxy FC, South Africa PSL 22-23)",68.2927084195396
+"A. Barros (32, Maccabi Tel Aviv, Ligat Ha'al 22-23)",67.17353284697056
+"F. Campos (29, Everton, Chilean Primera División 2023)",67.16465591074467
+"C. Crialese (30, Crotone, Serie C 22-23)",66.848490134304
+"A. Kawai (23, Montedio Yamagata, J2 2023)",66.8109426080528
+"S. Kozlovský (23, Trenčín, Slovak Super Liga 22-23)",66.27162907753336
+"L. Venuti (28, Fiorentina, Serie A 22-23)",66.25776537894707
+"Diogo Dalot (24, Manchester United, Premier League 22-23)",66.20732165095589
+"S. Sambo (21, Sparta Rotterdam, Eredivisie 22-23)",66.03661005172064
+"Íñigo Lekue (30, Athletic Bilbao, La Liga 22-23)",65.79825140914608
+"R. Ispas (22, Sepsi, SuperLiga României 22-23)",65.60272974052332
+"V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",64.10059332531027
+"Z. Erdal (35, Sivasspor, Süper Lig 22-23)",63.94173203660738
+"David Morillas (36, Alcorcón, Primera División RFEF 22-23)",63.83381519406057
+"B. Jaroch (28, Wisła Kraków, Polish I Liga 22-23)",63.75855030957352
+"G. Kweh (23, Tampines Rovers, Singapore Premier League 2023)",63.61695690250878
+"Calegari (21, Los Angeles Galaxy, MLS 2023)",63.50684609825139
+"Yuri Berchiche (33, Athletic Bilbao, La Liga 22-23)",63.278213453596045
+"E. Silye (26, Vasas, NB I 22-23)",63.10181653077298
+"H. Bhatt (26, Rajasthan United, I-League 22-23)",62.64742941506607
+"Andoni Gorosabel (26, Real Sociedad, La Liga 22-23)",62.59266521749426

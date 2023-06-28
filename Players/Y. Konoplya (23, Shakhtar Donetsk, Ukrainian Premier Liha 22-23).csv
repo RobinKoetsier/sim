@@ -1,98 +1,26 @@
-Player 1,Player 2,Similarity
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",43.152302738670365
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",62.96093817270363
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",43.42703888898624
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",75.2971767288524
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",33.6095498981883
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",30.430064409642483
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",8.42007743147248
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",42.44056468856939
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",63.1835677554082
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",12.47406434048258
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",40.69292498758799
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-25.87177805108494
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",18.622354408423377
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",25.99874900700221
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",31.261984728007157
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",42.07442372724494
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",14.725290019060184
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",41.30609844563582
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",33.48703098608011
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",36.81235495508341
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",15.515633227256478
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",17.94898892175669
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",47.43919436092226
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",25.15941553531542
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",-8.773150304608034
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",53.10785428465573
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",44.72758641442359
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",47.49745096668516
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",35.73407570781945
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",-14.494013548823323
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",-12.691040530781548
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",-11.120296069059323
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",32.02577459395782
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",-2.927417406259291
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",40.12315520766301
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",17.891568777336513
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",-3.2451515935403568
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",28.851248262040265
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",52.243114631327614
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",46.96408409404954
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",41.16738720777422
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",39.32196445744414
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",16.10915871298953
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",55.25904752099762
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",30.965368007370863
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",9.944925510930888
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",-15.812058829592187
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",52.493373617232265
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",-27.76566793018944
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",60.979858153942246
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",-23.59069212280698
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",57.60801737897876
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",45.54934482675405
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",54.43474874868627
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",67.55122353462826
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",17.895615490868657
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",8.18018509242983
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",26.602199422585954
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",32.48802229520683
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",38.00406297590674
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",62.2966590323378
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",-22.027787686326327
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",34.31231445902248
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",31.78110084777293
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",50.14580327961718
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",0.9448055352429444
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",67.37509080489738
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",10.586228724696234
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",30.396512668402604
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",44.84501880987746
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",69.06913155235284
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",5.927407270053645
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",43.53074395930842
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",8.005888740517058
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",47.11173499790559
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",63.55689101415254
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",2.0609949610468896
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",-7.453268803064157
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",49.87562175986521
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",0.8373630653660628
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","P. Mareš (32, RFS, Virsliga 2023)",61.28287708006339
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",8.56952710117434
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",26.694584123757387
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",68.80559056853039
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",1.6202859672844687
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",60.75997226690253
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",-8.117793235670941
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",34.36886295965187
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",29.254318311183745
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",31.384557412401225
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",58.200579432553376
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",46.03708293148315
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",48.99442066424395
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",38.86075226144487
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",56.04456003614256
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",-18.159410022130768
-"Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",46.83233123884023
+Player 1,Similarity
+"N. Petrović (31, Bačka Topola, Serbian SuperLiga 22-23)",86.2214629905428
+"Mohammed Al-Burayk (30, Al Hilal, Saudi Professional League 22-23)",84.7561261635767
+"Vanderson (21, Monaco, Ligue 1 22-23)",82.36540790523506
+"Saud Abdulhamid (23, Al Hilal, Saudi Professional League 22-23)",81.9315375807401
+"B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",81.33719140473814
+"A. Vigo (24, Crvena Zvezda, Serbian SuperLiga 22-23)",80.60782078368831
+"M. Gusto (20, Olympique Lyonnais, Ligue 1 22-23)",80.48223381814378
+"I. Azarovi (21, Crvena Zvezda, Serbian SuperLiga 22-23)",80.0140321286155
+"D. Farkaš (30, Diósgyőr, NB II 22-23)",79.96195073570371
+"Lucas Vázquez (31, Real Madrid, La Liga 22-23)",79.56607500469075
+"R. Gosens (29, Internazionale, Serie A 22-23)",79.38187512653847
+"O. Sonne (22, Silkeborg, Superliga 22-23)",79.29344138522956
+"F. Mladenović (31, Legia Warszawa, Ekstraklasa 22-23)",79.20578966996116
+"S. Rosen (20, Hapoel Kfar Saba, Liga Leumit 22-23)",78.69670241709014
+"S. Channgom (26, BG Pathum United FC, Thai League 1 22-23)",78.52124489531131
+"S. Peenagatapho (27, Muang Thong United, Thai League 1 22-23)",78.13778893988913
+"E. Bouzaiene (25, Degerfors, Allsvenskan 2023)",77.99543009563749
+"H. Hambardzumyan (32, Anorthosis, Cyprus 1. Division 22-23)",77.66106761234361
+"S. Moharrami (27, Dinamo Zagreb, 1. HNL 22-23)",77.46849436375813
+"U. Garcia (27, Young Boys, Swiss Super League 22-23)",77.3161183472744
+"A. Jafer (28, Bnei Yehuda, Liga Leumit 22-23)",77.1926363051129
+"F. Andika (23, Persija, BRI Liga 1 22-23)",77.11947670410942
+"H. Ángeles (29, Sport Huancayo, Peruvian Liga 1 2023)",77.09470186311286
+"T. Kishimoto (25, Shimizu S-Pulse, J2 2023)",76.86953563595956
+"H. Andresen (26, Skeid, OBOS Ligaen 2023)",76.82517933529289

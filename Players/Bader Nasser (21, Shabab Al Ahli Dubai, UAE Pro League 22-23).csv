@@ -1,142 +1,26 @@
-Player 1,Player 2,Similarity
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",4.790436448664774
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",70.86373319268256
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",45.779669771916446
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",7.876564618031479
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",20.46435911016889
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",25.973934455202457
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",5.785432621627759
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",70.11588963867116
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",3.8004350022072697
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",30.546845755644288
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",47.74123276886473
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",-1.869049173909268
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",34.053344217592816
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-22.450120555447363
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",83.55509990536123
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",50.08763606668333
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",71.22672268543667
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",20.77347923358176
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",28.39562184075276
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",72.96678600172955
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",69.53467969650029
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",69.11137352643584
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",66.03787011567553
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",55.35495136135632
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",50.09794232674712
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",19.539757754288868
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",15.476960941009532
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",24.98159427528192
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",29.57717237459524
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",65.17982196863834
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",21.497671280505923
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",13.9442292625131
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",74.41883329409032
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",66.36187397151294
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",18.929492927205175
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",26.24240505492921
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",53.73541534831119
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",19.80400645361172
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",61.05900855073037
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",69.51584822591957
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",5.944216001566398
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",49.41098235340853
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",71.28282450004001
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",58.08892419486524
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",83.91068445864676
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",66.9643235082252
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",67.31317953815665
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",81.7156761641963
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",51.27587515500927
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",69.3288935135785
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",10.919936173041764
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",43.60572878660991
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",59.58641662979639
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",26.515996647168112
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",64.25949056264834
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-18.90078906535336
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",24.77381428455521
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",67.18134355786954
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",46.32116805499337
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",46.46952150736777
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",38.19338447162123
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",72.56282639452719
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",56.72705334159164
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",75.95399335215949
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",42.438170097705154
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",66.2084648705801
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",73.02154601289747
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",46.585669542715976
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",-19.870034961149948
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",60.73233740412082
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",52.8820100552434
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",67.24168619373079
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",73.42570074390244
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",27.532509721921944
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",22.56298391973804
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",27.45658548468708
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",48.99907412996532
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",32.114826352126194
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",31.025516666941776
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",43.40344055151733
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",35.438617346580024
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",46.46473513338314
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",83.57981733471335
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",45.55372597446763
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",56.18339937876994
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",42.56520941425848
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",43.87988440673925
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",56.85990812178681
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",53.26363539211943
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",2.973457294767288
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",33.18841811433606
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",63.41157172825421
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",-7.677782742020297
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",85.91968689378024
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",8.62364431267837
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",73.86204732399534
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",72.34715103578834
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",67.42218700676251
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",85.5720070591748
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",16.06315794996919
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",30.374464833968123
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",50.88921102641278
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",30.59119705419381
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",47.53171981469398
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",68.84622917974336
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",19.347343158868973
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",20.17316457198396
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",65.78454389759645
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",47.22231301552222
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",18.61213537413379
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",57.99175575925604
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",11.41833350237847
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",27.93847751362396
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",53.03065598995042
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",78.37277971696766
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",35.314525762934046
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",37.48905651503235
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",33.41863810910893
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",51.40592992435422
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",72.33349260723013
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",27.84096454454364
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",41.6701138420601
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",51.93076240688194
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",42.986340804307744
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","P. Mareš (32, RFS, Virsliga 2023)",75.46344967538946
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",45.72538731935592
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",53.05692958783946
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",72.02348672684141
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",16.80258583698793
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",52.33334829757711
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",14.360735821278231
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",49.39486341472856
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",41.29061963777532
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",45.07598953175254
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",81.2160737823924
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",62.10647489968226
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",38.74642113757543
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",69.83722386073285
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",77.53871449467913
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",0.3066921022552394
-"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",46.53368180059731
+Player 1,Similarity
+"L. Nikolić (23, Crvena Zvezda, Serbian SuperLiga 22-23)",90.99881306862189
+"T. Cancellotti (31, Pescara, Serie C 22-23)",90.81123250212624
+"A. Bezchasnyuk (20, Veles, Russian FNL 2 22-23)",90.56632632670753
+"F. Rillo (22, Potenza, Serie C 22-23)",90.47728397032124
+"J. González (25, Xelajú, Guatemala Liga Nacional 22-23)",90.28610107667214
+"G. Polényi (31, Siófok, NB II 22-23)",90.24149823797109
+"N. Weerawatnodom (28, Buriram United, Thai League 1 22-23)",90.10944499292798
+"L. Ridehalgh (32, Bradford City, League Two 22-23)",90.06722071937274
+"M. Doyle (31, Alloa Athletic, Scottish League One 22-23)",89.72251090454344
+"I. Touray (28, Salford City, League Two 22-23)",89.60037433291436
+"L. Dickmann (26, SPAL, Serie B 22-23)",89.47257393906625
+"Tiago Gonçalves (22, Pontedera, Serie C 22-23)",89.34590223797407
+"J. Čorluka (28, Zrinjski, Bosnian Premier League 22-23)",89.12554299292516
+"J. Faussurier (36, Sochaux, Ligue 2 22-23)",89.09565988204835
+"A. Ražnatović (22, Budućnost, Montenegro First League 22-23)",88.92732841849
+"J. Morales (26, Municipal, Guatemala Liga Nacional 22-23)",88.65191604165292
+"D. Church (22, Alloa Athletic, Scottish League One 22-23)",88.6102446274561
+"F. Ferrari (31, APOEL, Cyprus 1. Division 22-23)",88.43229595695001
+"A. Jafer (28, Bnei Yehuda, Liga Leumit 22-23)",88.1674699033997
+"Aitor Aldalur (31, Rayo Majadahonda, Primera División RFEF 22-23)",88.09750861497841
+"B. Cipetić (28, Lokomotiva Zagreb, 1. HNL 22-23)",88.09575257510745
+"Q. Lecoeuche (29, Valenciennes, Ligue 2 22-23)",88.05608287787055
+"A. Rustum (24, Maccabi Ahi Nazareth, Liga Leumit 22-23)",88.0200906247407
+"Hesham Salah (25, Al Ittihad, Egyptian Premier League 22-23)",88.01516760182085
+"R. Simion (21, Concordia Chiajna, Romanian Liga II 22-23)",87.88910866300871

@@ -1,215 +1,26 @@
-Player 1,Player 2,Similarity
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","İ. Köybaşı (33, Göztepe, Turkish 1. Lig 22-23)",8.440341146342215
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Şahin (22, Manisa BBSK, Turkish 1. Lig 22-23)",62.64660140780018
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)",38.66988529866842
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","O. Bayrak (24, Tuzlaspor, Turkish 1. Lig 22-23)",49.540744054539246
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Naderi (26, Altay, Turkish 1. Lig 22-23)",10.0055659606382
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","G. Kaya (27, Pendikspor, Turkish 1. Lig 22-23)",4.797852045188776
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)",56.88111495796638
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Uçar (31, Eyüpspor, Turkish 1. Lig 22-23)",45.111916595268845
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Pala (22, Rizespor, Turkish 1. Lig 22-23)",34.409356884116015
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)",30.88154527362693
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","A. Şengül (24, Bandırmaspor, Turkish 1. Lig 22-23)",55.85505490815616
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)",55.74704509175292
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","S. Gönül (25, Samsunspor, Turkish 1. Lig 22-23)",24.67405912969637
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","A. Koç (26, Rizespor, Turkish 1. Lig 22-23)",30.524965653649776
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","E. Özgenc (38, Pendikspor, Turkish 1. Lig 22-23)",20.983426322982776
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","C. Cavlan (31, Bandırmaspor, Turkish 1. Lig 22-23)",65.04260599310071
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)",27.630231145153417
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",54.73293079961016
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",64.90938597829745
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",37.12341597173016
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",49.32815695161998
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",68.31079636472022
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",46.31249667859856
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",25.47806799167168
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",36.7870988171594
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",47.80099896144968
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",57.28797293197838
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",-10.934057030329122
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",33.11255321726641
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",23.752453171828613
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",43.04996394583544
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",9.700748161839384
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",33.32226079014516
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",39.14313266394711
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",51.66567554362294
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",18.250740073182072
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",22.487160548655503
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",23.142553680680663
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",47.291641051908975
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",11.801428337366795
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",36.60306854155245
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",34.43643416772567
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",55.01983931694521
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",-16.1970247571519
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",28.004249529825398
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",-20.84565569776797
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",38.8433447426255
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",3.370393049435496
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",25.675080580932374
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",57.51805955525974
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",55.88283803218459
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",50.605613819441565
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",10.789876334358649
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",51.866643222796974
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",39.98891752219584
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",26.694728684473752
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",37.90570534843068
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",55.16864680116598
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",59.00194611650566
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",40.25073093628379
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",54.3006901779406
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",54.04870438094592
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",40.28211407426704
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",54.497147920057344
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",41.43169438185019
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",47.61066544555807
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",47.19531601772082
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",20.6273971373024
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",52.41977552080137
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",57.07538190363982
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",37.91799351455181
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",49.482939884041386
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",61.81269059783031
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",36.51932304742143
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",67.96872054106018
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",43.97215198327074
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",26.322140181443
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",26.58760076195124
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",38.03563920763335
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",57.34710708073013
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",35.89393258482974
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",43.27304961722718
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",48.275798424935225
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",70.20038106869949
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",28.198675842002714
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",42.17741845986696
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-21.726617171304248
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",50.838535344735
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",17.424305003312217
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",51.76061793333482
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",54.22919243196225
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",34.701092674841114
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",51.35640784604018
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",62.55067446870176
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",50.68441190538407
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",61.4580467809971
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",48.86423042216003
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",28.168259379137933
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",35.68587317187993
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",62.4740071113818
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",44.275543680924976
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",36.94369131597626
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",53.63228544631298
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",43.336467536113474
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",41.29214223441222
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",23.76157430265845
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",28.6484164796324
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",54.69196485291356
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",43.35019580007475
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",60.38186184650108
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",53.47519392213669
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",42.95058488733122
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",64.71951697543793
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",56.224697420700586
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",53.339356037111095
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",26.857402518163408
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",26.41439274345656
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",56.20162769916711
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",11.591363130530173
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",29.02810121484932
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",42.30183834772072
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",49.22924430446283
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",22.02290931900166
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",17.504309031968344
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-12.075737419631404
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",40.96432138934471
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",54.25573299467582
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",61.64404828005657
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",4.706829380376445
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",3.7197906327048016
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",36.88562982520147
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",28.834808322783783
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",-17.63111081665333
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",20.906589355804662
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",47.592302515365766
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",74.12828058234443
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",44.52713273975471
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",56.44832818087242
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",28.003954177033457
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",47.40670218906913
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",44.68102745467858
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",27.0072739674927
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",35.700468868003014
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",36.64499024455616
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",21.376826390053527
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",75.84044214825113
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",27.85990227504721
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",20.59897144411357
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",55.30759817670793
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",56.65866308243831
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",27.002189568969087
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",50.65596619492101
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",65.15963436665008
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",38.87476921597991
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",52.96386677117126
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",60.63350106961699
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",51.50133301635803
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",60.3630102724881
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",49.99558727246997
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",26.181610202934657
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",53.28829942755953
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",10.027146533780943
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",57.70311798884038
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",42.097115915256246
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",23.30431046947128
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",31.34055298422985
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",34.05279999194084
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",41.12326764732924
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",23.4129841408804
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",28.17914362137048
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",51.98979684178819
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",57.33368389761032
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",7.548943704520242
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",28.7296085350816
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",40.95696071328571
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",24.68071093027627
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",59.26324560795284
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",38.45559590599768
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",53.04602887658904
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",37.06542494487879
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",30.49427591238932
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",51.75476170053442
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",57.26144303458589
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",41.959424150994586
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",41.71567040622797
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",42.41399194084709
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",33.94912950100143
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",30.5094679942707
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",2.1708361391685624
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",10.345033311362746
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",55.47774368976432
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",20.412490432439935
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",16.700459099914998
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",39.93537621614885
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",41.50772797762997
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",16.061307769978804
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",53.14739286316
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","P. Mareš (32, RFS, Virsliga 2023)",21.53678449947385
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",1.630924865323579
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",21.94656724381566
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",24.42840564349387
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",31.50956665062874
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",41.74969544893759
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",28.670982649544545
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",39.18594633403162
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",64.31763770513366
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",54.39183735372799
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",39.71449360861626
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",63.67774764415197
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",34.17221778200174
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",46.43789169728954
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",22.83208948188867
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",23.570736052918413
-"E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",33.91288783168851
+Player 1,Similarity
+"J. Ekani (30, Mosta, Malta Premier League 22-23)",82.94974221890537
+"A. Milushev (34, Belasica, North Macedonia First League 22-23)",81.50906305910624
+"K. Melichenko (23, Dynamo Dresden, 3. Liga 22-23)",80.62295568296047
+"T. De Smet (25, Reims, Ligue 1 22-23)",80.30869615226193
+"M. Papp (33, Dorogi FC, NB II 22-23)",80.19710048768339
+"E. Salines (22, FeralpiSalò, Serie C 22-23)",80.14357816123896
+"M. Peleg (29, Hapoel Petah Tikva, Liga Leumit 22-23)",80.12393952629411
+"B. Murka (25, Csákvári TK, NB II 22-23)",80.12128208661593
+"C. Essers (26, MVV, Eerste Divisie 22-23)",79.89692807205147
+"Miguel Loureiro (26, Lugo, La Liga 2 22-23)",79.71163692728538
+"F. Köchl (21, Grazer AK, Austrian 2. Liga 22-23)",79.5887595758421
+"R. Darbinyan (27, Shirak, Armenian Premier League 22-23)",79.49663654863205
+"R. Iezzi (23, Pro Vercelli, Serie C 22-23)",79.3964781073453
+"J. Stanić (24, Varaždin, 1. HNL 22-23)",79.24358339693993
+"H. Mathlouthi (30, Zamalek, Egyptian Premier League 22-23)",79.09306447325635
+"L. Carole (31, Kayserispor, Süper Lig 22-23)",78.60100269779609
+"J. Vinck (27, Excelsior Virton, Belgian First Division B 22-23)",78.51291298475218
+"Basem Ali (34, Future, Egyptian Premier League 22-23)",78.35607914215346
+"Diego Rico (30, Real Sociedad, La Liga 22-23)",78.33829058155122
+"J. Nerwinski (28, St. Louis City , MLS 2023)",78.29086003167795
+"Junior Morais (36, Rapid Bucureşti, SuperLiga României 22-23)",77.9926012969536
+"F. Belli (29, Padova, Serie C 22-23)",77.95425350413622
+"E. Herrera (24, Junior, Colombian Primera Division 22-23)",77.49525916159655
+"E. Finica (20, CSMS Iaşi, Romanian Liga II 22-23)",77.40249838990779
+"D. McNamara (24, Millwall, Championship 22-23)",77.2353346071116

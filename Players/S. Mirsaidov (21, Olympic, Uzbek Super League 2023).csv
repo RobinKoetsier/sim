@@ -1,54 +1,26 @@
-Player 1,Player 2,Similarity
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",18.40295663177867
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",45.06629233313539
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",16.160861057494603
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",39.09952297979044
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",-4.374602239007878
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",41.805691366648
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",-11.048761125565823
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",29.505076789504365
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",33.134339858442345
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",47.25338581583739
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",51.2498001376092
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",13.597588723175576
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",31.451043930732485
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",42.27411956729735
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",32.492124187373
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",58.08748416216646
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",40.21284031776981
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",21.586232722694582
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",47.3759119614141
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",38.689149493740864
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","N. Pallas (22, Oulu, Veikkausliiga 2023)",43.55580393379832
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","N. Friberg (27, Haka, Veikkausliiga 2023)",38.00569351376444
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","C. Antwi (23, KuPS, Veikkausliiga 2023)",60.81752850287264
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","M. Rale (22, Honka, Veikkausliiga 2023)",19.10086310734834
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",47.937468426443694
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",29.228778417399177
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","T. Ollila (23, HJK, Veikkausliiga 2023)",45.375535310373664
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",-14.879264698555131
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","K. Ofori (21, SJK, Veikkausliiga 2023)",31.658908800504616
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",27.984523167710982
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","P. Soiri (28, HJK, Veikkausliiga 2023)",30.031228851574067
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",28.08067294466533
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",-2.151284530446076
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",-7.973085384894263
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","M. Gaye (24, Riga FC, Virsliga 2023)",13.656141087399106
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",4.729577146866519
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","P. Mareš (32, RFS, Virsliga 2023)",40.305681397157095
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",10.25961265499122
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",3.68810867200848
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",28.147977782548228
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",14.165167418700692
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","N. Bretschneider (23, FK Auda, Virsliga 2023)",54.75936151528587
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",-17.792822046888734
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",16.64104246991956
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",40.7668731409337
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",31.62379356144068
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","P. Fall (22, Valmiera FC, Virsliga 2023)",39.8465219754714
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",28.1632721637634
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","R. Skrebels (23, FK Auda, Virsliga 2023)",52.48345218378832
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","E. Birka (23, Valmiera FC, Virsliga 2023)",33.2229920747686
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","R. Savaļnieks (30, RFS, Virsliga 2023)",39.659063114389575
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",-0.612012792703769
-"S. Mirsaidov (21, Olympic, Uzbek Super League 2023)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",41.78950019881084
+Player 1,Similarity
+"J. Abella (29, Atlas, Liga MX 22-23)",76.15781554160388
+"P. Čögley (34, Skalica, Slovak Super Liga 22-23)",75.87929120702512
+"Abdullah Tarmin (26, Dhamk, Saudi Professional League 22-23)",75.46050682995532
+"H. Ángeles (29, Sport Huancayo, Peruvian Liga 1 2023)",74.98195773234332
+"D. Hodžić (29, Radnik Surdulica, Serbian SuperLiga 22-23)",74.54135462706346
+"C. Fuentes (30, Colo Colo, Chilean Primera División 2023)",74.22402379121648
+"Chus Rubio (28, Inter Club d'Escaldes, Andorra Primera Divisió 22-23)",74.04755238175139
+"Tawfiq Buhumaid (35, Al Fateh, Saudi Professional League 22-23)",74.00725368584735
+"S. Auer (32, First Vienna, Austrian 2. Liga 22-23)",73.43186343275849
+"Ali Karami (24, Al Rayyan, Qatari Stars League 22-23)",73.30758879090116
+"Miguel Maga (20, Vitória Guimarães, Primeira Liga 22-23)",73.09181760455012
+"P. Stasyuk (28, Sabail, Premyer Liqa 22-23)",72.88406037153513
+"C. Arcus (26, Vitesse, Eredivisie 22-23)",72.48133992646602
+"L. Digne (29, Aston Villa, Premier League 22-23)",72.25794512433416
+"Alexandre Penetra (21, Famalicão, Primeira Liga 22-23)",72.1563643518829
+"Sultan Al-Ghannam (29, Al Nassr, Saudi Professional League 22-23)",72.15282786674602
+"Ricardinho (29, Voluntari, SuperLiga României 22-23)",72.10767807024692
+"J. Faussurier (36, Sochaux, Ligue 2 22-23)",72.08644552482438
+"L. Guntara (28, Borneo FC, BRI Liga 1 22-23)",71.65354007246636
+"J. Huyghebaert (34, U Craiova 1948, SuperLiga României 22-23)",71.60820185371713
+"S. Velev (34, Cherno More, Bulgarian First League 22-23)",71.59536275095934
+"M. Căpățînă (27, Universitatea Craiova, SuperLiga României 22-23)",71.39164685681766
+"N. Petrović (31, Bačka Topola, Serbian SuperLiga 22-23)",71.32402102030355
+"Dong-Ho Jeong (33, Suwon, K League 1 2023)",71.18532916734529
+"E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",71.10894936911951

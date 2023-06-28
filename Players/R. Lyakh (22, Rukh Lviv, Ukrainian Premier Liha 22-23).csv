@@ -1,127 +1,26 @@
-Player 1,Player 2,Similarity
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",62.7576212159416
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",67.85671532724376
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",12.507544500092138
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",35.05938544610142
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",68.29869096002797
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",59.9726795930376
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",59.24593305805266
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",53.39833316268872
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",44.20087017706798
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",32.002588830629804
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",7.884312975810462
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",16.6633145550873
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",37.6620418275914
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",14.062807019474633
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",55.21732999728187
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",12.279816066814464
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",19.05730772433855
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",73.70190653755691
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",58.07781974055166
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",27.40081347385655
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",19.27923869379429
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",56.59442492968401
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",7.453053457775377
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",54.68153269974311
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",70.64809286000819
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",9.906486306040058
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",52.13470207075513
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",74.32793799193031
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",50.82412557127978
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",56.03138868224929
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",59.36243160644338
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",51.07189994050988
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",75.96242484315758
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",46.47683621068938
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",59.5061109635372
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",1.6831891725197272
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",31.78638650739737
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",45.63424813871479
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",25.22729289834093
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",48.08760005762856
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-32.89475476036557
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",5.614059759343212
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",52.184158887041946
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",14.711316136895924
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",50.61157145597548
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",11.379646513994516
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",54.86866110418036
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",46.45022144241915
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",68.67640450238916
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",32.659526056083706
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",71.325659992271
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",70.33322715704603
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",24.888960287454303
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",-10.02720792877931
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",54.22764477713992
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",64.65328330913994
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",55.513671563121584
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",66.51703153384116
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",4.520162556314953
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",13.59392967036715
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",15.295393370049585
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",46.63674900832255
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",5.658788507695434
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",44.28077582291978
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",41.74405901235666
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",45.712703318291766
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",37.41813978831775
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",77.1842863823242
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",21.075095169101544
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",53.61646205711629
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",42.04040593355615
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",25.20674557963464
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",53.02433046727128
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",26.641400465606957
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",5.352675990266322
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",29.63120434456445
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",48.65166690417389
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",-17.544952943302903
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",72.01313746795329
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",1.6753368251058216
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",64.78418896845093
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",58.92003535910087
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",73.64411467439285
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",74.7154080070485
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",8.304847130354826
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",45.27670502802498
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",45.95770049684514
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",42.62011172820006
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",51.51770073994543
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",69.05148138919111
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",20.45475150642984
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",20.63700704325812
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",65.60894005484208
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",43.45235800403943
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",24.362380915411325
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",64.98676442382569
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",15.56049752779256
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",33.72795347814315
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",54.28536342529357
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",69.11951026497424
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",24.72533888007567
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",19.89829684364658
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",16.847281231557837
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",44.93812604077248
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",67.25427583621698
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",35.309188100582006
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",20.965670740083706
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",47.71656013721711
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",30.38682236550152
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","P. Mareš (32, RFS, Virsliga 2023)",72.10835974686105
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",48.48641838553844
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",43.9104030694052
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",67.10075695221684
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",5.186866458952907
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",51.11179735094032
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",16.959783516533637
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",35.384443310755685
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",31.126426282659363
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",27.26127838214389
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",82.16880633743952
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",49.10637459683777
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",42.06030567741186
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",45.57534934304681
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",73.5796533883052
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",-10.255679661175687
-"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",41.94086996565252
+Player 1,Similarity
+"L. Nikolić (23, Crvena Zvezda, Serbian SuperLiga 22-23)",87.1517406263607
+"Sabri Rahil (35, Al Ittihad, Egyptian Premier League 22-23)",86.62103158927967
+"D. Church (22, Alloa Athletic, Scottish League One 22-23)",85.97510637633626
+"Nuno Sequeira (32, Sporting Braga, Primeira Liga 22-23)",84.76872841841654
+"A. Kruja (29, Vllaznia Shkodër, Albanian Premier League 22-23)",84.20005942474043
+"I. Miličević (24, Lokomotiva Zagreb, 1. HNL 22-23)",83.9064956095838
+"A. Ražnatović (22, Budućnost, Montenegro First League 22-23)",83.82529953620516
+"E. Andersson (27, Djurgården, Allsvenskan 2023)",83.68468694388177
+"H. El Moussaoui (30, RSB Berkane, Botola Pro 22-23)",83.63272402616136
+"K. Koštrna (29, Spartak Trnava, Slovak Super Liga 22-23)",83.61260170226895
+"Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",83.55509990536123
+"O. Ovacıklı (34, BB Erzurumspor, Turkish 1. Lig 22-23)",83.54662383953013
+"R. Oliveira (27, Torreense, Portugal Segunda Liga 22-23)",83.29051883279685
+"R. Sanadi (36, Bhayangkara F.C., BRI Liga 1 22-23)",83.0560279737142
+"A. Benedetti (31, Pordenone, Serie C 22-23)",82.6570059389514
+"Y. Armougom (25, Sochaux, Ligue 2 22-23)",82.54101918189998
+"B. Barišić (30, Rangers, Scottish Premiership 22-23)",82.45979118565543
+"M. Tuychibaev (30, Alay, Kyrgyz Premier League 2023)",82.41514693568433
+"Omar Al Mozayel (0, Al Shoalah, Saudi First Division 22-23)",82.39831287757954
+"Luís Martins (30, Vancouver Whitecaps, MLS 2023)",82.20936800286526
+"R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",82.16880633743952
+"Alemão (30, Ararat-Armenia, Armenian Premier League 22-23)",82.16748823521094
+"A. Ceresoli (20, Mantova, Serie C 22-23)",82.16710820931489
+"K. Dankowski (26, Łódzki KS, Polish I Liga 22-23)",82.01464366152904
+"M. Huard (25, Brescia, Serie B 22-23)",82.01265693549698

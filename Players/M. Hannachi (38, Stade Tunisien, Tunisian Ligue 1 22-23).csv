@@ -1,239 +1,26 @@
-Player 1,Player 2,Similarity
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)",29.832129531636664
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)",-33.86738525181403
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)",-2.0469149647939626
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Y. Kchok (22, CA Bizertin, Tunisian Ligue 1 22-23)",1.2250886145091109
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Sioud (31, Rejiche, Tunisian Ligue 1 22-23)",35.97626858978806
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","H. Helal (30, EO Sidi Bouzid, Tunisian Ligue 1 22-23)",52.86549964712051
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Houssem Teka (22, Monastir, Tunisian Ligue 1 22-23)",28.160958213019036
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Derbali (20, Olympique Béja, Tunisian Ligue 1 22-23)",38.69396559959494
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Bouchniba (19, ES Tunis, Tunisian Ligue 1 22-23)",32.834874067026234
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)",-15.351004628399547
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)",38.159609887016046
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Y. Mechergui (23, CA Bizertin, Tunisian Ligue 1 22-23)",-7.874398241593853
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Harrabi (24, Monastir, Tunisian Ligue 1 22-23)",6.953894017917089
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","W. Sahli (35, Chebba, Tunisian Ligue 1 22-23)",14.789179753451462
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)",-4.520382052828344
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Ü. Ergün (30, Bodrumspor, Turkish 1. Lig 22-23)",53.59370782414676
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Ovacıklı (34, BB Erzurumspor, Turkish 1. Lig 22-23)",54.78897202416777
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Dere (30, Altınordu, Turkish 1. Lig 22-23)",37.41441665850415
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Sarıkaya (25, Altay, Turkish 1. Lig 22-23)",5.557938212786086
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","H. Bilgiç (30, Boluspor, Turkish 1. Lig 22-23)",33.31052628279595
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","G. Süzen (35, Denizlispor, Turkish 1. Lig 22-23)",52.510933803738055
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)",67.34247803901428
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)",43.56798517562211
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)",44.38614723279773
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","İ. Köybaşı (33, Göztepe, Turkish 1. Lig 22-23)",47.39697286519672
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Şahin (22, Manisa BBSK, Turkish 1. Lig 22-23)",57.56690326895837
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)",49.51455170335028
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Bayrak (24, Tuzlaspor, Turkish 1. Lig 22-23)",10.70099746157038
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Naderi (26, Altay, Turkish 1. Lig 22-23)",-32.80090778761732
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","G. Kaya (27, Pendikspor, Turkish 1. Lig 22-23)",23.11748735150133
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)",52.69403008746985
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Uçar (31, Eyüpspor, Turkish 1. Lig 22-23)",31.79320681551404
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Pala (22, Rizespor, Turkish 1. Lig 22-23)",14.01675142912658
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)",-2.033776589281448
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Şengül (24, Bandırmaspor, Turkish 1. Lig 22-23)",12.38264216466687
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)",35.35558950160658
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Gönül (25, Samsunspor, Turkish 1. Lig 22-23)",10.1610719939398
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Koç (26, Rizespor, Turkish 1. Lig 22-23)",66.9267075637681
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Özgenc (38, Pendikspor, Turkish 1. Lig 22-23)",71.80120098509053
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","C. Cavlan (31, Bandırmaspor, Turkish 1. Lig 22-23)",56.13726790278722
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)",45.83650565401305
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",-8.659520455439742
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",56.15624164155027
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",-7.486476643569789
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",13.82071257554496
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",48.14938124292701
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",-8.321783508636544
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",20.44585927801298
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",-11.135999626897346
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",66.44791696504745
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",3.709637770893376
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",10.858205317802708
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-4.75836150740501
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",-20.96296687828984
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",5.854759263593192
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",22.96075858012645
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",-7.368321002781513
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",10.375579402746752
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",27.698879957080525
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",50.51796748261111
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",-31.535667615168173
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",24.68463727331609
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",8.19093903471606
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",30.96224205182674
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",41.4184280226137
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",37.21461010470767
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",20.56309922954521
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",-12.70110086415412
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",25.231660012589032
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",-21.65795802874427
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",42.2084232287206
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",57.64332321193826
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",40.13386403462512
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",16.493011314826987
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",27.764419872001213
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",-7.871238263111799
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",62.72457580196892
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",30.83923827496335
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",21.03719852343441
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",43.36367885755519
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",7.795644110123405
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",50.271639521025605
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",-1.44372058874062
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",70.86190814278397
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",42.81125026690189
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",21.41960118442018
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",7.605787428891538
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",43.42133642640832
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",-1.6781201748375816
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",-1.681172338003405
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",45.82159511916148
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",-1.4225540960054917
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",19.873477057612384
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",27.27192198211427
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",2.493753198882081
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",17.584021758774927
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",53.83959976683948
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",6.678490940678753
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",55.47973270703468
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",32.30696853789117
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",-25.820407497756957
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",-16.442759207294284
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",-3.5687525187765656
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",34.75099011954248
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",36.46130899767544
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",4.514528759909501
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",18.738332330399476
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",34.08461968600007
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",-8.954238104504263
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",46.77832012709113
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-18.412423522452023
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",63.18939599450238
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",37.98833190923989
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",42.12121879317365
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",27.49410747398485
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",20.75988352882827
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",41.88640649474391
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",47.201933361176025
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",18.938390873009062
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",12.319689739099514
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",23.51646153251556
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",7.759823615241763
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",11.364779508461064
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",15.315887764982168
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",24.45328841904181
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",-20.29518396525343
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",20.117477817531714
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",13.734942731432003
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",11.083755557068686
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",62.94537511465946
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",56.16057557326201
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",39.53924381383555
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",11.969989650374016
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",32.08538874077792
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-5.633942018637391
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",41.47759853518886
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",39.04017536509319
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",11.450556877462152
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",24.34476088553738
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",51.743807632688345
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",52.292184111497264
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",29.978968164106952
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",34.84638808862904
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",49.485161108825245
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",48.154137316322576
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",12.384297198069037
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",52.67229649755021
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-28.51906548031745
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",11.334413472261804
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",25.37817759535802
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",5.97724533524962
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",39.733591378709214
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-42.636995266855095
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",-24.318592831930918
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",31.16146024155164
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",3.9715033647105815
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",34.17882357107129
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",-21.577466128890418
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",55.99768209465543
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",60.82356195431979
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",53.43246504713479
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",18.47927506469303
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",54.32980417187957
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",44.09278544399223
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",0.947431624855312
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",31.7521415466534
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",47.73939404476462
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",69.70183904708294
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",31.603464470367644
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",49.12161005043173
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",0.8219257941272127
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",31.410130150856308
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",23.891078621499005
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",49.40856355269994
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",-8.573378736258494
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",58.5638983660842
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",38.99248141849069
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",36.899784656885046
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",48.94537877407536
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",49.76082807040636
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",43.01820458727355
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",42.54202368826168
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",31.188593151173126
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",-4.930997784238289
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",53.6264138220396
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",17.940218924267715
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",27.431549378158422
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",24.43018298893142
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",48.88646117625592
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",-7.547779397969869
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",43.68865828769978
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",-9.13909040240021
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",38.62571775104068
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",22.49186250797364
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",61.075211005875374
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",55.81961556567546
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",14.469921981360228
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",55.49445020395103
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",65.04717431382765
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",48.6060227009081
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",66.70915428052398
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",60.541721875938514
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",3.317609803166477
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",62.22582406225351
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",44.24543061534519
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",43.38624404309008
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",17.29924031635895
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",65.71373880301826
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",4.486904897302816
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",36.47000495901671
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",27.12544997822016
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",51.650606672649126
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",21.944709276219925
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",-7.816245168564833
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",18.623615888298755
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",15.755506063508356
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",56.76728399125805
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",20.17846774640005
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",-7.096315105591222
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",26.58288641145006
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",8.220483535109837
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","P. Mareš (32, RFS, Virsliga 2023)",66.40332464922675
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",44.93173875095468
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",30.005056157130216
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",43.85632609009054
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",29.262439924125218
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",57.95566065562049
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",-6.398715606899459
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",7.43820284488836
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",41.45723424832608
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",24.291211995996317
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",43.57043961634573
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",42.21362844700384
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",38.30676326008997
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",28.816905950796333
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",66.5940197030144
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",-23.20422331329711
-"M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",34.56778694242782
+Player 1,Similarity
+"A. Bouzat (29, Colo Colo, Chilean Primera División 2023)",79.93137076783566
+"L. Reyes (32, Atlas, Liga MX 22-23)",79.47025667571944
+"B. Douglas (33, Lech Poznań, Ekstraklasa 22-23)",77.78885294699325
+"Jang Ji-seong (29, Gyeongju HNP, K3 League 2023)",77.69179660740566
+"R. Chiteishvili (29, Dila, Erovnuli Liga 2023)",77.27102970311552
+"C. Cappis (23, Brøndby, Superliga 22-23)",77.10695891085591
+"W. Alonso (32, General Caballero JLM, Paraguay Division Profesional 2023)",77.06262951852109
+"Park Sun-Ju (31, Gangneung City, K3 League 2023)",75.78619942438904
+"Amr El Saadawy (26, Al Masry, Egyptian Premier League 22-23)",75.56112628296614
+"J. O'Rourke (28, Crusaders, Northern Ireland Premiership 22-23)",75.55788880167613
+"J. van Oudenhove (24, Dender, Belgian First Division B 22-23)",75.42582425313746
+"B. Lucassen (24, NAC Breda, Eerste Divisie 22-23)",74.97245725539126
+"L. Pavez (27, Unión Española, Chilean Primera División 2023)",74.31953142323225
+"E. Hajsafi (33, AEK Athens, Greek Super League 22-23)",74.14567624694463
+"A. Mischenko (25, Dordoi Bishkek, Kyrgyz Premier League 2023)",73.8911588964386
+"A. Sauthier (32, Yverdon Sport, Swiss Challenge League 22-23)",73.72463151878402
+"T. Shelach (26, Hapoel Kfar Saba, Liga Leumit 22-23)",73.6769637169875
+"P. Fallmann (19, Rapid Wien II, Austrian 2. Liga 22-23)",73.2490081241039
+"P. Mamić (27, Žalgiris, Lithuanian A Lyga 2023)",73.00106280117468
+"Ahmed Shedid (37, Haras El Hodood, Egyptian Premier League 22-23)",72.82939770134966
+"Omar Al Mozayel (0, Al Shoalah, Saudi First Division 22-23)",72.66024601169512
+"A. Pupović (21, Iskra, Montenegro First League 22-23)",72.65024722101231
+"S. Tachino (30, Osaka, J3 2023)",72.64696441917708
+"E. Janža (29, Górnik Zabrze, Ekstraklasa 22-23)",72.30495160055551
+"Anderson Correia (32, Anorthosis, Cyprus 1. Division 22-23)",72.24976867995294

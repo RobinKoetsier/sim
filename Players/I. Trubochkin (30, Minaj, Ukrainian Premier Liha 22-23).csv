@@ -1,101 +1,26 @@
-Player 1,Player 2,Similarity
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",7.269377943163511
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",-23.51426876538244
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-13.662917141759376
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",6.7956788177653324
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-38.51122226058579
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",-12.069147064562578
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-17.773571917592097
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",20.3132640490328
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",-9.61507479227009
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-7.481790023986388
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-45.356670558121
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-2.3214353737021822
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",32.415724940378134
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",45.56944224510571
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",24.39861903117546
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",-3.139470323312332
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",10.426867171127856
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",6.740400138547028
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",-51.07966882902073
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",5.176102282650883
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",18.845816266798863
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",43.18932927066484
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",18.38914306083555
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",47.801776009382806
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",-10.831814831892212
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",9.361887642706831
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",33.70987173044943
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",53.66871769377526
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",-14.823889448131585
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",-7.279271915787119
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",-25.01651735223746
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",35.80310234021198
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",24.74316103423176
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",38.59754353182667
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",44.83364848554355
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",39.92273302259537
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",32.540687879131454
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",8.638940386976195
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",32.07074792231069
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",31.23460923097637
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",29.394467083425525
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",19.16192433457428
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",25.96150054143804
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",22.668759317340957
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",4.2468056827421305
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",-2.344533190665277
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",24.296033532202628
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",-4.813842879477613
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",51.87458956493798
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",36.7408712773996
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",-21.403998147363797
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",52.21074039794357
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",-12.652838678611408
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",50.49342127510394
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",-23.624470023503505
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",-1.125769104445386
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",-8.380961067142417
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",-6.6527849872233285
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",-10.936703417861
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",14.186209374473648
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",24.543937372036837
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",11.93420910598736
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",25.99248315838461
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",-10.385302706857704
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",47.3849056152382
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",23.26544022130731
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",-6.795817341702727
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",6.799137101771971
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",31.433606524951774
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",-8.635316054036988
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",16.299303568832325
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",22.084621684884866
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",-23.262875851581164
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",-23.06153959038277
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",-37.69341051935034
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",-18.8793752751002
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",36.92550161220069
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",-36.73886166684079
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",-38.44406321994441
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",14.5985809530114
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",17.781689341931678
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",-39.58182858575525
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",34.144242634231134
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","P. Mareš (32, RFS, Virsliga 2023)",-25.014908410388305
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-20.149659347864144
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",-13.448220081635014
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",-32.99252732833847
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",39.10941807087168
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",3.246141136374776
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",21.030496561646626
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",15.20126145551218
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",37.02355212687189
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",36.17069112720124
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",-16.103947149210473
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",26.08445029026361
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",-9.318663741626372
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",16.66372502324998
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",-27.09784996037125
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",31.247022066528977
-"I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",6.734331732176003
+Player 1,Similarity
+"G. Berardi (34, Bellinzona, Swiss Challenge League 22-23)",79.23745001240388
+"M. Curto (24, Südtirol, Serie B 22-23)",77.09532347663759
+"M. Spanring (21, AŠK Bravo, 1. SNL 22-23)",76.91842691170946
+"K. Mngonyama (29, Moroka Swallows, South Africa PSL 22-23)",76.17969856075281
+"Bolaño (37, Fuenlabrada, Primera División RFEF 22-23)",75.87740560279268
+"M. Ciofani (35, Triestina, Serie C 22-23)",73.83301621495795
+"C. Randall (27, Ross County, Scottish Premiership 22-23)",72.3971497441503
+"E. Kodra (23, Kastrioti Krujë, Albanian Premier League 22-23)",72.03855328782937
+"N. Leković (33, Mladost Lučani, Serbian SuperLiga 22-23)",72.01788281812964
+"Ș. Pisăru (21, Slatina, Romanian Liga II 22-23)",71.45767130015072
+"Z. Milic (25, Leotar, Bosnian Premier League 22-23)",71.38654932025392
+"R. Živković (32, Arsenal Tivat, Montenegro First League 22-23)",71.03965463014875
+"N. Landgraf (27, Hallescher FC, 3. Liga 22-23)",71.01836727334404
+"Jhon Trujillo (30, Alianza, Panama LPF 2023)",70.89355478439616
+"O. Mendoza (34, Querétaro, Liga MX 22-23)",70.2127306578727
+"F. Somma (19, Recanatese, Serie C 22-23)",70.11550558498728
+"L. De León (27, Cobán Imperial, Guatemala Liga Nacional 22-23)",70.08177002894294
+"I. Burnea (30, Mioveni, SuperLiga României 22-23)",69.85900580056169
+"S. Daengsee (35, Nong Bua Pitchaya FC, Thai League 1 22-23)",69.40157401983006
+"Lillo Castellano (34, Alcoyano, Primera División RFEF 22-23)",69.09048444840286
+"M. Al Hurayji (23, Al Batin, Saudi Professional League 22-23)",68.92040030298367
+"J. Nerwinski (28, St. Louis City , MLS 2023)",68.91557500254488
+"S. Mrsulja (23, Arsenal Tivat, Montenegro First League 22-23)",68.70735578720428
+"D. Ponjević (34, Radnički Kragujevac, Serbian SuperLiga 22-23)",68.64795929257042
+"F. Belli (29, Padova, Serie C 22-23)",68.40144325569295

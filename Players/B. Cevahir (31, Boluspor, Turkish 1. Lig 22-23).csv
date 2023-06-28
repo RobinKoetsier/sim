@@ -1,212 +1,26 @@
-Player 1,Player 2,Similarity
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","O. Bayrak (24, Tuzlaspor, Turkish 1. Lig 22-23)",18.42775209750761
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Naderi (26, Altay, Turkish 1. Lig 22-23)",22.46676392770543
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","G. Kaya (27, Pendikspor, Turkish 1. Lig 22-23)",10.224936921524222
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)",27.53913315323665
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Uçar (31, Eyüpspor, Turkish 1. Lig 22-23)",41.44277234748988
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Pala (22, Rizespor, Turkish 1. Lig 22-23)",32.84538442826235
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)",36.783344102353794
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","A. Şengül (24, Bandırmaspor, Turkish 1. Lig 22-23)",-0.8496776274381928
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)",48.349422882847406
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","S. Gönül (25, Samsunspor, Turkish 1. Lig 22-23)",68.85219806487596
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","A. Koç (26, Rizespor, Turkish 1. Lig 22-23)",83.94662067965616
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","E. Özgenc (38, Pendikspor, Turkish 1. Lig 22-23)",37.464260387868144
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","C. Cavlan (31, Bandırmaspor, Turkish 1. Lig 22-23)",48.974388899160274
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)",67.32909655981875
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",13.127722633953212
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",48.7299000225332
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",32.01287431930125
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",-15.62304307158992
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",70.80609034318253
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",-5.995070959938368
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",38.27174796198907
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",-11.975632503667509
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",51.34579061611948
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",-8.17467362738449
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",22.115614004100493
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",3.910350529352187
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",7.421889892489743
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",-23.916757567179182
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",19.466438797031387
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",29.54541547894649
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",8.577362039634167
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",49.04525867070861
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",61.76224721450381
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",-26.36908592105886
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",53.04303679955181
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",43.471451745377706
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",63.20934628231112
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",45.61856290140674
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",8.213928737079717
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",25.857937706103844
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",2.8958772441720333
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",2.2427478504939358
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",-17.74551782583705
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",31.142669885287106
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",43.67693862967696
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",46.7643013920308
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",38.693903786096726
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",34.05450388232179
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",19.631685668124817
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",64.90379821551369
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",17.724997909728994
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",41.137445219349125
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",64.13956164783322
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",4.606786731894781
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",26.533933156441957
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",-5.001070792755913
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",62.62550363196127
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",74.50924432194498
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",3.457612750843084
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",15.919382585576948
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",38.47193146281534
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",11.380921359468632
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",-14.266032056635597
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",60.408773323581386
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",-1.5857442929002863
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",12.863811224535471
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",26.85706338139161
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",36.90585655058598
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",8.846156449327754
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",79.2656277760298
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",13.385884098880735
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",55.25044770428343
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",25.943023320999647
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",20.731858775723406
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",16.271358101675176
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",25.26334992284901
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",17.742213109908576
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",59.84304453115635
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",3.9515406926880665
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",22.341025836803368
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",35.04053749385558
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",-18.893873668743684
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",23.373486206863323
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-26.62890209611513
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",73.31084210744349
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",43.26402776707363
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",57.95451068424609
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",22.70336980735673
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",9.906657009097472
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",60.691009783059016
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",62.434919518489295
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",62.79596436514969
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",49.604635049600056
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",64.8694611136086
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",47.30037820147002
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",0.6822494433313729
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",17.09647356553861
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",8.773491289113961
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",13.452313507820907
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",52.644664500299776
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",20.79966817543789
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",4.945147349670672
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",67.17054666918426
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",56.08370413902997
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",-5.006821187901664
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",28.81082983842823
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",34.064935901007104
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",13.877397129645558
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",45.50079834788982
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",42.57848201986406
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",0.4562566802220519
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",25.20500164618753
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",69.16878085485699
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",50.03400091294184
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",65.59512038573592
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",64.13112655674101
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",62.369113496879656
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",63.75267841133788
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",17.845546865496896
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",67.98168365937111
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-10.149330779678454
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",41.4732463816224
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",42.61710524778376
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",12.293613787128622
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",47.29164485766577
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-4.613246541941677
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",6.6375208936846
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",71.19111181844633
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",41.08782289776297
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",46.914141342580585
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",36.51805040593285
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",74.70484603364771
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",58.40200818908329
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",69.23132228610423
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",24.951079768760952
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",57.06883495384312
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",58.73904224151706
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",41.47107484755576
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",-2.765333637438352
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",74.9000681500214
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",42.95953733403829
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",61.93689710532178
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",50.64666385310809
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",14.480218448544855
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",29.50215461053554
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",13.309274978900929
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",51.55282041855793
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",24.60627550272315
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",30.13440255573057
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",35.6772601448978
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",31.420032417147013
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",22.921197921227428
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",62.545225448413454
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",43.94960029106152
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",38.99054040362051
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",40.25855358375299
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",41.29555197418188
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",55.01615559321667
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",57.90729843875655
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",3.4242714630771705
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",38.812541370006045
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",74.72051574694565
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",-3.66492669994026
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",75.90531551785398
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",6.980679285905328
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",65.92412292691135
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",77.46519284005684
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",64.3682409792684
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",66.19386179738075
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",10.097896787824736
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",27.01729531932389
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",57.57693398727628
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",36.07368502412496
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",50.38720299442958
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",69.78400381605627
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",28.06660122354728
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",30.995763655140586
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",73.05597132676641
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",42.22844571140794
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",0.0656402360693159
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",45.41391815981338
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",20.55204862413852
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",21.386906286867163
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",42.250776757605976
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",70.14349816424115
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",33.833176112312614
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",32.393867790077365
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",38.49968824331768
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",49.894862614576205
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",70.7533959953729
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",20.69675969895505
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",35.04607585113349
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",30.357981631417147
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",27.27960691325746
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","P. Mareš (32, RFS, Virsliga 2023)",67.92113861712222
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",55.003462863776775
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",40.43411919043941
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",56.40895066973805
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",9.563404409642205
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",38.33767286311122
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",21.49083630292802
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",25.438636276959347
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",19.98132436570813
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",20.241910963028246
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",70.64882132297642
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",38.1673200425158
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",29.37756501234084
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",70.30887207805307
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",73.80916460191533
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",-10.294475795565695
-"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",55.26107113569747
+Player 1,Similarity
+"Juanfran (34, Real Oviedo, La Liga 2 22-23)",91.45471253849644
+"K. Karagiannis (23, Akritas, Cyprus 1. Division 22-23)",90.97730644818328
+"S. Okaniwa (23, Omiya Ardija, J2 2023)",90.02202393349467
+"Abdullah Al Ammar (29, Dhamk, Saudi Professional League 22-23)",88.42844158324512
+"Carlos Neva (26, Granada, La Liga 2 22-23)",88.3845006794326
+"Sabri Rahil (35, Al Ittihad, Egyptian Premier League 22-23)",87.82194245452845
+"A. Dagarchaoui (0, Al Ain, Saudi First Division 22-23)",87.80065011127564
+"D. Zhivoglyadov (28, Lokomotiv Moskva, Russian Premier League 22-23)",86.48361024366868
+"M. Morello (28, Van, Armenian Premier League 22-23)",86.32548310570053
+"L. Abanda (22, Lamia, Greek Super League 22-23)",85.9252279090976
+"L. Holík (25, Viktoria Plzeň, Czech Fortuna Liga 22-23)",85.48609249053102
+"Saeed Al Mowallad (32, Al Ettifaq, Saudi Professional League 22-23)",85.40627356878169
+"M. Layún (34, América, Liga MX 22-23)",85.34671710349141
+"A. Bezchasnyuk (20, Veles, Russian FNL 2 22-23)",85.17376042067364
+"F. Rillo (22, Potenza, Serie C 22-23)",85.05994983914444
+"M. Castaño (29, Jaguares de Córdoba, Colombian Primera Division 22-23)",84.66958414129822
+"N. Lima (28, Austin FC, MLS 2023)",84.13709434540593
+"Moi Delgado (29, Ponferradina, La Liga 2 22-23)",84.07118731111325
+"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)",83.94662067965616
+"G. Frimpong (24, Moreirense, Portugal Segunda Liga 22-23)",83.71070568439649
+"Omar Al Mozayel (0, Al Shoalah, Saudi First Division 22-23)",83.58764769260075
+"L. Ridehalgh (32, Bradford City, League Two 22-23)",83.3690030093642
+"I. Miličević (24, Lokomotiva Zagreb, 1. HNL 22-23)",83.14183800848753
+"Saleh Al-Qumayzi (31, Al Faisaly, Saudi First Division 22-23)",83.08222655731521
+"M. Naji (32, Olympic Safi, Botola Pro 22-23)",82.81791969882862

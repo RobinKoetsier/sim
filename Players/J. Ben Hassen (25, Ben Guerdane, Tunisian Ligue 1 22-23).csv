@@ -1,242 +1,26 @@
-Player 1,Player 2,Similarity
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","L. Rjili (30, Hammam-Sousse, Tunisian Ligue 1 22-23)",45.53945210405493
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Yeken (29, AS Soliman, Tunisian Ligue 1 22-23)",19.95624734420785
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Hannachi (38, Stade Tunisien, Tunisian Ligue 1 22-23)",47.92756378559016
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)",19.757959908099924
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)",28.8022041923657
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)",37.348245477533496
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Y. Kchok (22, CA Bizertin, Tunisian Ligue 1 22-23)",41.70922604212884
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Sioud (31, Rejiche, Tunisian Ligue 1 22-23)",67.19926473818764
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","H. Helal (30, EO Sidi Bouzid, Tunisian Ligue 1 22-23)",48.85277381282484
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Houssem Teka (22, Monastir, Tunisian Ligue 1 22-23)",16.894461142716835
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Derbali (20, Olympique Béja, Tunisian Ligue 1 22-23)",26.61302339896388
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Bouchniba (19, ES Tunis, Tunisian Ligue 1 22-23)",-0.0831167050027471
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)",24.0301631447033
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)",21.123989749981074
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Y. Mechergui (23, CA Bizertin, Tunisian Ligue 1 22-23)",32.987658316574674
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Harrabi (24, Monastir, Tunisian Ligue 1 22-23)",30.365709747145864
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","W. Sahli (35, Chebba, Tunisian Ligue 1 22-23)",50.91127618529602
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)",23.975533029728872
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Ü. Ergün (30, Bodrumspor, Turkish 1. Lig 22-23)",33.84776021736356
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Ovacıklı (34, BB Erzurumspor, Turkish 1. Lig 22-23)",30.68466833756847
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Dere (30, Altınordu, Turkish 1. Lig 22-23)",3.586912218702274
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Sarıkaya (25, Altay, Turkish 1. Lig 22-23)",38.97943576379561
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","H. Bilgiç (30, Boluspor, Turkish 1. Lig 22-23)",26.97653697639867
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","G. Süzen (35, Denizlispor, Turkish 1. Lig 22-23)",48.71847877537682
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)",32.67148335750738
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)",27.06107137619443
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)",34.53836301585992
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","İ. Köybaşı (33, Göztepe, Turkish 1. Lig 22-23)",44.59140576242862
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Şahin (22, Manisa BBSK, Turkish 1. Lig 22-23)",36.003883122154825
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)",40.09818920682188
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Bayrak (24, Tuzlaspor, Turkish 1. Lig 22-23)",11.295340354910014
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Naderi (26, Altay, Turkish 1. Lig 22-23)",2.8085652588699284
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","G. Kaya (27, Pendikspor, Turkish 1. Lig 22-23)",-33.743552570685324
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)",45.12282366671056
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Uçar (31, Eyüpspor, Turkish 1. Lig 22-23)",8.573584060949534
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Pala (22, Rizespor, Turkish 1. Lig 22-23)",17.311479912254757
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)",17.15081904409821
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Şengül (24, Bandırmaspor, Turkish 1. Lig 22-23)",8.786986656448814
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)",41.0730798199862
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Gönül (25, Samsunspor, Turkish 1. Lig 22-23)",16.550068199177787
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Koç (26, Rizespor, Turkish 1. Lig 22-23)",52.471675688269045
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","E. Özgenc (38, Pendikspor, Turkish 1. Lig 22-23)",45.48736210761257
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","C. Cavlan (31, Bandırmaspor, Turkish 1. Lig 22-23)",38.87177902029654
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)",2.3453145265367508
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",26.40933914994149
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",48.78879090604456
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",9.537854466707229
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",17.782660297349533
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",36.282923215289046
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",31.71494304320841
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",33.63291860462029
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",8.092299269334863
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",46.28290834651936
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",18.257084040059848
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",-5.812116574073875
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",36.016582292790325
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",22.634654093602
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",36.08628664194796
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",21.39717095315136
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",38.13055960961566
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",-1.897334515826035
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",40.61193758618509
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",46.95280287357159
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",3.773221425378727
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",14.46579236872848
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",32.24418462487611
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",14.644569547419332
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",10.60198165657217
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",0.3475244478022321
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",57.69568162878712
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",-34.925077849841344
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",25.887676089669785
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",1.5235911674213944
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",54.24149722454895
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",37.83767014359315
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",1.3585467202541492
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",1.2194827779282398
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",46.78567022068374
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",50.762220496143485
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",30.197785337294064
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",10.658446260056513
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",14.618392420212164
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",10.057017035690109
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",37.25277491471361
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",39.93628640244782
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",16.133728202205404
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",50.72503529654521
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",36.766521320061365
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",20.430337097491677
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",21.78768191289452
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",23.10697100926621
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",31.21997918030074
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",1.396880279712275
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",23.15299055335688
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",26.688889680790844
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",21.19291127692958
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",26.90916527523251
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",40.08916247428317
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",11.736670777690152
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",32.200015365102864
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",32.0651826936503
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",42.8462971903902
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",26.142144236261988
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",22.485152084996823
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",10.254933958980454
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",6.98130315665669
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",30.62344004899989
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",43.65393711579768
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",7.28926060512039
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",44.13249563808759
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",36.55312908091749
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",41.96331061004789
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",8.891022653028504
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-30.09393641409307
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",36.74192750392636
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",1.53251497097252
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",21.31655073486943
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",23.280428337084185
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",-9.611005665137462
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",21.488264750923705
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",16.020372423675433
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",25.43598671823804
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",44.65767319276406
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",24.22968751029282
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",30.134501653641745
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",24.24338089701214
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",31.00082855934467
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-16.779385792558877
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",21.01160301488921
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",24.621855407797337
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",32.61754166438473
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",1.586563500352913
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",45.054577086946495
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",3.280165479034347
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",1.423567226577532
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",45.605658691949934
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",9.000516009024793
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",38.9892113636578
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",11.983249238614103
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",17.843622362430708
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",36.78052995397196
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",3.290689061738869
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",11.474433207013965
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",14.552186345433144
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",32.20981432133572
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-1.8026162507392327
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",43.08072549710772
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",16.66170398263256
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",7.179116581941322
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",51.78801877236957
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-5.555064214771564
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",2.8299914796768784
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",24.26209786891605
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",3.741602745546519
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",59.2581928227356
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",14.629155470646134
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",-9.251511298173794
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",26.40306665580392
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",19.47547469029334
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",6.179913366870983
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",16.008395055161447
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",42.35751970992981
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",42.37924290573876
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",40.22612024998967
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",39.19642052969166
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",40.21104484982448
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",15.9506006276721
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",48.16724527710654
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",27.508213052730905
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",20.67089059600445
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",11.310055273927215
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",13.188169161188307
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",32.39802668633706
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",14.841228906899604
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",51.13130679918406
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",37.25325618024588
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",57.40438626464559
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",34.68142841851896
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",5.771814441491984
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",37.72091900121384
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",49.53332988439564
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",31.849717631235396
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",21.567616971479328
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",47.043251089246894
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",18.34283209187012
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",18.56492247196754
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",12.751980015500587
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",32.520245775431164
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",19.298903665538525
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",29.05311987523632
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",17.570161111483877
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",22.3485162874754
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",26.31788635082217
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",25.409145503094937
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",31.67850986379628
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",2.5080383016473538
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",15.87439629627986
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",20.83996901324824
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",14.61919725658248
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",33.61696992628564
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",30.410905532722836
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",62.08973433452284
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",-2.779520706465685
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",27.416457612887974
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",22.715956404129088
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",21.787497438985543
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",32.67889032220195
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",14.307426769004056
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",23.11192251000053
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",-3.6051265208974974
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",3.083692866147854
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",-0.5847919071228308
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",-1.6305975131881405
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",-11.436781200309392
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",33.88350341485234
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",22.507395483731887
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",10.277802826906766
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",24.815964739354573
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",-7.830166161320987
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",10.254091662896624
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",14.155135427713317
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",14.375529957040136
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",-8.537971308346696
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",35.74550354980788
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","P. Mareš (32, RFS, Virsliga 2023)",39.1036365906869
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",38.06237162037826
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",54.973173756914186
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",-0.635918015369627
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",54.8915231796904
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",41.31080593882854
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",16.208919194382794
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",25.33759261986045
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",47.33102122430382
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",51.666240480685545
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",9.054729933668376
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",40.600399132029786
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",-10.554672672619796
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",27.66055714824976
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",30.935767681906047
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",8.617257339802617
-"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",43.72520617792482
+Player 1,Similarity
+"Mohamad Fandi (31, Kelantan United, Malaysian Super League 2023)",86.74500398015034
+"Zé Ricardo (24, Lugo, La Liga 2 22-23)",75.43813643214288
+"K. Vega (31, Puntarenas, Costa Rica Primera División 22-23)",74.31074471155827
+"N. Cabanillas (23, Universitario, Peruvian Liga 1 2023)",72.22345274491643
+"A. Asthorsson (25, Fylkir, Iceland Besta-Deild Karla 2023)",72.15922350838007
+"D. Dumitrașcu (28, Chindia Târgovişte, SuperLiga României 22-23)",72.08185878971797
+"Jordi Calavera (27, Lugo, La Liga 2 22-23)",72.01264906031724
+"J. Angulo (34, Unión Magdalena, Colombian Primera Division 22-23)",71.15976521411477
+"M. Vichos (23, Levadiakos, Greek Super League 22-23)",71.08503608201804
+"G. Valerianos (31, Ionikos, Greek Super League 22-23)",70.85787085745244
+"M. Ilić (30, Mladost Novi Sad, Serbian SuperLiga 22-23)",70.59850026224765
+"T. Wilson (23, Shelbourne, League of Ireland PL 2023)",69.9990349588097
+"Á. Martínez (34, Sportivo Ameliano, Paraguay Division Profesional 2023)",69.7005324331598
+"M. Martinaga (25, Slaven Belupo, 1. HNL 22-23)",69.36271247885885
+"V. Kyriakou (29, Olympiakos, Cyprus 1. Division 22-23)",68.65698062280342
+"Mikel Iribas (35, Fuenlabrada, Primera División RFEF 22-23)",68.4754890387903
+"O. Nemssaoui (32, UTS Rabat, Botola Pro 22-23)",68.39482609963086
+"W. Alonso (32, General Caballero JLM, Paraguay Division Profesional 2023)",68.1192718652617
+"A. Aldrete (34, Pumas UNAM, Liga MX 22-23)",67.86754628352588
+"K. Stafylidis (29, Bochum, Bundesliga 22-23)",67.6842535795583
+"J. Ben Hassen (25, Ben Guerdane, Tunisian Ligue 1 22-23)",67.19926473818764
+"Y. Román (26, San Carlos, Costa Rica Primera División 22-23)",66.82498429401419
+"Ángel López (26, La Nucía, Primera División RFEF 22-23)",66.27538132967139
+"M. Kulke (22, Dynamo Dresden, 3. Liga 22-23)",66.14903125657914
+"Fran Varela (28, Linares Deportivo, Primera División RFEF 22-23)",65.92868220699482

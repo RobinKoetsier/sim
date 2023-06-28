@@ -1,217 +1,26 @@
-Player 1,Player 2,Similarity
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)",30.42975338212324
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)",26.293304569807013
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","İ. Köybaşı (33, Göztepe, Turkish 1. Lig 22-23)",76.1873679559567
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Şahin (22, Manisa BBSK, Turkish 1. Lig 22-23)",55.88999802879973
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)",60.03424666967027
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","O. Bayrak (24, Tuzlaspor, Turkish 1. Lig 22-23)",26.76013195044727
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Naderi (26, Altay, Turkish 1. Lig 22-23)",-16.926442275426464
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","G. Kaya (27, Pendikspor, Turkish 1. Lig 22-23)",18.45369926852903
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)",31.786329481050608
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Uçar (31, Eyüpspor, Turkish 1. Lig 22-23)",58.59012054208748
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Pala (22, Rizespor, Turkish 1. Lig 22-23)",38.39077829689763
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)",12.23299237218188
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","A. Şengül (24, Bandırmaspor, Turkish 1. Lig 22-23)",-7.710724563347712
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)",39.29109954878414
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","S. Gönül (25, Samsunspor, Turkish 1. Lig 22-23)",16.812025859376714
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","A. Koç (26, Rizespor, Turkish 1. Lig 22-23)",75.55654498463255
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","E. Özgenc (38, Pendikspor, Turkish 1. Lig 22-23)",69.4029115778091
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","C. Cavlan (31, Bandırmaspor, Turkish 1. Lig 22-23)",32.92528044552184
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)",71.28348606665288
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",-3.763496822419401
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",43.39734674706979
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",-10.534650571216371
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",-8.440058151452307
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",44.94044141318146
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",-9.621049675823183
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",14.103164736330513
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",-20.45701800999085
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",58.538658949004855
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",-36.22952445598026
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",40.413678351584295
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-11.814956878399345
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",-33.54435284842218
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",-18.93383614347356
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",4.184902513102943
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",5.6721106406216855
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",26.488425192602204
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",36.54492717387413
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",57.697386864372405
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",-35.66382311385534
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",53.8273588387256
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",-2.076936628727122
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",45.983687981880585
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",50.48764893642807
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",35.55106055713624
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",-5.0280111729138985
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",12.808682509044006
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",-12.600781005983269
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",9.216102122411876
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",29.21076113500201
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",78.98503090909969
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",82.28639208307169
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",36.24892744376422
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",7.414053021042315
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",-23.08159038307497
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",91.1551714936635
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",-0.2027755078155314
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",20.987772760121526
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",64.71031981058647
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",-0.1421476359179921
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",55.09434349115857
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",-34.86294954091434
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",64.3031262924703
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",42.871916957935305
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",-13.152882457454822
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",-2.4358717250482367
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",50.29686619480578
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",-15.342339084145165
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",-21.185509698397198
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",54.92109766753999
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",-17.92236291717756
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",20.05561348010809
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",23.127083475123936
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",-12.524786155424222
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",-3.075951942956737
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",70.93660614293823
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",-30.538020377004354
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",36.88417212153393
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",37.29360696654653
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",-22.33282720644212
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",-1.059463788310258
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",0.7013116826627354
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",-12.24987258275065
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",48.05301922127656
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",-26.31986571688325
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",14.548799153884096
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",12.093378884647633
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",-18.929273648532067
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",28.05800627129488
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",9.12658180299496
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",75.80444563485023
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",62.51912384433256
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",59.34067006966808
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",-12.435880730315542
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",37.67750345128821
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",57.55718436525367
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",51.82240418428983
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",42.61177136298287
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",28.770065449172066
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",8.842414517106894
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",12.390356220980856
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",4.7076185122835925
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-14.757392807169015
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",12.149479147825328
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",3.47114805994913
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",37.91874681648569
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",18.877326863832536
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",-4.581955045505872
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",85.15270277383324
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",73.24411495651533
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",14.640894124309533
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",-7.6876317629507165
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",45.08658531438765
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-16.96607814243172
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",62.198739428942105
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",55.034971003265184
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",-28.88352454059264
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",41.73671964292733
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",85.30245172164665
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",56.86712651047736
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",50.09273797911085
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",70.44103171641457
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",65.70647582779365
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",78.04328788916163
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",35.100259277065575
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",71.63427948949517
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",12.030653782734973
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",60.12732989545694
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",53.50526885502934
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",2.6550802463101
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",34.4740159376703
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-54.91119241680461
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",0.3659991256260263
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",36.998051423189885
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",10.077525634026086
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",70.60661210757233
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",-7.308645803587607
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",45.88973056271816
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",26.03196412503768
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",61.43710086556108
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",11.21439692478544
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",78.01045246093375
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",66.30346670436779
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",-0.0034899333545279
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",-23.192937063012103
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",43.83873135870871
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",61.360666369066486
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",64.70614051453926
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",41.73973083501844
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",-7.027437085825701
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",-1.1712549916525226
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",3.2243739327998187
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",33.17402352442866
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",-16.526827707539297
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",36.06822861937671
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",22.05344897716784
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",26.646681220055623
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",39.37097722397719
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",62.09923598053479
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",27.338944680703086
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",42.069087825248914
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",20.657315525809665
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",17.636248417239482
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",41.04303738159063
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",28.32467493439356
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",-13.502160861514808
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",5.320684941625206
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",56.23615548808477
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",-47.28912597031608
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",65.88886849116035
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",-22.40299341333089
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",66.6122747405456
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",37.22809119035161
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",66.17501883057764
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",74.93142446652557
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",30.04080235569837
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",47.64439231183813
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",41.054842068312695
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",30.225824296536967
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",38.620974524178514
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",62.31636105726752
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",-22.75147667593416
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",9.388601387864131
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",46.9383317136007
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",43.42047048937356
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",16.832796267493702
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",69.09733231143697
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",-11.072712521229262
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",33.14746346549365
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",52.64541207266298
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",75.27772042098889
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",56.04556721183602
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",26.58032768900694
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",11.587189517882402
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",46.32836735258159
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",83.00033183718666
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",15.929764362747663
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",8.076153612565154
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",68.28862615203501
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",16.50755283336635
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","P. Mareš (32, RFS, Virsliga 2023)",90.56717947629572
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",62.97802379940804
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",61.62194225764453
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",73.75691448319762
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",9.359860565004684
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",57.10205236361308
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",-14.253965933341068
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",12.346139542761344
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",31.84463865413264
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",22.41540917515122
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",71.3049903153203
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",49.85032615979436
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",39.121087578266376
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",22.637022262822978
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",88.12397563945456
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",-20.99070310667688
-"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",23.25516104145826
+Player 1,Similarity
+"L. Pászka (27, Ferencváros, NB I 22-23)",92.28304879167332
+"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)",91.1551714936635
+"Min-Seo Park (22, Gyeongnam, K League 2 2023)",90.85093933491044
+"M. Costly (27, Ingolstadt, 3. Liga 22-23)",90.58198429195296
+"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)",90.56717947629572
+"B. Doherty (26, Derry City, League of Ireland PL 2023)",90.1354078630896
+"V. Lazaro (27, Torino, Serie A 22-23)",89.94940264474637
+"E. Larsson (31, OFI, Greek Super League 22-23)",89.867978657514
+"B. Sosa (25, Stuttgart, Bundesliga 22-23)",89.53596986645994
+"N. Antonov (28, Újpest, NB I 22-23)",89.52674153241055
+"M. Frýdek (31, Luzern, Swiss Super League 22-23)",89.31673834557917
+"E. Janža (29, Górnik Zabrze, Ekstraklasa 22-23)",89.21470090392127
+"Lucas Lovat (26, Slovan Bratislava, Slovak Super Liga 22-23)",88.85788763428164
+"D. Kabutov (31, Rubin Kazan', Russian FNL 2 22-23)",88.72404365021377
+"V. N'Simba (29, Bordeaux, Ligue 2 22-23)",88.61946640533522
+"E. Belilti (29, Ironi Tiberias, Liga Leumit 22-23)",88.61626916756681
+"David Juncà (29, Wisła Kraków, Polish I Liga 22-23)",88.52511220818883
+"A. Masuyama (26, V-Varen Nagasaki, J2 2023)",88.35636590323408
+"L. Lakay (31, Cape Town, South Africa PSL 22-23)",88.28427556276777
+"A. Masuaku (29, Beşiktaş, Süper Lig 22-23)",88.20872272310282
+"Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)",88.12397563945456
+"T. Vargas (23, Nîmes, Ligue 2 22-23)",87.86809726144097
+"A. Doughty (23, Luton Town, Championship 22-23)",87.8528790886271
+"Caio Roque (21, Lommel SK, Belgian First Division B 22-23)",87.83153991187362
+"A. Büttner (34, De Graafschap, Eerste Divisie 22-23)",87.68089614350629

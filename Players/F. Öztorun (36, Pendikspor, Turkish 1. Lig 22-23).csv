@@ -1,208 +1,26 @@
-Player 1,Player 2,Similarity
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Uçar (31, Eyüpspor, Turkish 1. Lig 22-23)",13.288953825907017
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Pala (22, Rizespor, Turkish 1. Lig 22-23)",0.9488718284140988
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)",11.03091909541046
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","A. Şengül (24, Bandırmaspor, Turkish 1. Lig 22-23)",56.9546344947718
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)",28.01420701563556
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","S. Gönül (25, Samsunspor, Turkish 1. Lig 22-23)",-5.34840621147827
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","A. Koç (26, Rizespor, Turkish 1. Lig 22-23)",29.026700369922487
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","E. Özgenc (38, Pendikspor, Turkish 1. Lig 22-23)",47.698916085716895
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","C. Cavlan (31, Bandırmaspor, Turkish 1. Lig 22-23)",46.23267698711813
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)",8.766441856703294
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",34.88763066723213
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",36.22397835277884
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",14.921469493179227
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",54.9787584761274
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",54.1180594330719
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",39.15806401453809
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",41.48325645478037
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",13.017332464781564
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",61.3889396073297
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",36.04477330559691
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",-14.170614345269714
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",12.373333385012804
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",4.697492301308983
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",20.91285009934586
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",22.85569343930753
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",7.723262471559815
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",10.0310995918897
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",14.42970383437608
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",29.662777672085827
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",27.984911137365003
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",10.660575316035258
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",28.623876452001568
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",0.3503286798826229
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",39.64115523850272
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",19.57437123706901
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",46.40309157819879
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",-28.953023637652525
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",34.46885183781016
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",-12.75485230957356
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",55.2350389302614
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",35.15024460191747
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",15.065308804631435
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",42.89286890910864
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",37.59341579108686
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",27.966816551843216
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",19.24691576823681
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",37.60548822953572
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",24.08407058813994
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",11.282180237761692
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",33.536733330748326
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",41.83736125061488
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",40.07160525197791
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",54.43792643533239
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",38.252336408218646
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",70.75684237597042
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",52.18403731285426
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",38.680688574452695
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",38.85986321323916
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",53.71653262457582
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",29.14636259049293
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",36.41417869392608
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",70.40967067344788
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",21.95933826992506
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",13.344596098736051
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",59.61622655337211
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",34.815449639794934
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",46.78648052495825
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",40.188751504149785
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",39.35631051053903
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",28.58838619435921
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",-11.869377659131551
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",33.24186756590342
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",49.63926062132362
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",9.963332203906582
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",42.63845714340113
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",18.00178639267129
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",49.88730154747591
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",2.6496553976351342
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",48.70388124614005
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-31.18507170316588
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",32.575576654398056
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",2.792621699808512
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",20.934693203255435
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",24.04101417817203
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",19.6165620193743
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",16.357468856930886
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",30.42762721452917
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",21.67125236061655
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",37.329026810514506
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",19.932157890516056
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",2.981767291572862
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",26.198993681712164
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",46.911169690892585
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",31.487044987574677
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",-6.08513830583944
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",8.274525985417327
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",21.73952971551493
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",25.804823526998195
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",23.708922604201263
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",26.724804546343595
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",57.39937477456507
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",52.25646031060055
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",19.56633735161316
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",18.127615687491048
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",32.818823918754106
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",33.72002617322024
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",21.606619302523875
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",22.951305923565755
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",4.209470696416657
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",18.40647064706207
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",20.79519218180945
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",2.655785622935115
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",33.76099657928732
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",18.57168074860516
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",6.511971274636777
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",24.620995073417674
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",12.83734041171838
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-1.2191338076555185
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",28.26232642776794
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",34.75164195107144
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",31.936355248064547
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",7.970583481298253
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",-4.476806063617531
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",29.50416071996947
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",4.90440823065739
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",2.1827172895182523
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",-3.265212838259816
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",20.55388720597317
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",55.09412904406656
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",22.312886431418388
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",19.09875357465524
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",26.52908734572946
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",1.228979667322721
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",21.73979019678377
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",27.58892537944309
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",35.26139651368824
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",34.54578238309281
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",-17.87783542193881
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",50.55995185458131
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",-17.01363354724262
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",12.533253913055384
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",12.554582614538944
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",33.3694062413887
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",6.187056604400703
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",57.79784411119711
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",49.61534689153581
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",8.090810217741632
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",20.424304991742236
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",21.62769036726525
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",51.92853362257514
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",43.32203592310432
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",35.6301324105121
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",-11.079262513564236
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",54.96008218755445
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",-0.8798777999771819
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",57.9568070078176
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",8.850368638136878
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",9.912132197675142
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",13.579754994695364
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",14.236710771643256
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",13.552905427261216
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",-13.870993122219383
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",-0.8193038531062483
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",35.28999516283032
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",29.98395433828572
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",6.662391571757638
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",59.02160933488437
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",55.05733694607217
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",12.366323284150535
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",38.205919971875865
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",23.404523178573765
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",33.02022800443941
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",48.74190852010287
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",22.507629628037336
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",22.537675920899023
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",36.98472223042095
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",32.12433707998379
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",38.928318770989584
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",22.197909868776428
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",-0.9055081722015595
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",16.600534812816754
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",9.391327448447813
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",-3.796155815580729
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",13.736495951450772
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",2.8269663835050007
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",2.275097306117936
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",-5.654807559802218
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",-14.934531835781517
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",-13.957970045435095
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",5.449248068326579
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","P. Mareš (32, RFS, Virsliga 2023)",23.84711348314063
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",11.156810228046885
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",13.033377851402667
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",-3.356717976031012
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",23.304686718665117
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",37.121504731024906
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",-6.501432989230057
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",3.1305210260088328
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",65.49185426118719
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",36.99885341845261
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",7.139776193134956
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",15.647277509779911
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",35.76202328345799
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",13.661055209075728
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",31.875711931996204
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",11.847397730098985
-"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",40.4403229146825
+Player 1,Similarity
+"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)",70.75684237597042
+"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)",70.40967067344788
+"E. Herrera (24, Junior, Colombian Primera Division 22-23)",69.26712184978311
+"Muhammad Ariff Farhan (26, Kedah, Malaysian Super League 2023)",68.90844712284591
+"S. Medina (30, Monterrey, Liga MX 22-23)",68.66577660423174
+"Y. Jarici (34, Mouloudia Oujda, Botola Pro 22-23)",68.65646369576967
+"M. Širok (31, Gorica, 1. SNL 22-23)",68.55022322895279
+"E. Del Prato (23, Parma, Serie B 22-23)",68.46102561183065
+"Y. Hurtado (26, Águilas Doradas, Colombian Primera Division 22-23)",67.8246985898019
+"M. Nenakhov (24, Lokomotiv Moskva, Russian Premier League 22-23)",67.17873541286106
+"I. Piris (34, Libertad, Paraguay Division Profesional 2023)",67.01339191772973
+"K. Paal (25, Queens Park Rangers, Championship 22-23)",66.08001554431834
+"C. Jiménez (28, Antigua GFC, Guatemala Liga Nacional 22-23)",65.71167914353336
+"R. Handa (21, Gamba Osaka, J1 2023)",65.56467058496632
+"F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)",65.49185426118719
+"D. Aksu (25, İstanbulspor, Süper Lig 22-23)",64.62279053962477
+"Marc Cucurella (24, Chelsea, Premier League 22-23)",64.3429175759618
+"J. Matul (29, Achuapa, Guatemala Liga Nacional 22-23)",64.1086212135678
+"Z. Erdal (35, Sivasspor, Süper Lig 22-23)",63.84795453541625
+"Joãozinho (33, Estoril, Primeira Liga 22-23)",63.39066792976
+"J. Quiñones (22, César Vallejo, Peruvian Liga 1 2023)",62.871939279735535
+"L. Carole (31, Kayserispor, Süper Lig 22-23)",62.862944546735456
+"B. Mazikou (26, Aris, Greek Super League 22-23)",62.7690300665128
+"J. Fonseca (33, Farense, Portugal Segunda Liga 22-23)",62.62761474957823
+"J. Huyghebaert (34, U Craiova 1948, SuperLiga României 22-23)",62.50059031372087

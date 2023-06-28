@@ -1,197 +1,26 @@
-Player 1,Player 2,Similarity
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",21.73805825177924
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",53.28112535970748
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",43.06849974505041
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",57.34057284859008
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",76.51244662530917
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",34.078222734286115
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",47.163898963150366
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",5.6082975177733765
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",29.185562322993324
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",3.4363193198980846
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",60.327299850069096
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",67.75408696693087
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",38.779773859851225
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",23.953328534581036
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",65.6555904205775
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",21.12177782197992
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",39.74716374754274
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",-11.639652300555966
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",65.94595536943591
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",30.293420247130985
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",63.197449634328336
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",19.83644813087778
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",25.69713679571209
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",21.66430496780221
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",47.74169322115209
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",7.152220450452905
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",15.547860035042564
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",15.333539143746783
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",31.174918908678883
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",-21.659471288579475
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",7.84483240777053
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",55.55168537013176
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",36.88364854929378
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",61.862521042744376
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",-18.612706079653567
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",45.57641800588448
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",49.75886066379017
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",10.055323406553685
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",59.06931451485181
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",9.673434270522955
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",68.69281891107735
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",9.056706732281633
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",22.36062978437099
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",27.897685899145287
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",50.17228723277998
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",26.58980776508411
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",75.32896695854248
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",58.57194473133287
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",28.79070832862482
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",31.93758432873379
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",46.58339289135471
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",43.423506963455935
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",57.25920472200848
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",42.34403160555856
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",34.193482057098635
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",38.33086322693151
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",31.18120171065727
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",51.39662240731222
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",53.13807861985229
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",51.179796616247806
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",65.00014579575353
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",14.523189042269388
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",33.05140162330164
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",26.82222109929627
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",38.21364775282906
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",68.44409195136258
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",55.1387394012379
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",44.03351773848923
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-9.244555934630224
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",13.49472449840964
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",-13.621014412876592
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",18.01430019239306
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",42.46337869498484
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",14.161395054654625
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",5.741850379539607
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",12.089770137437306
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",50.73280558886595
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",68.87679875733508
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",38.55658811457046
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",34.72896362821666
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",63.18432782047172
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",44.85700651461511
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-2.228797695754699
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",72.39981284084456
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",43.04095210242184
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",56.694719328596136
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",6.869534781703786
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",-4.388790973869907
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-9.892047773641854
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",33.714969130281055
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",34.62655085320525
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",30.94399930843913
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",63.10452497609812
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",24.61771375118272
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",30.234776670170323
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",33.23992884161084
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",9.631966123952534
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",-14.353829428052656
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-7.4466079416961
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",42.6696134267544
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-19.452945925262064
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",36.63392029587423
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",5.563307559169114
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",36.83006499184473
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",16.836505003330636
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",64.22699810585097
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",10.181919056975792
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",34.41263149028839
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",45.52101189014856
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",51.777365623985816
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",42.85927657909242
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",29.472767702569737
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",14.840476982687626
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",37.8799193362409
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",-33.860180472716536
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",58.16910947333548
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",26.211937226423423
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",32.17061086076931
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",20.94973516831616
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",58.552382651976274
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",7.347382989748316
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",5.361040941905001
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",57.038946101069335
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",15.35850790956968
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",-5.50756660841767
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",3.9289403332468975
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",-1.0629945165472812
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",55.43865092330053
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",40.63470726015838
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",36.40827878996373
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",62.94964602945426
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",7.1127112338233465
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",44.81912247389753
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",14.8361927225669
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",20.80395159715932
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",3.523993698567708
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",32.59511841045003
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",40.542160832838384
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",30.97815147701223
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",12.227030386968249
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",14.09122096911066
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",20.634247772728
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",17.327599590700302
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",4.846457221977456
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",11.683345701936409
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",20.792862378869057
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",8.534912688518471
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",48.28895015722629
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",7.485355336818822
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",67.05032555202551
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",3.2229293192235557
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",14.397455853260748
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",-2.037140940330061
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",9.329724486379224
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",20.2004291067899
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",7.069736330729899
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",15.295270040521016
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",-5.488845545921028
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",-3.4475244210277687
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",-23.49292189593376
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",30.653659087681152
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",-0.5455474572998515
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",24.466761289894244
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",16.202722241274436
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",20.42937742992161
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",-16.02284843756174
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",14.982173843450813
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",-3.8394607226298927
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",4.832023373990726
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",-0.693298043124013
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",-3.3493036679234622
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",32.85012289905918
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",40.83481014737706
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",17.00513968020017
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",-12.781121618212971
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",24.823037650657582
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",59.15535611017008
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",-0.2314909812174193
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",58.77081976625893
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","P. Mareš (32, RFS, Virsliga 2023)",-16.19753912961138
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-23.28608662721323
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",27.05479221163075
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",-7.364373101437197
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",34.42942074278944
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",-4.772891336713702
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",51.57818044550484
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",31.57342493123776
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",34.6981704726838
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",52.33444258453033
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",11.6331313114285
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",34.241605884675664
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",16.673470115026483
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",39.28778965913532
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",-7.871419351590253
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",68.99538459288516
-"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",28.61180636746919
+Player 1,Similarity
+"R. Zoia (21, Vis Pesaro, Serie C 22-23)",88.22928646037923
+"A. Gkertsos (23, Fermana, Serie C 22-23)",81.63074186008491
+"A. Carosso (21, Fermana, Serie C 22-23)",77.87526180950685
+"D. Galazzini (23, Trento, Serie C 22-23)",77.65712057862602
+"Jon Aramburu (20, Real Unión, Primera División RFEF 22-23)",77.2154173120887
+"A. Montgomery (20, St. Johnstone, Scottish Premiership 22-23)",76.5909434448877
+"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",76.51244662530917
+"U. Stojanović (27, Radnik Surdulica, Serbian SuperLiga 22-23)",76.48991044088376
+"D. Zugaro (23, Sangiuliano City, Serie C 22-23)",76.3224298689427
+"B. Ilievski (23, Pelister, North Macedonia First League 22-23)",76.12577600947876
+"R. Krulanović (23, Jedinstvo, Montenegro First League 22-23)",75.7817389256082
+"Miguel Santos (31, Real Unión, Primera División RFEF 22-23)",75.77834147904501
+"D. Tutonda (27, Gillingham, League Two 22-23)",75.7373975008075
+"D. Kornyushin (21, Nizhny Novgorod, Russian Premier League 22-23)",75.59746170281467
+"J. Gaspar (26, Grenoble, Ligue 2 22-23)",75.52960684220588
+"Zhen'ao Wang (23, Dalian Pro, Chinese Super League 2023)",75.48914660742192
+"C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",75.32896695854248
+"R. Law (23, Gillingham, League Two 22-23)",74.50433947751893
+"B. Bereszyński (30, Napoli, Serie A 22-23)",74.28654754776957
+"Marquinhos Pedroso (29, Mioveni, SuperLiga României 22-23)",74.216749184334
+"R. Alhassane (21, Rayo Majadahonda, Primera División RFEF 22-23)",73.75225367798394
+"I. Guri (19, Hapoel Ramat HaSharon, Liga Leumit 22-23)",73.43436198623998
+"F. Dadić (22, Sloga Doboj, Bosnian Premier League 22-23)",73.26991752896357
+"J. Currie (20, AFC Wimbledon, League Two 22-23)",73.17092421861359
+"M. Stijepović (23, Jezero, Montenegro First League 22-23)",72.97443935275386
