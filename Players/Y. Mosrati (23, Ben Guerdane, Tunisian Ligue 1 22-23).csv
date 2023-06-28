@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "Isael (35, Al Jabalain, Saudi First Division 22-23)",85.38605027711343
 "L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",83.29781382555171
 "Alan Calbergue (24, Erzeni Shijak, Albanian Premier League 22-23)",81.60757298100286
@@ -10,7 +10,7 @@ Player 1,Similarity
 "S. Laht (31, Kuressaare, Estonian Meistriliiga 2023)",78.27005294462667
 "A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",78.19054994865216
 "G. Lulukyan (20, BKMA, Armenian Premier League 22-23)",77.48584931592647
-"Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",76.97361947308742
+"J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",76.97361947308742
 "K. Krasniqi (27, VfB Oldenburg, 3. Liga 22-23)",76.83158905850017
 "D. Bodul (34, Igman Konjic, Bosnian Premier League 22-23)",76.54253731071483
 "F. Ben Choug (28, Hassania Agadir, Botola Pro 22-23)",76.37553969588005
@@ -21,3 +21,6 @@ Player 1,Similarity
 "Jefinho (34, Samgurali, Erovnuli Liga 2023)",75.2287913152424
 "D. Trubač (25, Teplice, Czech Fortuna Liga 22-23)",75.18854071005684
 "M. Aramu (28, Genoa, Serie B 22-23)",75.05537860604979
+"X. Mehmeti (29, Kastrioti Krujë, Albanian Premier League 22-23)",74.98280855189995
+"K. Köböl (21, Soroksár SC, NB II 22-23)",74.89445837069007
+"D. Hotič (27, Cercle Brugge, Belgian Pro League 22-23)",74.82327225177421

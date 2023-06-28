@@ -1,7 +1,7 @@
-Player 1,Similarity
+Player,Similarity
 "L. Majer (25, Rennes, Ligue 1 22-23)",83.63068490008285
 "F. Gorriarán (28, Tigres UANL, Liga MX 22-23)",80.01202390303266
-"E. Jelenič (30, Padova, Serie C 22-23)",78.60697214381015
+"D. Olaru (25, FCS Bucureşti, SuperLiga României 22-23)",78.60697214381015
 "J. Almanza (27, Cobán Imperial, Guatemala Liga Nacional 22-23)",78.16675942795936
 "R. van der Venne (31, Melbourne City, A-League Men 22-23)",76.80655635974082
 "M. Hlavatý (24, Pardubice, Czech Fortuna Liga 22-23)",76.34281314693986
@@ -9,10 +9,10 @@ Player 1,Similarity
 "Á. Bényei (20, Diósgyőr, NB II 22-23)",75.46305654385688
 "H. Calcaterra (34, Universitario, Peruvian Liga 1 2023)",75.42728585770539
 "T. Ballo (21, Wolfsberger AC, Austrian Bundesliga 22-23)",75.26485112911229
-"E. Jelenič (30, Padova, Serie C 22-23)",74.79071052551308
-"E. Jelenič (30, Padova, Serie C 22-23)",74.25196292543846
-"E. Jelenič (30, Padova, Serie C 22-23)",73.8993208316973
-"E. Jelenič (30, Padova, Serie C 22-23)",73.8199724373851
+"M. Avdyli (20, Aarau, Swiss Challenge League 22-23)",74.79071052551308
+"H. Rafia (24, Pescara, Serie C 22-23)",74.25196292543846
+"C. Witzig (22, St. Gallen, Swiss Super League 22-23)",73.8993208316973
+"S. Tonelli (31, Rimini, Serie C 22-23)",73.8199724373851
 "Eder (33, Hamrun Spartans, Malta Premier League 22-23)",73.65249535225693
 "G. Stewart (33, Mumbai City, Indian Super League 22-23)",73.46971183726059
 "N. Schmidt (25, Werder Bremen, Bundesliga 22-23)",73.19842983710141
@@ -22,5 +22,5 @@ Player 1,Similarity
 "T. Martínez (28, Melgar, Peruvian Liga 1 2023)",72.37079586686454
 "K. Kangwa (23, Crvena Zvezda, Serbian SuperLiga 22-23)",72.1042910656327
 "D. Saba (30, Maccabi Haifa, Ligat Ha'al 22-23)",71.98581674048053
-"E. Jelenič (30, Padova, Serie C 22-23)",71.9285085458212
+"G. Lundgren (28, GAIS, Superettan 2023)",71.9285085458212
 "Fernando Medeiros (27, Egnatia Rrogozhinë, Albanian Premier League 22-23)",71.3041259836556

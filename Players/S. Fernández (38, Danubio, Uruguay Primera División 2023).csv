@@ -1,36 +1,26 @@
-Player 1,Player 2,Similarity
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",26.000706298680047
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","L. País (28, Wanderers, Uruguay Primera División 2023)",26.225670105713107
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",34.07749172151524
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",19.47224110939588
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",41.56222677987804
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","P. García (24, River Plate, Uruguay Primera División 2023)",38.96885801864338
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",37.83907431524069
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",4.710637053738476
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",27.826478247970144
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",59.93828693142126
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",31.85205747494024
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",60.72089486850695
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",8.513506642087766
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",61.5490061293245
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",26.46348949416064
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",0.667061913566314
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",45.21614160891652
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",6.237396004123106
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","T. Keskinen (20, HJK, Veikkausliiga 2023)",25.766148757787796
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","S. Haarala (23, Ilves, Veikkausliiga 2023)",31.28739765525043
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",31.35027540535572
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","L. Rogerson (25, Haka, Veikkausliiga 2023)",31.440373881960927
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",39.60605716785744
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",34.259492603427674
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",53.068846695544
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","M. Correa (21, FK Metta, Virsliga 2023)",77.0838872441497
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",23.75108621915569
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",51.59967366818869
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","Emerson Deocleciano (23, RFS, Virsliga 2023)",31.87850936142414
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",51.594935361486485
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",36.16713537451328
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",28.41498988158402
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","M. Diop (20, Valmiera FC, Virsliga 2023)",43.40730630718027
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",20.0602063063762
-"S. Fernández (38, Danubio, Uruguay Primera División 2023)","O. Niang (21, Riga FC, Virsliga 2023)",30.55277647991213
+Player,Similarity
+"M. Trotta (30, Avellino, Serie C 22-23)",84.94854279940586
+"D. Poloz (31, Rostov, Russian Premier League 22-23)",80.9728472699617
+"Richarlison (26, Tottenham Hotspur, Premier League 22-23)",80.42695876739944
+"N. Laursen (25, Heracles, Eerste Divisie 22-23)",79.81645546513307
+"Stoichkov (29, Eibar, La Liga 2 22-23)",78.97332891053442
+"Z. Petrović (25, Budućnost, Montenegro First League 22-23)",78.79036803290973
+"Y. Gladyshev (20, Dinamo Moskva, Russian Premier League 22-23)",78.53636323817584
+"M. Correa (21, FK Metta, Virsliga 2023)",77.0838872441497
+"J. Rodríguez (29, América, Liga MX 22-23)",76.83557453363086
+"L. Jamieson (21, Airdrieonians, Scottish League One 22-23)",76.80902319086927
+"T. Seferi (26, Vorskla, Ukrainian Premier Liha 22-23)",75.97654800857914
+"D. Atanga (26, Oostende, Belgian Pro League 22-23)",75.95205363259011
+"C. Smith (23, Airdrieonians, Scottish League One 22-23)",75.8635565512946
+"Carlos Júnior (27, Al Shabab, Saudi Professional League 22-23)",74.75603806850728
+"P. Olayinka (27, Slavia Praha, Czech Fortuna Liga 22-23)",74.71357456069353
+"U. Isgandarov (25, Qabala, Premyer Liqa 22-23)",74.60483692473349
+"D. Ďuriš (24, Žilina, Slovak Super Liga 22-23)",74.3198890203864
+"K. Zohi (26, Vizela, Primeira Liga 22-23)",73.77127723845071
+"K. Toko Ekambi (30, Rennes, Ligue 1 22-23)",73.15254811935532
+"D. Borkowski (21, Dynamo Dresden, 3. Liga 22-23)",73.14127284451203
+"K. Badjie (23, VfB Oldenburg, 3. Liga 22-23)",72.96639028761155
+"N. Giorgobiani (25, Alaniya Vladikavkaz, Russian FNL 2 22-23)",72.87661856302228
+"P. Hercher (27, Kaiserslautern, 2. Bundesliga 22-23)",72.78785285909532
+"L. Melgarejo (32, Libertad, Paraguay Division Profesional 2023)",72.59404847772373
+"C. Martínez (30, Huachipato, Chilean Primera División 2023)",72.41445915116806

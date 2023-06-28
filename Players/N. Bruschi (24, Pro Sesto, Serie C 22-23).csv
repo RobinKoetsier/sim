@@ -1,13 +1,13 @@
-Player 1,Similarity
+Player,Similarity
 "C. Halper (25, Lafnitz, Austrian 2. Liga 22-23)",87.99825886886671
 "N. Chilvers (22, Colchester United, League Two 22-23)",83.85237489214542
 "Isael (35, Al Jabalain, Saudi First Division 22-23)",83.62638181750523
 "M. Beit-Ya''akov (26, Maccabi Kabilio Jaffa, Liga Leumit 22-23)",83.49775574931988
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)",82.85746247352111
+"K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",82.85746247352111
 "M. Ševčík (20, Zbrojovka Brno, Czech Fortuna Liga 22-23)",80.92862955865947
 "S. Verdi (30, Hellas Verona, Serie A 22-23)",80.12424939837352
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)",79.59763044748242
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)",79.54873576688746
+"E. Saporiti (21, Torres, Serie C 22-23)",79.59763044748242
+"A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",79.54873576688746
 "J. Lankester (23, Cambridge United, League One 22-23)",78.635628918647
 "A.  Lőrinczy (29, Diósgyőr, NB II 22-23)",77.7799728814627
 "S. Khaoui (28, Clermont, Ligue 1 22-23)",77.74174489914239
@@ -21,3 +21,6 @@ Player 1,Similarity
 "R. Safouri (27, Hapoel Be'er Sheva, Ligat Ha'al 22-23)",76.72922373091502
 "A. Hunter (27, Morecambe, League One 22-23)",76.68550290073934
 "A. Lugasi (18, Maccabi Petah Tikva, Liga Leumit 22-23)",76.65670115556881
+"O. Aydin (28, Hartberg, Austrian Bundesliga 22-23)",76.28584313532488
+"E. Henderson (23, Hibernian, Scottish Premiership 22-23)",75.92625017189071
+"R. Lakhmidi (23, Difaâ El Jadida, Botola Pro 22-23)",75.6287629578117

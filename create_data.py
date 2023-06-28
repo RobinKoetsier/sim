@@ -29,12 +29,11 @@ for pos in positions:
         print(player)
         base = df[(df['Player 1']==player) | (df['Player 2']==player)].sort_values(by=['Similarity'],ascending=False).reset_index(drop=True)
         base['Player'] = (base['Player 2']).where(base['Player 1'] == player, base['Player 1'])
-        base = base.loc[:, ['Player 1', 'Similarity']]
-        filtered_df = base[base.Similarity >= base.Similarity.quantile(.98)].reset_index(drop=True)
+        base = base.loc[:, ['Player', 'Similarity']]
+        filtered_df = base
     # filtered_df = df[(df['Player 1'] == value | df['Player 2'] == value)]
         filename = f'Players/{player.replace("/","")}.csv'
         filtered_df.head(25).to_csv(filename, index=False)
-
 
 
 

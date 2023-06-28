@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "M. Mijić (33, Novi Pazar, Serbian SuperLiga 22-23)",92.89030663596948
 "K. Turner (25, Partick Thistle, Scottish Championship 22-23)",91.56032850209432
 "S. Štilić (35, Željezničar, Bosnian Premier League 22-23)",91.21740332216832
@@ -7,7 +7,7 @@ Player 1,Similarity
 "M. Radi (40, Hapoel Nof HaGalil, Liga Leumit 22-23)",90.73340860674102
 "L. Fernández (24, Toluca, Liga MX 22-23)",90.52565771730552
 "W. Mimbela (31, ADT, Peruvian Liga 1 2023)",90.36706551919389
-"C. Pasquato (33, Trento, Serie C 22-23)",89.6513109788994
+"V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",89.6513109788994
 "M. Diemers (29, Emmen, Eredivisie 22-23)",89.61141969562287
 "A. Pritchard (30, Sunderland, Championship 22-23)",89.57877977989952
 "J. Swift (27, West Bromwich Albion, Championship 22-23)",89.34384566780841
@@ -21,3 +21,6 @@ Player 1,Similarity
 "Mohamed Helal (27, National Bank of Egypt, Egyptian Premier League 22-23)",87.68972857378903
 "J. Nsang (24, UE Santa Coloma, Andorra Primera Divisió 22-23)",87.64553357937291
 "U. Nikolić (29, Vojvodina, Serbian SuperLiga 22-23)",87.56695315753022
+"T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",87.56578916506625
+"D. Illés (29, Mosonmagyaróvári TE, NB II 22-23)",87.43538145595802
+"J. Vergés (31, Gualaceo, Ecuador Liga Pro 2023)",87.4342791482103

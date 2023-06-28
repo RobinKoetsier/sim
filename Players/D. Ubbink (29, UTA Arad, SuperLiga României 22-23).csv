@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "R. Messika (33, Hapoel Umm al-Fahm, Liga Leumit 22-23)",93.56368439318528
 "D. Quintero (35, América de Cali, Colombian Primera Division 22-23)",92.33387324724652
 "Kady (27, Qarabag, Premyer Liqa 22-23)",90.9271764348282
@@ -9,7 +9,7 @@ Player 1,Similarity
 "J. González (31, Herrera, Panama LPF 2023)",88.81159604987404
 "R. Torres (31, Alianza Atlético, Peruvian Liga 1 2023)",88.73055784613881
 "A.  Lőrinczy (29, Diósgyőr, NB II 22-23)",88.58439421121282
-"D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",88.5516388065413
+"D. Saba (30, Sivasspor, Süper Lig 22-23)",88.5516388065413
 "Zé Valente (28, Persebaya Surabaya, BRI Liga 1 22-23)",88.49251117253804
 "I. Bognár (32, MTK, NB II 22-23)",88.31782661450663
 "Carles Gil (30, New England, MLS 2023)",88.28098970468396
@@ -20,4 +20,7 @@ Player 1,Similarity
 "K. Velasco (26, Deportivo Cali, Colombian Primera Division 22-23)",87.91358249059222
 "A. Forson (20, Salzburg, Austrian Bundesliga 22-23)",87.70630698690563
 "A. Messidoro (25, Persis Solo, BRI Liga 1 22-23)",87.63173596574921
-"D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",87.58262567426196
+"J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",87.58262567426196
+"V. Jacob (28, Dijon, Ligue 2 22-23)",87.52918063557199
+"M. Barshazky (26, Maccabi Petah Tikva, Liga Leumit 22-23)",87.4239548711859
+"Ander Martín (22, Real Sociedad B, Primera División RFEF 22-23)",87.41598509464313

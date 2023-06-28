@@ -1,22 +1,26 @@
-Player 1,Player 2,Similarity
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",46.00504786870496
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",-22.988634020120383
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",58.10730443551382
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",-5.034413682440624
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","T. Keskinen (20, HJK, Veikkausliiga 2023)",54.77503335168387
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","S. Haarala (23, Ilves, Veikkausliiga 2023)",24.02925459656157
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",32.924298673110684
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","L. Rogerson (25, Haka, Veikkausliiga 2023)",17.575878289950882
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",62.12853395645368
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",56.58924526297051
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",36.05599938367124
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","M. Correa (21, FK Metta, Virsliga 2023)",83.3562995677545
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",35.29721090540534
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",40.044415933459696
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","Emerson Deocleciano (23, RFS, Virsliga 2023)",50.39212777336767
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",49.37954996474187
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",-5.579450786018081
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",40.31923549223144
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","M. Diop (20, Valmiera FC, Virsliga 2023)",32.79856151477585
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",38.40609905568286
-"O. Bozorov (25, Nasaf, Uzbek Super League 2023)","O. Niang (21, Riga FC, Virsliga 2023)",47.96342724465692
+Player,Similarity
+"S. Yamamoto (26, Persebaya Surabaya, BRI Liga 1 22-23)",84.25913170418092
+"M. Correa (21, FK Metta, Virsliga 2023)",83.3562995677545
+"K. Saito (21, Sparta Rotterdam, Eredivisie 22-23)",82.58206823646678
+"Willy Semedo (29, Al Faisaly, Saudi First Division 22-23)",82.26221450132721
+"E. Baša (29, Kukësi, Albanian Premier League 22-23)",81.56462274210232
+"O. Camara (22, Al Sharjah, UAE Pro League 22-23)",80.51086760259275
+"A. Diaby (31, Al Ittihad Kalba, UAE Pro League 22-23)",80.47375515073223
+"Mario Soriano (21, Deportivo La Coruña, Primera División RFEF 22-23)",80.45612574197249
+"Y. Lawal (25, Neftchi, Premyer Liqa 22-23)",80.2612786556754
+"André Rodrigues (25, Feirense, Portugal Segunda Liga 22-23)",79.86414050733465
+"N. Thórisson (23, Beerschot-Wilrijk, Belgian First Division B 22-23)",79.69183174999664
+"K. Yoda (34, Al Wahda, Saudi Professional League 22-23)",79.27095884460068
+"J. Ikoné (25, Fiorentina, Serie A 22-23)",78.92024628297153
+"F. Diabaté (27, Partizan, Serbian SuperLiga 22-23)",78.90783485586809
+"D. Akintola (27, Adana Demirspor, Süper Lig 22-23)",78.5043169193024
+"S. Tetteh (26, Bandırmaspor, Turkish 1. Lig 22-23)",78.09787583247815
+"M. Martínez (28, Nacional Asunción, Paraguay Division Profesional 2023)",78.04029234777687
+"L. Narsingh (32, Miedź Legnica, Ekstraklasa 22-23)",77.74840926535165
+"M. Trotta (30, Avellino, Serie C 22-23)",77.49682598416695
+"Hélder Costa (29, Al Ittihad, Saudi Professional League 22-23)",77.4858798063328
+"V. Qazaishvili (30, Ulsan Hyundai, K League 1 2023)",77.22097303223278
+"M. Kudus (22, Ajax, Eredivisie 22-23)",77.15322055115263
+"R. Mak (32, Sydney, A-League Men 22-23)",76.93461724920864
+"A. Aravena (20, Universidad Católica, Chilean Primera División 2023)",76.90131681142024
+"Y. Tanaka (23, Fagiano Okayama, J2 2023)",76.38829406461757

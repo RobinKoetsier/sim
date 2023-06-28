@@ -1,236 +1,26 @@
-Player 1,Player 2,Similarity
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","I. Kahveci (27, Fenerbahçe, Süper Lig 22-23)",26.13057898169385
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","C. N'Jie (29, Sivasspor, Süper Lig 22-23)",52.39735118874018
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","E. Colley (23, Fatih Karagümrük, Süper Lig 22-23)",57.946751376564
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","O. Ayık (33, Ümranıyespor, Süper Lig 22-23)",59.88690519915711
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Carlos Mané (29, Kayserispor, Süper Lig 22-23)",45.94192838130568
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Z. Bytyqi (26, Konyaspor, Süper Lig 22-23)",70.61147945779152
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","L. Marković (29, Trabzonspor, Süper Lig 22-23)",50.03122563718948
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","O. Aydın (22, Alanyaspor, Süper Lig 22-23)",60.26283269204372
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","E. Başsan (31, Kayserispor, Süper Lig 22-23)",39.15771642459319
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","H. Ghacha (27, Antalyaspor, Süper Lig 22-23)",59.43567439371651
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","R. Çivelek (27, Kayserispor, Süper Lig 22-23)",55.21525270101073
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","E. Mor (25, Fenerbahçe, Süper Lig 22-23)",59.12941809765256
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Ndao (26, Antalyaspor, Süper Lig 22-23)",73.5435315168508
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","J. Muleka (23, Beşiktaş, Süper Lig 22-23)",50.67693706582641
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Ivan Cavaleiro (29, Alanyaspor, Süper Lig 22-23)",70.38160436651074
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","G. N'Koudou (28, Beşiktaş, Süper Lig 22-23)",63.12657572585969
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Eskihellaç (25, Kasımpaşa, Süper Lig 22-23)",84.33843886254694
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Y. Akgün (22, Galatasaray, Süper Lig 22-23)",50.89545846054134
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","J. Lokilo (24, İstanbulspor, Süper Lig 22-23)",63.960037111206056
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","V. Gheorghe (26, Ümranıyespor, Süper Lig 22-23)",44.16619781874259
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","B. Celina (26, Kasımpaşa, Süper Lig 22-23)",56.19491387141758
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","P. Szysz (25, İstanbul Başakşehir, Süper Lig 22-23)",67.81190603185841
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Güler (18, Fenerbahçe, Süper Lig 22-23)",29.181347148714483
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","B. Yılmaz (23, Galatasaray, Süper Lig 22-23)",44.113959439743226
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Jean Evrard  Kouassi (28, Fatih Karagümrük, Süper Lig 22-23)",67.37456175033667
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","R. Murić (27, Konyaspor, Süper Lig 22-23)",46.89813313354393
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Chatzigiovanis (26, Ankaragücü, Süper Lig 22-23)",68.81410865480517
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","J. Sekidika (26, Ümranıyespor, Süper Lig 22-23)",69.52993084505631
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Djaniny (32, Trabzonspor, Süper Lig 22-23)",49.96309503896309
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Engin (26, Kasımpaşa, Süper Lig 22-23)",62.86124740856732
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Fortes (29, Nong Bua Pitchaya FC, Thai League 1 22-23)",54.66784401109187
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","S. Mueanta (20, Buriram United, Thai League 1 22-23)",60.844534295347216
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","P. Wokiang (28, Khon Kaen United, Thai League 1 22-23)",43.32586283125843
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","B. Phala (28, Port FC, Thai League 1 22-23)",58.38942903806456
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","S. Kannoo (26, Ratchaburi, Thai League 1 22-23)",51.76799646303744
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Mahmoud Eid (29, Bangkok United, Thai League 1 22-23)",42.56973684729516
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","J. Phasukihan (29, Nong Bua Pitchaya FC, Thai League 1 22-23)",64.60320981288544
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","S. Chatthong (30, Nakhon Ratchasima, Thai League 1 22-23)",52.581314273121606
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","S. Suvannaseat (21, Chiangrai United, Thai League 1 22-23)",28.915535214554883
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Ouattara (32, Chonburi, Thai League 1 22-23)",81.98961333134697
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","P. Parmpak (30, Port FC, Thai League 1 22-23)",16.73548537310432
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","C. Promsrikaew (22, Chonburi, Thai League 1 22-23)",46.8841650774316
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","C. Laptrakul (28, Prachuap, Thai League 1 22-23)",57.98426258725017
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Ferrier (28, Nakhon Ratchasima, Thai League 1 22-23)",80.93597811873255
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Maung (27, Lamphun Warrior, Thai League 1 22-23)",46.17610102349292
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","E. Omondi (28, Muang Thong United, Thai League 1 22-23)",64.36570659640108
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","P. Charoenrattanapirom (29, Port FC, Thai League 1 22-23)",81.09693397626411
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","W. Srivichai (35, Lampang, Thai League 1 22-23)",50.26859696418325
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","J. Palapon (23, Khon Kaen United, Thai League 1 22-23)",31.00400617850383
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","T. Siriphala (27, Prachuap, Thai League 1 22-23)",58.15212455796054
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","J. Wonggorn (26, Muang Thong United, Thai League 1 22-23)",54.22162425209686
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Beraheng (27, Nakhon Ratchasima, Thai League 1 22-23)",45.02826334513708
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Islam Batran (28, Nong Bua Pitchaya FC, Thai League 1 22-23)",49.74311767960111
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","J. Baggio (31, Sukhothai, Thai League 1 22-23)",67.38608981979559
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Willian Popp (29, Muang Thong United, Thai League 1 22-23)",39.97926542873383
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","T. Butsombat (35, Khon Kaen United, Thai League 1 22-23)",57.49968362421684
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Y. Chaowana (27, Police Tero, Thai League 1 22-23)",35.040305240233224
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","J. Songma (27, Lampang, Thai League 1 22-23)",35.320509507981875
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","S. Thorarit (24, Sukhothai, Thai League 1 22-23)",59.072892120006095
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","C. Srinawong (30, Bangkok United, Thai League 1 22-23)",46.90153682627853
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","R. Poomchantuek (31, Bangkok United, Thai League 1 22-23)",66.92268362578301
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Stenio Junior (31, BG Pathum United FC, Thai League 1 22-23)",29.1730263399564
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","P. Reichelt (34, Prachuap, Thai League 1 22-23)",36.98450151984732
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","J. Ivančić (32, Lampang, Thai League 1 22-23)",5.865220827203488
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","O. Bouguerra (24, Olympique Béja, Tunisian Ligue 1 22-23)",49.87192937352574
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","H. Khadraoui (24, Stade Tunisien, Tunisian Ligue 1 22-23)",55.18692676710528
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Hamdou Al Masry (29, ES Tunis, Tunisian Ligue 1 22-23)",55.98734658265828
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)",50.37751823613736
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","L. Ben Hassine (23, Etoile du Sahel, Tunisian Ligue 1 22-23)",44.120183403700416
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Bouziane (27, Monastir, Tunisian Ligue 1 22-23)",70.06352062111334
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Mohmmed Juma (25, Ben Guerdane, Tunisian Ligue 1 22-23)",34.02344621375702
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Nasr Hamed (19, Ben Guerdane, Tunisian Ligue 1 22-23)",34.95436626326404
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","B. Brahmi (30, EO Sidi Bouzid, Tunisian Ligue 1 22-23)",0.0332359646013475
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)",52.89244433206248
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","H. Chikhaoui (26, Monastir, Tunisian Ligue 1 22-23)",27.05393832207757
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","B. Mejri (27, Stade Tunisien, Tunisian Ligue 1 22-23)",39.11332882405669
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Habbassi (21, CS Sfaxien, Tunisian Ligue 1 22-23)",42.22567333756992
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Badri (32, ES Tunis, Tunisian Ligue 1 22-23)",43.26043426001522
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","K. Koffi (22, AS Soliman, Tunisian Ligue 1 22-23)",66.31680158398765
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)",39.16767287156941
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","I. Olawoyin (25, Rizespor, Turkish 1. Lig 22-23)",49.70240937857388
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","B. Coban (28, Manisa BBSK, Turkish 1. Lig 22-23)",70.542494198785
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)",36.19285925644223
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Mallé (25, Keçiörengücü, Turkish 1. Lig 22-23)",50.72632765977728
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Özek (35, Altınordu, Turkish 1. Lig 22-23)",26.72432452106325
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","L. Ayçiçek (29, Bandırmaspor, Turkish 1. Lig 22-23)",32.32041319804953
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","D. Diallo (22, Manisa BBSK, Turkish 1. Lig 22-23)",66.0629202061454
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","B. Keser (26, Rizespor, Turkish 1. Lig 22-23)",64.19971894955731
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","K. Nzuzi (29, Tuzlaspor, Turkish 1. Lig 22-23)",65.8079168312191
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","S. Tetteh (26, Bandırmaspor, Turkish 1. Lig 22-23)",57.51776014013548
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)",60.71222204358227
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","D. Bregu (27, Boluspor, Turkish 1. Lig 22-23)",35.43920496868008
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","B. Alıcı (25, Samsunspor, Turkish 1. Lig 22-23)",62.29980416113753
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","R. Muhammed (29, Keçiörengücü, Turkish 1. Lig 22-23)",40.6287632171196
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Yahaya (21, Tuzlaspor, Turkish 1. Lig 22-23)",76.38320909997466
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","R. Babel (36, Eyüpspor, Turkish 1. Lig 22-23)",52.869302476025545
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Gakpa (29, Manisa BBSK, Turkish 1. Lig 22-23)",48.17691923253526
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","E. Gürlük (19, Altınordu, Turkish 1. Lig 22-23)",62.329866228526754
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. İnan (24, Keçiörengücü, Turkish 1. Lig 22-23)",46.74070310362794
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Rosheuvel (32, BB Erzurumspor, Turkish 1. Lig 22-23)",57.48078237416898
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","D. Emeksiz (23, Manisa BBSK, Turkish 1. Lig 22-23)",26.467623361729288
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","J. Kayamba (31, Boluspor, Turkish 1. Lig 22-23)",76.16804462157164
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","O. Roshi (32, Sakaryaspor, Turkish 1. Lig 22-23)",39.43312574614199
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","S. Özcan (26, Altınordu, Turkish 1. Lig 22-23)",62.92880485826197
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","H. Akbunar (29, Eyüpspor, Turkish 1. Lig 22-23)",58.53543000254941
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Demir (25, Gençlerbirliği, Turkish 1. Lig 22-23)",46.40055598483104
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","O. Imeri (23, Bodrumspor, Turkish 1. Lig 22-23)",51.04172933958304
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","C. Akgün (24, Yeni Malatyaspor, Turkish 1. Lig 22-23)",16.35724012868266
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","H. Bağ (32, Bandırmaspor, Turkish 1. Lig 22-23)",46.56986631694564
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","H. Taşcı (32, Sakaryaspor, Turkish 1. Lig 22-23)",45.15476520409086
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Mimaroğlu (28, Altınordu, Turkish 1. Lig 22-23)",47.206462006400734
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Okutan (26, Boluspor, Turkish 1. Lig 22-23)",61.7555231034584
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","S. Sahintürk (27, Bandırmaspor, Turkish 1. Lig 22-23)",26.114528279645405
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","S. Yılmaz (33, Rizespor, Turkish 1. Lig 22-23)",18.41304234268157
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","B. Basaçikoglu (28, Tuzlaspor, Turkish 1. Lig 22-23)",50.739273623301465
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Amilton (33, Rizespor, Turkish 1. Lig 22-23)",64.02939555296935
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","C. Soukou (30, Bandırmaspor, Turkish 1. Lig 22-23)",43.50806629525357
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","K. Mayi (30, Denizlispor, Turkish 1. Lig 22-23)",13.563134321522451
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Özfesli (26, BB Erzurumspor, Turkish 1. Lig 22-23)",-18.71010782809984
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)",40.52567243064459
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Özhan (22, BB Erzurumspor, Turkish 1. Lig 22-23)",15.459986445886337
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Rharsalla (29, Gençlerbirliği, Turkish 1. Lig 22-23)",68.78469394061177
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)",45.88007044455182
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","А.Tuzcu (20, Gençlerbirliği, Turkish 1. Lig 22-23)",28.746223337232685
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","F. Ezeh (25, Eyüpspor, Turkish 1. Lig 22-23)",62.4708889437225
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","O. Belyaev (23, Gençlerbirliği, Turkish 1. Lig 22-23)",43.98420472780206
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Ali Saleh (23, Al Wasl, UAE Pro League 22-23)",48.390544108468426
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Fabio de Lima (29, Al Wasl, UAE Pro League 22-23)",34.856169266872946
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Aylton Boa Morte (29, Khorfakkan, UAE Pro League 22-23)",79.19446074328057
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Lourency (27, Al Bataeh, UAE Pro League 22-23)",64.27720680446498
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","S. Rahimi (26, Al Ain, UAE Pro League 22-23)",59.95062454090721
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Ali Madan (27, Ajman, UAE Pro League 22-23)",63.20068251556067
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Ryan Mendes (33, Al Nasr, UAE Pro League 22-23)",67.24427540424121
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Amer Bazuhair (31, Dibba Al Fujairah, UAE Pro League 22-23)",62.310741505301394
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Suhail Ahmed Al Noobi (27, Bani Yas, UAE Pro League 22-23)",46.00356273714919
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","P. Mboungou (22, Ajman, UAE Pro League 22-23)",69.90596286852508
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Bencharki (28, Al Jazira, UAE Pro League 22-23)",63.724501821795975
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Rayhi (28, Al Dhafra, UAE Pro League 22-23)",33.97813047874387
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","O. Traore (20, Al Jazira, UAE Pro League 22-23)",62.89011410230864
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Juninho (23, Khorfakkan, UAE Pro League 22-23)",80.88786341415897
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Jajá (24, Dibba Al Fujairah, UAE Pro League 22-23)",58.8407737868604
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Yarmolenko (33, Al Ain, UAE Pro League 22-23)",37.85764766551834
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Luan Pereira (23, Al Sharjah, UAE Pro League 22-23)",27.086477516845616
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","O. Camara (22, Al Sharjah, UAE Pro League 22-23)",52.5727664617733
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","S. Gassama (22, Al Bataeh, UAE Pro League 22-23)",72.34080257249116
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)",50.132679727799925
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Yahya Al Ghassani (25, Shabab Al Ahli Dubai, UAE Pro League 22-23)",53.611525177045706
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)",47.30722099857631
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Harib Abdalla Suhail (20, Shabab Al Ahli Dubai, UAE Pro League 22-23)",73.98594078749498
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","B. Ramírez (22, Al Ittihad Kalba, UAE Pro League 22-23)",48.54063412572866
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Leandro Spadacio (23, Al Ittihad Kalba, UAE Pro League 22-23)",31.901135243078787
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Mohamed Al Junaibi (24, Al Dhafra, UAE Pro League 22-23)",28.140091837309797
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Ahmed Abunamous (23, Bani Yas, UAE Pro League 22-23)",54.42434507391983
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Diaby (31, Al Ittihad Kalba, UAE Pro League 22-23)",71.32687489034271
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Caio Canedo (32, Al Ain, UAE Pro League 22-23)",44.06972533256746
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","F. Kruspzky (20, Al Wahda, UAE Pro League 22-23)",38.77929776765631
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","T. Seferi (26, Vorskla, Ukrainian Premier Liha 22-23)",50.63426389452281
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","V. Solomon-Otabor (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",80.34047162027494
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","G. Pasich (29, Veres, Ukrainian Premier Liha 22-23)",24.353714991711094
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",58.0502789977084
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","R. Rusyn (27, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",44.71039011697992
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Y. Kartushov (32, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",48.93810497219022
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","O. Ilyin (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",64.86932369250124
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)",54.36960200686681
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","V. Naumets (24, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",50.02189101329729
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Zaderaka (28, Kryvbas KR, Ukrainian Premier Liha 22-23)",29.275375576533097
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","V. Dakhnovskyi (24, Veres, Ukrainian Premier Liha 22-23)",38.56229321351951
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","N. Voloshyn (19, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",45.47550476946071
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","S. Myakushko (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",56.51084973185488
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Y. Pidlepenets (24, Dnipro-1, Ukrainian Premier Liha 22-23)",62.261081548669736
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","D. Blanco (28, Dnipro-1, Ukrainian Premier Liha 22-23)",46.7302286478636
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","V. Kalitvintsev (30, Oleksandria, Ukrainian Premier Liha 22-23)",31.636750326116232
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","N. Vorobchak (23, Minaj, Ukrainian Premier Liha 22-23)",43.5973371011736
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Z. Badibanga (31, Chornomorets, Ukrainian Premier Liha 22-23)",63.71887710057224
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","V. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",47.78921043505134
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",66.92470614477875
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","V. Kabaev (27, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",63.91768138323617
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","O. Kozak (28, Inhulets, Ukrainian Premier Liha 22-23)",46.18018983409738
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","D. Alefirenko (23, Chornomorets, Ukrainian Premier Liha 22-23)",67.40310494087744
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","B. Boychuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",62.20246695488504
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","V. Tsygankov (25, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",31.26011900182374
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","V. Rogozynskyi (27, Minaj, Ukrainian Premier Liha 22-23)",-1.9314293914580036
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","E. Kuliev (21, Minaj, Ukrainian Premier Liha 22-23)",31.2960687199689
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","O. Zubkov (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",25.10731235631422
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","V. Odaryuk (29, Inhulets, Ukrainian Premier Liha 22-23)",2.763360276801152
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",24.871247312114125
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","D. Kryskiv (22, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",34.439990057818946
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Bliznichenko (28, Veres, Ukrainian Premier Liha 22-23)",12.64156481604774
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)",31.44411241627933
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",54.134293736607816
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",53.34960606992002
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",48.70647761492346
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",21.46100120110306
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",35.0101216316994
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",75.3321353107645
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",49.40015160201723
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",49.593964897136125
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",40.91393812697649
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",70.78023098052498
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",37.47302502523742
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",45.6433163442417
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",34.93533145724636
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",65.4231752493867
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",61.61322191659932
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",11.756588778841376
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",62.657251109801294
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",45.22147665435627
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",12.300837266555124
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",52.78255015748534
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",68.0950821197999
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",69.45282710354537
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",55.27084190929794
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",45.60532912997485
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",62.24222353922859
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",66.4035501501589
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",13.821482963479117
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",41.21307590228633
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",13.389216630609596
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",72.78407168285909
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",31.8652940727414
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",64.46559076931806
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",55.68413542348566
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",75.05701049998635
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",66.93117774806223
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",40.08198904602663
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",44.37457720782704
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",45.73672768075767
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",49.80730490347762
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",42.11979373020625
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",54.58574723343328
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",-7.380262721567973
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",53.9140499510564
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",25.340646087252672
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",56.18361665318944
-"K. Michalak (25, Konyaspor, Süper Lig 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",55.71162067068632
+Player,Similarity
+"Kiki (25, Leixões, Portugal Segunda Liga 22-23)",87.47887022831145
+"J. Khasa (25, AEL, Cyprus 1. Division 22-23)",86.13361798596507
+"U. Antuna (25, Cruz Azul, Liga MX 22-23)",85.23573609068073
+"A. Bakayoko (25, Cheonan City, K League 2 2023)",84.41099245327027
+"I. Sarr (25, Watford, Championship 22-23)",84.39813868170533
+"M. Eskihellaç (25, Kasımpaşa, Süper Lig 22-23)",84.33843886254694
+"K. Saito (21, Sparta Rotterdam, Eredivisie 22-23)",84.25849043337207
+"V. Paz (21, Iztapa, Guatemala Liga Nacional 22-23)",84.13506082113564
+"Y. Lawal (25, Neftchi, Premyer Liqa 22-23)",83.96456069177671
+"O. Bailey (23, Salford City, League Two 22-23)",83.84165015247244
+"L. Canotto (29, Reggina, Serie B 22-23)",83.51647487119025
+"Henrique Pereira (21, Benfica II, Portugal Segunda Liga 22-23)",83.19766254948755
+"I. Angulo (24, Orlando City, MLS 2023)",83.1005212676906
+"R. Ofosu (31, Ohod, Saudi First Division 22-23)",82.94565072479057
+"C. Lang (24, Wigan Athletic, Championship 22-23)",82.7332607085396
+"Sito (26, Asteras Tripolis, Greek Super League 22-23)",82.66983622758042
+"K. Kodisang (23, Moreirense, Portugal Segunda Liga 22-23)",82.66821982635817
+"S. Palacios (31, Panathinaikos, Greek Super League 22-23)",82.60797844815086
+"Hélder Costa (29, Al Ittihad, Saudi Professional League 22-23)",82.4644232102918
+"A. Ouattara (32, Chonburi, Thai League 1 22-23)",81.98961333134697
+"Marcelo Lopes (29, Voluntari, SuperLiga României 22-23)",81.85934752591572
+"J. Mitrović (22, Gorica, 1. HNL 22-23)",81.47737022946934
+"D. Bertrand (29, Argeș, SuperLiga României 22-23)",81.421182884447
+"R. Lenis (30, Al Adalah, Saudi Professional League 22-23)",81.37885870843394
+"K. Lebon (25, Neftchi, Premyer Liqa 22-23)",81.20746276964186

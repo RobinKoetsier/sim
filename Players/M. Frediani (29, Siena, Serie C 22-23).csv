@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "A. Vlkanova (28, Viktoria Plzeň, Czech Fortuna Liga 22-23)",82.74165496893426
 "K. Arshid (28, Hapoel Acre, Liga Leumit 22-23)",79.83575074715762
 "N. Galazzi (22, Brescia, Serie B 22-23)",79.28277861909673
@@ -10,7 +10,7 @@ Player 1,Similarity
 "Adriano Castanheira (30, Penafiel, Portugal Segunda Liga 22-23)",74.33888910982267
 "J. Tabiner (19, Crewe Alexandra, League Two 22-23)",74.00734451129594
 "N. Alasgarov (28, Sabah, Premyer Liqa 22-23)",73.93581679089506
-"M. Frediani (29, Siena, Serie C 22-23)",73.84413183232985
+"E. Saporiti (21, Torres, Serie C 22-23)",73.84413183232985
 "D. Drexler (33, Schalke 04, Bundesliga 22-23)",73.40315322693965
 "J. Cardle (36, Kelty Hearts, Scottish League One 22-23)",73.211944624691
 "A. Dabbur (32, Maccabi Ahi Nazareth, Liga Leumit 22-23)",72.89431603691494
@@ -21,3 +21,6 @@ Player 1,Similarity
 "A. Clarke (20, Linfield, Northern Ireland Premiership 22-23)",72.00231472420478
 "Z. Clough (28, Adelaide United, A-League Men 22-23)",71.78632450533661
 "M. Pinnock (28, Northampton Town, League Two 22-23)",71.49764519973628
+"Brais Abelenda (27, Pontevedra, Primera División RFEF 22-23)",71.3845229986534
+"L. Connelly (23, Queen of the South, Scottish League One 22-23)",71.13254109671377
+"C. Wright (23, Plymouth Argyle, League One 22-23)",70.9806266396558

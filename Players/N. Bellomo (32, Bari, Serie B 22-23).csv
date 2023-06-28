@@ -1,14 +1,14 @@
-Player 1,Similarity
+Player,Similarity
 "Y. Kikui (23, Matsumoto Yamaga, J3 2023)",86.88746017234514
 "N. Galazzi (22, Brescia, Serie B 22-23)",86.53734038261123
 "C. Frýdek (24, Slovan Liberec, Czech Fortuna Liga 22-23)",86.24993637573243
 "L. Garritano (29, Frosinone, Serie B 22-23)",85.2262939148891
 "M. Aramu (28, Genoa, Serie B 22-23)",85.04964830268811
-"N. Bellomo (32, Bari, Serie B 22-23)",84.99097261772104
+"C. Pasquato (33, Trento, Serie C 22-23)",84.99097261772104
 "Álex Arias (33, CD Calahorra, Primera División RFEF 22-23)",84.66062079258721
 "D. Illés (29, Mosonmagyaróvári TE, NB II 22-23)",84.660029174471
 "D. Fitz (23, Austria Wien, Austrian Bundesliga 22-23)",84.65865268155393
-"N. Bellomo (32, Bari, Serie B 22-23)",84.54500936366014
+"T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",84.54500936366014
 "D. Hotič (27, Cercle Brugge, Belgian Pro League 22-23)",84.53023840450055
 "Y. Benrahou (24, Hajduk Split, 1. HNL 22-23)",84.36759822825806
 "M. Pinnock (28, Northampton Town, League Two 22-23)",84.03065559776147
@@ -21,3 +21,6 @@ Player 1,Similarity
 "S. Štilić (35, Željezničar, Bosnian Premier League 22-23)",82.90575112693493
 "K. Turner (25, Partick Thistle, Scottish Championship 22-23)",82.85831340961293
 "M. Mijić (33, Novi Pazar, Serbian SuperLiga 22-23)",82.82431605503827
+"A. Dabbur (32, Maccabi Ahi Nazareth, Liga Leumit 22-23)",82.71947146046979
+"J. Vergés (31, Gualaceo, Ecuador Liga Pro 2023)",82.7105427639628
+"A. Roman (29, CSMS Iaşi, Romanian Liga II 22-23)",82.4441506203189

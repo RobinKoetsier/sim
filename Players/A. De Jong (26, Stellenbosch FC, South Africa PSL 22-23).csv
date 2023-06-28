@@ -1,5 +1,5 @@
-Player 1,Similarity
-"A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",79.04122768457938
+Player,Similarity
+"S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",79.04122768457938
 "J. Ekkelenkamp (23, Antwerp, Belgian Pro League 22-23)",75.2168461683715
 "K. Doumbia (20, Reims, Ligue 1 22-23)",74.79349530159561
 "T. Nguen (29, Ferencváros, NB I 22-23)",73.49948877559832
@@ -9,8 +9,8 @@ Player 1,Similarity
 "Jon Toral (28, OFI, Greek Super League 22-23)",71.83929108299597
 "S. Seslar (21, Olimpija, 1. SNL 22-23)",70.7707827249916
 "G. Ivanov (35, Slavia Sofia, Bulgarian First League 22-23)",70.68961275598909
-"A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",70.34694821151245
-"A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",70.1971241158795
+"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",70.34694821151245
+"I. Jebali (31, OB, Superliga 22-23)",70.1971241158795
 "A. Ouahim (25, Heracles, Eerste Divisie 22-23)",70.19711038800676
 "M. Pronichev (25, Horn, Austrian 2. Liga 22-23)",69.99313372679843
 "I. Noy (22, First Vienna, Austrian 2. Liga 22-23)",69.93502262387462
@@ -21,3 +21,6 @@ Player 1,Similarity
 "D. Gazdag (27, Philadelphia Union, MLS 2023)",66.94597070089883
 "Alex Fernandes (20, Cherno More, Bulgarian First League 22-23)",66.62122020781838
 "A. Thomasson (29, Lens, Ligue 1 22-23)",66.38984465114945
+"A. Suárez (20, Alajuelense, Costa Rica Primera División 22-23)",66.22303248380521
+"A. El Hassouni (28, Wydad Casablanca, Botola Pro 22-23)",66.21014651090863
+"K. Fujimoto (23, Gil Vicente, Primeira Liga 22-23)",66.10201152515104

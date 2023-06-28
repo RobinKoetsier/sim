@@ -1,240 +1,26 @@
-Player 1,Player 2,Similarity
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)",86.46074947765065
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","N. Redmond (29, Beşiktaş, Süper Lig 22-23)",69.77501599527278
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","G. Beridze (26, Ankaragücü, Süper Lig 22-23)",64.5253567699124
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","K. Michalak (25, Konyaspor, Süper Lig 22-23)",67.10749412377594
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","I. Kahveci (27, Fenerbahçe, Süper Lig 22-23)",59.91853615644656
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","C. N'Jie (29, Sivasspor, Süper Lig 22-23)",55.96465806827595
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","E. Colley (23, Fatih Karagümrük, Süper Lig 22-23)",54.92355433678723
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","O. Ayık (33, Ümranıyespor, Süper Lig 22-23)",47.3949151904679
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Carlos Mané (29, Kayserispor, Süper Lig 22-23)",70.13963471477571
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Z. Bytyqi (26, Konyaspor, Süper Lig 22-23)",64.30053935451139
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","L. Marković (29, Trabzonspor, Süper Lig 22-23)",53.88423097671329
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","O. Aydın (22, Alanyaspor, Süper Lig 22-23)",73.44747492106846
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","E. Başsan (31, Kayserispor, Süper Lig 22-23)",71.83238984476786
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","H. Ghacha (27, Antalyaspor, Süper Lig 22-23)",49.16042808897713
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","R. Çivelek (27, Kayserispor, Süper Lig 22-23)",70.65405114185556
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","E. Mor (25, Fenerbahçe, Süper Lig 22-23)",77.2315989686614
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Ndao (26, Antalyaspor, Süper Lig 22-23)",38.41401093911618
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","J. Muleka (23, Beşiktaş, Süper Lig 22-23)",43.32528335353537
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Ivan Cavaleiro (29, Alanyaspor, Süper Lig 22-23)",78.50886927865876
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","G. N'Koudou (28, Beşiktaş, Süper Lig 22-23)",69.4474563420398
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Eskihellaç (25, Kasımpaşa, Süper Lig 22-23)",67.0259721817324
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Y. Akgün (22, Galatasaray, Süper Lig 22-23)",70.5313450878972
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","J. Lokilo (24, İstanbulspor, Süper Lig 22-23)",77.5945018076519
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","V. Gheorghe (26, Ümranıyespor, Süper Lig 22-23)",26.98456697703233
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","B. Celina (26, Kasımpaşa, Süper Lig 22-23)",75.95721315040225
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","P. Szysz (25, İstanbul Başakşehir, Süper Lig 22-23)",81.16191795162591
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Güler (18, Fenerbahçe, Süper Lig 22-23)",76.85097600346809
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","B. Yılmaz (23, Galatasaray, Süper Lig 22-23)",38.242580712293325
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Jean Evrard  Kouassi (28, Fatih Karagümrük, Süper Lig 22-23)",58.41821119277807
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","R. Murić (27, Konyaspor, Süper Lig 22-23)",53.88985927597042
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Chatzigiovanis (26, Ankaragücü, Süper Lig 22-23)",76.32327617614622
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","J. Sekidika (26, Ümranıyespor, Süper Lig 22-23)",75.41179201541009
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Djaniny (32, Trabzonspor, Süper Lig 22-23)",54.23400635185072
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Engin (26, Kasımpaşa, Süper Lig 22-23)",47.63862508834948
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Fortes (29, Nong Bua Pitchaya FC, Thai League 1 22-23)",65.12521527000878
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","S. Mueanta (20, Buriram United, Thai League 1 22-23)",59.5860930714166
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","P. Wokiang (28, Khon Kaen United, Thai League 1 22-23)",39.23607906765155
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","B. Phala (28, Port FC, Thai League 1 22-23)",81.99892624794145
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","S. Kannoo (26, Ratchaburi, Thai League 1 22-23)",30.24049415578537
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Mahmoud Eid (29, Bangkok United, Thai League 1 22-23)",34.35960680612962
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","J. Phasukihan (29, Nong Bua Pitchaya FC, Thai League 1 22-23)",80.87892100445787
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","S. Chatthong (30, Nakhon Ratchasima, Thai League 1 22-23)",40.17616771490651
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","S. Suvannaseat (21, Chiangrai United, Thai League 1 22-23)",-4.5191748379495085
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Ouattara (32, Chonburi, Thai League 1 22-23)",51.84902265535176
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","P. Parmpak (30, Port FC, Thai League 1 22-23)",46.616169695583984
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","C. Promsrikaew (22, Chonburi, Thai League 1 22-23)",47.14865793731341
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","C. Laptrakul (28, Prachuap, Thai League 1 22-23)",62.53250797931455
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Ferrier (28, Nakhon Ratchasima, Thai League 1 22-23)",71.64564306451528
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Maung (27, Lamphun Warrior, Thai League 1 22-23)",46.73266345425324
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","E. Omondi (28, Muang Thong United, Thai League 1 22-23)",66.91013079362199
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","P. Charoenrattanapirom (29, Port FC, Thai League 1 22-23)",76.30484391671789
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","W. Srivichai (35, Lampang, Thai League 1 22-23)",37.32019603022884
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","J. Palapon (23, Khon Kaen United, Thai League 1 22-23)",12.051728088847112
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","T. Siriphala (27, Prachuap, Thai League 1 22-23)",52.17025749242036
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","J. Wonggorn (26, Muang Thong United, Thai League 1 22-23)",63.31003960800602
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Beraheng (27, Nakhon Ratchasima, Thai League 1 22-23)",66.19658559521172
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Islam Batran (28, Nong Bua Pitchaya FC, Thai League 1 22-23)",53.8880118740768
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","J. Baggio (31, Sukhothai, Thai League 1 22-23)",59.9063265897653
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Willian Popp (29, Muang Thong United, Thai League 1 22-23)",55.91606412995208
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","T. Butsombat (35, Khon Kaen United, Thai League 1 22-23)",25.978690778408197
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Y. Chaowana (27, Police Tero, Thai League 1 22-23)",0.9088222907107084
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","J. Songma (27, Lampang, Thai League 1 22-23)",10.768391306661403
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","S. Thorarit (24, Sukhothai, Thai League 1 22-23)",51.08714993186679
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","C. Srinawong (30, Bangkok United, Thai League 1 22-23)",48.55114564724541
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","R. Poomchantuek (31, Bangkok United, Thai League 1 22-23)",73.85357249828009
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Stenio Junior (31, BG Pathum United FC, Thai League 1 22-23)",36.720368954488
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","P. Reichelt (34, Prachuap, Thai League 1 22-23)",16.923563635428437
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","J. Ivančić (32, Lampang, Thai League 1 22-23)",-17.1752586404833
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","O. Bouguerra (24, Olympique Béja, Tunisian Ligue 1 22-23)",59.21340723734113
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","H. Khadraoui (24, Stade Tunisien, Tunisian Ligue 1 22-23)",60.88585087030074
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Hamdou Al Masry (29, ES Tunis, Tunisian Ligue 1 22-23)",84.78430552172625
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)",55.33462613062816
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","L. Ben Hassine (23, Etoile du Sahel, Tunisian Ligue 1 22-23)",20.938562912645136
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Bouziane (27, Monastir, Tunisian Ligue 1 22-23)",71.84177915819629
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Mohmmed Juma (25, Ben Guerdane, Tunisian Ligue 1 22-23)",9.984904131000116
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Nasr Hamed (19, Ben Guerdane, Tunisian Ligue 1 22-23)",11.62146535228174
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","B. Brahmi (30, EO Sidi Bouzid, Tunisian Ligue 1 22-23)",21.07045413525054
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)",27.28905826211758
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","H. Chikhaoui (26, Monastir, Tunisian Ligue 1 22-23)",62.21011601357199
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","B. Mejri (27, Stade Tunisien, Tunisian Ligue 1 22-23)",29.71461657693801
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Habbassi (21, CS Sfaxien, Tunisian Ligue 1 22-23)",54.22821146535596
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Badri (32, ES Tunis, Tunisian Ligue 1 22-23)",63.10018148565677
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","K. Koffi (22, AS Soliman, Tunisian Ligue 1 22-23)",60.32361455481565
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)",48.38438822979146
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","I. Olawoyin (25, Rizespor, Turkish 1. Lig 22-23)",67.21371315932238
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","B. Coban (28, Manisa BBSK, Turkish 1. Lig 22-23)",66.96880167158375
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)",27.6697639256592
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Mallé (25, Keçiörengücü, Turkish 1. Lig 22-23)",62.507317432934016
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Özek (35, Altınordu, Turkish 1. Lig 22-23)",12.79082508779716
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","L. Ayçiçek (29, Bandırmaspor, Turkish 1. Lig 22-23)",50.82537431773383
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","D. Diallo (22, Manisa BBSK, Turkish 1. Lig 22-23)",53.827227048853466
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","B. Keser (26, Rizespor, Turkish 1. Lig 22-23)",70.43241143107399
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","K. Nzuzi (29, Tuzlaspor, Turkish 1. Lig 22-23)",50.685029474711286
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","S. Tetteh (26, Bandırmaspor, Turkish 1. Lig 22-23)",50.68188248150146
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)",63.98759414313538
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","D. Bregu (27, Boluspor, Turkish 1. Lig 22-23)",68.76605832848442
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","B. Alıcı (25, Samsunspor, Turkish 1. Lig 22-23)",56.652835743192334
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","R. Muhammed (29, Keçiörengücü, Turkish 1. Lig 22-23)",28.76463258809749
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Yahaya (21, Tuzlaspor, Turkish 1. Lig 22-23)",70.01067763143026
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","R. Babel (36, Eyüpspor, Turkish 1. Lig 22-23)",64.96815932695642
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Gakpa (29, Manisa BBSK, Turkish 1. Lig 22-23)",74.74818587600225
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","E. Gürlük (19, Altınordu, Turkish 1. Lig 22-23)",85.06993440406801
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. İnan (24, Keçiörengücü, Turkish 1. Lig 22-23)",28.63262616837461
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Rosheuvel (32, BB Erzurumspor, Turkish 1. Lig 22-23)",25.77861301062755
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","D. Emeksiz (23, Manisa BBSK, Turkish 1. Lig 22-23)",11.00198022156746
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","J. Kayamba (31, Boluspor, Turkish 1. Lig 22-23)",61.77741751968351
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","O. Roshi (32, Sakaryaspor, Turkish 1. Lig 22-23)",26.33207221519829
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","S. Özcan (26, Altınordu, Turkish 1. Lig 22-23)",48.40120972690966
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","H. Akbunar (29, Eyüpspor, Turkish 1. Lig 22-23)",55.79366770701873
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Demir (25, Gençlerbirliği, Turkish 1. Lig 22-23)",61.41113300648975
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","O. Imeri (23, Bodrumspor, Turkish 1. Lig 22-23)",28.90065921213915
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","C. Akgün (24, Yeni Malatyaspor, Turkish 1. Lig 22-23)",42.25755646234917
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","H. Bağ (32, Bandırmaspor, Turkish 1. Lig 22-23)",50.10820725403686
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","H. Taşcı (32, Sakaryaspor, Turkish 1. Lig 22-23)",21.704390798730252
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Mimaroğlu (28, Altınordu, Turkish 1. Lig 22-23)",65.80993331538762
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Okutan (26, Boluspor, Turkish 1. Lig 22-23)",60.383842082697015
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","S. Sahintürk (27, Bandırmaspor, Turkish 1. Lig 22-23)",26.63082653170978
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","S. Yılmaz (33, Rizespor, Turkish 1. Lig 22-23)",-7.550367383598355
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","B. Basaçikoglu (28, Tuzlaspor, Turkish 1. Lig 22-23)",73.45287270183188
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Amilton (33, Rizespor, Turkish 1. Lig 22-23)",67.84246114209525
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","C. Soukou (30, Bandırmaspor, Turkish 1. Lig 22-23)",50.303924893870274
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","K. Mayi (30, Denizlispor, Turkish 1. Lig 22-23)",-20.662344845534253
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Özfesli (26, BB Erzurumspor, Turkish 1. Lig 22-23)",13.462171842396156
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)",30.885958127376995
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Özhan (22, BB Erzurumspor, Turkish 1. Lig 22-23)",-18.06239514286017
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Rharsalla (29, Gençlerbirliği, Turkish 1. Lig 22-23)",62.93540554532368
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)",26.73881216957344
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","А.Tuzcu (20, Gençlerbirliği, Turkish 1. Lig 22-23)",11.239072662469974
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","F. Ezeh (25, Eyüpspor, Turkish 1. Lig 22-23)",63.76841185561716
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","O. Belyaev (23, Gençlerbirliği, Turkish 1. Lig 22-23)",23.08259585171665
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Ali Saleh (23, Al Wasl, UAE Pro League 22-23)",71.99496605994109
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Fabio de Lima (29, Al Wasl, UAE Pro League 22-23)",67.65852023704761
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Aylton Boa Morte (29, Khorfakkan, UAE Pro League 22-23)",60.680832090274805
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Lourency (27, Al Bataeh, UAE Pro League 22-23)",60.03659450577773
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","S. Rahimi (26, Al Ain, UAE Pro League 22-23)",65.38071097180146
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Ali Madan (27, Ajman, UAE Pro League 22-23)",65.33262691010438
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Ryan Mendes (33, Al Nasr, UAE Pro League 22-23)",74.77556664329288
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Amer Bazuhair (31, Dibba Al Fujairah, UAE Pro League 22-23)",25.83623711330116
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Suhail Ahmed Al Noobi (27, Bani Yas, UAE Pro League 22-23)",40.45302834680996
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","P. Mboungou (22, Ajman, UAE Pro League 22-23)",60.85027657858358
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Bencharki (28, Al Jazira, UAE Pro League 22-23)",90.07200491547354
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Rayhi (28, Al Dhafra, UAE Pro League 22-23)",52.87132552580884
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","O. Traore (20, Al Jazira, UAE Pro League 22-23)",49.87697180155393
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Juninho (23, Khorfakkan, UAE Pro League 22-23)",75.2573055851793
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Jajá (24, Dibba Al Fujairah, UAE Pro League 22-23)",44.483670666102256
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Yarmolenko (33, Al Ain, UAE Pro League 22-23)",68.11112170027059
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Luan Pereira (23, Al Sharjah, UAE Pro League 22-23)",43.26739139091789
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","O. Camara (22, Al Sharjah, UAE Pro League 22-23)",55.85147061958183
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","S. Gassama (22, Al Bataeh, UAE Pro League 22-23)",74.9595550408758
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)",62.35440484100702
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Yahya Al Ghassani (25, Shabab Al Ahli Dubai, UAE Pro League 22-23)",29.81475301210152
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)",68.73787337565376
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Harib Abdalla Suhail (20, Shabab Al Ahli Dubai, UAE Pro League 22-23)",85.13524684170429
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","B. Ramírez (22, Al Ittihad Kalba, UAE Pro League 22-23)",39.47399241260391
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Leandro Spadacio (23, Al Ittihad Kalba, UAE Pro League 22-23)",57.73197310418667
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Mohamed Al Junaibi (24, Al Dhafra, UAE Pro League 22-23)",-0.3108741471903963
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Ahmed Abunamous (23, Bani Yas, UAE Pro League 22-23)",52.4389810709506
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Diaby (31, Al Ittihad Kalba, UAE Pro League 22-23)",73.76349407201174
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Caio Canedo (32, Al Ain, UAE Pro League 22-23)",38.76327320431157
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","F. Kruspzky (20, Al Wahda, UAE Pro League 22-23)",26.046757141873844
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","T. Seferi (26, Vorskla, Ukrainian Premier Liha 22-23)",34.96399978717615
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","V. Solomon-Otabor (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",76.45945614478894
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","G. Pasich (29, Veres, Ukrainian Premier Liha 22-23)",42.61524544637568
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",43.04864903327221
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","R. Rusyn (27, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",50.45127382429118
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Y. Kartushov (32, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",21.502281898209784
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","O. Ilyin (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",39.69098716596972
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)",59.540560284108224
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","V. Naumets (24, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",66.93845252255119
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Zaderaka (28, Kryvbas KR, Ukrainian Premier Liha 22-23)",32.249317575828144
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","V. Dakhnovskyi (24, Veres, Ukrainian Premier Liha 22-23)",43.193894897243375
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","N. Voloshyn (19, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",37.43092053241818
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","S. Myakushko (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",74.15860371298805
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Y. Pidlepenets (24, Dnipro-1, Ukrainian Premier Liha 22-23)",62.31648879647578
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","D. Blanco (28, Dnipro-1, Ukrainian Premier Liha 22-23)",52.58762438837522
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","V. Kalitvintsev (30, Oleksandria, Ukrainian Premier Liha 22-23)",56.58496624479186
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","N. Vorobchak (23, Minaj, Ukrainian Premier Liha 22-23)",55.66882240141911
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Z. Badibanga (31, Chornomorets, Ukrainian Premier Liha 22-23)",50.73380040308268
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","V. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",56.69992021407707
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",67.60448313634174
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","V. Kabaev (27, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",80.24760125564728
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","O. Kozak (28, Inhulets, Ukrainian Premier Liha 22-23)",56.81747377866538
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","D. Alefirenko (23, Chornomorets, Ukrainian Premier Liha 22-23)",63.46301644204648
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","B. Boychuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",62.63508063771375
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","V. Tsygankov (25, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",70.58207129906147
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","V. Rogozynskyi (27, Minaj, Ukrainian Premier Liha 22-23)",7.052463290675847
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","E. Kuliev (21, Minaj, Ukrainian Premier Liha 22-23)",32.372060656171186
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","O. Zubkov (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",50.677559368085845
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","V. Odaryuk (29, Inhulets, Ukrainian Premier Liha 22-23)",-9.424806381087189
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",39.33102246757837
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","D. Kryskiv (22, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",59.02813243405226
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Bliznichenko (28, Veres, Ukrainian Premier Liha 22-23)",41.73366786054384
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)",69.25832612650574
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",45.83939676197783
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",54.32585864516862
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",29.78741163803823
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",42.16564779855302
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",70.07195830383617
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",78.34962221520544
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",61.1103840368294
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",82.15177437889693
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",31.42549721919148
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",69.2217579270707
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",29.48399261704258
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",69.83469542696264
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",17.240202391259093
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",56.11239348286943
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",58.81415447219192
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",35.81965600188261
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",60.68814094825216
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",57.99266847097076
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",56.62151088096376
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",66.92698275931107
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",66.75120612759639
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",51.5537324898564
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",49.596463644448754
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",62.94496877859106
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",67.70463186497767
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",58.0923118674806
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",-14.035958005089666
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",61.34844403449251
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",-15.08162025230622
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",77.50274388477256
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",44.23746368796518
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",52.56652267848105
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",39.79175370776054
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",70.00404941089717
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",78.16874561395528
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",33.60367831580851
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",51.967451452021066
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",55.63862278289362
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",31.148123693870144
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",70.96669792148406
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",60.77283150954808
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",-20.188772886070723
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",69.1889000107229
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",32.24709027535365
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",73.66536385036248
-"D. Rossi (25, Fenerbahçe, Süper Lig 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",71.61395396940988
+Player,Similarity
+"R. Alvarado (24, Guadalajara, Liga MX 22-23)",90.28246751875504
+"C. Führich (25, Stuttgart, Bundesliga 22-23)",90.1391453817604
+"J. Trenskow (22, HB Køge, Danish 1. Division 22-23)",90.1368557222952
+"A. Bencharki (28, Al Jazira, UAE Pro League 22-23)",90.07200491547354
+"Willian (34, Fulham, Premier League 22-23)",89.67890239888733
+"S. Ørjasæter (19, Sogndal, OBOS Ligaen 2023)",89.17488470750466
+"Bruno Rodrigues (26, Cruzeiro, Brasileirão 2023)",88.61587104933426
+"J. Rochelt (24, Elversberg, 3. Liga 22-23)",88.5419475616653
+"Gabriel Martinelli (21, Arsenal, Premier League 22-23)",88.08427220616247
+"S. Lobjanidze (28, Fatih Karagümrük, Süper Lig 22-23)",87.82672503650095
+"M. van Bergen (23, Reims, Ligue 1 22-23)",87.68421231421027
+"P. Roberts (26, Sunderland, Championship 22-23)",87.64072317670677
+"M. Politano (29, Napoli, Serie A 22-23)",87.16745504572782
+"E. Patoulidis (21, Den Bosch, Eerste Divisie 22-23)",86.73665644566668
+"D. Man (24, Parma, Serie B 22-23)",86.58475868954987
+"O. Sahraoui (21, Heerenveen, Eredivisie 22-23)",86.57572511361668
+"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)",86.46074947765065
+"B. Garré (22, Krylya Sovetov, Russian Premier League 22-23)",86.41717466749253
+"K. Mitoma (26, Brighton, Premier League 22-23)",86.37171232147577
+"M. Doumbia (28, Sochaux, Ligue 2 22-23)",86.07183323550328
+"Sergio Bermejo (25, Real Zaragoza, La Liga 2 22-23)",86.020239431536
+"Hélder Costa (29, Al Ittihad, Saudi Professional League 22-23)",85.60163327609438
+"C. Ikonomidis (28, Melbourne Victory, A-League Men 22-23)",85.60027328351633
+"M. Edwards (24, Sporting CP, Primeira Liga 22-23)",85.39943747185788
+"J. Grealish (27, Manchester City, Premier League 22-23)",85.29805999454489

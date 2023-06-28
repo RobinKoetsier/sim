@@ -1,162 +1,26 @@
-Player 1,Player 2,Similarity
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","H. Chikhaoui (26, Monastir, Tunisian Ligue 1 22-23)",18.295830754903736
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","B. Mejri (27, Stade Tunisien, Tunisian Ligue 1 22-23)",50.63252267672179
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","A. Habbassi (21, CS Sfaxien, Tunisian Ligue 1 22-23)",37.54483192063312
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","A. Badri (32, ES Tunis, Tunisian Ligue 1 22-23)",5.270195018710265
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","K. Koffi (22, AS Soliman, Tunisian Ligue 1 22-23)",47.67050008656954
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)",46.49997757223503
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","I. Olawoyin (25, Rizespor, Turkish 1. Lig 22-23)",37.90334951902166
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","B. Coban (28, Manisa BBSK, Turkish 1. Lig 22-23)",69.86833202073353
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)",44.462637103598
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","A. Mallé (25, Keçiörengücü, Turkish 1. Lig 22-23)",60.002819648112194
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","A. Özek (35, Altınordu, Turkish 1. Lig 22-23)",56.2962389838447
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","L. Ayçiçek (29, Bandırmaspor, Turkish 1. Lig 22-23)",26.10893773423041
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","D. Diallo (22, Manisa BBSK, Turkish 1. Lig 22-23)",53.75311453074356
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","B. Keser (26, Rizespor, Turkish 1. Lig 22-23)",58.75662289629274
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","K. Nzuzi (29, Tuzlaspor, Turkish 1. Lig 22-23)",76.54905673497836
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","S. Tetteh (26, Bandırmaspor, Turkish 1. Lig 22-23)",24.785348112488407
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)",40.91123544685532
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","D. Bregu (27, Boluspor, Turkish 1. Lig 22-23)",14.857080089474485
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","B. Alıcı (25, Samsunspor, Turkish 1. Lig 22-23)",62.1514676882315
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","R. Muhammed (29, Keçiörengücü, Turkish 1. Lig 22-23)",82.75261779183603
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","A. Yahaya (21, Tuzlaspor, Turkish 1. Lig 22-23)",69.04201290711983
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","R. Babel (36, Eyüpspor, Turkish 1. Lig 22-23)",13.336928598750466
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","M. Gakpa (29, Manisa BBSK, Turkish 1. Lig 22-23)",0.8118660863118508
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","E. Gürlük (19, Altınordu, Turkish 1. Lig 22-23)",37.42335510814074
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","M. İnan (24, Keçiörengücü, Turkish 1. Lig 22-23)",63.10787650218733
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","M. Rosheuvel (32, BB Erzurumspor, Turkish 1. Lig 22-23)",52.59447294097109
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","D. Emeksiz (23, Manisa BBSK, Turkish 1. Lig 22-23)",60.331808299769385
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","J. Kayamba (31, Boluspor, Turkish 1. Lig 22-23)",45.77562745833938
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","O. Roshi (32, Sakaryaspor, Turkish 1. Lig 22-23)",60.63034641264444
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","S. Özcan (26, Altınordu, Turkish 1. Lig 22-23)",47.30796807125239
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","H. Akbunar (29, Eyüpspor, Turkish 1. Lig 22-23)",47.34905661755229
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","M. Demir (25, Gençlerbirliği, Turkish 1. Lig 22-23)",69.57860122532288
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","O. Imeri (23, Bodrumspor, Turkish 1. Lig 22-23)",10.06672751042446
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","C. Akgün (24, Yeni Malatyaspor, Turkish 1. Lig 22-23)",42.59901681207089
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","H. Bağ (32, Bandırmaspor, Turkish 1. Lig 22-23)",11.378130815559937
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","H. Taşcı (32, Sakaryaspor, Turkish 1. Lig 22-23)",62.78335747653722
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","M. Mimaroğlu (28, Altınordu, Turkish 1. Lig 22-23)",48.284182307990406
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","M. Okutan (26, Boluspor, Turkish 1. Lig 22-23)",54.64070286065474
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","S. Sahintürk (27, Bandırmaspor, Turkish 1. Lig 22-23)",60.60277778475647
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","S. Yılmaz (33, Rizespor, Turkish 1. Lig 22-23)",43.771150727050994
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","B. Basaçikoglu (28, Tuzlaspor, Turkish 1. Lig 22-23)",42.92163582991378
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Amilton (33, Rizespor, Turkish 1. Lig 22-23)",36.36841264957428
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","C. Soukou (30, Bandırmaspor, Turkish 1. Lig 22-23)",50.80776260581474
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","K. Mayi (30, Denizlispor, Turkish 1. Lig 22-23)",40.13012444219967
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","A. Özfesli (26, BB Erzurumspor, Turkish 1. Lig 22-23)",-11.333772672131
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)",54.17334427699678
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","M. Özhan (22, BB Erzurumspor, Turkish 1. Lig 22-23)",51.984277195166925
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","M. Rharsalla (29, Gençlerbirliği, Turkish 1. Lig 22-23)",63.20499794622837
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)",43.54860746899066
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","А.Tuzcu (20, Gençlerbirliği, Turkish 1. Lig 22-23)",31.70304249378546
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","F. Ezeh (25, Eyüpspor, Turkish 1. Lig 22-23)",46.10154976154431
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","O. Belyaev (23, Gençlerbirliği, Turkish 1. Lig 22-23)",71.53725785528597
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Ali Saleh (23, Al Wasl, UAE Pro League 22-23)",34.27408227344168
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Fabio de Lima (29, Al Wasl, UAE Pro League 22-23)",-1.348782055064604
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Aylton Boa Morte (29, Khorfakkan, UAE Pro League 22-23)",63.796240849051046
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Lourency (27, Al Bataeh, UAE Pro League 22-23)",54.74822974709795
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","S. Rahimi (26, Al Ain, UAE Pro League 22-23)",39.67424730776035
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Ali Madan (27, Ajman, UAE Pro League 22-23)",49.491058161531285
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Ryan Mendes (33, Al Nasr, UAE Pro League 22-23)",38.65032934816284
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Amer Bazuhair (31, Dibba Al Fujairah, UAE Pro League 22-23)",39.37328921038511
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Suhail Ahmed Al Noobi (27, Bani Yas, UAE Pro League 22-23)",52.677971142149126
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","P. Mboungou (22, Ajman, UAE Pro League 22-23)",48.68348352651044
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","A. Bencharki (28, Al Jazira, UAE Pro League 22-23)",34.20403717467265
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","M. Rayhi (28, Al Dhafra, UAE Pro League 22-23)",24.84361258541868
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","O. Traore (20, Al Jazira, UAE Pro League 22-23)",64.04924243017547
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Juninho (23, Khorfakkan, UAE Pro League 22-23)",55.848195504813646
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Jajá (24, Dibba Al Fujairah, UAE Pro League 22-23)",66.94179637001416
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","A. Yarmolenko (33, Al Ain, UAE Pro League 22-23)",13.454809388391084
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Luan Pereira (23, Al Sharjah, UAE Pro League 22-23)",17.008082861373367
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","O. Camara (22, Al Sharjah, UAE Pro League 22-23)",23.392056682245485
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","S. Gassama (22, Al Bataeh, UAE Pro League 22-23)",46.7223945039996
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)",49.423179773102106
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Yahya Al Ghassani (25, Shabab Al Ahli Dubai, UAE Pro League 22-23)",73.08618951868591
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)",16.81195227691096
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Harib Abdalla Suhail (20, Shabab Al Ahli Dubai, UAE Pro League 22-23)",46.65166941341322
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","B. Ramírez (22, Al Ittihad Kalba, UAE Pro League 22-23)",60.1563687343349
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Leandro Spadacio (23, Al Ittihad Kalba, UAE Pro League 22-23)",51.42062811072188
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Mohamed Al Junaibi (24, Al Dhafra, UAE Pro League 22-23)",72.30732267207387
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Ahmed Abunamous (23, Bani Yas, UAE Pro League 22-23)",69.47671290171478
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","A. Diaby (31, Al Ittihad Kalba, UAE Pro League 22-23)",28.46117897475421
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Caio Canedo (32, Al Ain, UAE Pro League 22-23)",10.091961342114692
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","F. Kruspzky (20, Al Wahda, UAE Pro League 22-23)",23.309829974249716
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","T. Seferi (26, Vorskla, Ukrainian Premier Liha 22-23)",67.86521665661198
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","V. Solomon-Otabor (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",52.93895208599878
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","G. Pasich (29, Veres, Ukrainian Premier Liha 22-23)",24.77622585157489
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",84.98781087903494
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","R. Rusyn (27, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",54.1245021462197
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Y. Kartushov (32, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",8.717609975874636
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","O. Ilyin (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",70.59379699341639
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)",48.2547450081197
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","V. Naumets (24, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",51.24479223112787
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","M. Zaderaka (28, Kryvbas KR, Ukrainian Premier Liha 22-23)",56.06324042310398
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","V. Dakhnovskyi (24, Veres, Ukrainian Premier Liha 22-23)",56.0829441657819
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","N. Voloshyn (19, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",69.73891014864098
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","S. Myakushko (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",57.07881282307065
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Y. Pidlepenets (24, Dnipro-1, Ukrainian Premier Liha 22-23)",57.36686394796112
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","D. Blanco (28, Dnipro-1, Ukrainian Premier Liha 22-23)",7.017628769468348
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","V. Kalitvintsev (30, Oleksandria, Ukrainian Premier Liha 22-23)",12.429862459010671
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","N. Vorobchak (23, Minaj, Ukrainian Premier Liha 22-23)",64.82095663918382
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Z. Badibanga (31, Chornomorets, Ukrainian Premier Liha 22-23)",42.30442245601485
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","V. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",33.722209407821296
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",42.17905835377258
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","V. Kabaev (27, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",26.62694448639219
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","O. Kozak (28, Inhulets, Ukrainian Premier Liha 22-23)",54.28470398155972
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","D. Alefirenko (23, Chornomorets, Ukrainian Premier Liha 22-23)",65.50480001665197
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","B. Boychuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",57.14286558424164
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","V. Tsygankov (25, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",20.56640460507409
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","V. Rogozynskyi (27, Minaj, Ukrainian Premier Liha 22-23)",39.51851938838343
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","E. Kuliev (21, Minaj, Ukrainian Premier Liha 22-23)",67.10190779937275
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","O. Zubkov (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",16.649861691446482
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","V. Odaryuk (29, Inhulets, Ukrainian Premier Liha 22-23)",55.975610429317534
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",55.77164944198528
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","D. Kryskiv (22, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",18.82944924500013
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","A. Bliznichenko (28, Veres, Ukrainian Premier Liha 22-23)",24.00231397229917
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)",38.692067812217466
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",29.14300262071295
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",49.5228435576597
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",41.84029968499687
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",29.13881298527737
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",7.754303745549487
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",51.96801542251954
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",32.77864551385355
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",31.8959070051522
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",63.92538075802929
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",53.28687518933677
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",41.135455808074944
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",7.848537537858238
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",12.150681095439976
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",76.4675608872778
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",61.82661355222447
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",33.95408452636773
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",54.94462781321505
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",52.63073831686722
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",7.169937870502439
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",26.78027878105493
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",26.897956325757217
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",53.79492863140997
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",63.06227806186114
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",17.72105152795344
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",17.927490935094774
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",64.4777135458721
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",55.65512481518463
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",45.72080947493416
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",17.39344692047869
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",43.77911525728766
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",60.83902846615041
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",55.38174014285121
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",63.112013013042
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",52.38606210493769
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",41.81703033493631
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",40.33947130902202
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",15.28383869245126
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",64.09194401474065
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",57.65672076019577
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",24.42030297276577
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",64.1726856462275
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",40.5591749256223
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",60.81549884312645
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",54.21046594327168
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",47.810469114813145
-"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",36.8340919380142
+Player,Similarity
+"R. Jones (20, Peterborough United, League One 22-23)",89.33252428136188
+"M. Winkler (20, Waldhof Mannheim, 3. Liga 22-23)",88.67541158678735
+"G. Taylor (25, Cowdenbeath, Scottish League Two 22-23)",88.19384015183383
+"A. Sayyadmanesh (21, Hull City, Championship 22-23)",87.15950430659122
+"Álex Guti (22, Real Balompédica Linense, Primera División RFEF 22-23)",86.88039237553305
+"A. Gattermayer (21, Admira, Austrian 2. Liga 22-23)",85.70119065879254
+"R. Campbell (23, Dungannon Swifts, Northern Ireland Premiership 22-23)",85.51687451549266
+"Jeon Seok-Hun (25, Pocheon, K3 League 2023)",85.37609053523374
+"L. Smith (23, Hamilton Academical, Scottish Championship 22-23)",85.3625174031195
+"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",84.98781087903494
+"C. Lang (24, Wigan Athletic, Championship 22-23)",84.7595347137238
+"A. Krnić (25, Jedinstvo, Montenegro First League 22-23)",84.63330399344409
+"J. Quitongo (25, Greenock Morton, Scottish Championship 22-23)",84.45895141954539
+"J. Grodowski (25, Verl, 3. Liga 22-23)",84.41869223461906
+"B. Kiernan (30, Hartlepool United, League Two 22-23)",83.93614830418296
+"Lago Júnior (32, Málaga, La Liga 2 22-23)",83.65759621002236
+"D. Perović (20, Petrovac, Montenegro First League 22-23)",83.6077701330952
+"Y. Mabella (27, Excelsior Virton, Belgian First Division B 22-23)",83.05628302896642
+"Y. Wildschut (31, Oxford United, League One 22-23)",82.98084698112508
+"Z. Thior (25, UD Logroñés, Primera División RFEF 22-23)",82.90850707023554
+"R. Muhammed (29, Keçiörengücü, Turkish 1. Lig 22-23)",82.75261779183603
+"D. Egharevba (20, Fiorenzuola, Serie C 22-23)",82.41173909563324
+"R. Pop (17, UTA Arad, SuperLiga României 22-23)",82.40195815334744
+"T. Yamaguchi (24, Pietà Hotspurs, Malta Premier League 22-23)",81.8522435184859
+"P. Smyth (25, Leyton Orient, League Two 22-23)",81.77037889672015

@@ -1,88 +1,26 @@
-Player 1,Player 2,Similarity
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","Harib Abdalla Suhail (20, Shabab Al Ahli Dubai, UAE Pro League 22-23)",52.41235656795299
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","B. Ramírez (22, Al Ittihad Kalba, UAE Pro League 22-23)",42.39629333296204
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","Leandro Spadacio (23, Al Ittihad Kalba, UAE Pro League 22-23)",46.57204754087927
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","Mohamed Al Junaibi (24, Al Dhafra, UAE Pro League 22-23)",2.344107375007615
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","Ahmed Abunamous (23, Bani Yas, UAE Pro League 22-23)",50.79383915337207
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","A. Diaby (31, Al Ittihad Kalba, UAE Pro League 22-23)",60.24828525660535
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","Caio Canedo (32, Al Ain, UAE Pro League 22-23)",12.497601262507102
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","F. Kruspzky (20, Al Wahda, UAE Pro League 22-23)",26.53882533328585
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","T. Seferi (26, Vorskla, Ukrainian Premier Liha 22-23)",20.64130251078221
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","V. Solomon-Otabor (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",65.54744782611131
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","G. Pasich (29, Veres, Ukrainian Premier Liha 22-23)",55.0145482747351
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",29.427144328655512
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","R. Rusyn (27, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",32.415336685705945
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","Y. Kartushov (32, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",16.150377018997514
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","O. Ilyin (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",31.47187541454482
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)",42.52489860688578
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","V. Naumets (24, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",61.92233254718067
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","M. Zaderaka (28, Kryvbas KR, Ukrainian Premier Liha 22-23)",56.9163381937134
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","V. Dakhnovskyi (24, Veres, Ukrainian Premier Liha 22-23)",39.72203081962115
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","N. Voloshyn (19, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",27.41655358362699
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","S. Myakushko (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",58.31054156471427
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","Y. Pidlepenets (24, Dnipro-1, Ukrainian Premier Liha 22-23)",33.9922955723132
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","D. Blanco (28, Dnipro-1, Ukrainian Premier Liha 22-23)",39.66288858735031
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","V. Kalitvintsev (30, Oleksandria, Ukrainian Premier Liha 22-23)",83.6280452006455
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","N. Vorobchak (23, Minaj, Ukrainian Premier Liha 22-23)",57.0185947231205
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","Z. Badibanga (31, Chornomorets, Ukrainian Premier Liha 22-23)",55.4935209254498
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","V. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",57.35821510572944
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",70.37598050771523
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","V. Kabaev (27, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",73.64843085777053
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","O. Kozak (28, Inhulets, Ukrainian Premier Liha 22-23)",78.54985761757753
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","D. Alefirenko (23, Chornomorets, Ukrainian Premier Liha 22-23)",51.85468237487566
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","B. Boychuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",60.71369969342785
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","V. Tsygankov (25, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",73.46345547283335
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","V. Rogozynskyi (27, Minaj, Ukrainian Premier Liha 22-23)",32.77474174357065
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","E. Kuliev (21, Minaj, Ukrainian Premier Liha 22-23)",28.472303898085837
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","O. Zubkov (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",48.240672945960526
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","V. Odaryuk (29, Inhulets, Ukrainian Premier Liha 22-23)",6.064695330487715
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",58.34165632826524
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","D. Kryskiv (22, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",35.684978925680106
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","A. Bliznichenko (28, Veres, Ukrainian Premier Liha 22-23)",42.45795218399536
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)",67.87754007539745
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",62.49376135984724
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",57.20962683680257
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",32.13104186386316
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",52.35335483193397
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",78.13170498856474
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",51.39924996020863
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",76.7172726480933
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",75.94565455473466
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",23.539551862987626
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",68.99570942753422
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",4.3461362165097785
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",62.171821460259245
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",25.435951805269426
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",51.87086586216566
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",69.00887041567125
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",33.539636218282176
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",62.18826047915282
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",50.91077802277128
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",65.75482793117597
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",77.23730436544513
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",56.579706920403225
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",26.68045723879437
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",18.604579684293903
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",82.95330505216111
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",36.35318005732351
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",39.00002316286221
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",11.212948095583643
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",48.27767186724821
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",-0.5197050616116048
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",67.56340413030529
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",55.55592379952983
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",71.68728877281755
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",35.65823029869213
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",61.36508857757634
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",61.29595823316748
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",29.005163412682272
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",26.695413214557647
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",59.607248833833445
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",-7.143285312340511
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",70.10319439521135
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",35.54779563906635
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",-25.894138447253727
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",50.77992867853066
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",12.135546856626988
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",51.707480653563
-"Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",74.09132028525921
+Player,Similarity
+"J. Jones (28, Kilmarnock, Scottish Premiership 22-23)",89.57337068069776
+"G. Torres (25, Herediano, Costa Rica Primera División 22-23)",88.18567822494474
+"Suso (29, Sevilla, La Liga 22-23)",87.56519657596249
+"David Neres (26, Benfica, Primeira Liga 22-23)",87.37988860409483
+"T. Booth (22, Utrecht, Eredivisie 22-23)",87.02673109115278
+"N. Amrabat (36, AEK Athens, Greek Super League 22-23)",86.7857094527356
+"Samir Fekri (28, El Daklyeh, Egyptian Premier League 22-23)",85.925699553129
+"J. Vásquez (28, Deportivo Cali, Colombian Primera Division 22-23)",85.9236567418043
+"F. Maciel (29, Torreense, Portugal Segunda Liga 22-23)",85.86239307691109
+"M. Kmet (22, Trenčín, Slovak Super Liga 22-23)",85.34949122311144
+"D. Casiraghi (30, Südtirol, Serie B 22-23)",85.33154534864433
+"D. Türüç (30, İstanbul Başakşehir, Süper Lig 22-23)",85.17620424422368
+"E. Cicerelli (28, Reggina, Serie B 22-23)",85.15400033509583
+"C. Chiricò (31, Crotone, Serie C 22-23)",85.13562351201767
+"Witi (26, Nacional, Portugal Segunda Liga 22-23)",85.11729761441703
+"M. El Morabit (24, Olympic Safi, Botola Pro 22-23)",84.95274649911559
+"Samu Castillejo (28, Valencia, La Liga 22-23)",84.72775027194562
+"O. Aydın (22, Alanyaspor, Süper Lig 22-23)",84.48054125591679
+"C. McMenamin (27, Glentoran, Northern Ireland Premiership 22-23)",84.34300512327037
+"Paolo Fernandes (24, AEK Athens, Greek Super League 22-23)",84.33311034403826
+"E. Başsan (31, Kayserispor, Süper Lig 22-23)",84.20758678063656
+"A. Pálsson (24, Valur, Iceland Besta-Deild Karla 2023)",83.89757964939503
+"L. Tuck (34, Kedah, Malaysian Super League 2023)",83.8254717633507
+"M. Meza (30, Monterrey, Liga MX 22-23)",83.68451799040021
+"A. Hurtado (36, Pachuca, Liga MX 22-23)",83.65162542841533

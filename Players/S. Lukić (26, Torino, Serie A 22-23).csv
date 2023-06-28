@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "T. Arano (30, Consadole Sapporo, J1 2023)",70.46277887233039
 "Sergio Molina (27, FC Andorra, La Liga 2 22-23)",69.20403609184095
 "Ho-Yeon Jeong (22, Gwangju, K League 1 2023)",66.0821478935359
@@ -6,11 +6,11 @@ Player 1,Similarity
 "M. Gómez (21, Olimpia, Paraguay Division Profesional 2023)",62.89275041248729
 "A. Fuentes (25, César Vallejo, Peruvian Liga 1 2023)",61.32574430127468
 "Damián Rodríguez (20, Celta de Vigo B, Primera División RFEF 22-23)",60.94510152425464
-"S. Lukić (26, Torino, Serie A 22-23)",60.6815103514899
-"S. Lukić (26, Torino, Serie A 22-23)",60.31895896319711
+"D. Poha (25, Sion, Swiss Super League 22-23)",60.6815103514899
+"L. Verna (29, Catanzaro, Serie C 22-23)",60.31895896319711
 "J. Jara (31, Sportivo Trinidense, Paraguay Division Profesional 2023)",60.29832718772842
-"S. Lukić (26, Torino, Serie A 22-23)",60.06669524583407
-"S. Lukić (26, Torino, Serie A 22-23)",59.242617832962665
+"E. Zampa (31, Turris, Serie C 22-23)",60.06669524583407
+"L. Lerager (29, København, Superliga 22-23)",59.242617832962665
 "J. Sierra (26, Juárez, Liga MX 22-23)",59.07876116052366
 "F. Ojo (31, Port Vale, League One 22-23)",58.76215637726355
 "D. Linsmayer (31, Ingolstadt, 3. Liga 22-23)",58.67653110347582
@@ -19,7 +19,7 @@ Player 1,Similarity
 "J. Munafo (35, Asteras Tripolis, Greek Super League 22-23)",57.75578277239705
 "J. Fulton (29, Swansea City, Championship 22-23)",57.73350487730797
 "Alberto Zapater (37, Real Zaragoza, La Liga 2 22-23)",57.5755746249969
-"S. Lukić (26, Torino, Serie A 22-23)",56.962966450947306
+"L. Cvek (27, CFR Cluj, SuperLiga României 22-23)",56.962966450947306
 "O. Mizrahi (29, Ironi Tiberias, Liga Leumit 22-23)",56.91087399848642
 "C. Pérez (20, Unión La Calera, Chilean Primera División 2023)",56.4422344624815
 "V. Chuperka (30, Kuban Krasnodar, Russian FNL 2 22-23)",56.13159374241727

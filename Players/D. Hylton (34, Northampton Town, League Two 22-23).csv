@@ -1,11 +1,26 @@
-Player 1,Player 2,Similarity
-"D. Hylton (34, Northampton Town, League Two 22-23)","F. Bohman (26, Trelleborg, Superettan 2023)",78.75223837273383
-"D. Hylton (34, Northampton Town, League Two 22-23)","K. Connell (21, Raith Rovers, Scottish Championship 22-23)",79.57241725734184
-"D. Hylton (34, Northampton Town, League Two 22-23)","J. Zuñiga (29, Xinabajul, Guatemala Liga Nacional 22-23)",83.2861514389679
-"D. Hylton (34, Northampton Town, League Two 22-23)","T. Hopper (29, Colchester United, League Two 22-23)",76.37890909960277
-"D. Hylton (34, Northampton Town, League Two 22-23)","M. Egho (29, Randers, Superliga 22-23)",74.63827952832092
-"D. Hylton (34, Northampton Town, League Two 22-23)","M. Hornyák (29, Csákvári TK, NB II 22-23)",65.33270344435115
-"D. Hylton (34, Northampton Town, League Two 22-23)","M. van Duinen (31, Excelsior, Eredivisie 22-23)",74.10341318973958
-"D. Hylton (34, Northampton Town, League Two 22-23)","L. Bekui (28, Al Sahel, Saudi First Division 22-23)",56.01543899697937
-"D. Hylton (34, Northampton Town, League Two 22-23)","Vitor (25, Najran, Saudi First Division 22-23)",56.73062955032117
-"D. Hylton (34, Northampton Town, League Two 22-23)","M. Jurina (29, Al Faisaly, Saudi First Division 22-23)",57.57167811562477
+Player,Similarity
+"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)",90.56433156646207
+"J. Tranziska (21, Admira, Austrian 2. Liga 22-23)",89.10701831587443
+"R. Lukacs (35, Békéscsaba, NB II 22-23)",88.17794497835013
+"R. Loft (25, Bristol Rovers, League One 22-23)",86.99761002880952
+"C. Evans (34, Preston North End, Championship 22-23)",85.64760203223727
+"R. Street (21, Shrewsbury Town, League One 22-23)",85.63391725868878
+"E. Herrera (31, Guastatoya, Guatemala Liga Nacional 22-23)",85.43106330164515
+"J. Verhoek (34, Hansa Rostock, 2. Bundesliga 22-23)",85.40817030800844
+"G. Cooper (25, Chindia Târgovişte, SuperLiga României 22-23)",84.89631375203321
+"M. Estrada (27, Cruz Azul, Liga MX 22-23)",84.60943867158379
+"A. Yildirim (28, Jahn Regensburg, 2. Bundesliga 22-23)",84.57342720374508
+"F. Noccioli (23, San Donato Tavarnelle, Serie C 22-23)",84.48927682559304
+"Rubio (27, Alcoyano, Primera División RFEF 22-23)",83.87904819126757
+"L. Sorrentino (27, Giugliano, Serie C 22-23)",83.44713940427152
+"J. Ayunga (25, St. Mirren, Scottish Premiership 22-23)",83.4170944465589
+"J. Zuñiga (29, Xinabajul, Guatemala Liga Nacional 22-23)",83.2861514389679
+"L. Pinzauti (28, Lecco, Serie C 22-23)",83.17390363042881
+"Oufa (26, ENPPI, Egyptian Premier League 22-23)",82.9761434172917
+"G. Manousos (35, Lamia, Greek Super League 22-23)",82.97079621543614
+"L. Delap (20, Preston North End, Championship 22-23)",82.83770638072326
+"K. Doherty (21, Clyde, Scottish League One 22-23)",82.79265911688451
+"J. Norwood (32, Barnsley, League One 22-23)",82.57328666302848
+"M. Kelemen (23, Ružomberok, Slovak Super Liga 22-23)",82.53483817835513
+"S. Jallow (26, Viterbese, Serie C 22-23)",82.35413730069591
+"M. Fábry (24, Zagłębie Sosnowiec, Polish I Liga 22-23)",81.98302796450018

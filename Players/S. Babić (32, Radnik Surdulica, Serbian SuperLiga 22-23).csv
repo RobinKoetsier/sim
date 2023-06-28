@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "P. Klement (30, Kaiserslautern, 2. Bundesliga 22-23)",89.3454676861311
 "F. Fajr (34, Al Wahda, Saudi Professional League 22-23)",88.40827488307308
 "S. Appelkamp (22, Fortuna Düsseldorf, 2. Bundesliga 22-23)",86.46422179223877
@@ -7,12 +7,12 @@ Player 1,Similarity
 "S. Bguir (29, Abha, Saudi Professional League 22-23)",83.7335780752965
 "M. Wunderlich (37, Viktoria Köln, 3. Liga 22-23)",83.3865048982403
 "J. Swift (27, West Bromwich Albion, Championship 22-23)",83.34408314792852
-"S. Babić (32, Radnik Surdulica, Serbian SuperLiga 22-23)",83.16962902116597
+"T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",83.16962902116597
 "M. Mijić (33, Novi Pazar, Serbian SuperLiga 22-23)",82.58505030738299
 "B. Dzsudzsák (36, Debrecen, NB I 22-23)",82.53012430228385
 "Márió Németh (28, Budafoki MTE, NB II 22-23)",82.27468674060925
 "Alberto Solís (25, Cultural Leonesa, Primera División RFEF 22-23)",82.27000376111782
-"S. Babić (32, Radnik Surdulica, Serbian SuperLiga 22-23)",81.694333211949
+"S. Luthuli (28, Chippa United, South Africa PSL 22-23)",81.694333211949
 "Y. Guzmán (25, Tolima, Colombian Primera Division 22-23)",81.52791062516657
 "D. Popovič (33, Celje, 1. SNL 22-23)",81.50450059397176
 "Ł. Janoszka (36, Ruch Chorzów, Polish I Liga 22-23)",81.36207175478832
@@ -21,3 +21,6 @@ Player 1,Similarity
 "M. Liendl (37, Grazer AK, Austrian 2. Liga 22-23)",81.29745515465036
 "R. Holzhauser (30, 1860 München, 3. Liga 22-23)",81.16345035961021
 "K. Turner (25, Partick Thistle, Scottish Championship 22-23)",80.87979251880543
+"W. Smallbone (23, Stoke City, Championship 22-23)",80.75620344924658
+"S. Laht (31, Kuressaare, Estonian Meistriliiga 2023)",80.66523081476078
+"D. Fitz (23, Austria Wien, Austrian Bundesliga 22-23)",80.58771630539954

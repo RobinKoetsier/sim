@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "M. Pašalić (22, Borussia Dortmund II, 3. Liga 22-23)",54.81273198055451
 "A. Andrejić (29, Balzan, Malta Premier League 22-23)",54.378845776075394
 "J. Moreno (22, La Equidad, Colombian Primera Division 22-23)",50.57942135593976
@@ -10,8 +10,8 @@ Player 1,Similarity
 "M. Cafaro (26, Saint-Étienne, Ligue 2 22-23)",44.94099393682858
 "N. Sadiki (18, Anderlecht II, Belgian First Division B 22-23)",44.9250886436777
 "Bryan (31, FK Aksu, Kazakh Premier League 2023)",44.91719169350681
-"G. Kastanos (25, Salernitana, Serie A 22-23)",44.735144697445
-"G. Kastanos (25, Salernitana, Serie A 22-23)",43.70352408092822
+"A. Chipciu (34, Universitatea Cluj, SuperLiga României 22-23)",44.735144697445
+"K. Boonsarn (29, Muang Thong United, Thai League 1 22-23)",43.70352408092822
 "Ibrahim Al Shuayl (28, Al Qadisiyah, Saudi First Division 22-23)",43.4455999690923
 "C. Vargas (24, Cruz Azul, Liga MX 22-23)",42.85302914072614
 "F. Nürnberger (23, Nürnberg, 2. Bundesliga 22-23)",42.28162691421249
@@ -20,7 +20,7 @@ Player 1,Similarity
 "Aarón Martín (26, Mainz 05, Bundesliga 22-23)",40.926446446650914
 "E. Lixandru (24, Progresul Spartac, Romanian Liga II 22-23)",40.85318474039977
 "K. Ramírez (20, Malacateco, Guatemala Liga Nacional 22-23)",40.82639437746328
-"G. Kastanos (25, Salernitana, Serie A 22-23)",40.75619650513416
+"S. Ďatko (21, Podbrezová, Slovak Super Liga 22-23)",40.75619650513416
 "C. Styles (23, Millwall, Championship 22-23)",40.5642906085503
 "J. Mbong (25, Ironi Kiryat Shmona, Ligat Ha'al 22-23)",40.51633202064296
 "K. Cawley (34, Alloa Athletic, Scottish League One 22-23)",39.93097587811639

@@ -1,20 +1,26 @@
-Player 1,Player 2,Similarity
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",-6.3938229047883945
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",46.86476799332814
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","T. Keskinen (20, HJK, Veikkausliiga 2023)",18.51550464216597
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","S. Haarala (23, Ilves, Veikkausliiga 2023)",53.14346862958317
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",41.69690322640852
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","L. Rogerson (25, Haka, Veikkausliiga 2023)",52.14304687766011
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",14.451273606906282
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",0.9964740382502012
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",36.46492483626658
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","M. Correa (21, FK Metta, Virsliga 2023)",-22.27633072313133
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",37.80444392931032
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",9.374560045239589
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","Emerson Deocleciano (23, RFS, Virsliga 2023)",-8.917195763960132
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",28.47325255520577
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",34.60698986268934
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",29.813436095001865
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","M. Diop (20, Valmiera FC, Virsliga 2023)",38.50087747957075
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",1.5030321910367466
-"Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)","O. Niang (21, Riga FC, Virsliga 2023)",12.262587435793195
+Player,Similarity
+"C. Shields (25, Motherwell, Scottish Premiership 22-23)",80.16953801709688
+"Robert Simón (29, Gimnàstic Tarragona, Primera División RFEF 22-23)",79.74160223015096
+"S. McKinstry (20, Motherwell, Scottish Premiership 22-23)",77.55011255339107
+"C. Rius (34, Central Córdoba SdE, Argentinian Primera División 2023)",76.5791367018976
+"M. Đokić (31, Kolubara, Serbian SuperLiga 22-23)",75.80498938094645
+"Dani Sánchez (23, Numancia, Primera División RFEF 22-23)",75.26348138864263
+"D. Norris (20, UCD, League of Ireland PL 2023)",74.83165233990057
+"T. Nawotka (26, Sandecja Nowy Sącz, Polish I Liga 22-23)",73.7935462878654
+"D. Jovanović (21, Napredak Kruševac, Serbian SuperLiga 22-23)",73.26356908452077
+"Khalid Al Jubaya (23, Al Shoalah, Saudi First Division 22-23)",73.19254685005009
+"B. Jackson (22, Huddersfield Town, Championship 22-23)",73.1399688712073
+"Naim García (20, Ponferradina, La Liga 2 22-23)",73.10192848512511
+"Y. Funabashi (25, Parceiro Nagano, J3 2023)",72.81928994802705
+"C. Oanea (24, ASU Poli, Romanian Liga II 22-23)",72.68243232002001
+"G. Crețu (23, Argeș, SuperLiga României 22-23)",71.1052027768067
+"M. Jasarevic (31, Mosonmagyaróvári TE, NB II 22-23)",70.92750413756904
+"J. Mawihmingthanga (26, Odisha, Indian Super League 22-23)",70.70192815137295
+"Wang Jinxian (27, Changchun Yatai, Chinese Super League 2023)",70.65880028476107
+"B. Sós (28, Debrecen, NB I 22-23)",70.3880983479343
+"S. Bell (20, Bristol City, Championship 22-23)",70.35598680243758
+"Alejandro Ibarrondo (22, CD Calahorra, Primera División RFEF 22-23)",70.09586090747095
+"K. Wrzesiński (29, Zagłębie Sosnowiec, Polish I Liga 22-23)",69.97478403134889
+"Ferdiansyah (22, Barito Putera, BRI Liga 1 22-23)",69.94790733716185
+"M. Kozina (22, Tychy 71, Polish I Liga 22-23)",69.78831261046197
+"Á. Papp (18, Szeged 2011, NB II 22-23)",69.07653379543314

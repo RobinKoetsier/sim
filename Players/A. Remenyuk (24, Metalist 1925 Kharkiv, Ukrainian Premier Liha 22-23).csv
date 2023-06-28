@@ -1,76 +1,26 @@
-Player 1,Player 2,Similarity
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","R. Rusyn (27, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",73.31597537329367
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","Y. Kartushov (32, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",26.96206895322612
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","O. Ilyin (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",78.59884267120427
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)",41.75685369770755
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","V. Naumets (24, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",61.37866685867196
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","M. Zaderaka (28, Kryvbas KR, Ukrainian Premier Liha 22-23)",56.58704815062854
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","V. Dakhnovskyi (24, Veres, Ukrainian Premier Liha 22-23)",57.161534953920864
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","N. Voloshyn (19, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",57.65801891761705
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","S. Myakushko (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",73.4592882959523
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","Y. Pidlepenets (24, Dnipro-1, Ukrainian Premier Liha 22-23)",65.97325857854109
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","D. Blanco (28, Dnipro-1, Ukrainian Premier Liha 22-23)",24.398537362183667
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","V. Kalitvintsev (30, Oleksandria, Ukrainian Premier Liha 22-23)",15.966078373580714
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","N. Vorobchak (23, Minaj, Ukrainian Premier Liha 22-23)",69.17250880612941
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","Z. Badibanga (31, Chornomorets, Ukrainian Premier Liha 22-23)",50.48735257438679
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","V. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",33.31961691676562
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",51.278348970785245
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","V. Kabaev (27, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",47.729565550948365
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","O. Kozak (28, Inhulets, Ukrainian Premier Liha 22-23)",51.90093637546733
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","D. Alefirenko (23, Chornomorets, Ukrainian Premier Liha 22-23)",60.824808770348106
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","B. Boychuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",61.58003271481636
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","V. Tsygankov (25, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",20.98855094878292
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","V. Rogozynskyi (27, Minaj, Ukrainian Premier Liha 22-23)",34.083814726666056
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","E. Kuliev (21, Minaj, Ukrainian Premier Liha 22-23)",74.68489900487879
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","O. Zubkov (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",32.55300792871864
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","V. Odaryuk (29, Inhulets, Ukrainian Premier Liha 22-23)",41.666343646306224
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",45.49019216353407
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","D. Kryskiv (22, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",25.03723693588945
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","A. Bliznichenko (28, Veres, Ukrainian Premier Liha 22-23)",11.780074531076345
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)",33.59529650497301
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",27.66832227628893
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",48.3225570907465
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",49.247863792770346
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",12.31854097542526
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",18.91108956126451
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",64.39664738861994
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",29.599885558423296
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",37.67478077292878
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",68.7820673552869
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",55.58458819115233
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",23.354525027326627
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",26.22905182107036
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",6.344704588460669
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",67.52782475830924
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",67.46449498383244
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",35.21892192007696
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",61.5190824635061
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",57.376924728756
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",18.5199775423929
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",33.55647719875857
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",28.39850248922324
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",56.47610977394917
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",53.74537254154975
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",21.54395935110818
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",31.325223851937523
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",72.35087672649932
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",40.93914236500324
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",57.68654022483967
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",15.107138158997447
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",51.70215423765726
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",53.67941279277946
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",50.54976402770821
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",62.29592198678721
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",58.09325666639257
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",50.604971184583945
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",30.036985175939968
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",19.624182202335877
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",64.25550700158615
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",53.30156311426436
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",34.687276293827466
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",63.18151550474579
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",24.0272501275823
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",68.8113294473754
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",58.22718119812015
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",62.64075742485296
-"A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",43.28869090509589
+Player,Similarity
+"Y. Cathline (20, Lorient, Ligue 1 22-23)",87.82478874541879
+"J. Diamond (23, Lincoln City, League One 22-23)",86.268859141573
+"L. Fazliju (23, Pelister, North Macedonia First League 22-23)",85.97126328137621
+"K. Hadji (23, Ararat, Armenian Premier League 22-23)",85.37779838268446
+"G. Taylor (25, Cowdenbeath, Scottish League Two 22-23)",85.07188717273964
+"B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)",84.98781087903494
+"Z. Davitashvili (22, Bordeaux, Ligue 2 22-23)",84.51279319646603
+"Y. Mabella (27, Excelsior Virton, Belgian First Division B 22-23)",84.3448449153299
+"A. Sanyang (24, Grenoble, Ligue 2 22-23)",84.22075037846768
+"W. Vogt (20, FC Schaffhausen, Swiss Challenge League 22-23)",84.20425829126269
+"K. Sebelebele (0, TS Galaxy FC, South Africa PSL 22-23)",84.00338253598237
+"C. Kpan (25, Široki Brijeg, Bosnian Premier League 22-23)",83.92279723527407
+"A. Ortíz (21, Guastatoya, Guatemala Liga Nacional 22-23)",83.78417799694245
+"L. Smith (23, Hamilton Academical, Scottish Championship 22-23)",83.7446284146707
+"Mauro Rodrigues (22, Yverdon Sport, Swiss Challenge League 22-23)",83.37023453071271
+"Z. Thior (25, UD Logroñés, Primera División RFEF 22-23)",83.18063258519624
+"H. Arai (25, Šibenik, 1. HNL 22-23)",83.14902848243439
+"D. Egharevba (20, Fiorenzuola, Serie C 22-23)",83.11415062642648
+"C. Canak (18, Standard Liège, Belgian Pro League 22-23)",82.34282925293888
+"Picas (22, Torreense, Portugal Segunda Liga 22-23)",82.33800643846077
+"D. Pușcaș (21, Sfîntul Gheorghe, Moldovan Super Liga 22-23)",81.79025826111724
+"A. Sopel (23, Elgin City, Scottish League Two 22-23)",81.45030458245968
+"Jithin MS (25, NorthEast United, Indian Super League 22-23)",81.38813393714692
+"K. Olaigbe (20, Harrogate Town, League Two 22-23)",81.32158058328018
+"D. Kocsis (20, Honvéd, NB I 22-23)",81.0702656761938

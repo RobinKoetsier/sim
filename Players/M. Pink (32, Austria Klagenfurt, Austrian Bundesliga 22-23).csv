@@ -1,21 +1,26 @@
-Player 1,Player 2,Similarity
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","C. Monschein (30, Ried, Austrian Bundesliga 22-23)",83.22998362773669
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","A. Sitalo (33, Inhulets, Ukrainian Premier Liha 22-23)",90.11963681206672
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","A. Williams (36, Walsall, League Two 22-23)",85.08966391518852
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","R. Nemoto (23, Tochigi, J2 2023)",86.76753300600284
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","A. Yakubu (24, Rio Ave, Primeira Liga 22-23)",81.61651164181924
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)",85.20774628500473
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","G. Cooper (25, Chindia Târgovişte, SuperLiga României 22-23)",83.3890924750259
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","Antoñín Cortés (23, Anorthosis, Cyprus 1. Division 22-23)",82.59206990218952
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","G. Leyes (33, Academia Cantolao, Peruvian Liga 1 2023)",89.56022292589853
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","D. Hylton (34, Northampton Town, League Two 22-23)",70.21583104717566
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","F. Bohman (26, Trelleborg, Superettan 2023)",79.41426381447478
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","K. Connell (21, Raith Rovers, Scottish Championship 22-23)",79.76720495700636
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","J. Zuñiga (29, Xinabajul, Guatemala Liga Nacional 22-23)",73.67541748179687
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","T. Hopper (29, Colchester United, League Two 22-23)",78.63500236979223
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","M. Egho (29, Randers, Superliga 22-23)",85.50482793186043
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","M. Hornyák (29, Csákvári TK, NB II 22-23)",90.81563966905978
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","M. van Duinen (31, Excelsior, Eredivisie 22-23)",87.57716129697721
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","L. Bekui (28, Al Sahel, Saudi First Division 22-23)",75.64492024328683
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","Vitor (25, Najran, Saudi First Division 22-23)",74.71909870074617
-"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)","M. Jurina (29, Al Faisaly, Saudi First Division 22-23)",75.77238511975744
+Player,Similarity
+"F. Niederlechner (32, Hertha BSC, Bundesliga 22-23)",95.3317422467877
+"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)",94.81706008423308
+"M. Mas (22, Sandecja Nowy Sącz, Polish I Liga 22-23)",92.76153202889328
+"Bruno Mota (27, Cheonan City, K League 2 2023)",92.18069188181536
+"N. Komazec (35, Sloboda Tuzla, Bosnian Premier League 22-23)",92.03798867203048
+"F. Peraza (30, UTC Cajamarca, Peruvian Liga 1 2023)",91.91887223574837
+"J. Rhodes (33, Huddersfield Town, Championship 22-23)",91.8416614638524
+"E. Marzierli (29, San Donato Tavarnelle, Serie C 22-23)",91.81658833648297
+"M. Ziereis (30, Bayreuth, 3. Liga 22-23)",91.48283034771208
+"M. Wegner (34, VfB Oldenburg, 3. Liga 22-23)",91.42760806754409
+"J. Řezníček (35, Zbrojovka Brno, Czech Fortuna Liga 22-23)",91.2779991535515
+"R. Berlinski (28, Rot-Weiss Essen, 3. Liga 22-23)",91.13097812296388
+"Eneko Jauregi (26, Amorebieta, Primera División RFEF 22-23)",91.12835611681288
+"Yago Cariello (23, Portimonense, Primeira Liga 22-23)",91.0547832496669
+"M. Hornyák (29, Csákvári TK, NB II 22-23)",90.81563966905978
+"C. De Sena (31, Gelbison, Serie C 22-23)",90.5388776347938
+"C. Akono (23, Borussia Dortmund II, 3. Liga 22-23)",90.47996594836948
+"C. Daferner (25, Nürnberg, 2. Bundesliga 22-23)",90.44002260625304
+"A. Sitalo (33, Inhulets, Ukrainian Premier Liha 22-23)",90.11963681206672
+"V. Muriqi (29, Mallorca, La Liga 22-23)",90.07226033401162
+"M. Godden (31, Coventry City, Championship 22-23)",90.04607798515084
+"A. Hernández (32, Atlético de San Luis, Liga MX 22-23)",90.00607393907005
+"S. Chabbi (29, Ried, Austrian Bundesliga 22-23)",89.82021879973544
+"A. Maziero (25, Cumbayá, Ecuador Liga Pro 2023)",89.79542625653792
+"M. Fábry (24, Zagłębie Sosnowiec, Polish I Liga 22-23)",89.75336760023657

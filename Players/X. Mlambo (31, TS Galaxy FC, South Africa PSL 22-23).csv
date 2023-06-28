@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "M. Al Telihi (0, Al Kholood, Saudi First Division 22-23)",71.1415529077258
 "D. Gazdag (27, Philadelphia Union, MLS 2023)",70.58846791318176
 "M. Bero (27, Vitesse, Eredivisie 22-23)",70.22354749793766
@@ -6,12 +6,12 @@ Player 1,Similarity
 "M. Karić (31, Leotar, Bosnian Premier League 22-23)",66.86131217215289
 "L. Stankovski (20, Rabotnički, North Macedonia First League 22-23)",65.79890162314412
 "K. Doumbia (20, Reims, Ligue 1 22-23)",65.5654049288514
-"X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",64.4177579711425
+"T. Goedeman (23, Cape Town, South Africa PSL 22-23)",64.4177579711425
 "K. Fujimoto (23, Gil Vicente, Primeira Liga 22-23)",62.146184440188826
 "Lucas Paquetà (25, West Ham United, Premier League 22-23)",61.125865515599344
 "B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",60.99974342293245
 "Jon Toral (28, OFI, Greek Super League 22-23)",60.52153353244325
-"X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",59.86486806081894
+"Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",59.86486806081894
 "S. Bendebka (30, Al Fateh, Saudi Professional League 22-23)",59.1596854364221
 "E. Sylvestre (23, Pau, Ligue 2 22-23)",58.69007944774864
 "N. Stefanelli (28, Inter Miami, MLS 2023)",58.60865138824544
@@ -20,4 +20,7 @@ Player 1,Similarity
 "M. Maertens (28, OH Leuven, Belgian Pro League 22-23)",57.55329839904171
 "M. Lund (32, Salford City, League Two 22-23)",57.28497483578514
 "B. El Khannous (19, Genk, Belgian Pro League 22-23)",57.11768030743046
-"X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",56.9924972805312
+"G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",56.9924972805312
+"R. Bezus (32, Omonia Nicosia, Cyprus 1. Division 22-23)",56.91420867508727
+"K. Palmer (26, Coventry City, Championship 22-23)",56.64196108433346
+"A. Adžović (29, Petrovac, Montenegro First League 22-23)",56.619006009262776

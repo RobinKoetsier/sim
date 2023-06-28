@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "M. Vlap (26, Twente, Eredivisie 22-23)",76.50455257275375
 "G. Til (25, PSV, Eredivisie 22-23)",75.69802626646441
 "Romarinho (32, Al Ittihad, Saudi Professional League 22-23)",70.3124239928677
@@ -10,7 +10,7 @@ Player 1,Similarity
 "S. Kowalczyk (24, Pogoń Szczecin, Ekstraklasa 22-23)",64.44269099221084
 "D. de Wit (25, AZ, Eredivisie 22-23)",64.23432678196967
 "D. Silva (36, Millonarios, Colombian Primera Division 22-23)",63.85628394232672
-"S. Arfield (34, Rangers, Scottish Premiership 22-23)",62.12834307580624
+"V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",62.12834307580624
 "Afonso Sousa (23, Lech Poznań, Ekstraklasa 22-23)",62.12342456807449
 "P. Santos (27, Moreirense, Portugal Segunda Liga 22-23)",62.0942452707682
 "K. Doumbia (20, Reims, Ligue 1 22-23)",61.88137616590712
@@ -18,6 +18,9 @@ Player 1,Similarity
 "M. Harness (27, Ipswich Town, League One 22-23)",61.18109380073623
 "Rodrigo Barbosa Tabata (42, Al Sadd, Qatari Stars League 22-23)",61.03254187973776
 "S. Koné (22, Porto II, Portugal Segunda Liga 22-23)",60.41889425187178
-"S. Arfield (34, Rangers, Scottish Premiership 22-23)",60.40307438310823
+"D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",60.40307438310823
 "M. Lund (32, Salford City, League Two 22-23)",60.29960512833513
 "T. Nguen (29, Ferencváros, NB I 22-23)",59.512672395303255
+"R. Kehat (31, Ironi Kiryat Shmona, Ligat Ha'al 22-23)",59.48800322520196
+"O. Lingr (24, Slavia Praha, Czech Fortuna Liga 22-23)",59.0802952611644
+"L. Duijvestijn (24, Almere City, Eerste Divisie 22-23)",59.03270544541965

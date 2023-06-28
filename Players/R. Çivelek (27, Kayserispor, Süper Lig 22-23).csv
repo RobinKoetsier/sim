@@ -1,225 +1,26 @@
-Player 1,Player 2,Similarity
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","E. Mor (25, Fenerbahçe, Süper Lig 22-23)",67.07226086154287
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Ndao (26, Antalyaspor, Süper Lig 22-23)",58.33822801320713
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","J. Muleka (23, Beşiktaş, Süper Lig 22-23)",33.62671466858825
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Ivan Cavaleiro (29, Alanyaspor, Süper Lig 22-23)",67.83022651471987
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","G. N'Koudou (28, Beşiktaş, Süper Lig 22-23)",71.49431982048178
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Eskihellaç (25, Kasımpaşa, Süper Lig 22-23)",55.89543483685405
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Y. Akgün (22, Galatasaray, Süper Lig 22-23)",63.63726528707342
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","J. Lokilo (24, İstanbulspor, Süper Lig 22-23)",75.47761895446783
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","V. Gheorghe (26, Ümranıyespor, Süper Lig 22-23)",12.373246154401278
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","B. Celina (26, Kasımpaşa, Süper Lig 22-23)",81.24811003110469
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","P. Szysz (25, İstanbul Başakşehir, Süper Lig 22-23)",65.12483029925289
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Güler (18, Fenerbahçe, Süper Lig 22-23)",59.50017337663031
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","B. Yılmaz (23, Galatasaray, Süper Lig 22-23)",38.29662847612854
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Jean Evrard  Kouassi (28, Fatih Karagümrük, Süper Lig 22-23)",42.945361550841184
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","R. Murić (27, Konyaspor, Süper Lig 22-23)",76.92071486571541
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Chatzigiovanis (26, Ankaragücü, Süper Lig 22-23)",59.51760367423555
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","J. Sekidika (26, Ümranıyespor, Süper Lig 22-23)",55.68261988971916
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Djaniny (32, Trabzonspor, Süper Lig 22-23)",46.59084943193253
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Engin (26, Kasımpaşa, Süper Lig 22-23)",38.484379171891256
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Fortes (29, Nong Bua Pitchaya FC, Thai League 1 22-23)",50.31707688977238
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","S. Mueanta (20, Buriram United, Thai League 1 22-23)",54.73297943582337
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","P. Wokiang (28, Khon Kaen United, Thai League 1 22-23)",64.47160802117115
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","B. Phala (28, Port FC, Thai League 1 22-23)",51.45674317101715
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","S. Kannoo (26, Ratchaburi, Thai League 1 22-23)",1.813665130658388
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Mahmoud Eid (29, Bangkok United, Thai League 1 22-23)",29.0110825430895
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","J. Phasukihan (29, Nong Bua Pitchaya FC, Thai League 1 22-23)",58.649623000161554
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","S. Chatthong (30, Nakhon Ratchasima, Thai League 1 22-23)",32.12604086732675
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","S. Suvannaseat (21, Chiangrai United, Thai League 1 22-23)",8.397577168071901
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Ouattara (32, Chonburi, Thai League 1 22-23)",41.96923764317005
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","P. Parmpak (30, Port FC, Thai League 1 22-23)",41.99443310425626
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","C. Promsrikaew (22, Chonburi, Thai League 1 22-23)",45.23137500385852
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","C. Laptrakul (28, Prachuap, Thai League 1 22-23)",69.76186805316945
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Ferrier (28, Nakhon Ratchasima, Thai League 1 22-23)",54.60737352443972
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Maung (27, Lamphun Warrior, Thai League 1 22-23)",66.1315824656999
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","E. Omondi (28, Muang Thong United, Thai League 1 22-23)",53.60437289527744
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","P. Charoenrattanapirom (29, Port FC, Thai League 1 22-23)",73.48976374892365
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","W. Srivichai (35, Lampang, Thai League 1 22-23)",25.55484388955978
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","J. Palapon (23, Khon Kaen United, Thai League 1 22-23)",26.750726491732912
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","T. Siriphala (27, Prachuap, Thai League 1 22-23)",67.54995857022305
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","J. Wonggorn (26, Muang Thong United, Thai League 1 22-23)",66.98964528822907
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Beraheng (27, Nakhon Ratchasima, Thai League 1 22-23)",63.33644439268953
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Islam Batran (28, Nong Bua Pitchaya FC, Thai League 1 22-23)",37.84773139681322
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","J. Baggio (31, Sukhothai, Thai League 1 22-23)",62.65029665679396
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Willian Popp (29, Muang Thong United, Thai League 1 22-23)",56.71291550825792
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","T. Butsombat (35, Khon Kaen United, Thai League 1 22-23)",17.852608154180842
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Y. Chaowana (27, Police Tero, Thai League 1 22-23)",15.088254259202868
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","J. Songma (27, Lampang, Thai League 1 22-23)",30.27202275889867
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","S. Thorarit (24, Sukhothai, Thai League 1 22-23)",40.38546861948069
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","C. Srinawong (30, Bangkok United, Thai League 1 22-23)",36.70149739326735
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","R. Poomchantuek (31, Bangkok United, Thai League 1 22-23)",76.84172779856688
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Stenio Junior (31, BG Pathum United FC, Thai League 1 22-23)",49.54962065346899
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","P. Reichelt (34, Prachuap, Thai League 1 22-23)",25.33951358197562
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","J. Ivančić (32, Lampang, Thai League 1 22-23)",-4.086821417290899
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","O. Bouguerra (24, Olympique Béja, Tunisian Ligue 1 22-23)",38.632255285201865
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","H. Khadraoui (24, Stade Tunisien, Tunisian Ligue 1 22-23)",62.20975357779446
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Hamdou Al Masry (29, ES Tunis, Tunisian Ligue 1 22-23)",65.99218794497187
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)",39.45377699182228
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","L. Ben Hassine (23, Etoile du Sahel, Tunisian Ligue 1 22-23)",-1.694235158268597
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Bouziane (27, Monastir, Tunisian Ligue 1 22-23)",56.399131159899575
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Mohmmed Juma (25, Ben Guerdane, Tunisian Ligue 1 22-23)",6.842439296276923
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Nasr Hamed (19, Ben Guerdane, Tunisian Ligue 1 22-23)",9.161761656180982
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","B. Brahmi (30, EO Sidi Bouzid, Tunisian Ligue 1 22-23)",8.907418098876207
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)",15.114441880332787
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","H. Chikhaoui (26, Monastir, Tunisian Ligue 1 22-23)",30.169807150098038
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","B. Mejri (27, Stade Tunisien, Tunisian Ligue 1 22-23)",50.130455277247584
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Habbassi (21, CS Sfaxien, Tunisian Ligue 1 22-23)",49.10760580120718
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Badri (32, ES Tunis, Tunisian Ligue 1 22-23)",36.06781861863409
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","K. Koffi (22, AS Soliman, Tunisian Ligue 1 22-23)",58.423943495672845
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)",51.97479604676144
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","I. Olawoyin (25, Rizespor, Turkish 1. Lig 22-23)",65.40854993753847
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","B. Coban (28, Manisa BBSK, Turkish 1. Lig 22-23)",52.66564128002885
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)",50.64478459686641
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Mallé (25, Keçiörengücü, Turkish 1. Lig 22-23)",56.86736314515275
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Özek (35, Altınordu, Turkish 1. Lig 22-23)",16.920463151898744
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","L. Ayçiçek (29, Bandırmaspor, Turkish 1. Lig 22-23)",39.27517877320609
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","D. Diallo (22, Manisa BBSK, Turkish 1. Lig 22-23)",68.29040322804175
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","B. Keser (26, Rizespor, Turkish 1. Lig 22-23)",56.61340233080898
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","K. Nzuzi (29, Tuzlaspor, Turkish 1. Lig 22-23)",29.59232247331809
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","S. Tetteh (26, Bandırmaspor, Turkish 1. Lig 22-23)",28.01104651094964
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)",73.10844836687842
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","D. Bregu (27, Boluspor, Turkish 1. Lig 22-23)",35.69079352807419
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","B. Alıcı (25, Samsunspor, Turkish 1. Lig 22-23)",54.33492829041313
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","R. Muhammed (29, Keçiörengücü, Turkish 1. Lig 22-23)",18.89626629395457
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Yahaya (21, Tuzlaspor, Turkish 1. Lig 22-23)",48.21137664327444
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","R. Babel (36, Eyüpspor, Turkish 1. Lig 22-23)",66.18570978317648
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Gakpa (29, Manisa BBSK, Turkish 1. Lig 22-23)",46.30426454251796
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","E. Gürlük (19, Altınordu, Turkish 1. Lig 22-23)",66.08327628086553
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. İnan (24, Keçiörengücü, Turkish 1. Lig 22-23)",29.41583430796653
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Rosheuvel (32, BB Erzurumspor, Turkish 1. Lig 22-23)",32.73890636684823
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","D. Emeksiz (23, Manisa BBSK, Turkish 1. Lig 22-23)",7.442702200944268
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","J. Kayamba (31, Boluspor, Turkish 1. Lig 22-23)",76.04346872476259
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","O. Roshi (32, Sakaryaspor, Turkish 1. Lig 22-23)",16.915827792001096
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","S. Özcan (26, Altınordu, Turkish 1. Lig 22-23)",32.08947127849105
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","H. Akbunar (29, Eyüpspor, Turkish 1. Lig 22-23)",66.48785608147959
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Demir (25, Gençlerbirliği, Turkish 1. Lig 22-23)",46.76396428378395
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","O. Imeri (23, Bodrumspor, Turkish 1. Lig 22-23)",27.217249121909557
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","C. Akgün (24, Yeni Malatyaspor, Turkish 1. Lig 22-23)",30.380659025125876
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","H. Bağ (32, Bandırmaspor, Turkish 1. Lig 22-23)",43.50418284429776
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","H. Taşcı (32, Sakaryaspor, Turkish 1. Lig 22-23)",5.2125485545783485
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Mimaroğlu (28, Altınordu, Turkish 1. Lig 22-23)",62.62513788319869
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Okutan (26, Boluspor, Turkish 1. Lig 22-23)",50.68460632649526
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","S. Sahintürk (27, Bandırmaspor, Turkish 1. Lig 22-23)",36.56176876059647
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","S. Yılmaz (33, Rizespor, Turkish 1. Lig 22-23)",-6.799901573573138
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","B. Basaçikoglu (28, Tuzlaspor, Turkish 1. Lig 22-23)",50.81897000525573
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Amilton (33, Rizespor, Turkish 1. Lig 22-23)",66.27048915614664
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","C. Soukou (30, Bandırmaspor, Turkish 1. Lig 22-23)",37.99718019176297
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","K. Mayi (30, Denizlispor, Turkish 1. Lig 22-23)",-36.71666575116922
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Özfesli (26, BB Erzurumspor, Turkish 1. Lig 22-23)",16.831902671442485
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)",41.36846226310944
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Özhan (22, BB Erzurumspor, Turkish 1. Lig 22-23)",-14.185529809370172
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Rharsalla (29, Gençlerbirliği, Turkish 1. Lig 22-23)",44.58814439139731
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)",18.44121659480813
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","А.Tuzcu (20, Gençlerbirliği, Turkish 1. Lig 22-23)",2.088952813986872
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","F. Ezeh (25, Eyüpspor, Turkish 1. Lig 22-23)",47.99843484985692
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","O. Belyaev (23, Gençlerbirliği, Turkish 1. Lig 22-23)",21.857864607645997
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Ali Saleh (23, Al Wasl, UAE Pro League 22-23)",52.69074465247371
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Fabio de Lima (29, Al Wasl, UAE Pro League 22-23)",56.48522292082709
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Aylton Boa Morte (29, Khorfakkan, UAE Pro League 22-23)",53.224601729681886
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Lourency (27, Al Bataeh, UAE Pro League 22-23)",56.61037284763661
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","S. Rahimi (26, Al Ain, UAE Pro League 22-23)",55.6894638238846
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Ali Madan (27, Ajman, UAE Pro League 22-23)",59.69163769701805
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Ryan Mendes (33, Al Nasr, UAE Pro League 22-23)",73.68694984904735
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Amer Bazuhair (31, Dibba Al Fujairah, UAE Pro League 22-23)",36.67269262234285
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Suhail Ahmed Al Noobi (27, Bani Yas, UAE Pro League 22-23)",29.72015322430563
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","P. Mboungou (22, Ajman, UAE Pro League 22-23)",29.264725663733987
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Bencharki (28, Al Jazira, UAE Pro League 22-23)",66.36572294288332
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Rayhi (28, Al Dhafra, UAE Pro League 22-23)",38.42607274134061
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","O. Traore (20, Al Jazira, UAE Pro League 22-23)",50.03558218429417
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Juninho (23, Khorfakkan, UAE Pro League 22-23)",52.9132479485105
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Jajá (24, Dibba Al Fujairah, UAE Pro League 22-23)",41.28541196609172
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Yarmolenko (33, Al Ain, UAE Pro League 22-23)",55.97973301939654
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Luan Pereira (23, Al Sharjah, UAE Pro League 22-23)",44.6266068471006
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","O. Camara (22, Al Sharjah, UAE Pro League 22-23)",36.59635598047451
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","S. Gassama (22, Al Bataeh, UAE Pro League 22-23)",60.54794699820973
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)",55.48997697945512
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Yahya Al Ghassani (25, Shabab Al Ahli Dubai, UAE Pro League 22-23)",31.15249449201612
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)",75.22972896828371
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Harib Abdalla Suhail (20, Shabab Al Ahli Dubai, UAE Pro League 22-23)",52.2797050304643
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","B. Ramírez (22, Al Ittihad Kalba, UAE Pro League 22-23)",35.92859647042967
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Leandro Spadacio (23, Al Ittihad Kalba, UAE Pro League 22-23)",39.81200574185476
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Mohamed Al Junaibi (24, Al Dhafra, UAE Pro League 22-23)",4.591880388477823
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Ahmed Abunamous (23, Bani Yas, UAE Pro League 22-23)",45.332362716506815
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Diaby (31, Al Ittihad Kalba, UAE Pro League 22-23)",67.23575500812372
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Caio Canedo (32, Al Ain, UAE Pro League 22-23)",16.897927120506235
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","F. Kruspzky (20, Al Wahda, UAE Pro League 22-23)",11.487826096419136
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","T. Seferi (26, Vorskla, Ukrainian Premier Liha 22-23)",21.782106111302436
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","V. Solomon-Otabor (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",68.49957722986437
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","G. Pasich (29, Veres, Ukrainian Premier Liha 22-23)",52.003168056322735
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",41.415588820235925
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","R. Rusyn (27, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",53.1500612064066
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Y. Kartushov (32, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",39.81463837903789
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","O. Ilyin (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",38.67189894414264
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)",33.91511611508143
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","V. Naumets (24, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",66.97445365048138
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Zaderaka (28, Kryvbas KR, Ukrainian Premier Liha 22-23)",46.70998394308006
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","V. Dakhnovskyi (24, Veres, Ukrainian Premier Liha 22-23)",40.21013146338024
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","N. Voloshyn (19, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",14.95588480476282
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","S. Myakushko (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",63.953547297356806
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Y. Pidlepenets (24, Dnipro-1, Ukrainian Premier Liha 22-23)",35.05115707108955
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","D. Blanco (28, Dnipro-1, Ukrainian Premier Liha 22-23)",49.52268045601619
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","V. Kalitvintsev (30, Oleksandria, Ukrainian Premier Liha 22-23)",66.77000878452199
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","N. Vorobchak (23, Minaj, Ukrainian Premier Liha 22-23)",52.463468187251735
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Z. Badibanga (31, Chornomorets, Ukrainian Premier Liha 22-23)",66.80884366827094
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","V. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",46.38153309739989
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",76.74409222826756
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","V. Kabaev (27, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",73.77815629204957
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","O. Kozak (28, Inhulets, Ukrainian Premier Liha 22-23)",56.11824762687556
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","D. Alefirenko (23, Chornomorets, Ukrainian Premier Liha 22-23)",50.80567378357694
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","B. Boychuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",64.33243844522097
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","V. Tsygankov (25, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",57.70378578452261
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","V. Rogozynskyi (27, Minaj, Ukrainian Premier Liha 22-23)",20.81435936915231
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","E. Kuliev (21, Minaj, Ukrainian Premier Liha 22-23)",41.06002634901901
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","O. Zubkov (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",52.20307048998968
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","V. Odaryuk (29, Inhulets, Ukrainian Premier Liha 22-23)",3.3931793183884973
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",29.274114921212053
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","D. Kryskiv (22, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",49.57516476943345
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Bliznichenko (28, Veres, Ukrainian Premier Liha 22-23)",33.521546132523994
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)",48.282635708893565
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",59.71693318261867
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",59.5047128059604
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",31.14182715161169
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",22.74669860547117
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",67.14808260829749
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",49.72635440171088
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",62.60829028796822
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",67.03654723792751
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",27.85799793052792
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",63.94897718901999
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",15.876074973608084
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",77.14067441103583
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",23.80231026701519
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",42.04834844292426
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",69.82079724436848
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",34.622495804764746
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",71.2685764114546
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",42.49801843754925
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",54.92384175724448
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",70.03166258389028
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",59.24277973648495
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",23.809271929640847
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",24.57854256548285
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",72.51543442404247
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",55.72711447345591
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",45.75440352602941
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",4.139616220906434
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",54.3505459798474
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",-8.649985311359911
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",68.98946597288747
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",43.32361818849336
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",50.38850979257702
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",48.88416979757027
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",59.71314127525243
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",62.184079098532685
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",35.02964791400435
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",45.49616402327088
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",48.521493197593
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",-5.51446418837119
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",69.82017698671878
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",41.8867905985002
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",-29.821255893204256
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",55.2554462171464
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",18.74660299004803
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",61.74348484008976
-"R. Çivelek (27, Kayserispor, Süper Lig 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",62.375543907547694
+Player,Similarity
+"Suso (29, Sevilla, La Liga 22-23)",86.26845937355037
+"P. Mmodi (30, Golden Arrows, South Africa PSL 22-23)",86.20028490220504
+"J. Trenskow (22, HB Køge, Danish 1. Division 22-23)",82.41268329859645
+"M. Rashica (26, Galatasaray, Süper Lig 22-23)",82.19381849854595
+"David Costa (22, Lens, Ligue 1 22-23)",81.77435312560671
+"B. Celina (26, Kasımpaşa, Süper Lig 22-23)",81.24811003110469
+"A. Iwobi (27, Everton, Premier League 22-23)",81.16675373938824
+"O. Boussaid (23, Utrecht, Eredivisie 22-23)",81.11689774998156
+"Rodri Sánchez (23, Real Betis, La Liga 22-23)",81.10611364430898
+"M. Ndockyt (24, Gorica, 1. HNL 22-23)",81.10585717344179
+"David Neres (26, Benfica, Primeira Liga 22-23)",80.9160060447761
+"F. Chiesa (25, Juventus, Serie A 22-23)",80.8797522691485
+"M. Diaby (23, Bayer Leverkusen, Bundesliga 22-23)",80.7863600384769
+"J. van Landschoot (25, Deinze, Belgian First Division B 22-23)",80.58575852052124
+"Yan Couto (21, Girona, La Liga 22-23)",80.53530008063203
+"R. Fulgencio (23, Tigres UANL, Liga MX 22-23)",80.45211572999756
+"Z. Bytyqi (26, Konyaspor, Süper Lig 22-23)",80.39704717504962
+"A. Ibargüen (31, Medellín, Colombian Primera Division 22-23)",80.26752222359848
+"Kim Jung-Joo (31, Gyeongju HNP, K3 League 2023)",79.7675717044975
+"Bernardo Silva (28, Manchester City, Premier League 22-23)",79.74961585834299
+"N. Andrade (22, Malacateco, Guatemala Liga Nacional 22-23)",79.03593588465533
+"R. Burbano (28, Orense, Ecuador Liga Pro 2023)",79.00404028824055
+"Jairo Izquierdo (29, Cartagena, La Liga 2 22-23)",78.55370235008752
+"D. Laly (31, Rans Nusantara, BRI Liga 1 22-23)",78.35742003940021
+"Cristian Montes (25, Eldense, Primera División RFEF 22-23)",78.23254286366628

@@ -1,16 +1,26 @@
-Player 1,Player 2,Similarity
-"S. Haarala (23, Ilves, Veikkausliiga 2023)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",63.71990014973783
-"S. Haarala (23, Ilves, Veikkausliiga 2023)","L. Rogerson (25, Haka, Veikkausliiga 2023)",59.92263504202045
-"S. Haarala (23, Ilves, Veikkausliiga 2023)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",60.52789234913127
-"S. Haarala (23, Ilves, Veikkausliiga 2023)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",50.11908996408015
-"S. Haarala (23, Ilves, Veikkausliiga 2023)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",55.51200159354555
-"S. Haarala (23, Ilves, Veikkausliiga 2023)","M. Correa (21, FK Metta, Virsliga 2023)",25.657600034080986
-"S. Haarala (23, Ilves, Veikkausliiga 2023)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",66.45329134249191
-"S. Haarala (23, Ilves, Veikkausliiga 2023)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",17.73197199190127
-"S. Haarala (23, Ilves, Veikkausliiga 2023)","Emerson Deocleciano (23, RFS, Virsliga 2023)",45.338256859422245
-"S. Haarala (23, Ilves, Veikkausliiga 2023)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",70.3004204693277
-"S. Haarala (23, Ilves, Veikkausliiga 2023)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",29.553850564867005
-"S. Haarala (23, Ilves, Veikkausliiga 2023)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",65.53126674506953
-"S. Haarala (23, Ilves, Veikkausliiga 2023)","M. Diop (20, Valmiera FC, Virsliga 2023)",50.9316728150545
-"S. Haarala (23, Ilves, Veikkausliiga 2023)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",43.043478914203575
-"S. Haarala (23, Ilves, Veikkausliiga 2023)","O. Niang (21, Riga FC, Virsliga 2023)",56.99318093825968
+Player,Similarity
+"V. Ilić (24, Kolubara, Serbian SuperLiga 22-23)",86.61177586866683
+"N. Vorobchak (23, Minaj, Ukrainian Premier Liha 22-23)",83.43683450646228
+"M. Çoba (23, Vllaznia Shkodër, Albanian Premier League 22-23)",83.09969629792788
+"Josué Dorrio (29, Amorebieta, Primera División RFEF 22-23)",82.5631350815621
+"Islam Batran (28, Nong Bua Pitchaya FC, Thai League 1 22-23)",82.48936388924525
+"Rubén Martínez (33, Lamia, Greek Super League 22-23)",81.97258390036721
+"S. Gavriel (21, Akritas, Cyprus 1. Division 22-23)",81.87788990120679
+"M. Grüll (24, Rapid Wien, Austrian Bundesliga 22-23)",81.55145805371073
+"Álex Berenguer (27, Athletic Bilbao, La Liga 22-23)",81.23152578746317
+"K. Narey (28, PAOK, Greek Super League 22-23)",81.10186289154207
+"T. Pledl (29, Waldhof Mannheim, 3. Liga 22-23)",80.82927354988378
+"M. Ştefănescu (24, Sepsi, SuperLiga României 22-23)",80.61916667363718
+"A. Piftor (24, Dumbrăviţa, Romanian Liga II 22-23)",80.54594532732379
+"L. García (23, Comunicaciones, Guatemala Liga Nacional 22-23)",80.43260605497066
+"J. Boselli (23, Gil Vicente, Primeira Liga 22-23)",80.37004328152722
+"Oriol Soldevila (22, Intercity SJ D' Alacant, Primera División RFEF 22-23)",79.89575608340334
+"E. Krasniqi (24, CFR Cluj, SuperLiga României 22-23)",79.58265736154586
+"M. Mourelo (26, FC Santa Coloma, Andorra Primera Divisió 22-23)",79.30488199025008
+"L. Mickels (27, Spartak Varna, Bulgarian First League 22-23)",79.2805103603233
+"A. Sefer (23, Rapid Bucureşti, SuperLiga României 22-23)",79.22070289250622
+"S. Kaikai (27, Milton Keynes Dons, League One 22-23)",78.9789844771911
+"C. Miller (25, Greenock Morton, Scottish Championship 22-23)",78.85964592548777
+"D. Galt (32, Queen's Park, Scottish League Two 22-23)",78.64438872019957
+"K. Sessa (22, Heidenheim, 2. Bundesliga 22-23)",78.45972802352554
+"N. Campbell (23, Javor Ivanjica, Serbian SuperLiga 22-23)",78.45149289415677

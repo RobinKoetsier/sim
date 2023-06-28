@@ -1,13 +1,26 @@
-Player 1,Player 2,Similarity
-"J. Tuominen (27, KuPS, Veikkausliiga 2023)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",79.97802060138623
-"J. Tuominen (27, KuPS, Veikkausliiga 2023)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",33.175987565329166
-"J. Tuominen (27, KuPS, Veikkausliiga 2023)","M. Correa (21, FK Metta, Virsliga 2023)",51.13407201388818
-"J. Tuominen (27, KuPS, Veikkausliiga 2023)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",72.86191658812174
-"J. Tuominen (27, KuPS, Veikkausliiga 2023)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",33.30535288117578
-"J. Tuominen (27, KuPS, Veikkausliiga 2023)","Emerson Deocleciano (23, RFS, Virsliga 2023)",67.93444861247147
-"J. Tuominen (27, KuPS, Veikkausliiga 2023)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",72.98173500834362
-"J. Tuominen (27, KuPS, Veikkausliiga 2023)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",0.6918519377855844
-"J. Tuominen (27, KuPS, Veikkausliiga 2023)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",57.01475978390494
-"J. Tuominen (27, KuPS, Veikkausliiga 2023)","M. Diop (20, Valmiera FC, Virsliga 2023)",39.06847044174068
-"J. Tuominen (27, KuPS, Veikkausliiga 2023)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",62.3317365929826
-"J. Tuominen (27, KuPS, Veikkausliiga 2023)","O. Niang (21, Riga FC, Virsliga 2023)",81.40946119993487
+Player,Similarity
+"J. Córdoba (22, Malacateco, Guatemala Liga Nacional 22-23)",90.88733957065104
+"Welton (25, Levski Sofia, Bulgarian First League 22-23)",90.11425169569928
+"T. Ito (25, Magdeburg, 2. Bundesliga 22-23)",89.83623083822957
+"Hélder Costa (29, Al Ittihad, Saudi Professional League 22-23)",89.19627410295419
+"B. Rodríguez (23, América, Liga MX 22-23)",88.89434931460933
+"T. Keskinen (20, HJK, Veikkausliiga 2023)",88.82991492323283
+"N. Ngamaleu (28, Dinamo Moskva, Russian Premier League 22-23)",88.48215276885682
+"L. Sinayoko (23, Auxerre, Ligue 1 22-23)",87.6404180719714
+"O. Hernández (30, Norwich City, Championship 22-23)",87.6099410182655
+"Henrique Pereira (21, Benfica II, Portugal Segunda Liga 22-23)",87.49357544709808
+"O. Camara (24, Dinamo Tbilisi, Erovnuli Liga 2023)",87.35647469845665
+"J. Doku (21, Rennes, Ligue 1 22-23)",86.71722804998517
+"N. Tella (23, Burnley, Championship 22-23)",86.61669747387661
+"Gonçalo Borges (22, Porto II, Portugal Segunda Liga 22-23)",86.2570192466956
+"D. Kulusevski (23, Tottenham Hotspur, Premier League 22-23)",86.12217052519921
+"J. Dilrosun (24, Feyenoord, Eredivisie 22-23)",86.09506624911975
+"M. Araújo (23, Toluca, Liga MX 22-23)",86.04957214282788
+"A. Muja (24, Antwerp, Belgian Pro League 22-23)",86.00721640193318
+"R. Ndo (22, Estrela Amadora, Portugal Segunda Liga 22-23)",85.89906868279904
+"H. Layous (22, Hapoel Tel Aviv, Ligat Ha'al 22-23)",85.73771867484355
+"B. Katona (20, Kecskeméti TE, NB I 22-23)",85.72299801028291
+"A. Kargbo (23, Crotone, Serie C 22-23)",85.6212465153357
+"T. Yenne (22, Ararat-Armenia, Armenian Premier League 22-23)",85.5921728851119
+"S. Palacios (31, Panathinaikos, Greek Super League 22-23)",85.36554802909548
+"K. Lebon (25, Neftchi, Premyer Liqa 22-23)",85.36174431225716

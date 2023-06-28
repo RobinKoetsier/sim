@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "P. Mišić (28, Tuzla City, Bosnian Premier League 22-23)",86.4476750171586
 "I. Noy (22, First Vienna, Austrian 2. Liga 22-23)",83.64998763178531
 "E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",83.36119643075627
@@ -9,7 +9,7 @@ Player 1,Similarity
 "Heberty (34, Bangkok United, Thai League 1 22-23)",81.63532752042103
 "Javi Hernández (33, Bengaluru, Indian Super League 22-23)",81.19525739247577
 "E. Eze (24, Crystal Palace, Premier League 22-23)",81.18236364244214
-"Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",80.64464770602247
+"Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",80.64464770602247
 "E. Hoti (26, Partizani Tirana, Albanian Premier League 22-23)",79.96122392839425
 "T. Horvat (24, Sturm Graz, Austrian Bundesliga 22-23)",79.62086015609958
 "I. Jebali (31, OB, Superliga 22-23)",79.57824111578877
@@ -21,3 +21,6 @@ Player 1,Similarity
 "A. Pritchard (30, Sunderland, Championship 22-23)",77.78274746636635
 "E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",77.52587177793933
 "A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",77.4709540981879
+"S. Khaoui (28, Clermont, Ligue 1 22-23)",77.41742714724587
+"Juan Carlos Menudo (31, UD Logroñés, Primera División RFEF 22-23)",77.3621865183874
+"S. El Morsli (25, Olympic Safi, Botola Pro 22-23)",77.14232205947188

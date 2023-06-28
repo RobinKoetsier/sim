@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "Nam Tae-Hee (31, Al Duhail, Qatari Stars League 22-23)",91.22900007633253
 "Iker Muniain (30, Athletic Bilbao, La Liga 22-23)",89.74416124528244
 "Y. Guzmán (25, Tolima, Colombian Primera Division 22-23)",87.58295047988226
@@ -9,7 +9,7 @@ Player 1,Similarity
 "Alan (23, Moreirense, Portugal Segunda Liga 22-23)",84.17792148142973
 "M. El Allouchi (28, Karmiotissa, Cyprus 1. Division 22-23)",84.17789837397342
 "J. Brandt (27, Borussia Dortmund, Bundesliga 22-23)",84.00814036660601
-"G. Zahid (28, Ankaragücü, Süper Lig 22-23)",84.00755850005723
+"Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",84.00755850005723
 "R. Muslim (28, Dewa United, BRI Liga 1 22-23)",83.97777001319193
 "D. Popovič (33, Celje, 1. SNL 22-23)",83.97775715367935
 "N. Besara (32, Hammarby, Allsvenskan 2023)",83.82077668619847
@@ -21,3 +21,6 @@ Player 1,Similarity
 "J. Swift (27, West Bromwich Albion, Championship 22-23)",81.41394172561643
 "Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",81.32707793888862
 "F. Krovinović (27, Hajduk Split, 1. HNL 22-23)",81.24121666197496
+"A. Yokoyama (26, Fujieda MYFC, J2 2023)",80.89196288894705
+"N. Eraković (23, Sutjeska, Montenegro First League 22-23)",80.84341683981914
+"Khaled Mohammed (22, Al Duhail, Qatari Stars League 22-23)",80.68950295001088

@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "M. Götze (31, Eintracht Frankfurt, Bundesliga 22-23)",80.66744198968408
 "Kaku (28, Al Taawon, Saudi Professional League 22-23)",80.32388159653142
 "D. Micha (31, Hapoel Be'er Sheva, Ligat Ha'al 22-23)",80.06525422117853
@@ -11,7 +11,7 @@ Player 1,Similarity
 "Óliver Torres (28, Sevilla, La Liga 22-23)",73.92541567079282
 "I. Bognár (32, MTK, NB II 22-23)",73.76062420682969
 "A. Bonnet (36, Quevilly Rouen, Ligue 2 22-23)",73.68597507095905
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)",72.92024880278265
+"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)",72.92024880278265
 "Manu García (25, Aris, Greek Super League 22-23)",72.75455935473192
 "N. Lodeiro (34, Seattle Sounders, MLS 2023)",72.42316288689979
 "Kaká (30, Al Akhdoud, Saudi First Division 22-23)",72.34161993752122
@@ -21,3 +21,6 @@ Player 1,Similarity
 "J. Kim (26, Gimcheon Sangmu, K League 2 2023)",71.19146946944618
 "M. Barshazky (26, Maccabi Petah Tikva, Liga Leumit 22-23)",71.05101249691893
 "M. Chrapek (31, Piast Gliwice, Ekstraklasa 22-23)",70.83248414019742
+"Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",70.75801253962864
+"Muralha (30, Al Riyadh, Saudi First Division 22-23)",70.52737549853283
+"R. Messika (33, Hapoel Umm al-Fahm, Liga Leumit 22-23)",70.49081498569566

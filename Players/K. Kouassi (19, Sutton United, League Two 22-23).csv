@@ -1,22 +1,26 @@
-Player 1,Player 2,Similarity
-"K. Kouassi (19, Sutton United, League Two 22-23)","M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)",64.82242288092979
-"K. Kouassi (19, Sutton United, League Two 22-23)","C. Monschein (30, Ried, Austrian Bundesliga 22-23)",48.42834984850909
-"K. Kouassi (19, Sutton United, League Two 22-23)","A. Sitalo (33, Inhulets, Ukrainian Premier Liha 22-23)",75.03225058852674
-"K. Kouassi (19, Sutton United, League Two 22-23)","A. Williams (36, Walsall, League Two 22-23)",75.48569705025389
-"K. Kouassi (19, Sutton United, League Two 22-23)","R. Nemoto (23, Tochigi, J2 2023)",68.49244286483615
-"K. Kouassi (19, Sutton United, League Two 22-23)","A. Yakubu (24, Rio Ave, Primeira Liga 22-23)",48.50623251132969
-"K. Kouassi (19, Sutton United, League Two 22-23)","L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)",80.97461029525549
-"K. Kouassi (19, Sutton United, League Two 22-23)","G. Cooper (25, Chindia Târgovişte, SuperLiga României 22-23)",65.81074470128372
-"K. Kouassi (19, Sutton United, League Two 22-23)","Antoñín Cortés (23, Anorthosis, Cyprus 1. Division 22-23)",44.09084639733426
-"K. Kouassi (19, Sutton United, League Two 22-23)","G. Leyes (33, Academia Cantolao, Peruvian Liga 1 2023)",73.54245407357818
-"K. Kouassi (19, Sutton United, League Two 22-23)","D. Hylton (34, Northampton Town, League Two 22-23)",63.19804475685199
-"K. Kouassi (19, Sutton United, League Two 22-23)","F. Bohman (26, Trelleborg, Superettan 2023)",59.4388626509625
-"K. Kouassi (19, Sutton United, League Two 22-23)","K. Connell (21, Raith Rovers, Scottish Championship 22-23)",62.185308709608535
-"K. Kouassi (19, Sutton United, League Two 22-23)","J. Zuñiga (29, Xinabajul, Guatemala Liga Nacional 22-23)",57.26964129552261
-"K. Kouassi (19, Sutton United, League Two 22-23)","T. Hopper (29, Colchester United, League Two 22-23)",89.62553699289722
-"K. Kouassi (19, Sutton United, League Two 22-23)","M. Egho (29, Randers, Superliga 22-23)",77.44871033949748
-"K. Kouassi (19, Sutton United, League Two 22-23)","M. Hornyák (29, Csákvári TK, NB II 22-23)",55.292243928677735
-"K. Kouassi (19, Sutton United, League Two 22-23)","M. van Duinen (31, Excelsior, Eredivisie 22-23)",59.62561507555476
-"K. Kouassi (19, Sutton United, League Two 22-23)","L. Bekui (28, Al Sahel, Saudi First Division 22-23)",36.810244122181565
-"K. Kouassi (19, Sutton United, League Two 22-23)","Vitor (25, Najran, Saudi First Division 22-23)",36.498937820251584
-"K. Kouassi (19, Sutton United, League Two 22-23)","M. Jurina (29, Al Faisaly, Saudi First Division 22-23)",36.5436721314428
+Player,Similarity
+"M. Mandron (28, Gillingham, League Two 22-23)",94.81632894557669
+"L. Armstrong (26, Harrogate Town, League Two 22-23)",91.30107111815192
+"L. Jutkiewicz (34, Birmingham City, Championship 22-23)",91.20785257008242
+"G. Cirjan (34, Oţelul, Romanian Liga II 22-23)",91.17901377592182
+"O. Hawkins (31, Gillingham, League Two 22-23)",90.97495469865372
+"E. McGuckin (32, Carrick Rangers, Northern Ireland Premiership 22-23)",90.06793837285244
+"T. Hopper (29, Colchester United, League Two 22-23)",89.62553699289722
+"M. Smith (33, Salford City, League Two 22-23)",89.25519291639105
+"D. Rose (29, Stevenage, League Two 22-23)",89.14700747702283
+"A. Vujačić (33, Mornar, Montenegro First League 22-23)",88.63997555244929
+"J. White (31, Ross County, Scottish Premiership 22-23)",88.18540231922904
+"O. Conaty (20, Portadown, Northern Ireland Premiership 22-23)",87.0433427070768
+"H. Silveira (29, Cerro Largo, Uruguay Primera División 2023)",86.54969540111462
+"Oufa (26, ENPPI, Egyptian Premier League 22-23)",86.5098965633239
+"C. Baker-Richardson (27, Crewe Alexandra, League Two 22-23)",86.3839534220304
+"S. Vokes (33, Wycombe Wanderers, League One 22-23)",85.82345753814553
+"S. Quigley (30, Rochdale, League Two 22-23)",85.46471135607581
+"G. Pálinkás (26, Kazincbarcika, NB II 22-23)",85.20274327779799
+"K. Renton (32, Cowdenbeath, Scottish League Two 22-23)",85.17009460310486
+"J. Akinde (33, Colchester United, League Two 22-23)",85.02192786018779
+"K. Appiah (32, Colchester United, League Two 22-23)",84.89498059298411
+"D. Dibirgadzhiev (26, Veles, Russian FNL 2 22-23)",84.8502487775697
+"B. Matić (31, Napredak Kruševac, Serbian SuperLiga 22-23)",84.84624814758584
+"S. Moreo (29, Pisa, Serie B 22-23)",84.59688973524288
+"J. Martin (24, Dundalk, League of Ireland PL 2023)",84.33163434150285

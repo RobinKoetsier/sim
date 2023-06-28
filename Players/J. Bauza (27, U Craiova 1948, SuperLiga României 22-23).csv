@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "J. Bustos (28, Borneo FC, BRI Liga 1 22-23)",90.89377323093022
 "Iago Falqué (33, América de Cali, Colombian Primera Division 22-23)",88.60437852290454
 "K. Kusk (31, Silkeborg, Superliga 22-23)",88.56838881272307
@@ -7,7 +7,7 @@ Player 1,Similarity
 "Brahim Diaz (23, Milan, Serie A 22-23)",87.63688999262885
 "Joan Román (30, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",87.557098105762
 "S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)",87.09007355752783
-"J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",87.08351907515916
+"A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",87.08351907515916
 "H. Boumous (27, ATK Mohun Bagan Football Club, Indian Super League 22-23)",86.97100120079023
 "Cauly (27, Ludogorets, Bulgarian First League 22-23)",86.87890272421079
 "D. Crowley (25, Morecambe, League One 22-23)",86.51795224582106
@@ -21,3 +21,6 @@ Player 1,Similarity
 "T. Chery (34, Maccabi Haifa, Ligat Ha'al 22-23)",84.6032242211686
 "P. Altán (25, Municipal, Guatemala Liga Nacional 22-23)",84.47407176676143
 "Carles Gil (30, New England, MLS 2023)",84.08996574757278
+"Rafa Silva (30, Benfica, Primeira Liga 22-23)",83.69553684460165
+"G. Konstantelias (20, PAOK, Greek Super League 22-23)",83.62863217055876
+"A. Ramsey (20, Middlesbrough, Championship 22-23)",83.60557873914254

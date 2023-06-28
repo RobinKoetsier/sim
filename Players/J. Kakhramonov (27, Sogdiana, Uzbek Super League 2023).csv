@@ -1,27 +1,26 @@
-Player 1,Player 2,Similarity
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",63.1228810966248
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",27.665056057102777
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",36.04372410460879
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",75.37699192930994
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",45.894486184937286
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",37.057155981538415
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",19.50885886027679
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",47.60310845933672
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",18.711125039883918
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","T. Keskinen (20, HJK, Veikkausliiga 2023)",72.28884756504674
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","S. Haarala (23, Ilves, Veikkausliiga 2023)",70.9938494426622
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",68.33499731171807
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","L. Rogerson (25, Haka, Veikkausliiga 2023)",65.38959533876144
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",68.87079731802724
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",62.44648948040869
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",53.70409800546798
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","M. Correa (21, FK Metta, Virsliga 2023)",40.529812281935605
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",52.93987866564306
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",8.574008964842424
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","Emerson Deocleciano (23, RFS, Virsliga 2023)",64.32358367661489
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",68.40427911646636
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",6.033962316686515
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",52.63062606382578
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","M. Diop (20, Valmiera FC, Virsliga 2023)",38.17652151475882
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",48.10627994431381
-"J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)","O. Niang (21, Riga FC, Virsliga 2023)",71.16903327514801
+Player,Similarity
+"D. González (28, Cape Town, South Africa PSL 22-23)",85.20398346375961
+"T. Boyd (28, Los Angeles Galaxy, MLS 2023)",85.09973920107966
+"J. Kluivert (24, Valencia, La Liga 22-23)",84.88016436204218
+"D. Sallói (26, Sporting KC, MLS 2023)",84.08308947882495
+"I. Brnić (21, Maribor, 1. SNL 22-23)",83.26157336629333
+"C. Laptrakul (28, Prachuap, Thai League 1 22-23)",82.53910156568809
+"I. Jaya (26, Bali United, BRI Liga 1 22-23)",81.25083269820871
+"M. Shaker (26, Ironi Kiryat Shmona, Ligat Ha'al 22-23)",80.88454940509344
+"C. Morrison (23, Falkirk, Scottish League One 22-23)",79.89820975255397
+"E. Anastasia (27, Renate, Serie C 22-23)",79.67439491545781
+"E. Cicerelli (28, Reggina, Serie B 22-23)",79.63996144468022
+"E. Hansson (24, Heracles, Eerste Divisie 22-23)",79.50195358003957
+"S. Russini (27, Padova, Serie C 22-23)",79.23382632812313
+"M. Szczepański (25, Warta Poznań, Ekstraklasa 22-23)",79.18573333046177
+"D. Moreno (28, Deportivo Pasto, Colombian Primera Division 22-23)",79.08946202864
+"D. Malen (24, Borussia Dortmund, Bundesliga 22-23)",79.0392872835485
+"D. Gremsl (30, Lafnitz, Austrian 2. Liga 22-23)",78.92215799701955
+"T. Maseko (20, SuperSport United, South Africa PSL 22-23)",78.86549447699495
+"A. Avanesyan (23, Ararat-Armenia, Armenian Premier League 22-23)",78.828630176915
+"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)",78.50164029848958
+"G. Korte (29, De Graafschap, Eerste Divisie 22-23)",78.3342708025341
+"Gonçalo Borges (22, Porto II, Portugal Segunda Liga 22-23)",78.17497479067455
+"Romário Luiz (33, Antigua GFC, Guatemala Liga Nacional 22-23)",77.72574276935708
+"J. Wonggorn (26, Muang Thong United, Thai League 1 22-23)",77.70157571230385
+"Fred Saraiva (26, Fram, Iceland Besta-Deild Karla 2023)",77.60836396957151

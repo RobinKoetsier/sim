@@ -1,168 +1,26 @@
-Player 1,Player 2,Similarity
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","L. Ben Hassine (23, Etoile du Sahel, Tunisian Ligue 1 22-23)",43.45112529569592
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Bouziane (27, Monastir, Tunisian Ligue 1 22-23)",48.59666296129115
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Mohmmed Juma (25, Ben Guerdane, Tunisian Ligue 1 22-23)",35.2748823207486
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Nasr Hamed (19, Ben Guerdane, Tunisian Ligue 1 22-23)",43.23714258249626
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Brahmi (30, EO Sidi Bouzid, Tunisian Ligue 1 22-23)",58.90608970618173
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)",61.97886412465856
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","H. Chikhaoui (26, Monastir, Tunisian Ligue 1 22-23)",67.27587301242673
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Mejri (27, Stade Tunisien, Tunisian Ligue 1 22-23)",40.202088669308
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Habbassi (21, CS Sfaxien, Tunisian Ligue 1 22-23)",58.74630085651501
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Badri (32, ES Tunis, Tunisian Ligue 1 22-23)",33.63577157858543
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","K. Koffi (22, AS Soliman, Tunisian Ligue 1 22-23)",43.88743742538178
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)",60.70502673060624
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","I. Olawoyin (25, Rizespor, Turkish 1. Lig 22-23)",57.73075712152854
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Coban (28, Manisa BBSK, Turkish 1. Lig 22-23)",59.01725535873751
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)",53.03278212518061
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Mallé (25, Keçiörengücü, Turkish 1. Lig 22-23)",67.87942314146753
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Özek (35, Altınordu, Turkish 1. Lig 22-23)",38.15635564864656
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","L. Ayçiçek (29, Bandırmaspor, Turkish 1. Lig 22-23)",57.35461154150928
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","D. Diallo (22, Manisa BBSK, Turkish 1. Lig 22-23)",52.99369883176435
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Keser (26, Rizespor, Turkish 1. Lig 22-23)",60.969578552215154
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","K. Nzuzi (29, Tuzlaspor, Turkish 1. Lig 22-23)",55.31005405311464
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Tetteh (26, Bandırmaspor, Turkish 1. Lig 22-23)",27.94541130479
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)",67.88978346280604
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","D. Bregu (27, Boluspor, Turkish 1. Lig 22-23)",57.97520811258532
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Alıcı (25, Samsunspor, Turkish 1. Lig 22-23)",63.04388178414919
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Muhammed (29, Keçiörengücü, Turkish 1. Lig 22-23)",58.19761841720068
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Yahaya (21, Tuzlaspor, Turkish 1. Lig 22-23)",55.6026948220162
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Babel (36, Eyüpspor, Turkish 1. Lig 22-23)",33.40474675551854
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Gakpa (29, Manisa BBSK, Turkish 1. Lig 22-23)",43.45523856519844
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","E. Gürlük (19, Altınordu, Turkish 1. Lig 22-23)",48.76283740558251
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","M. İnan (24, Keçiörengücü, Turkish 1. Lig 22-23)",35.770482603577555
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Rosheuvel (32, BB Erzurumspor, Turkish 1. Lig 22-23)",38.37588558392477
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","D. Emeksiz (23, Manisa BBSK, Turkish 1. Lig 22-23)",25.395611445569934
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","J. Kayamba (31, Boluspor, Turkish 1. Lig 22-23)",50.65958455831895
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Roshi (32, Sakaryaspor, Turkish 1. Lig 22-23)",34.31481775215513
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Özcan (26, Altınordu, Turkish 1. Lig 22-23)",48.65266367336852
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","H. Akbunar (29, Eyüpspor, Turkish 1. Lig 22-23)",51.37219619441076
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Demir (25, Gençlerbirliği, Turkish 1. Lig 22-23)",56.4888561353366
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Imeri (23, Bodrumspor, Turkish 1. Lig 22-23)",18.26852513060122
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","C. Akgün (24, Yeni Malatyaspor, Turkish 1. Lig 22-23)",70.76643769730327
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","H. Bağ (32, Bandırmaspor, Turkish 1. Lig 22-23)",17.224018326475367
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","H. Taşcı (32, Sakaryaspor, Turkish 1. Lig 22-23)",50.02011523905111
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Mimaroğlu (28, Altınordu, Turkish 1. Lig 22-23)",68.39222006254468
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Okutan (26, Boluspor, Turkish 1. Lig 22-23)",48.04673783183937
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Sahintürk (27, Bandırmaspor, Turkish 1. Lig 22-23)",64.30790077645777
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Yılmaz (33, Rizespor, Turkish 1. Lig 22-23)",32.39093867866415
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Basaçikoglu (28, Tuzlaspor, Turkish 1. Lig 22-23)",66.89160436283392
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Amilton (33, Rizespor, Turkish 1. Lig 22-23)",49.74083355876208
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","C. Soukou (30, Bandırmaspor, Turkish 1. Lig 22-23)",34.417091699413305
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","K. Mayi (30, Denizlispor, Turkish 1. Lig 22-23)",-1.8631160370818336
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Özfesli (26, BB Erzurumspor, Turkish 1. Lig 22-23)",37.56130360484333
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)",61.76966241065844
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Özhan (22, BB Erzurumspor, Turkish 1. Lig 22-23)",29.02726744212853
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Rharsalla (29, Gençlerbirliği, Turkish 1. Lig 22-23)",53.42482132688494
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)",24.14182449379217
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","А.Tuzcu (20, Gençlerbirliği, Turkish 1. Lig 22-23)",1.764160289914087
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","F. Ezeh (25, Eyüpspor, Turkish 1. Lig 22-23)",41.55396270407461
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Belyaev (23, Gençlerbirliği, Turkish 1. Lig 22-23)",40.958513886990616
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Ali Saleh (23, Al Wasl, UAE Pro League 22-23)",68.95106940415573
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Fabio de Lima (29, Al Wasl, UAE Pro League 22-23)",25.56255022558383
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Aylton Boa Morte (29, Khorfakkan, UAE Pro League 22-23)",56.06778101605306
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Lourency (27, Al Bataeh, UAE Pro League 22-23)",49.16872437789605
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Rahimi (26, Al Ain, UAE Pro League 22-23)",54.90987563843167
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Ali Madan (27, Ajman, UAE Pro League 22-23)",58.70214205414378
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Ryan Mendes (33, Al Nasr, UAE Pro League 22-23)",53.01339255974482
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Amer Bazuhair (31, Dibba Al Fujairah, UAE Pro League 22-23)",22.17621422609232
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Suhail Ahmed Al Noobi (27, Bani Yas, UAE Pro League 22-23)",29.79776339987012
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","P. Mboungou (22, Ajman, UAE Pro League 22-23)",45.2021648448951
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Bencharki (28, Al Jazira, UAE Pro League 22-23)",58.59593366022779
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Rayhi (28, Al Dhafra, UAE Pro League 22-23)",62.76732795471129
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Traore (20, Al Jazira, UAE Pro League 22-23)",57.91646135384288
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Juninho (23, Khorfakkan, UAE Pro League 22-23)",60.65142378624907
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Jajá (24, Dibba Al Fujairah, UAE Pro League 22-23)",48.29248080565411
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Yarmolenko (33, Al Ain, UAE Pro League 22-23)",59.64847882153751
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Luan Pereira (23, Al Sharjah, UAE Pro League 22-23)",41.99254116741351
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Camara (22, Al Sharjah, UAE Pro League 22-23)",29.752617668975567
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Gassama (22, Al Bataeh, UAE Pro League 22-23)",54.56916527639416
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)",68.59250612400396
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Yahya Al Ghassani (25, Shabab Al Ahli Dubai, UAE Pro League 22-23)",64.14078949762381
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)",51.74638839931357
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Harib Abdalla Suhail (20, Shabab Al Ahli Dubai, UAE Pro League 22-23)",56.3461211736741
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Ramírez (22, Al Ittihad Kalba, UAE Pro League 22-23)",40.95696261957045
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Leandro Spadacio (23, Al Ittihad Kalba, UAE Pro League 22-23)",76.73620915326876
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Mohamed Al Junaibi (24, Al Dhafra, UAE Pro League 22-23)",53.57696883180936
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Ahmed Abunamous (23, Bani Yas, UAE Pro League 22-23)",64.04320490139365
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Diaby (31, Al Ittihad Kalba, UAE Pro League 22-23)",44.32744536473632
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Caio Canedo (32, Al Ain, UAE Pro League 22-23)",17.814708694171376
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","F. Kruspzky (20, Al Wahda, UAE Pro League 22-23)",23.359038363962703
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","T. Seferi (26, Vorskla, Ukrainian Premier Liha 22-23)",47.6713336785308
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Solomon-Otabor (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",55.38677209179998
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","G. Pasich (29, Veres, Ukrainian Premier Liha 22-23)",30.230264855403178
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",57.17006772301125
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Rusyn (27, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",52.11672359026716
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Y. Kartushov (32, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",-6.202994180523628
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Ilyin (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",47.82956297056906
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)",38.13041097303741
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Naumets (24, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",71.40265665671305
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Zaderaka (28, Kryvbas KR, Ukrainian Premier Liha 22-23)",46.428086624509405
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Dakhnovskyi (24, Veres, Ukrainian Premier Liha 22-23)",48.508313522401245
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","N. Voloshyn (19, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",55.86545825659138
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Myakushko (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",63.85462776970302
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Y. Pidlepenets (24, Dnipro-1, Ukrainian Premier Liha 22-23)",41.86909711028648
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","D. Blanco (28, Dnipro-1, Ukrainian Premier Liha 22-23)",25.49158056759646
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Kalitvintsev (30, Oleksandria, Ukrainian Premier Liha 22-23)",44.221256479627016
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","N. Vorobchak (23, Minaj, Ukrainian Premier Liha 22-23)",58.49543015120291
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Z. Badibanga (31, Chornomorets, Ukrainian Premier Liha 22-23)",32.54414875492236
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",55.10199075991186
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",52.490204209848265
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Kabaev (27, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",52.17924478260921
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Kozak (28, Inhulets, Ukrainian Premier Liha 22-23)",63.92239912195695
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","D. Alefirenko (23, Chornomorets, Ukrainian Premier Liha 22-23)",56.21159181225956
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Boychuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",66.92994266326002
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Tsygankov (25, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",60.75717653884822
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Rogozynskyi (27, Minaj, Ukrainian Premier Liha 22-23)",32.277167571091766
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","E. Kuliev (21, Minaj, Ukrainian Premier Liha 22-23)",47.31819112105861
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Zubkov (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",47.02699983814611
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","V. Odaryuk (29, Inhulets, Ukrainian Premier Liha 22-23)",24.44927431205982
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",72.599008814156
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","D. Kryskiv (22, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",30.05763835593053
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Bliznichenko (28, Veres, Ukrainian Premier Liha 22-23)",49.13050744822403
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)",62.84326848149112
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",27.197466704517737
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",50.20974853871218
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",23.02654843994582
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",62.99018225167488
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",53.13555541071211
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",52.36500758458844
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",61.53517591533368
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",66.63051143067045
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",49.75009444900613
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",65.51668339788822
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",35.81965362406088
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",40.18663739366814
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",-1.5076510263758007
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",66.8103562217919
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",58.189076152504015
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",52.13775026168352
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",67.31381766177132
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",40.11026961014109
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",54.813455203854986
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",40.15557289589748
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",41.58505610267432
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",45.008248930165394
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",47.37093294192629
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",46.33804079443344
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",33.04175761944956
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",46.30314569303048
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",16.476802544519693
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",67.21650296878605
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",-2.10394531955183
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",49.46803047827599
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",55.359441780691455
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",57.0133016963408
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",41.206211770556685
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",51.38478195620729
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",44.24419003586601
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",44.668001334143824
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",24.279860548073668
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",59.36871635397864
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",38.03155818795838
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",45.63594836659944
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",48.21300777136797
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",4.0996332749917
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",66.45870721669364
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",21.56516597191945
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",47.75974008746946
-"W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",44.14764958984532
+Player,Similarity
+"R. Pop (17, UTA Arad, SuperLiga României 22-23)",80.7266315444475
+"A. Gadzhiev (19, Dynamo Makhachkala, Russian FNL 2 22-23)",80.45022427077726
+"Eloy (24, Penya Encarnada, Andorra Primera Divisió 22-23)",80.19561260339384
+"T. Suslov (20, Groningen, Eredivisie 22-23)",79.94365057978754
+"C. Makridis (26, Jahn Regensburg, 2. Bundesliga 22-23)",79.93468087191158
+"K. Velinovski (23, Akademija Pandev, North Macedonia First League 22-23)",78.8240400873153
+"A. Mendes Moreira (27, PAS Giannina, Greek Super League 22-23)",78.56615139028456
+"A. Cordea (23, FCS Bucureşti, SuperLiga României 22-23)",78.21661569357825
+"Santi Samanés (27, SD Logroñés, Primera División RFEF 22-23)",77.66440195776349
+"Edgar Pacheco (22, Belenenses, Portugal Segunda Liga 22-23)",77.38408153548659
+"T. Archibald (25, Leyton Orient, League Two 22-23)",77.10040597574334
+"F. Hartmann (22, Sligo Rovers, League of Ireland PL 2023)",77.0838905353199
+"M. Kovácsréti (22, Nyíregyháza Spartacus, NB II 22-23)",77.02435682832063
+"D. Lamesta (23, Alessandria, Serie C 22-23)",76.90849635895275
+"G. Robail (29, Atromitos, Greek Super League 22-23)",76.86228330510968
+"A. Opoku (24, Kaiserslautern, 2. Bundesliga 22-23)",76.85311859435019
+"Leandro Spadacio (23, Al Ittihad Kalba, UAE Pro League 22-23)",76.73620915326876
+"S. Kovachev (25, Arda, Bulgarian First League 22-23)",76.70306335582877
+"T. Bech (21, Ingolstadt, 3. Liga 22-23)",76.67062060772112
+"J. Drew (19, Macarthur, A-League Men 22-23)",76.62299023546564
+"M. Grüll (24, Rapid Wien, Austrian Bundesliga 22-23)",76.54562718235954
+"Z. Habti (25, Raja Casablanca, Botola Pro 22-23)",76.43309268538331
+"S. Dror (27, Hapoel Ramat Gan, Liga Leumit 22-23)",76.22969013217651
+"V. Vasilev (22, Cherno More, Bulgarian First League 22-23)",76.16559187658069
+"Felipe Santos (26, Qabala, Premyer Liqa 22-23)",75.94474110607814

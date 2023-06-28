@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "F. Starzyński (32, Zagłębie Lubin, Ekstraklasa 22-23)",92.52873523052692
 "A.  Lőrinczy (29, Diósgyőr, NB II 22-23)",91.9618666910422
 "Josué (32, Legia Warszawa, Ekstraklasa 22-23)",91.10298155781614
@@ -8,11 +8,11 @@ Player 1,Similarity
 "I. Bognár (32, MTK, NB II 22-23)",90.39738566455124
 "F. Álvarez (28, Shkupi, North Macedonia First League 22-23)",90.33785625725407
 "B. Natcho (35, Partizan, Serbian SuperLiga 22-23)",90.31310068623452
-"M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",90.23207449566196
+"M. Castroman (28, Thun, Swiss Challenge League 22-23)",90.23207449566196
 "B. Rácz (27, Szombathelyi Haladás, NB II 22-23)",89.86058357034528
 "D. Fitz (23, Austria Wien, Austrian Bundesliga 22-23)",89.69349427889094
 "M. Şatin (26, Vorwärts Steyr, Austrian 2. Liga 22-23)",89.55157434237452
-"M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",89.40213736513184
+"A. Memela (35, Richards Bay, South Africa PSL 22-23)",89.40213736513184
 "T. Teklić (23, Varaždin, 1. HNL 22-23)",89.17606409915467
 "K. Stöger (29, Bochum, Bundesliga 22-23)",89.06935215415692
 "N. Lodeiro (34, Seattle Sounders, MLS 2023)",89.03092649905841
@@ -21,3 +21,6 @@ Player 1,Similarity
 "Y. Maziz (24, Metz, Ligue 2 22-23)",88.80271263697328
 "D. Božović (34, Dečić, Montenegro First League 22-23)",88.58094994237065
 "Zé Valente (28, Persebaya Surabaya, BRI Liga 1 22-23)",88.41338913349682
+"N. Ninković (28, Borac Banja Luka, Bosnian Premier League 22-23)",88.35197165243393
+"Kady (27, Qarabag, Premyer Liqa 22-23)",88.32478394304546
+"M. Barshazky (26, Maccabi Petah Tikva, Liga Leumit 22-23)",88.13194677941848

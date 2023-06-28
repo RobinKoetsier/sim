@@ -1,15 +1,26 @@
-Player 1,Player 2,Similarity
-"L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)","G. Cooper (25, Chindia Târgovişte, SuperLiga României 22-23)",87.42139483248434
-"L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)","Antoñín Cortés (23, Anorthosis, Cyprus 1. Division 22-23)",79.84336662853768
-"L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)","G. Leyes (33, Academia Cantolao, Peruvian Liga 1 2023)",84.52228158891691
-"L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)","D. Hylton (34, Northampton Town, League Two 22-23)",74.60639758091706
-"L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)","F. Bohman (26, Trelleborg, Superettan 2023)",85.21674329980108
-"L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)","K. Connell (21, Raith Rovers, Scottish Championship 22-23)",83.20921464219076
-"L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)","J. Zuñiga (29, Xinabajul, Guatemala Liga Nacional 22-23)",78.76559352683884
-"L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)","T. Hopper (29, Colchester United, League Two 22-23)",92.22862328441852
-"L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)","M. Egho (29, Randers, Superliga 22-23)",93.58521605367515
-"L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)","M. Hornyák (29, Csákvári TK, NB II 22-23)",87.41518565536076
-"L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)","M. van Duinen (31, Excelsior, Eredivisie 22-23)",83.55990704539134
-"L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)","L. Bekui (28, Al Sahel, Saudi First Division 22-23)",64.72245864221837
-"L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)","Vitor (25, Najran, Saudi First Division 22-23)",63.629837628624784
-"L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)","M. Jurina (29, Al Faisaly, Saudi First Division 22-23)",64.7598077639575
+Player,Similarity
+"Dilson (26, Aswan FC, Egyptian Premier League 22-23)",94.0957110900515
+"M. Egho (29, Randers, Superliga 22-23)",93.58521605367515
+"Ewan Urain (23, Amorebieta, Primera División RFEF 22-23)",92.78840263355814
+"M. Leaburn (19, Charlton Athletic, League One 22-23)",92.728905694513
+"T. Hopper (29, Colchester United, League Two 22-23)",92.22862328441852
+"B. Matić (31, Napredak Kruševac, Serbian SuperLiga 22-23)",92.0140765514396
+"S. Camara (25, Botoşani, SuperLiga României 22-23)",91.75102965769914
+"R. Street (21, Shrewsbury Town, League One 22-23)",91.5936383788208
+"K. Krastev (24, Beroe, Bulgarian First League 22-23)",91.26760485663424
+"M. Raičević (29, Mornar, Montenegro First League 22-23)",90.93100750719094
+"S. Sakuragawa (21, Fagiano Okayama, J2 2023)",90.90987436892706
+"H. Silveira (29, Cerro Largo, Uruguay Primera División 2023)",90.81247667467557
+"R. Nemoto (23, Tochigi, J2 2023)",90.807707223815
+"C. Offor (23, CF Montréal, MLS 2023)",90.60662774061274
+"F. Borsos (22, Győri ETO, NB II 22-23)",90.54970715787437
+"I. Stefanovich (26, Volgar Astrakhan, Russian FNL 2 22-23)",90.29962008690228
+"G. Gori (24, Reggina, Serie B 22-23)",90.28848812351124
+"D. Selke (28, Köln, Bundesliga 22-23)",90.17075303657336
+"B. Bilalov (20, Volga Ulyanovsk, Russian FNL 2 22-23)",89.98444362036258
+"P. Yordanov (33, OFK Pirin, Bulgarian First League 22-23)",89.88109689647385
+"Amr Gamal (31, Pharco, Egyptian Premier League 22-23)",89.74827463154104
+"Pedro Mendes (23, Ascoli, Serie B 22-23)",89.74470295383527
+"Oufa (26, ENPPI, Egyptian Premier League 22-23)",89.43827578106628
+"Beto (25, Udinese, Serie A 22-23)",89.35836463021232
+"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)",89.05718500131209

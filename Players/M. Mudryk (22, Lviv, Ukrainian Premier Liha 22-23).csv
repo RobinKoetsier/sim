@@ -1,47 +1,26 @@
-Player 1,Player 2,Similarity
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",43.17651575837556
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",60.92613525339943
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",22.63333257405612
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",70.57700354715526
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",75.98146900506876
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",52.438631739021865
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",65.78745921827172
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",82.39243745132407
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",40.35997406061495
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",68.27634133761447
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",24.90798136793743
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",59.086809411368215
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",6.27218798800469
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",70.50996862969441
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",60.21520819438718
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",56.691116701589294
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",60.22263577145355
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",59.98952634313694
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",75.15207234638783
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",64.56870488495433
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",44.55631055746594
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",33.06429338322149
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",30.982736281212595
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",69.99476250140107
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",27.736347244176727
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",32.26215716462336
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",15.517741649743211
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",61.24436431217367
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",-27.491529624462952
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",65.9811663494791
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",68.5827591745266
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",57.406002700863326
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",39.3284793198393
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",53.46772575294308
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",67.5151592901096
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",38.79016467326631
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",24.24599066002017
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",68.39045401279694
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",16.284104122431344
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",74.19839984495084
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",56.21314952601478
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",-1.5705199919024455
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",66.7611502608413
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",24.60375081955052
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",64.67881489311792
-"M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",69.49604428612078
+Player,Similarity
+"T. Ceccarelli (30, Picerno, Serie C 22-23)",92.33084206825836
+"Allan Sousa (26, AaB, Superliga 22-23)",91.9964895378062
+"A. Vrenezi (29, 1860 München, 3. Liga 22-23)",90.97917849816793
+"R. Habran (28, Hapoel Afula, Liga Leumit 22-23)",90.97229661620456
+"C. Gakpo (23, PSV, Eredivisie 22-23)",90.34912286181024
+"C. Petrila (22, CFR Cluj, SuperLiga României 22-23)",90.31085765285242
+"M. Grüll (24, Rapid Wien, Austrian Bundesliga 22-23)",89.30130775674644
+"K. Horváth (21, Kecskeméti TE, NB I 22-23)",89.24792272360183
+"J. Duarte (26, Ararat-Armenia, Armenian Premier League 22-23)",89.24376747372006
+"M. Saleng (25, Orlando Pirates, South Africa PSL 22-23)",88.87344290314748
+"Bruno (29, Pafos, Cyprus 1. Division 22-23)",88.5844926118517
+"F. Coman (25, FCS Bucureşti, SuperLiga României 22-23)",88.00044589036867
+"M. Kovácsréti (22, Nyíregyháza Spartacus, NB II 22-23)",87.76221862403459
+"A. Stirling (33, Stranraer, Scottish League Two 22-23)",87.60649650000666
+"A. Cordea (23, FCS Bucureşti, SuperLiga României 22-23)",87.37557433704545
+"D. Casiraghi (30, Südtirol, Serie B 22-23)",87.2612866438333
+"G. Rusev (24, CSKA 1948 Sofia, Bulgarian First League 22-23)",87.22477358537537
+"Witi (26, Nacional, Portugal Segunda Liga 22-23)",87.21679240629696
+"K. Despodov (26, Ludogorets, Bulgarian First League 22-23)",86.96762996813239
+"H. Villalba (28, Libertad, Paraguay Division Profesional 2023)",86.78885964832608
+"I. Jukić (26, Zrinjski, Bosnian Premier League 22-23)",86.72707378447275
+"A. Vega (25, Guadalajara, Liga MX 22-23)",86.60697411334954
+"K. Hazard (27, RWD Molenbeek, Belgian First Division B 22-23)",86.43166708535517
+"M. Gaćinović (28, AEK Athens, Greek Super League 22-23)",86.09379734193436
+"A. Gordyushenko (26, Rodina Moskva, Russian FNL 2 22-23)",86.03727789187441

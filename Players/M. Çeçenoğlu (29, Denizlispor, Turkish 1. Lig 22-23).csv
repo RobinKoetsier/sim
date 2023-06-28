@@ -1,153 +1,26 @@
-Player 1,Player 2,Similarity
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","A. Mallé (25, Keçiörengücü, Turkish 1. Lig 22-23)",66.38162499833442
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","A. Özek (35, Altınordu, Turkish 1. Lig 22-23)",46.197044810147474
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","L. Ayçiçek (29, Bandırmaspor, Turkish 1. Lig 22-23)",42.06530484922446
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","D. Diallo (22, Manisa BBSK, Turkish 1. Lig 22-23)",72.61990238797459
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","B. Keser (26, Rizespor, Turkish 1. Lig 22-23)",40.22585026782964
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","K. Nzuzi (29, Tuzlaspor, Turkish 1. Lig 22-23)",37.12700131888032
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","S. Tetteh (26, Bandırmaspor, Turkish 1. Lig 22-23)",-8.446945078673366
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)",70.1201571353168
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","D. Bregu (27, Boluspor, Turkish 1. Lig 22-23)",20.477189290546985
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","B. Alıcı (25, Samsunspor, Turkish 1. Lig 22-23)",57.570796759797936
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","R. Muhammed (29, Keçiörengücü, Turkish 1. Lig 22-23)",43.30099165332753
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","A. Yahaya (21, Tuzlaspor, Turkish 1. Lig 22-23)",38.23005634418454
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","R. Babel (36, Eyüpspor, Turkish 1. Lig 22-23)",38.98154706323555
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","M. Gakpa (29, Manisa BBSK, Turkish 1. Lig 22-23)",12.621171247946162
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","E. Gürlük (19, Altınordu, Turkish 1. Lig 22-23)",36.50034354730652
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","M. İnan (24, Keçiörengücü, Turkish 1. Lig 22-23)",37.43850547941078
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","M. Rosheuvel (32, BB Erzurumspor, Turkish 1. Lig 22-23)",27.687552741920747
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","D. Emeksiz (23, Manisa BBSK, Turkish 1. Lig 22-23)",7.803144261044735
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","J. Kayamba (31, Boluspor, Turkish 1. Lig 22-23)",66.39587579275383
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","O. Roshi (32, Sakaryaspor, Turkish 1. Lig 22-23)",34.35619970658482
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","S. Özcan (26, Altınordu, Turkish 1. Lig 22-23)",19.67812440173991
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","H. Akbunar (29, Eyüpspor, Turkish 1. Lig 22-23)",73.10012769346793
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","M. Demir (25, Gençlerbirliği, Turkish 1. Lig 22-23)",34.5282568333788
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","O. Imeri (23, Bodrumspor, Turkish 1. Lig 22-23)",-11.910702093614349
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","C. Akgün (24, Yeni Malatyaspor, Turkish 1. Lig 22-23)",51.82682689646057
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","H. Bağ (32, Bandırmaspor, Turkish 1. Lig 22-23)",19.32116678825925
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","H. Taşcı (32, Sakaryaspor, Turkish 1. Lig 22-23)",31.85043427084614
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","M. Mimaroğlu (28, Altınordu, Turkish 1. Lig 22-23)",69.41966060133676
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","M. Okutan (26, Boluspor, Turkish 1. Lig 22-23)",49.05196214363004
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","S. Sahintürk (27, Bandırmaspor, Turkish 1. Lig 22-23)",65.64185571947846
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","S. Yılmaz (33, Rizespor, Turkish 1. Lig 22-23)",12.585417047657648
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","B. Basaçikoglu (28, Tuzlaspor, Turkish 1. Lig 22-23)",50.35018645090996
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Amilton (33, Rizespor, Turkish 1. Lig 22-23)",57.18705621280187
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","C. Soukou (30, Bandırmaspor, Turkish 1. Lig 22-23)",6.23478385423385
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","K. Mayi (30, Denizlispor, Turkish 1. Lig 22-23)",-5.238444795170988
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","A. Özfesli (26, BB Erzurumspor, Turkish 1. Lig 22-23)",21.629422261102288
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)",76.55267913921209
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","M. Özhan (22, BB Erzurumspor, Turkish 1. Lig 22-23)",12.727821699472356
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","M. Rharsalla (29, Gençlerbirliği, Turkish 1. Lig 22-23)",28.48096619835813
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)",19.18139855733661
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","А.Tuzcu (20, Gençlerbirliği, Turkish 1. Lig 22-23)",0.3841071554310284
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","F. Ezeh (25, Eyüpspor, Turkish 1. Lig 22-23)",25.533431290983277
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","O. Belyaev (23, Gençlerbirliği, Turkish 1. Lig 22-23)",24.05387636915897
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Ali Saleh (23, Al Wasl, UAE Pro League 22-23)",41.263595006238965
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Fabio de Lima (29, Al Wasl, UAE Pro League 22-23)",17.97207541180654
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Aylton Boa Morte (29, Khorfakkan, UAE Pro League 22-23)",45.26234339700086
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Lourency (27, Al Bataeh, UAE Pro League 22-23)",47.32415498745844
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","S. Rahimi (26, Al Ain, UAE Pro League 22-23)",40.29283864486277
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Ali Madan (27, Ajman, UAE Pro League 22-23)",33.05565021273979
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Ryan Mendes (33, Al Nasr, UAE Pro League 22-23)",57.53243936811084
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Amer Bazuhair (31, Dibba Al Fujairah, UAE Pro League 22-23)",29.496911245937635
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Suhail Ahmed Al Noobi (27, Bani Yas, UAE Pro League 22-23)",16.82910489037017
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","P. Mboungou (22, Ajman, UAE Pro League 22-23)",9.658287992684858
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","A. Bencharki (28, Al Jazira, UAE Pro League 22-23)",39.93872946027104
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","M. Rayhi (28, Al Dhafra, UAE Pro League 22-23)",32.185988987557195
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","O. Traore (20, Al Jazira, UAE Pro League 22-23)",52.96244259437464
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Juninho (23, Khorfakkan, UAE Pro League 22-23)",45.38969887104345
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Jajá (24, Dibba Al Fujairah, UAE Pro League 22-23)",50.2752908846145
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","A. Yarmolenko (33, Al Ain, UAE Pro League 22-23)",46.9210276839685
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Luan Pereira (23, Al Sharjah, UAE Pro League 22-23)",28.52580961414595
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","O. Camara (22, Al Sharjah, UAE Pro League 22-23)",-7.483136415678672
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","S. Gassama (22, Al Bataeh, UAE Pro League 22-23)",42.51054970912994
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)",44.43052098829894
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Yahya Al Ghassani (25, Shabab Al Ahli Dubai, UAE Pro League 22-23)",39.90322913185958
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)",59.051648564732
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Harib Abdalla Suhail (20, Shabab Al Ahli Dubai, UAE Pro League 22-23)",27.603504547692204
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","B. Ramírez (22, Al Ittihad Kalba, UAE Pro League 22-23)",24.10426769895653
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Leandro Spadacio (23, Al Ittihad Kalba, UAE Pro League 22-23)",44.4780732801917
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Mohamed Al Junaibi (24, Al Dhafra, UAE Pro League 22-23)",48.148887316348606
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Ahmed Abunamous (23, Bani Yas, UAE Pro League 22-23)",65.80114473973322
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","A. Diaby (31, Al Ittihad Kalba, UAE Pro League 22-23)",26.45575632228833
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Caio Canedo (32, Al Ain, UAE Pro League 22-23)",-19.254482550262296
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","F. Kruspzky (20, Al Wahda, UAE Pro League 22-23)",6.487779891738264
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","T. Seferi (26, Vorskla, Ukrainian Premier Liha 22-23)",25.582409366655263
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","V. Solomon-Otabor (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",53.901509503422496
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","G. Pasich (29, Veres, Ukrainian Premier Liha 22-23)",53.73371944084986
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",43.71462436293763
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","R. Rusyn (27, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",44.2767908823672
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Y. Kartushov (32, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",39.40897170728695
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","O. Ilyin (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",37.05888944677029
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)",17.14691935883228
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","V. Naumets (24, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",55.74092601977888
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","M. Zaderaka (28, Kryvbas KR, Ukrainian Premier Liha 22-23)",73.36925612500289
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","V. Dakhnovskyi (24, Veres, Ukrainian Premier Liha 22-23)",41.94947338625875
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","N. Voloshyn (19, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",29.97309135239513
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","S. Myakushko (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",49.47684069063884
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Y. Pidlepenets (24, Dnipro-1, Ukrainian Premier Liha 22-23)",17.849671942036842
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","D. Blanco (28, Dnipro-1, Ukrainian Premier Liha 22-23)",1.4442031705186704
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","V. Kalitvintsev (30, Oleksandria, Ukrainian Premier Liha 22-23)",67.44779486925657
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","N. Vorobchak (23, Minaj, Ukrainian Premier Liha 22-23)",47.6315290070344
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Z. Badibanga (31, Chornomorets, Ukrainian Premier Liha 22-23)",70.09372681417085
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","V. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",42.85520822514083
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",61.0609445520928
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","V. Kabaev (27, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",31.86154309319881
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","O. Kozak (28, Inhulets, Ukrainian Premier Liha 22-23)",72.98065169343035
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","D. Alefirenko (23, Chornomorets, Ukrainian Premier Liha 22-23)",59.10393076465128
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","B. Boychuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",58.72816814093152
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","V. Tsygankov (25, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",49.12015371615019
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","V. Rogozynskyi (27, Minaj, Ukrainian Premier Liha 22-23)",34.810483331585026
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","E. Kuliev (21, Minaj, Ukrainian Premier Liha 22-23)",33.81848938905992
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","O. Zubkov (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",32.350881304773864
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","V. Odaryuk (29, Inhulets, Ukrainian Premier Liha 22-23)",27.782604252132764
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",47.27278972850519
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","D. Kryskiv (22, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",5.941155351379135
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","A. Bliznichenko (28, Veres, Ukrainian Premier Liha 22-23)",37.04153854716768
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)",46.60017072376581
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",61.93064505065015
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",66.7348618200973
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",36.6253285172524
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",38.4434423944204
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",51.24708084111085
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",37.50424261110838
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",56.13464163314824
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",56.789093259447895
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",47.10287395047379
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",64.27187425073558
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",11.839820132197207
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",42.43027613849159
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",25.421883386104533
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",59.29623532006618
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",69.97935190534797
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",37.78144241581408
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",63.163638812765
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",32.88980766963659
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",50.40300059134386
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",35.10988717514314
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",37.75525142537028
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",14.1554558218071
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",19.22047264566266
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",63.447076353540766
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",6.59744842800169
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",37.91404097775396
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",40.03036009592243
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",44.15217768083513
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",5.521457977404422
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",36.620727513970174
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",43.002738010710736
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",65.77156404938997
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",52.336462395744746
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",31.97678311054996
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",36.36663810766576
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",46.527110203441154
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",0.5496271782250665
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",58.31971861197941
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",3.5506400915466814
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",49.50276285537379
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",26.410908343474983
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",-11.515841731618824
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",57.05899720516469
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",8.55022754929565
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",44.32646787764313
-"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",53.32784997342819
+Player,Similarity
+"C. Micovschi (23, Fidelis Andria, Serie C 22-23)",83.43532124880745
+"K. Sekgota (25, Kaizer Chiefs, South Africa PSL 22-23)",82.8962499830176
+"P. Wokiang (28, Khon Kaen United, Thai League 1 22-23)",80.2529665390428
+"C. Zavala (23, Curicó Unido, Chilean Primera División 2023)",79.78987301149064
+"J. Vásquez (28, Deportivo Cali, Colombian Primera Division 22-23)",79.04542012970548
+"N. Navarrete (27, Gudja United, Malta Premier League 22-23)",78.76012291836776
+"S. van der Water (26, Cambuur, Eredivisie 22-23)",78.7465876349709
+"Adrián Mance (27, Numancia, Primera División RFEF 22-23)",78.66760675456092
+"J. Murphy (28, Oxford United, League One 22-23)",78.51489291051608
+"C. Neguţ (27, Chindia Târgovişte, SuperLiga României 22-23)",78.35959957848469
+"Bryan Zaragoza (21, Granada, La Liga 2 22-23)",78.03620138054757
+"A. Zaroury (22, Burnley, Championship 22-23)",77.88077952478096
+"A. Adomah (35, Queens Park Rangers, Championship 22-23)",77.81836036387058
+"J. Montecinos (27, Club Tijuana, Liga MX 22-23)",77.47437685187583
+"D. Hopkirk (30, Stenhousemuir, Scottish League Two 22-23)",77.20633494430756
+"P. Campbell (25, Glenavon, Northern Ireland Premiership 22-23)",77.1471328473751
+"S. Čolović (29, Radnički Kragujevac, Serbian SuperLiga 22-23)",77.10909911992135
+"N. Zlatev (18, Cherno More, Bulgarian First League 22-23)",76.79978293404285
+"A. van der Heide (21, Roda JC, Eerste Divisie 22-23)",76.6841351689642
+"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)",76.55267913921209
+"Waldo Rubio (27, Tenerife, La Liga 2 22-23)",76.51153896667428
+"F. Vera (24, Sportivo Ameliano, Paraguay Division Profesional 2023)",76.48518978848917
+"F. Sartore (27, Fiorenzuola, Serie C 22-23)",76.44833908143924
+"M. Gradel (35, Sivasspor, Süper Lig 22-23)",76.37858896177877
+"K. Zenón (21, Unión Santa Fe, Argentinian Primera División 2023)",76.3543173638657

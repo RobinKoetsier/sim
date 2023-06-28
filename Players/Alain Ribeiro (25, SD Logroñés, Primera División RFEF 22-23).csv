@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "L. Reischl (19, Liefering, Austrian 2. Liga 22-23)",74.01220956396865
 "D. Heymans (23, Charleroi, Belgian Pro League 22-23)",72.63976039886873
 "H. Nielsen (29, Hannover 96, 2. Bundesliga 22-23)",69.34616089375702
@@ -8,8 +8,8 @@ Player 1,Similarity
 "S. van de Streek (30, Utrecht, Eredivisie 22-23)",64.54500485194319
 "A. Ayarza (30, Cusco, Peruvian Liga 1 2023)",64.23353352314784
 "R. Makowski (26, Várda SE, NB I 22-23)",63.68873812789349
-"Alain Ribeiro (25, SD Logroñés, Primera División RFEF 22-23)",62.95143249103011
-"Alain Ribeiro (25, SD Logroñés, Primera División RFEF 22-23)",62.063620551459245
+"T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",62.95143249103011
+"M. Pašalić (28, Atalanta, Serie A 22-23)",62.063620551459245
 "M. Skenderović (25, 1860 München, 3. Liga 22-23)",61.2923018468046
 "Iker Guarrotxena (30, Goa, Indian Super League 22-23)",60.859681856378266
 "S. de Jong (34, De Graafschap, Eerste Divisie 22-23)",60.59085114679288
@@ -21,3 +21,6 @@ Player 1,Similarity
 "E. Thiakane (31, Puszcza Niepołomice, Polish I Liga 22-23)",54.4770647231468
 "T. Igarashi (20, Renofa Yamaguchi, J2 2023)",54.20282666798657
 "D. Wheeler (32, Wycombe Wanderers, League One 22-23)",53.17705107504798
+"L. Donnelly (27, Alloa Athletic, Scottish League One 22-23)",53.143795659928486
+"I. Stefanov (24, Levski Sofia, Bulgarian First League 22-23)",52.80288754225951
+"D. Falcinelli (31, Modena, Serie B 22-23)",52.7256677314075

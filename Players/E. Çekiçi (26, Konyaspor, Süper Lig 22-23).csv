@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "T. Nguen (29, Ferencváros, NB I 22-23)",83.05021393208784
 "S. Seslar (21, Olimpija, 1. SNL 22-23)",82.47321636339535
 "S. Driussi (27, Austin FC, MLS 2023)",80.7120823025397
@@ -12,7 +12,7 @@ Player 1,Similarity
 "C. Sandra (19, Club Brugge II, Belgian First Division B 22-23)",78.55749450119576
 "J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",77.93851399872308
 "Rafa Silva (30, Benfica, Primeira Liga 22-23)",77.72147333222647
-"E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",77.34445177001675
+"D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",77.34445177001675
 "P. Altán (25, Municipal, Guatemala Liga Nacional 22-23)",77.31661170721512
 "T. Svetlin (21, AŠK Bravo, 1. SNL 22-23)",77.2868450396942
 "Arnau Ortiz (21, Real Murcia, Primera División RFEF 22-23)",77.1748008040781
@@ -21,3 +21,6 @@ Player 1,Similarity
 "Brahim Diaz (23, Milan, Serie A 22-23)",76.59763485441894
 "G. Caprari (29, Monza, Serie A 22-23)",75.43452740605308
 "Ľ. Tupta (25, Slovan Liberec, Czech Fortuna Liga 22-23)",75.29371506502582
+"A. Kotnik (27, Koper, 1. SNL 22-23)",75.10719879853768
+"R. Matsumura (28, Persis Solo, BRI Liga 1 22-23)",74.95217156725803
+"S. Kowalczyk (24, Pogoń Szczecin, Ekstraklasa 22-23)",74.8231761198658

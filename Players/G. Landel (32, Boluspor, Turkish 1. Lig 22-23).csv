@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "S. Fridjónsson (27, Atromitos, Greek Super League 22-23)",62.29826213075689
 "F. Honda (22, Sagan Tosu, J1 2023)",60.91359429265528
 "R. Makowski (26, Várda SE, NB I 22-23)",60.22482000513287
@@ -6,7 +6,7 @@ Player 1,Similarity
 "X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",56.9924972805312
 "L. Donnelly (27, Alloa Athletic, Scottish League One 22-23)",56.70061083675929
 "T. Nagamatsu (28, Gudja United, Malta Premier League 22-23)",55.74243114246394
-"G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",54.22267994523274
+"O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",54.22267994523274
 "H. Ivanov (22, Lokomotiv Plovdiv, Bulgarian First League 22-23)",53.73094979709519
 "P. Billing (26, Bournemouth, Premier League 22-23)",53.58311894526216
 "K. Fujimoto (23, Gil Vicente, Primeira Liga 22-23)",51.843972874793145
@@ -21,3 +21,6 @@ Player 1,Similarity
 "K. Mitsuhira (35, Ventforet Kofu, J2 2023)",46.80796242574924
 "A. Llovet (25, Noah, Armenian Premier League 22-23)",46.62940569578342
 "T. Nishimura (26, Yokohama F. Marinos, J1 2023)",46.40916079002214
+"T. Goedeman (23, Cape Town, South Africa PSL 22-23)",46.36137494564227
+"Emilio Lozano (27, SD Logroñés, Primera División RFEF 22-23)",45.482693668897255
+"Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",45.27522590637383

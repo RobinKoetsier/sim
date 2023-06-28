@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "R. Cherki (19, Olympique Lyonnais, Ligue 1 22-23)",93.57425627273832
 "J. Steuckers (21, MVV, Eerste Divisie 22-23)",92.92711707285125
 "H. Boumous (27, ATK Mohun Bagan Football Club, Indian Super League 22-23)",92.00849321633986
@@ -7,17 +7,20 @@ Player 1,Similarity
 "R. Wolski (30, Wisła Płock, Ekstraklasa 22-23)",91.05960188941286
 "T. Almada (22, Atlanta United, MLS 2023)",90.9906888033677
 "K. Stojkoski (31, Rabotnički, North Macedonia First League 22-23)",90.1029629171356
-"V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",90.05098584278106
+"K. Kusk (31, Silkeborg, Superliga 22-23)",90.05098584278106
 "Kady (27, Qarabag, Premyer Liqa 22-23)",89.72222609397345
 "B. Cohen (22, Beitar Jerusalem, Ligat Ha'al 22-23)",89.7182234555209
 "D. Quintero (35, América de Cali, Colombian Primera Division 22-23)",89.53132112843656
 "L. Acosta (29, Cincinnati, MLS 2023)",89.37806805491576
-"V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",89.29002261635438
+"D. Zabala (31, Nacional, Uruguay Primera División 2023)",89.29002261635438
 "J. Bustos (28, Borneo FC, BRI Liga 1 22-23)",89.23518883340708
 "K. Velasco (26, Deportivo Cali, Colombian Primera Division 22-23)",89.03845184401065
-"V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",88.43424707765605
+"D. Saba (30, Sivasspor, Süper Lig 22-23)",88.43424707765605
 "Akram Afif (26, Al Sadd, Qatari Stars League 22-23)",88.43257416762856
 "João Pedro (21, Watford, Championship 22-23)",88.41975570228931
 "A. Lucero (24, Budućnost, Montenegro First League 22-23)",88.08451075109518
 "M. Mancosu (34, Cagliari, Serie B 22-23)",87.88919071716357
 "Bruno Fernandes (28, Manchester United, Premier League 22-23)",87.80990753964517
+"Igor Coronado (30, Al Ittihad, Saudi Professional League 22-23)",87.72391464067685
+"F. Wirtz (20, Bayer Leverkusen, Bundesliga 22-23)",87.63992425662924
+"M. Burgess (28, Sydney, A-League Men 22-23)",87.60009556295387

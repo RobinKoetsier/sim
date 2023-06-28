@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "Vanderson (21, Monaco, Ligue 1 22-23)",90.54581066802037
 "B. Jaroch (28, Wisła Kraków, Polish I Liga 22-23)",87.35958533043772
 "S. Klaiber (28, Utrecht, Eredivisie 22-23)",86.59481539357706
@@ -6,7 +6,7 @@ Player 1,Similarity
 "D. Terteryan (25, Ararat-Armenia, Armenian Premier League 22-23)",86.24257609027987
 "A. Bah (25, Benfica, Primeira Liga 22-23)",85.78483929115043
 "A. Jafer (28, Bnei Yehuda, Liga Leumit 22-23)",85.19925810173092
-"S. Urošević (29, Partizan, Serbian SuperLiga 22-23)",85.07451349842327
+"D. Lunga (28, Golden Arrows, South Africa PSL 22-23)",85.07451349842327
 "T. Rommens (20, Genk II, Belgian First Division B 22-23)",84.89065587058477
 "H. Hambardzumyan (32, Anorthosis, Cyprus 1. Division 22-23)",84.73175067572927
 "J. Čorluka (28, Zrinjski, Bosnian Premier League 22-23)",84.66154177850325
@@ -16,11 +16,11 @@ Player 1,Similarity
 "P. Sirvys (25, Panevėžys, Lithuanian A Lyga 2023)",83.68593136186963
 "A. Ražnatović (22, Budućnost, Montenegro First League 22-23)",83.5454942650422
 "C. Operi (26, Le Havre, Ligue 2 22-23)",83.18856181715228
-"S. Urošević (29, Partizan, Serbian SuperLiga 22-23)",82.99464104003366
-"S. Urošević (29, Partizan, Serbian SuperLiga 22-23)",82.93120796129595
-"S. Urošević (29, Partizan, Serbian SuperLiga 22-23)",82.80273921501391
+"B. Vătăjelu (29, Universitatea Craiova, SuperLiga României 22-23)",82.99464104003366
+"N. Bancu (30, Universitatea Craiova, SuperLiga României 22-23)",82.93120796129595
+"Tiago Gonçalves (22, Pontedera, Serie C 22-23)",82.80273921501391
 "M. Saliakas (26, St. Pauli, 2. Bundesliga 22-23)",82.64044232764451
-"S. Urošević (29, Partizan, Serbian SuperLiga 22-23)",82.0355892805509
+"S. Boey (22, Galatasaray, Süper Lig 22-23)",82.0355892805509
 "A. Beganović (23, Mura, 1. SNL 22-23)",81.79969011787954
 "Óscar de Marcos (34, Athletic Bilbao, La Liga 22-23)",81.7317077305321
 "Tony Abad (26, Eldense, Primera División RFEF 22-23)",81.6744285818788

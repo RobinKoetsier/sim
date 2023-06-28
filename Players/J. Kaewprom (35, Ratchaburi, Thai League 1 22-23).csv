@@ -1,4 +1,4 @@
-Player 1,Similarity
+Player,Similarity
 "C. Marrugo (37, Santa Fe, Colombian Primera Division 22-23)",96.42187036363244
 "M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",94.04247859962584
 "M. Liendl (37, Grazer AK, Austrian 2. Liga 22-23)",93.97418979623194
@@ -9,7 +9,7 @@ Player 1,Similarity
 "D. Fitz (23, Austria Wien, Austrian Bundesliga 22-23)",93.2230345997692
 "Igor Coronado (30, Al Ittihad, Saudi Professional League 22-23)",93.20356223694536
 "Zé Valente (28, Persebaya Surabaya, BRI Liga 1 22-23)",93.11556733664048
-"J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",92.76405410086784
+"S. Purisay (36, Chonburi, Thai League 1 22-23)",92.76405410086784
 "I. Bognár (32, MTK, NB II 22-23)",92.47577380572804
 "K. Velasco (26, Deportivo Cali, Colombian Primera Division 22-23)",92.2107802551574
 "C. Amissi (33, Al Qadisiyah, Saudi First Division 22-23)",92.17264931138824
@@ -21,3 +21,6 @@ Player 1,Similarity
 "D. Saba (30, Sivasspor, Süper Lig 22-23)",90.9340825807532
 "X. Shaqiri (31, Chicago Fire, MLS 2023)",90.92355156028488
 "Josué (32, Legia Warszawa, Ekstraklasa 22-23)",90.89139071441484
+"D. Quintero (35, América de Cali, Colombian Primera Division 22-23)",90.877389829793
+"M. Barshazky (26, Maccabi Petah Tikva, Liga Leumit 22-23)",90.83360329002126
+"B. Rácz (27, Szombathelyi Haladás, NB II 22-23)",90.02716825466499

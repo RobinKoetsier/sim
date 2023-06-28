@@ -1,32 +1,26 @@
-Player 1,Player 2,Similarity
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","S. Selmani (21, Kastrioti Krujë, Albanian Premier League 22-23)",66.07103269626309
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","C. Wilkinson (28, Walsall, League Two 22-23)",58.001089020111806
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","José Ángel Carrillo (29, Huesca, La Liga 2 22-23)",55.12053804301701
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","D. Johnson (30, Mansfield Town, League Two 22-23)",67.12138618337924
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","M. Đurić (33, Hellas Verona, Serie A 22-23)",65.81911872376246
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","F. Noccioli (23, San Donato Tavarnelle, Serie C 22-23)",88.05191360713361
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","Bruno Mota (27, Cheonan City, K League 2 2023)",64.80392457670354
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)",69.97030891751453
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","I. Ugbo (24, Troyes, Ligue 1 22-23)",61.14829710467482
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","K. Kouassi (19, Sutton United, League Two 22-23)",60.46186248944879
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)",64.59882228063685
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","C. Monschein (30, Ried, Austrian Bundesliga 22-23)",60.322439584273255
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","A. Sitalo (33, Inhulets, Ukrainian Premier Liha 22-23)",62.54454326532903
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","A. Williams (36, Walsall, League Two 22-23)",54.87431102085996
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","R. Nemoto (23, Tochigi, J2 2023)",75.43734274136908
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","A. Yakubu (24, Rio Ave, Primeira Liga 22-23)",66.7639664350752
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)",77.21438526510119
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","G. Cooper (25, Chindia Târgovişte, SuperLiga României 22-23)",79.57372765253766
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","Antoñín Cortés (23, Anorthosis, Cyprus 1. Division 22-23)",54.15926251326819
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","G. Leyes (33, Academia Cantolao, Peruvian Liga 1 2023)",70.15166679358114
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","D. Hylton (34, Northampton Town, League Two 22-23)",90.56433156646207
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","F. Bohman (26, Trelleborg, Superettan 2023)",72.24676448398432
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","K. Connell (21, Raith Rovers, Scottish Championship 22-23)",71.51627738735661
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","J. Zuñiga (29, Xinabajul, Guatemala Liga Nacional 22-23)",83.55202917874287
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","T. Hopper (29, Colchester United, League Two 22-23)",75.92657301658511
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","M. Egho (29, Randers, Superliga 22-23)",76.24090831099937
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","M. Hornyák (29, Csákvári TK, NB II 22-23)",69.26184206180939
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","M. van Duinen (31, Excelsior, Eredivisie 22-23)",71.84862311516113
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","L. Bekui (28, Al Sahel, Saudi First Division 22-23)",45.00298245439524
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","Vitor (25, Najran, Saudi First Division 22-23)",46.10802700954014
-"Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)","M. Jurina (29, Al Faisaly, Saudi First Division 22-23)",46.86365404844376
+Player,Similarity
+"D. Hylton (34, Northampton Town, League Two 22-23)",90.56433156646207
+"J. Tranziska (21, Admira, Austrian 2. Liga 22-23)",90.34330836315095
+"F. Noccioli (23, San Donato Tavarnelle, Serie C 22-23)",88.05191360713361
+"V. Lysenko (35, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",86.87596942087717
+"R. Loft (25, Bristol Rovers, League One 22-23)",85.99778797887197
+"D. Teodorović (21, Voždovac, Serbian SuperLiga 22-23)",85.32536699710057
+"Matheus Babi (25, Santa Clara, Primeira Liga 22-23)",84.06291437396236
+"M. Smith (26, Shelbourne, League of Ireland PL 2023)",83.69765198191645
+"Rubio (27, Alcoyano, Primera División RFEF 22-23)",83.68639783504823
+"L. Sorrentino (27, Giugliano, Serie C 22-23)",83.67996187289306
+"M. Kelemen (23, Ružomberok, Slovak Super Liga 22-23)",83.59614780990763
+"J. Zuñiga (29, Xinabajul, Guatemala Liga Nacional 22-23)",83.55202917874287
+"M. Vano (31, Rimini, Serie C 22-23)",83.4815995145925
+"L. Pinzauti (28, Lecco, Serie C 22-23)",83.39822830517129
+"U. Djuranović (29, Kolubara, Serbian SuperLiga 22-23)",83.22563997257936
+"O. Bilel (22, AS Soliman, Tunisian Ligue 1 22-23)",82.88325988287858
+"R. Street (21, Shrewsbury Town, League One 22-23)",82.71880042257477
+"W. Aponza (23, Sporting Covilhã, Portugal Segunda Liga 22-23)",82.26258750871554
+"G. Manousos (35, Lamia, Greek Super League 22-23)",82.19932999675704
+"Oufa (26, ENPPI, Egyptian Premier League 22-23)",82.06941514952291
+"A. Arkhipov (26, Kuban Krasnodar, Russian FNL 2 22-23)",81.73677940283758
+"D. Tumbas (23, Rudar, Montenegro First League 22-23)",81.47847372941274
+"M. Minchev (22, Sparta Praha, Czech Fortuna Liga 22-23)",81.41646456394848
+"J. Verhoek (34, Hansa Rostock, 2. Bundesliga 22-23)",81.285783000384
+"Gabriel Barbosa (24, Kukësi, Albanian Premier League 22-23)",81.21857661673766

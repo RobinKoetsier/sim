@@ -55,12 +55,12 @@ d3.csv("names.csv").then(function (data) {
 
       // Create y-scale
       var yScale = d3.scaleBand()
-        .domain(filteredData.map(function (d) { return d['Player 2']; }))
+        .domain(filteredData.map(function (d) { return d['Player 1']; }))
         .range([0, innerHeight])
         .padding(0.1);
 
       // Limit y-axis domain to only the values present in the filtered data
-      yScale.domain(filteredData.map(function (d) { return d['Player 2']; }));
+      yScale.domain(filteredData.map(function (d) { return d['Player 1']; }));
 
       // Display the data rows sorted by "Similarity" in descending order
       filteredData.sort(function (a, b) {
@@ -71,12 +71,12 @@ d3.csv("names.csv").then(function (data) {
       filteredData = filteredData.slice(0, 20);
       // Create y-scale
       var yScale = d3.scaleBand()
-        .domain(filteredData.map(function (d) { return d['Player 2']; }))
+        .domain(filteredData.map(function (d) { return d['Player']; }))
         .range([0, height - 50])
         .padding(0.1);
 
       // Limit y-axis domain to only the values present in the filtered data
-      yScale.domain(filteredData.map(function (d) { return d['Player 2']; }));
+      yScale.domain(filteredData.map(function (d) { return d['Player']; }));
 
       // Create x-scale
       var xScale = d3.scaleLinear()
@@ -99,7 +99,7 @@ d3.csv("names.csv").then(function (data) {
         .enter()
         .append("rect")
         .attr("x", 0) // Move the bars to the left edge of the chart
-        .attr("y", function (d) { return yScale(d['Player 2']); })
+        .attr("y", function (d) { return yScale(d['Player']); })
         .attr("width", function (d) { return xScale(parseFloat(d.Similarity)); })
         .attr("height", yScale.bandwidth())
         .attr("fill", "steelblue")
@@ -114,7 +114,7 @@ d3.csv("names.csv").then(function (data) {
         .append("text")
         .attr("class", "value-label")
         .attr("x", function (d) { return xScale(0) + 4; }) // Adjust the x-coordinate to position the labels at the beginning of the bars with a margin of 4mm
-        .attr("y", function (d) { return yScale(d['Player 2']) + yScale.bandwidth() / 2; }) // Position the labels vertically centered within each bar
+        .attr("y", function (d) { return yScale(d['Player']) + yScale.bandwidth() / 2; }) // Position the labels vertically centered within each bar
         .attr("dy", "0.35em") // Adjust the vertical alignment of the labels
         .text(function (d) { return parseFloat(d.Similarity).toFixed(2) + "%"; }) // Display the rounded value of the bar with 2 decimal places followed by a percentage sign
         .attr("text-anchor", "start") // Align the labels to the start (left) of the text
