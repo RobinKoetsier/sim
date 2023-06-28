@@ -1,205 +1,23 @@
-Player 1,Player 2,Similarity
-"N. Vlašić (25, Torino, Serie A 22-23)","L. Pellegrini (26, Roma, Serie A 22-23)",34.18481088537565
-"N. Vlašić (25, Torino, Serie A 22-23)","G. Caprari (29, Monza, Serie A 22-23)",76.43489652235942
-"N. Vlašić (25, Torino, Serie A 22-23)","L. Ferguson (23, Bologna, Serie A 22-23)",22.76622922166039
-"N. Vlašić (25, Torino, Serie A 22-23)","Al. Miranchuk (27, Torino, Serie A 22-23)",69.83769959913292
-"N. Vlašić (25, Torino, Serie A 22-23)","Brahim Diaz (23, Milan, Serie A 22-23)",73.16130628952237
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Barák (28, Fiorentina, Serie A 22-23)",63.91970918126593
-"N. Vlašić (25, Torino, Serie A 22-23)","N. Bajrami (24, Sassuolo, Serie A 22-23)",58.53246293585035
-"N. Vlašić (25, Torino, Serie A 22-23)","T. Baldanzi (20, Empoli, Serie A 22-23)",75.99084734016375
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Pašalić (28, Atalanta, Serie A 22-23)",42.64910109908692
-"N. Vlašić (25, Torino, Serie A 22-23)","N. Radonjić (27, Torino, Serie A 22-23)",60.50713839612538
-"N. Vlašić (25, Torino, Serie A 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",73.159458432185
-"N. Vlašić (25, Torino, Serie A 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",32.16416886146577
-"N. Vlašić (25, Torino, Serie A 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",35.056818244333776
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Colpani (24, Monza, Serie A 22-23)",73.34304562279004
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",69.46456585608965
-"N. Vlašić (25, Torino, Serie A 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",0.0256291182077247
-"N. Vlašić (25, Torino, Serie A 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",50.82982573720047
-"N. Vlašić (25, Torino, Serie A 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",43.6097800550584
-"N. Vlašić (25, Torino, Serie A 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",17.605455201917415
-"N. Vlašić (25, Torino, Serie A 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",65.87687814206286
-"N. Vlašić (25, Torino, Serie A 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",40.73315357718187
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",53.58760528460924
-"N. Vlašić (25, Torino, Serie A 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",-19.95122643558992
-"N. Vlašić (25, Torino, Serie A 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",62.52670324814581
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",17.997828462004186
-"N. Vlašić (25, Torino, Serie A 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",30.587473315860304
-"N. Vlašić (25, Torino, Serie A 22-23)","R. Botta (33, Bari, Serie B 22-23)",45.22992015000561
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",58.86381666862697
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",10.402483366510175
-"N. Vlašić (25, Torino, Serie A 22-23)","V. Parigini (27, Como, Serie B 22-23)",42.253455249322656
-"N. Vlašić (25, Torino, Serie A 22-23)","Álex Blanco (24, Como, Serie B 22-23)",79.21092711299498
-"N. Vlašić (25, Torino, Serie A 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",15.025009981031138
-"N. Vlašić (25, Torino, Serie A 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",51.77715439153424
-"N. Vlašić (25, Torino, Serie A 22-23)","D. Camara (21, Parma, Serie B 22-23)",38.944656153753485
-"N. Vlašić (25, Torino, Serie A 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",5.0945174562313245
-"N. Vlašić (25, Torino, Serie A 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",28.707417726198948
-"N. Vlašić (25, Torino, Serie A 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",44.714826527791
-"N. Vlašić (25, Torino, Serie A 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",-1.206215594647304
-"N. Vlašić (25, Torino, Serie A 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",39.23088432187342
-"N. Vlašić (25, Torino, Serie A 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",31.4999844360903
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",47.420957314099326
-"N. Vlašić (25, Torino, Serie A 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",51.379953199409854
-"N. Vlašić (25, Torino, Serie A 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",78.36939004395266
-"N. Vlašić (25, Torino, Serie A 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",13.104313567561087
-"N. Vlašić (25, Torino, Serie A 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",47.551811105664
-"N. Vlašić (25, Torino, Serie A 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",43.97719784497625
-"N. Vlašić (25, Torino, Serie A 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",36.58656372942875
-"N. Vlašić (25, Torino, Serie A 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",10.594334573219594
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-14.046050967991484
-"N. Vlašić (25, Torino, Serie A 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",34.26365944081805
-"N. Vlašić (25, Torino, Serie A 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",8.710202237735949
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",31.364516545644623
-"N. Vlašić (25, Torino, Serie A 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",59.113892432149726
-"N. Vlašić (25, Torino, Serie A 22-23)","N. Belloni (28, Siena, Serie C 22-23)",0.6657914174892626
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Frediani (29, Siena, Serie C 22-23)",37.9711435899675
-"N. Vlašić (25, Torino, Serie A 22-23)","F. Urso (28, Torres, Serie C 22-23)",9.22355120107453
-"N. Vlašić (25, Torino, Serie A 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",5.693916161601234
-"N. Vlašić (25, Torino, Serie A 22-23)","G. Lisai (33, Torres, Serie C 22-23)",13.109641094078563
-"N. Vlašić (25, Torino, Serie A 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",28.16995646792294
-"N. Vlašić (25, Torino, Serie A 22-23)","C. Attys (22, Trento, Serie C 22-23)",40.38239281612536
-"N. Vlašić (25, Torino, Serie A 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",75.14818054560948
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",52.06080126622894
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",69.90826575848776
-"N. Vlašić (25, Torino, Serie A 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",38.81511741675603
-"N. Vlašić (25, Torino, Serie A 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",50.21999214651372
-"N. Vlašić (25, Torino, Serie A 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",50.52803900443138
-"N. Vlašić (25, Torino, Serie A 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",25.885385887883483
-"N. Vlašić (25, Torino, Serie A 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",43.08869697580019
-"N. Vlašić (25, Torino, Serie A 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",63.49403008771516
-"N. Vlašić (25, Torino, Serie A 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",39.00299901739025
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",15.70326189715106
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",54.58327542731214
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",44.6164807067718
-"N. Vlašić (25, Torino, Serie A 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",69.54025352038319
-"N. Vlašić (25, Torino, Serie A 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",20.00075060433887
-"N. Vlašić (25, Torino, Serie A 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",16.2911743746859
-"N. Vlašić (25, Torino, Serie A 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",35.60131851027559
-"N. Vlašić (25, Torino, Serie A 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",17.311391100799888
-"N. Vlašić (25, Torino, Serie A 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",56.8106188025406
-"N. Vlašić (25, Torino, Serie A 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",22.842729723899744
-"N. Vlašić (25, Torino, Serie A 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",17.3924119136641
-"N. Vlašić (25, Torino, Serie A 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",14.8008662810162
-"N. Vlašić (25, Torino, Serie A 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",44.0399996338816
-"N. Vlašić (25, Torino, Serie A 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",63.31593112001086
-"N. Vlašić (25, Torino, Serie A 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",30.0908603115695
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",27.412018389350383
-"N. Vlašić (25, Torino, Serie A 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",32.00156388224214
-"N. Vlašić (25, Torino, Serie A 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",41.28729330587221
-"N. Vlašić (25, Torino, Serie A 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",32.52696685204633
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",43.034589294195975
-"N. Vlašić (25, Torino, Serie A 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",-12.368260589770236
-"N. Vlašić (25, Torino, Serie A 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",45.706851705559465
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",56.77144061394672
-"N. Vlašić (25, Torino, Serie A 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",40.811376309010456
-"N. Vlašić (25, Torino, Serie A 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",15.86473669593238
-"N. Vlašić (25, Torino, Serie A 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",51.75702790603095
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",24.32508772571297
-"N. Vlašić (25, Torino, Serie A 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",46.99860613615382
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",25.529432839753564
-"N. Vlašić (25, Torino, Serie A 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",75.54236574532155
-"N. Vlašić (25, Torino, Serie A 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",60.98386472668965
-"N. Vlašić (25, Torino, Serie A 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",65.27118711974649
-"N. Vlašić (25, Torino, Serie A 22-23)","I. Jebali (31, OB, Superliga 22-23)",40.31605817132799
-"N. Vlašić (25, Torino, Serie A 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",52.1874197112021
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",47.141037874551
-"N. Vlašić (25, Torino, Serie A 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",69.23774496480752
-"N. Vlašić (25, Torino, Serie A 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",63.3284044085984
-"N. Vlašić (25, Torino, Serie A 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",54.006395145995256
-"N. Vlašić (25, Torino, Serie A 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",20.04683961396093
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",38.89365247112158
-"N. Vlašić (25, Torino, Serie A 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",58.19727018968058
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",61.60260256752449
-"N. Vlašić (25, Torino, Serie A 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",47.51239382085245
-"N. Vlašić (25, Torino, Serie A 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",14.28675085536021
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",36.88975720333576
-"N. Vlašić (25, Torino, Serie A 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",24.115909319721744
-"N. Vlašić (25, Torino, Serie A 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",60.22065270323829
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",34.594565719034904
-"N. Vlašić (25, Torino, Serie A 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",38.52106514613165
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",8.604569274615272
-"N. Vlašić (25, Torino, Serie A 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",56.04753589840693
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",54.85229581518244
-"N. Vlašić (25, Torino, Serie A 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",20.171987926912298
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",40.80202927442561
-"N. Vlašić (25, Torino, Serie A 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",22.984337167417703
-"N. Vlašić (25, Torino, Serie A 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",52.6375834248202
-"N. Vlašić (25, Torino, Serie A 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",72.06720963403497
-"N. Vlašić (25, Torino, Serie A 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",50.09082781506704
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",68.25065864469957
-"N. Vlašić (25, Torino, Serie A 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",41.59434588779465
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",48.13891305999308
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",27.685979954177185
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",47.0072219637748
-"N. Vlašić (25, Torino, Serie A 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",42.30695438868823
-"N. Vlašić (25, Torino, Serie A 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",42.1415760034207
-"N. Vlašić (25, Torino, Serie A 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",15.71261970902138
-"N. Vlašić (25, Torino, Serie A 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",63.98240439512553
-"N. Vlašić (25, Torino, Serie A 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",61.96176376674685
-"N. Vlašić (25, Torino, Serie A 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",36.838877544382456
-"N. Vlašić (25, Torino, Serie A 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",67.51642289191349
-"N. Vlašić (25, Torino, Serie A 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",8.363906602820212
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",44.910419371285066
-"N. Vlašić (25, Torino, Serie A 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",34.16100999078992
-"N. Vlašić (25, Torino, Serie A 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",62.94324329625207
-"N. Vlašić (25, Torino, Serie A 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",32.94152679092237
-"N. Vlašić (25, Torino, Serie A 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",62.89449476631215
-"N. Vlašić (25, Torino, Serie A 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",41.73122646546109
-"N. Vlašić (25, Torino, Serie A 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",55.66635172760708
-"N. Vlašić (25, Torino, Serie A 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",37.06035974859848
-"N. Vlašić (25, Torino, Serie A 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",19.307532183230677
-"N. Vlašić (25, Torino, Serie A 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",28.071055491377688
-"N. Vlašić (25, Torino, Serie A 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",19.106773104328784
-"N. Vlašić (25, Torino, Serie A 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",59.74897336528525
-"N. Vlašić (25, Torino, Serie A 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",49.85437639291113
-"N. Vlašić (25, Torino, Serie A 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",30.36506280169686
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-25.930922229169838
-"N. Vlašić (25, Torino, Serie A 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",12.816961550614486
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",37.114218706845016
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",-27.620805038928363
-"N. Vlašić (25, Torino, Serie A 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",42.0782556406592
-"N. Vlašić (25, Torino, Serie A 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",32.70575458595612
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",12.149350723660325
-"N. Vlašić (25, Torino, Serie A 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",-3.5311095996423805
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",2.888061344154879
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",65.39238189780711
-"N. Vlašić (25, Torino, Serie A 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",9.101765232217897
-"N. Vlašić (25, Torino, Serie A 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",13.743402227906945
-"N. Vlašić (25, Torino, Serie A 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",58.08157463604844
-"N. Vlašić (25, Torino, Serie A 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",35.25886290186527
-"N. Vlašić (25, Torino, Serie A 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",32.9598232716578
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",3.594139760274072
-"N. Vlašić (25, Torino, Serie A 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",35.059508650295314
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",20.697080983175727
-"N. Vlašić (25, Torino, Serie A 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",5.634817416559772
-"N. Vlašić (25, Torino, Serie A 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",35.51082965715197
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",16.342719103996178
-"N. Vlašić (25, Torino, Serie A 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",21.319224336505204
-"N. Vlašić (25, Torino, Serie A 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",47.49762909222339
-"N. Vlašić (25, Torino, Serie A 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",65.40352961639934
-"N. Vlašić (25, Torino, Serie A 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",56.926873853257774
-"N. Vlašić (25, Torino, Serie A 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",28.619684265286736
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",24.931822365093858
-"N. Vlašić (25, Torino, Serie A 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",18.544291643057104
-"N. Vlašić (25, Torino, Serie A 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",20.052147627394422
-"N. Vlašić (25, Torino, Serie A 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",11.456106626103326
-"N. Vlašić (25, Torino, Serie A 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",42.70324127074341
-"N. Vlašić (25, Torino, Serie A 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",68.80738031996815
-"N. Vlašić (25, Torino, Serie A 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",59.3968576210962
-"N. Vlašić (25, Torino, Serie A 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",58.86531458915306
-"N. Vlašić (25, Torino, Serie A 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",46.82142291730069
-"N. Vlašić (25, Torino, Serie A 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",72.61294382888569
-"N. Vlašić (25, Torino, Serie A 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",3.595762478198391
-"N. Vlašić (25, Torino, Serie A 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",77.25978706984337
-"N. Vlašić (25, Torino, Serie A 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-10.579306563260666
-"N. Vlašić (25, Torino, Serie A 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",32.331684258825824
-"N. Vlašić (25, Torino, Serie A 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",61.01063486115535
-"N. Vlašić (25, Torino, Serie A 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",43.82562364284745
-"N. Vlašić (25, Torino, Serie A 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",9.200391215120304
-"N. Vlašić (25, Torino, Serie A 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",53.71119602286238
-"N. Vlašić (25, Torino, Serie A 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",22.84334352726965
-"N. Vlašić (25, Torino, Serie A 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",28.82854231217812
-"N. Vlašić (25, Torino, Serie A 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",47.97379683797068
-"N. Vlašić (25, Torino, Serie A 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",13.679313080089116
-"N. Vlašić (25, Torino, Serie A 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",26.10488632143786
+Player 1,Similarity
+"S. Dimić (30, Radnički Niš, Serbian SuperLiga 22-23)",84.29927582601997
+"J. Musiala (20, Bayern München, Bundesliga 22-23)",82.2861299006025
+"A. Ramsey (20, Middlesbrough, Championship 22-23)",82.2256051888268
+"Rafa Silva (30, Benfica, Primeira Liga 22-23)",82.04240563580628
+"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)",81.72525161231658
+"J. Gallegos (21, SønderjyskE, Danish 1. Division 22-23)",80.8305069310933
+"A. Diallo (20, Sunderland, Championship 22-23)",80.35574507379323
+"N. Vlašić (25, Torino, Serie A 22-23)",79.21092711299498
+"O. Fernández (30, Puebla, Liga MX 22-23)",79.07424750899993
+"N. Vlašić (25, Torino, Serie A 22-23)",78.36939004395266
+"Xavi Simons (20, PSV, Eredivisie 22-23)",78.29173293038943
+"F. Torres (23, Orlando City, MLS 2023)",77.30718317760233
+"N. Vlašić (25, Torino, Serie A 22-23)",77.25978706984337
+"M. Møller Dæhli (28, Nürnberg, 2. Bundesliga 22-23)",77.23466708686021
+"Ľ. Tupta (25, Slovan Liberec, Czech Fortuna Liga 22-23)",77.12583398711972
+"N. Vlašić (25, Torino, Serie A 22-23)",76.43489652235942
+"N. Vlašić (25, Torino, Serie A 22-23)",75.99084734016375
+"N. Vlašić (25, Torino, Serie A 22-23)",75.54236574532155
+"A. Ali (23, Moss, OBOS Ligaen 2023)",75.43274355137603
+"L. Cundle (21, Swansea City, Championship 22-23)",75.35725176120309
+"N. Vlašić (25, Torino, Serie A 22-23)",75.14818054560948
+"Y. Taha El Idrissi (20, PEC Zwolle, Eerste Divisie 22-23)",74.95057995273729

@@ -1,169 +1,23 @@
-Player 1,Player 2,Similarity
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",42.454491974164085
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",51.135141394657005
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",13.656320329432525
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",64.81167898212479
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",9.349932263248173
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",15.260156905991252
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",23.47734431856479
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",32.39642669355298
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",16.401599191874073
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",5.123672433563147
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",39.959745262078286
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",-13.729221108481408
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",48.315250069439294
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",53.60673371727104
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",22.68483684998652
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",20.33173513076881
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",-2.687408556844891
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","N. Belloni (28, Siena, Serie C 22-23)",59.00426487348511
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Frediani (29, Siena, Serie C 22-23)",18.687850721100684
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","F. Urso (28, Torres, Serie C 22-23)",-9.387844425984175
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",11.728072968108046
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","G. Lisai (33, Torres, Serie C 22-23)",-4.135668116717171
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",-20.53373030782777
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","C. Attys (22, Trento, Serie C 22-23)",34.46938260453419
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",17.154106007559488
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",33.10654004118068
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",4.747746141800465
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",8.483593600172718
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",4.363770348542547
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",-2.1692383283280963
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",33.04321248433948
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",-17.340156184646315
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",3.6998102392252616
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",7.28954731198837
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",-17.71218250539407
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",33.24173219496337
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",-10.687585987826338
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",-1.4702083045307237
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",2.3939076075448056
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",11.74201077989167
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",-18.250848839165982
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",8.10229067703086
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",-9.555325242315996
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",15.046480791419585
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",21.352483955017068
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",-22.45915039286456
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",8.067184568380945
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",15.85462343190418
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",-10.013053317813206
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",-11.45600575144274
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",3.615790393841756
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",9.757714861538746
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",18.454577493282656
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",33.349181817610514
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",1.3449952366424596
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",12.113034815092362
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",7.85722135978589
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",47.171617885115865
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",7.302564591954681
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",52.755561992293366
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",30.812300379343345
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",34.32977593517827
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",-7.26867243649971
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",-6.594543598620306
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",-5.014692572369045
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",28.17701351980259
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","I. Jebali (31, OB, Superliga 22-23)",0.441513086130575
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",18.8065389188269
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",26.544606569328806
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",15.751127908025818
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",-2.132350773260103
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",-1.18293152431853
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",-10.015267595584396
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",-11.189524093713915
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",1.9253683804206048
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",35.9594199901754
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",2.43030268387652
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",9.045334840739914
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",9.556225159238505
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",-5.874311293894373
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",36.84614739129383
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",-11.192087378667054
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",6.949452378070954
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",-13.362115596889296
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",16.420323441045408
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",6.196196310108707
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",2.167371807922904
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",-8.392818745867467
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",5.619681571207709
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",-0.2722151948658631
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",6.4227591609676375
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",7.044425506547484
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",8.843278252312851
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",11.9411394845804
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",49.3343508473219
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",15.11480199288827
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",-2.415154624592025
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",6.317258641014057
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",12.558337238436357
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",25.96333660205035
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",14.951608217261713
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",7.569530752953909
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",22.907313337456102
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",23.365721608569288
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",-18.105408382641425
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",2.665217898141908
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",22.053057363055117
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",16.719487775617115
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",-21.565981878439988
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",-5.939515408475978
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",-5.954994808061915
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",11.012920002421108
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",12.319748768843583
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",-11.058982689717023
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",-17.20767437432517
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",8.79896609211263
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",26.33802804264841
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",31.623208012934416
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",-4.39301655653737
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-2.768254281568008
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",48.96618831346559
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",52.71569898390725
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",27.40231720229597
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",-7.4701863783043585
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",1.3026140883120656
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",30.90618086538866
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",7.094225872998069
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",51.15804361969947
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",10.7660715214118
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",-11.399154877989313
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",6.261588140068692
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",18.272674789321638
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",2.736758189107798
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",13.252631321511608
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",22.9524399031196
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",35.46862008486598
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",-12.490773916792511
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",49.87847128320483
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",12.631875789767456
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",15.410468457920754
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",-19.542382655153418
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",19.56667655537168
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",-3.840557783008963
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",-6.129566200138522
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",32.57357387798782
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",3.4936920365204918
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",43.654698625551184
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",-12.416296524518106
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",-16.16701774435987
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",20.15388858836635
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",6.496356916796997
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",-0.2288001130851251
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",9.202558667217922
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",16.67832577714279
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",15.804337602019936
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",5.856726872180179
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",26.12968591243031
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",33.96136634657541
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",12.458574321593357
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",-2.795721640894153
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",20.093656046359964
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-12.355916437505938
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",-13.15953292133966
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",-11.012917062944895
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",-13.316229921967398
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",40.572761022358925
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",2.745060234359565
-"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",-14.767743559729189
+Player 1,Similarity
+"S. Shoretire (19, Bolton Wanderers, League One 22-23)",66.49627585041007
+"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",64.81167898212479
+"N. Mezquida (31, Volos NFC, Greek Super League 22-23)",59.80628541621233
+"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",59.00426487348511
+"E. Safarov (20, Qabala, Premyer Liqa 22-23)",57.58989655288054
+"H. Nielsen (29, Hannover 96, 2. Bundesliga 22-23)",55.34837130022832
+"Ó. Trejo (35, Rayo Vallecano, La Liga 22-23)",54.263674372280434
+"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",53.60673371727104
+"Vasco Sousa (20, Porto II, Portugal Segunda Liga 22-23)",52.96238321151683
+"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",52.755561992293366
+"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",52.71569898390725
+"J. Carcela-González (23, Deinze, Belgian First Division B 22-23)",52.32073597347194
+"K. Berzsenyi (19, Ajka, NB II 22-23)",51.60409641884493
+"G. Sofir (23, Hapoel Acre, Liga Leumit 22-23)",51.54778577111772
+"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",51.15804361969947
+"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",51.135141394657005
+"R. Zsolnai (28, Ajka, NB II 22-23)",50.961515500029
+"N. Abdokov (22, Kuban Krasnodar, Russian FNL 2 22-23)",50.55390112746912
+"Álex Blanco (24, Como, Serie B 22-23)",50.43894047962039
+"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",49.87847128320483
+"P. Pyrdoł (24, SKRA Częstochowa, Polish I Liga 22-23)",49.873876465243264
+"D. Falcinelli (31, Modena, Serie B 22-23)",49.635567548274174

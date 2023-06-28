@@ -1,150 +1,23 @@
-Player 1,Player 2,Similarity
-"M. Frediani (29, Siena, Serie C 22-23)","F. Urso (28, Torres, Serie C 22-23)",25.8780420909685
-"M. Frediani (29, Siena, Serie C 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",73.84413183232985
-"M. Frediani (29, Siena, Serie C 22-23)","G. Lisai (33, Torres, Serie C 22-23)",58.104615194490925
-"M. Frediani (29, Siena, Serie C 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",54.34408220161059
-"M. Frediani (29, Siena, Serie C 22-23)","C. Attys (22, Trento, Serie C 22-23)",57.89123053006475
-"M. Frediani (29, Siena, Serie C 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",60.04300667058365
-"M. Frediani (29, Siena, Serie C 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",51.79991226668441
-"M. Frediani (29, Siena, Serie C 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",54.52031057504889
-"M. Frediani (29, Siena, Serie C 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",19.48661882163394
-"M. Frediani (29, Siena, Serie C 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",58.16216916228903
-"M. Frediani (29, Siena, Serie C 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",63.840474230791024
-"M. Frediani (29, Siena, Serie C 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",46.33652364515997
-"M. Frediani (29, Siena, Serie C 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",51.87998929981036
-"M. Frediani (29, Siena, Serie C 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",35.17022507903425
-"M. Frediani (29, Siena, Serie C 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",47.87847107437731
-"M. Frediani (29, Siena, Serie C 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",59.07978768317166
-"M. Frediani (29, Siena, Serie C 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",61.14132992521999
-"M. Frediani (29, Siena, Serie C 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",57.254201766174894
-"M. Frediani (29, Siena, Serie C 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",40.60169363666546
-"M. Frediani (29, Siena, Serie C 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",56.63762522127923
-"M. Frediani (29, Siena, Serie C 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",67.31040790663808
-"M. Frediani (29, Siena, Serie C 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",38.49285956646232
-"M. Frediani (29, Siena, Serie C 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",23.386584986732423
-"M. Frediani (29, Siena, Serie C 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",46.06953688901833
-"M. Frediani (29, Siena, Serie C 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",29.525714391705822
-"M. Frediani (29, Siena, Serie C 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",35.52569694666257
-"M. Frediani (29, Siena, Serie C 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",-2.285555958714342
-"M. Frediani (29, Siena, Serie C 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",39.16492440782771
-"M. Frediani (29, Siena, Serie C 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",25.878767435346305
-"M. Frediani (29, Siena, Serie C 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",52.15927495196135
-"M. Frediani (29, Siena, Serie C 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",59.45154108737548
-"M. Frediani (29, Siena, Serie C 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",45.42526831106062
-"M. Frediani (29, Siena, Serie C 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",27.88200471821486
-"M. Frediani (29, Siena, Serie C 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",49.02530438753794
-"M. Frediani (29, Siena, Serie C 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",64.73936896789787
-"M. Frediani (29, Siena, Serie C 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",13.933383264187672
-"M. Frediani (29, Siena, Serie C 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",17.22972363630724
-"M. Frediani (29, Siena, Serie C 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",61.19524575260061
-"M. Frediani (29, Siena, Serie C 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",52.3577418364396
-"M. Frediani (29, Siena, Serie C 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",45.840612769232806
-"M. Frediani (29, Siena, Serie C 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",52.34518281646508
-"M. Frediani (29, Siena, Serie C 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",6.633651517033687
-"M. Frediani (29, Siena, Serie C 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-15.556932338436278
-"M. Frediani (29, Siena, Serie C 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",41.687958476407125
-"M. Frediani (29, Siena, Serie C 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",51.56778897588509
-"M. Frediani (29, Siena, Serie C 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",45.56512295469059
-"M. Frediani (29, Siena, Serie C 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",1.696038057369042
-"M. Frediani (29, Siena, Serie C 22-23)","I. Jebali (31, OB, Superliga 22-23)",61.96654458140623
-"M. Frediani (29, Siena, Serie C 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",35.55520409199399
-"M. Frediani (29, Siena, Serie C 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",60.51996701892559
-"M. Frediani (29, Siena, Serie C 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",49.33501208333743
-"M. Frediani (29, Siena, Serie C 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",42.41008439396889
-"M. Frediani (29, Siena, Serie C 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",50.8136202350518
-"M. Frediani (29, Siena, Serie C 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",43.94945048890811
-"M. Frediani (29, Siena, Serie C 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",66.10589390863349
-"M. Frediani (29, Siena, Serie C 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",36.27713821900019
-"M. Frediani (29, Siena, Serie C 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",56.15769161547466
-"M. Frediani (29, Siena, Serie C 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",42.47960271245558
-"M. Frediani (29, Siena, Serie C 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",21.80974074425833
-"M. Frediani (29, Siena, Serie C 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",49.74822229608281
-"M. Frediani (29, Siena, Serie C 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",58.41528390077727
-"M. Frediani (29, Siena, Serie C 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",26.49311458413817
-"M. Frediani (29, Siena, Serie C 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",54.8787441240295
-"M. Frediani (29, Siena, Serie C 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",31.4818831129893
-"M. Frediani (29, Siena, Serie C 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",47.52158904168815
-"M. Frediani (29, Siena, Serie C 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",55.77990024605767
-"M. Frediani (29, Siena, Serie C 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",58.83460390780604
-"M. Frediani (29, Siena, Serie C 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",34.910931137838965
-"M. Frediani (29, Siena, Serie C 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",42.1556995030705
-"M. Frediani (29, Siena, Serie C 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",35.0309028237408
-"M. Frediani (29, Siena, Serie C 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",53.691406941573405
-"M. Frediani (29, Siena, Serie C 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",45.84993832122733
-"M. Frediani (29, Siena, Serie C 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",59.20096457237748
-"M. Frediani (29, Siena, Serie C 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",55.86659853315932
-"M. Frediani (29, Siena, Serie C 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",45.50458357093185
-"M. Frediani (29, Siena, Serie C 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",24.596953040615983
-"M. Frediani (29, Siena, Serie C 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",24.975884503962085
-"M. Frediani (29, Siena, Serie C 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",42.50198415110079
-"M. Frediani (29, Siena, Serie C 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",63.67325440677767
-"M. Frediani (29, Siena, Serie C 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",58.67707558286982
-"M. Frediani (29, Siena, Serie C 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",33.86999830697307
-"M. Frediani (29, Siena, Serie C 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",25.500206920851404
-"M. Frediani (29, Siena, Serie C 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",28.52264715681106
-"M. Frediani (29, Siena, Serie C 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",46.121933460742056
-"M. Frediani (29, Siena, Serie C 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",45.72528850127623
-"M. Frediani (29, Siena, Serie C 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",49.40874369043232
-"M. Frediani (29, Siena, Serie C 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",2.8803972246452583
-"M. Frediani (29, Siena, Serie C 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",18.064136125850226
-"M. Frediani (29, Siena, Serie C 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",38.38733728340974
-"M. Frediani (29, Siena, Serie C 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",55.84021361536977
-"M. Frediani (29, Siena, Serie C 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",52.311799826550335
-"M. Frediani (29, Siena, Serie C 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",44.50467393919741
-"M. Frediani (29, Siena, Serie C 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",39.70049238948631
-"M. Frediani (29, Siena, Serie C 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",47.11433950761512
-"M. Frediani (29, Siena, Serie C 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",45.28330711583061
-"M. Frediani (29, Siena, Serie C 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",61.323444272215134
-"M. Frediani (29, Siena, Serie C 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",38.27086325809828
-"M. Frediani (29, Siena, Serie C 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",34.22660611438554
-"M. Frediani (29, Siena, Serie C 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",5.695485718468283
-"M. Frediani (29, Siena, Serie C 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",55.42831682800615
-"M. Frediani (29, Siena, Serie C 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",22.986044656265808
-"M. Frediani (29, Siena, Serie C 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-4.457433360586604
-"M. Frediani (29, Siena, Serie C 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",39.94269617417572
-"M. Frediani (29, Siena, Serie C 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",21.568539122410304
-"M. Frediani (29, Siena, Serie C 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",64.40531379566839
-"M. Frediani (29, Siena, Serie C 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",61.02775675179007
-"M. Frediani (29, Siena, Serie C 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",0.9082768619480625
-"M. Frediani (29, Siena, Serie C 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",39.500436160502176
-"M. Frediani (29, Siena, Serie C 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",42.94014702915205
-"M. Frediani (29, Siena, Serie C 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",62.49613169910272
-"M. Frediani (29, Siena, Serie C 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",48.84081143240673
-"M. Frediani (29, Siena, Serie C 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-12.945334614703302
-"M. Frediani (29, Siena, Serie C 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",8.494222482654392
-"M. Frediani (29, Siena, Serie C 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",9.81118299043696
-"M. Frediani (29, Siena, Serie C 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",22.53185737306174
-"M. Frediani (29, Siena, Serie C 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-3.847973278835818
-"M. Frediani (29, Siena, Serie C 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",8.002601129706811
-"M. Frediani (29, Siena, Serie C 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",24.38617496619844
-"M. Frediani (29, Siena, Serie C 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",0.5378199176471227
-"M. Frediani (29, Siena, Serie C 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",38.12615103895842
-"M. Frediani (29, Siena, Serie C 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",18.14107160758637
-"M. Frediani (29, Siena, Serie C 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",34.38518110809291
-"M. Frediani (29, Siena, Serie C 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",7.985186804023682
-"M. Frediani (29, Siena, Serie C 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",52.616236720345846
-"M. Frediani (29, Siena, Serie C 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",42.39558052515084
-"M. Frediani (29, Siena, Serie C 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",38.74563064133311
-"M. Frediani (29, Siena, Serie C 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",-0.5321325029218791
-"M. Frediani (29, Siena, Serie C 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-26.76500719874873
-"M. Frediani (29, Siena, Serie C 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",35.028926840370865
-"M. Frediani (29, Siena, Serie C 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",45.75918891446969
-"M. Frediani (29, Siena, Serie C 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",31.230523631461608
-"M. Frediani (29, Siena, Serie C 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",50.94572605523491
-"M. Frediani (29, Siena, Serie C 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",59.39435159384354
-"M. Frediani (29, Siena, Serie C 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",46.72246801780113
-"M. Frediani (29, Siena, Serie C 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",54.871387878076014
-"M. Frediani (29, Siena, Serie C 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",42.15027720261877
-"M. Frediani (29, Siena, Serie C 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",30.727679465349407
-"M. Frediani (29, Siena, Serie C 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",52.48681887919348
-"M. Frediani (29, Siena, Serie C 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",6.377652414659603
-"M. Frediani (29, Siena, Serie C 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",68.71495870764794
-"M. Frediani (29, Siena, Serie C 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",29.812729040032675
-"M. Frediani (29, Siena, Serie C 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",45.0631943389642
-"M. Frediani (29, Siena, Serie C 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-0.0932573780705655
-"M. Frediani (29, Siena, Serie C 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",47.48665594205259
-"M. Frediani (29, Siena, Serie C 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",48.94641822604386
-"M. Frediani (29, Siena, Serie C 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",25.32941561733331
-"M. Frediani (29, Siena, Serie C 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",35.227947148975346
-"M. Frediani (29, Siena, Serie C 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",42.42460562138126
-"M. Frediani (29, Siena, Serie C 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",41.36124635792064
+Player 1,Similarity
+"A. Vlkanova (28, Viktoria Plzeň, Czech Fortuna Liga 22-23)",82.74165496893426
+"K. Arshid (28, Hapoel Acre, Liga Leumit 22-23)",79.83575074715762
+"N. Galazzi (22, Brescia, Serie B 22-23)",79.28277861909673
+"A. Błąd (32, Katowice, Polish I Liga 22-23)",78.73964630419398
+"C. Ünder (25, Olympique Marseille, Ligue 1 22-23)",76.58034252497974
+"J. Roberts (29, Stevenage, League Two 22-23)",75.55480272130801
+"A. Hunter (27, Morecambe, League One 22-23)",74.92596280311848
+"N. Shaw (22, Inverness CT, Scottish Championship 22-23)",74.85441168687058
+"Adriano Castanheira (30, Penafiel, Portugal Segunda Liga 22-23)",74.33888910982267
+"J. Tabiner (19, Crewe Alexandra, League Two 22-23)",74.00734451129594
+"N. Alasgarov (28, Sabah, Premyer Liqa 22-23)",73.93581679089506
+"M. Frediani (29, Siena, Serie C 22-23)",73.84413183232985
+"D. Drexler (33, Schalke 04, Bundesliga 22-23)",73.40315322693965
+"J. Cardle (36, Kelty Hearts, Scottish League One 22-23)",73.211944624691
+"A. Dabbur (32, Maccabi Ahi Nazareth, Liga Leumit 22-23)",72.89431603691494
+"S. McCartan (28, Glentoran, Northern Ireland Premiership 22-23)",72.11607562074612
+"P. Pavlićević (23, Iskra, Montenegro First League 22-23)",72.11331628025867
+"Đ. Ivanović (27, Čukarički, Serbian SuperLiga 22-23)",72.08220341979525
+"D. Duarte (35, UD Oliveirense, Portugal Segunda Liga 22-23)",72.05743882892543
+"A. Clarke (20, Linfield, Northern Ireland Premiership 22-23)",72.00231472420478
+"Z. Clough (28, Adelaide United, A-League Men 22-23)",71.78632450533661
+"M. Pinnock (28, Northampton Town, League Two 22-23)",71.49764519973628

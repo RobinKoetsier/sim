@@ -1,158 +1,23 @@
-Player 1,Player 2,Similarity
-"F. Deli (28, Pordenone, Serie C 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",32.55796174862152
-"F. Deli (28, Pordenone, Serie C 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",26.111803789921805
-"F. Deli (28, Pordenone, Serie C 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",55.93758157577589
-"F. Deli (28, Pordenone, Serie C 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",45.442777555154926
-"F. Deli (28, Pordenone, Serie C 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",50.43378041353881
-"F. Deli (28, Pordenone, Serie C 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",51.04648395748268
-"F. Deli (28, Pordenone, Serie C 22-23)","N. Belloni (28, Siena, Serie C 22-23)",36.44221260157665
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Frediani (29, Siena, Serie C 22-23)",46.29761272112599
-"F. Deli (28, Pordenone, Serie C 22-23)","F. Urso (28, Torres, Serie C 22-23)",3.1039466482638445
-"F. Deli (28, Pordenone, Serie C 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",29.11286122877509
-"F. Deli (28, Pordenone, Serie C 22-23)","G. Lisai (33, Torres, Serie C 22-23)",26.631909427122853
-"F. Deli (28, Pordenone, Serie C 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",12.68485233619299
-"F. Deli (28, Pordenone, Serie C 22-23)","C. Attys (22, Trento, Serie C 22-23)",53.53813542668869
-"F. Deli (28, Pordenone, Serie C 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",50.90399400442026
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",40.62539580605886
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",33.16562831855383
-"F. Deli (28, Pordenone, Serie C 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",10.39751381458769
-"F. Deli (28, Pordenone, Serie C 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",39.05555187568434
-"F. Deli (28, Pordenone, Serie C 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",28.42105336722149
-"F. Deli (28, Pordenone, Serie C 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",41.25463467533034
-"F. Deli (28, Pordenone, Serie C 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",28.431888531012795
-"F. Deli (28, Pordenone, Serie C 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",35.959824286577806
-"F. Deli (28, Pordenone, Serie C 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",17.662233528623823
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",22.516716491606527
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",51.16176912773261
-"F. Deli (28, Pordenone, Serie C 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",26.29983136007193
-"F. Deli (28, Pordenone, Serie C 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",20.757501051101904
-"F. Deli (28, Pordenone, Serie C 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",7.5693314928299005
-"F. Deli (28, Pordenone, Serie C 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",43.99829757809783
-"F. Deli (28, Pordenone, Serie C 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",25.201116395502662
-"F. Deli (28, Pordenone, Serie C 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",26.64842304412568
-"F. Deli (28, Pordenone, Serie C 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",25.19718073141385
-"F. Deli (28, Pordenone, Serie C 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",34.665245174759605
-"F. Deli (28, Pordenone, Serie C 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",41.83416616684698
-"F. Deli (28, Pordenone, Serie C 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",5.6189106861820735
-"F. Deli (28, Pordenone, Serie C 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",22.731021288822784
-"F. Deli (28, Pordenone, Serie C 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",45.34342939841806
-"F. Deli (28, Pordenone, Serie C 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",-3.6981881770354494
-"F. Deli (28, Pordenone, Serie C 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",28.33597694285501
-"F. Deli (28, Pordenone, Serie C 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",9.87753473695323
-"F. Deli (28, Pordenone, Serie C 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",0.3424283421879813
-"F. Deli (28, Pordenone, Serie C 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",58.25143220320941
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",53.351066075873646
-"F. Deli (28, Pordenone, Serie C 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",23.436077226230747
-"F. Deli (28, Pordenone, Serie C 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",37.53975693531305
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",34.203441730167164
-"F. Deli (28, Pordenone, Serie C 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",60.83216182908041
-"F. Deli (28, Pordenone, Serie C 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",47.69701322373722
-"F. Deli (28, Pordenone, Serie C 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",48.18662440955017
-"F. Deli (28, Pordenone, Serie C 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",15.586981092684995
-"F. Deli (28, Pordenone, Serie C 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",8.026254569206639
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",22.84323002505626
-"F. Deli (28, Pordenone, Serie C 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",36.18838924078352
-"F. Deli (28, Pordenone, Serie C 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",31.977020258343643
-"F. Deli (28, Pordenone, Serie C 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",19.999139058210552
-"F. Deli (28, Pordenone, Serie C 22-23)","I. Jebali (31, OB, Superliga 22-23)",50.56077832659739
-"F. Deli (28, Pordenone, Serie C 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",31.12047604684836
-"F. Deli (28, Pordenone, Serie C 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",59.42551448951504
-"F. Deli (28, Pordenone, Serie C 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",41.4530113665992
-"F. Deli (28, Pordenone, Serie C 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",46.77358928319064
-"F. Deli (28, Pordenone, Serie C 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",26.94886406363505
-"F. Deli (28, Pordenone, Serie C 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",22.503880872312536
-"F. Deli (28, Pordenone, Serie C 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",42.255996060934194
-"F. Deli (28, Pordenone, Serie C 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",52.43284280723145
-"F. Deli (28, Pordenone, Serie C 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",54.56283632744224
-"F. Deli (28, Pordenone, Serie C 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",53.79374599374289
-"F. Deli (28, Pordenone, Serie C 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",27.0224115825066
-"F. Deli (28, Pordenone, Serie C 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",34.904608231144444
-"F. Deli (28, Pordenone, Serie C 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",20.02971473716354
-"F. Deli (28, Pordenone, Serie C 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",53.00636652980931
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",17.769282601955897
-"F. Deli (28, Pordenone, Serie C 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",35.43591810201145
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",18.183293440886104
-"F. Deli (28, Pordenone, Serie C 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",53.50087860428503
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",19.35142358308393
-"F. Deli (28, Pordenone, Serie C 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",26.15497697995641
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",22.699005210274883
-"F. Deli (28, Pordenone, Serie C 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",43.46594685183469
-"F. Deli (28, Pordenone, Serie C 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",25.04543239311006
-"F. Deli (28, Pordenone, Serie C 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",49.67691867850708
-"F. Deli (28, Pordenone, Serie C 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",19.993689422495684
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",30.82563491219329
-"F. Deli (28, Pordenone, Serie C 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",29.70426390584868
-"F. Deli (28, Pordenone, Serie C 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",74.98176730235382
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",59.33278195093432
-"F. Deli (28, Pordenone, Serie C 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",11.363794629831034
-"F. Deli (28, Pordenone, Serie C 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",44.42459810070029
-"F. Deli (28, Pordenone, Serie C 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",49.24508991878651
-"F. Deli (28, Pordenone, Serie C 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",67.06037887784343
-"F. Deli (28, Pordenone, Serie C 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",35.28005075130342
-"F. Deli (28, Pordenone, Serie C 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",6.962437472172654
-"F. Deli (28, Pordenone, Serie C 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",37.41061129375302
-"F. Deli (28, Pordenone, Serie C 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",34.311566138004785
-"F. Deli (28, Pordenone, Serie C 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",21.44183928550401
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",28.14947811311547
-"F. Deli (28, Pordenone, Serie C 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",33.554360392954834
-"F. Deli (28, Pordenone, Serie C 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",69.28194025028644
-"F. Deli (28, Pordenone, Serie C 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",22.25416377553162
-"F. Deli (28, Pordenone, Serie C 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",27.236207061305997
-"F. Deli (28, Pordenone, Serie C 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",34.798668310291895
-"F. Deli (28, Pordenone, Serie C 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",43.160328948197765
-"F. Deli (28, Pordenone, Serie C 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",48.55374994031499
-"F. Deli (28, Pordenone, Serie C 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",6.644550016307882
-"F. Deli (28, Pordenone, Serie C 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",19.377531697893456
-"F. Deli (28, Pordenone, Serie C 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",16.14046981324028
-"F. Deli (28, Pordenone, Serie C 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",37.45692464254902
-"F. Deli (28, Pordenone, Serie C 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",27.79965510324966
-"F. Deli (28, Pordenone, Serie C 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",22.251511103415584
-"F. Deli (28, Pordenone, Serie C 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-5.545539391734481
-"F. Deli (28, Pordenone, Serie C 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",21.28535329287283
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",54.82370070854565
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",29.81554882776225
-"F. Deli (28, Pordenone, Serie C 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",24.74893208279428
-"F. Deli (28, Pordenone, Serie C 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",42.89527177890484
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",18.37782423223629
-"F. Deli (28, Pordenone, Serie C 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",9.667335148457608
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",32.670338618407385
-"F. Deli (28, Pordenone, Serie C 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",32.692777354912586
-"F. Deli (28, Pordenone, Serie C 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",31.89293398348537
-"F. Deli (28, Pordenone, Serie C 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",15.297039835955642
-"F. Deli (28, Pordenone, Serie C 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",30.27106904214141
-"F. Deli (28, Pordenone, Serie C 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",19.44972994692031
-"F. Deli (28, Pordenone, Serie C 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",19.686591304598267
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-8.91330898686038
-"F. Deli (28, Pordenone, Serie C 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",37.56301165027104
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",7.492024472163231
-"F. Deli (28, Pordenone, Serie C 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",35.5961308033622
-"F. Deli (28, Pordenone, Serie C 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",27.05345577092962
-"F. Deli (28, Pordenone, Serie C 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",21.863734221494568
-"F. Deli (28, Pordenone, Serie C 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",8.76929227273911
-"F. Deli (28, Pordenone, Serie C 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",44.261291873948736
-"F. Deli (28, Pordenone, Serie C 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",40.94341763573725
-"F. Deli (28, Pordenone, Serie C 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",31.770612185354004
-"F. Deli (28, Pordenone, Serie C 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",67.1273821835784
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",-12.67669087315453
-"F. Deli (28, Pordenone, Serie C 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",16.198423543490463
-"F. Deli (28, Pordenone, Serie C 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",17.165917507029654
-"F. Deli (28, Pordenone, Serie C 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",1.0095336094417051
-"F. Deli (28, Pordenone, Serie C 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",26.23791704926888
-"F. Deli (28, Pordenone, Serie C 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",46.95633007387745
-"F. Deli (28, Pordenone, Serie C 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",19.49018951765511
-"F. Deli (28, Pordenone, Serie C 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",28.51659033007217
-"F. Deli (28, Pordenone, Serie C 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",34.88240326384038
-"F. Deli (28, Pordenone, Serie C 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",55.17075475767953
-"F. Deli (28, Pordenone, Serie C 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",27.092444816277933
-"F. Deli (28, Pordenone, Serie C 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",46.079295025111634
-"F. Deli (28, Pordenone, Serie C 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",42.82105570174657
-"F. Deli (28, Pordenone, Serie C 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",37.395980397319576
-"F. Deli (28, Pordenone, Serie C 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",32.33700399635645
-"F. Deli (28, Pordenone, Serie C 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",53.33139000252935
-"F. Deli (28, Pordenone, Serie C 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-10.986557705548025
-"F. Deli (28, Pordenone, Serie C 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",13.144073180710848
-"F. Deli (28, Pordenone, Serie C 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",7.569054342879459
-"F. Deli (28, Pordenone, Serie C 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",20.717389452606465
-"F. Deli (28, Pordenone, Serie C 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",67.39349917615823
-"F. Deli (28, Pordenone, Serie C 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",27.705942308995507
-"F. Deli (28, Pordenone, Serie C 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",16.50986898173616
+Player 1,Similarity
+"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",75.8657927809955
+"F. Deli (28, Pordenone, Serie C 22-23)",74.98176730235382
+"L.  Trabulo (28, Mafra, Portugal Segunda Liga 22-23)",73.39605890930545
+"S. Koné (22, Porto II, Portugal Segunda Liga 22-23)",73.1606631345447
+"G. Ivanov (35, Slavia Sofia, Bulgarian First League 22-23)",71.0697317180774
+"D. Falcinelli (31, Modena, Serie B 22-23)",70.25094545220809
+"F. Deli (28, Pordenone, Serie C 22-23)",69.28194025028644
+"A. Ouahim (25, Heracles, Eerste Divisie 22-23)",68.08412979340208
+"S. Seslar (21, Olimpija, 1. SNL 22-23)",67.94196978365655
+"K. Froese (27, Wehen Wiesbaden, 3. Liga 22-23)",67.91772280121856
+"V. Janketić (26, Rudar, Montenegro First League 22-23)",67.6416973345098
+"F. Deli (28, Pordenone, Serie C 22-23)",67.39349917615823
+"D. Philipp (23, Viktoria Köln, 3. Liga 22-23)",67.32269233646632
+"S. Shoretire (19, Bolton Wanderers, League One 22-23)",67.29197837038996
+"F. Deli (28, Pordenone, Serie C 22-23)",67.1273821835784
+"F. Deli (28, Pordenone, Serie C 22-23)",67.06037887784343
+"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)",66.3201119261823
+"D. Varešanović (22, Sarajevo, Bosnian Premier League 22-23)",66.2411008912441
+"H. Nielsen (29, Hannover 96, 2. Bundesliga 22-23)",66.20104975223784
+"E. Thiakane (31, Puszcza Niepołomice, Polish I Liga 22-23)",66.1403614958726
+"Z. Flemming (24, Millwall, Championship 22-23)",64.35905124247337
+"Anselmo (34, Al Wahda, Saudi Professional League 22-23)",64.29912666665909

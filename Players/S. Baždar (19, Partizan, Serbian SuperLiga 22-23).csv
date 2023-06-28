@@ -1,206 +1,23 @@
-Player 1,Player 2,Similarity
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","N. Vlašić (25, Torino, Serie A 22-23)",39.98774999179705
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","L. Pellegrini (26, Roma, Serie A 22-23)",21.196301009891314
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","G. Caprari (29, Monza, Serie A 22-23)",55.68060215123808
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","L. Ferguson (23, Bologna, Serie A 22-23)",27.43500533676024
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Al. Miranchuk (27, Torino, Serie A 22-23)",28.46014686460617
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Brahim Diaz (23, Milan, Serie A 22-23)",54.30429545761088
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Barák (28, Fiorentina, Serie A 22-23)",44.666707153162456
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","N. Bajrami (24, Sassuolo, Serie A 22-23)",23.15423298866815
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","T. Baldanzi (20, Empoli, Serie A 22-23)",33.37995429706474
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Pašalić (28, Atalanta, Serie A 22-23)",34.2218274873701
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","N. Radonjić (27, Torino, Serie A 22-23)",49.23806384244907
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",54.481518380085326
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",31.813809755039756
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",53.24976139307249
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Colpani (24, Monza, Serie A 22-23)",49.341475802574266
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",53.60193103239455
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",11.44767662567372
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",42.59746347915996
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",48.89977161120419
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",22.434286291540072
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",17.873207068143987
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",29.79217318465693
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",31.247539243943496
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",32.141666816844264
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",31.71200823903941
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",25.74842442471429
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",16.71011379437834
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","R. Botta (33, Bari, Serie B 22-23)",40.12011774663487
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",46.0142758323855
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",-10.012133082882636
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","V. Parigini (27, Como, Serie B 22-23)",34.628310405506554
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Álex Blanco (24, Como, Serie B 22-23)",46.766167386620175
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",18.51219583421185
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",42.34076464454684
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","D. Camara (21, Parma, Serie B 22-23)",69.1454249477546
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",48.76379009968765
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",17.45398599045108
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",35.65609019423262
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",42.93167125386472
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",31.241791703841997
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",48.43984652246059
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",42.3205291397756
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",57.28941880052968
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",53.9208146982662
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",41.40562482498533
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",47.85679564081996
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",31.555850055830387
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",75.8657927809955
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",31.46652094263123
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",8.880227455617105
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",38.07618221913976
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",20.028126574722457
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",46.30197689964988
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",58.05541744776168
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","N. Belloni (28, Siena, Serie C 22-23)",18.18411854469884
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Frediani (29, Siena, Serie C 22-23)",32.231796345314486
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","F. Urso (28, Torres, Serie C 22-23)",22.60298335864204
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",21.883894250914995
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","G. Lisai (33, Torres, Serie C 22-23)",33.04864982094992
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",18.20017934090449
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","C. Attys (22, Trento, Serie C 22-23)",37.77902645194452
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",54.61827308211619
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",26.013164607380467
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",48.57492560181904
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",31.94312480864555
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",56.43998499212432
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",42.76768047765392
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",33.58107494496719
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",45.03562138458254
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",52.325859385216354
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",33.38156875821657
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",31.545620405011498
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",42.59362949541601
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",39.73390634783552
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",34.07499353490428
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",14.547183073527698
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",32.62431806499464
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",47.44173844691747
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",45.693578634319486
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",42.97312847156134
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",31.447407771884397
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",20.813744978696327
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",20.396156826128717
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",21.663720132915287
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",61.06115962938172
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",5.447705981087697
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",30.79775480942273
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",20.100955495452244
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",11.696492498125052
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",59.51719445456596
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",33.279133675633624
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",4.026471107829608
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",47.26223343763965
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",29.649939412190463
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",42.10088850592158
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",26.01124821827924
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",30.953591579215512
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",2.1572466652936573
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",8.42851068203003
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",35.71373218329667
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",46.13679977284602
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",48.75944885597199
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",25.68337084323592
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","I. Jebali (31, OB, Superliga 22-23)",52.976269294272406
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",31.36800089929396
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",43.40779745593183
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",45.51374196043667
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",57.67881252151479
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",41.41814824440161
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",35.59940870850536
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",43.25454842436521
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",68.57946010747703
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",42.430238676785
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",39.23515103857902
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",32.184571294529384
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",43.16475940675934
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",23.60016458840544
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",50.03360598034148
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",28.61019695366449
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",43.95429683134772
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",25.608208891154465
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",59.46068119791197
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",27.43500530086908
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",45.3359804992646
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",39.208360941960784
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",59.307208338425056
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",41.943055806937735
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",48.41588919225199
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",33.86329206041713
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",40.282108518827535
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",36.68985299857368
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",69.94470677392025
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",43.53485673657837
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",29.862800490073145
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",60.48020715847709
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",52.0337068293664
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",70.83573882292812
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",51.85891312519465
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",21.312941025480168
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",37.61224479382483
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",33.45789505193038
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",30.08211998980747
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",50.97755116862224
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",22.40014515621446
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",74.79148256790948
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",36.19027975304826
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",41.39326665124141
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",49.03823038692399
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",51.689678733822255
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",40.36556363169703
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",17.680090614656372
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",24.391317338207845
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",5.040542552424674
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",48.94565691184839
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",12.84517638261557
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",18.78696947180873
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-9.75235333072759
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-8.44118304303865
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",24.117560436934284
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",15.008364363541252
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",30.814866263722784
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",42.43523957144015
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",-10.269091669416024
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",-8.534128802886515
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",16.877560236328996
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",43.96971420767861
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",39.16354226881544
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-10.150911734117331
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",52.10991422220172
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",5.160173979123319
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",32.39027150800295
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-22.15927548715196
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",26.67480152363093
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",20.269503884231888
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",7.423779049057071
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",42.84893040990652
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",38.01517315997974
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",19.075513767658663
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",45.373919322335446
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",50.48580037079974
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",50.666843830581065
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",57.47609519674113
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",4.85404519416124
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",34.9739468146485
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",26.29452389240436
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",-0.1095559055570797
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",28.021536949793568
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",61.45123634734984
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",31.981154432081155
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",35.83987373000057
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",29.53102464194016
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",56.39554621579946
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",18.513570591651767
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",51.363850965052514
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",19.65567004983647
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",28.121911415494544
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",30.685684407947623
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",53.60761651630624
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",5.512671789059715
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",25.16993359023462
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",19.097754623429807
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",38.254869526594895
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",52.52011828495912
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",36.64157041166335
-"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",37.11138320760202
+Player 1,Similarity
+"D. Varešanović (22, Sarajevo, Bosnian Premier League 22-23)",75.95594956544842
+"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",75.8657927809955
+"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",74.79148256790948
+"M. Čermák (24, České Budějovice, Czech Fortuna Liga 22-23)",73.45281473538195
+"Franko Andrijašević (31, Zhejiang Professional, Chinese Super League 2023)",73.38546701138429
+"S. Seslar (21, Olimpija, 1. SNL 22-23)",73.02284341961976
+"D. Philipp (23, Viktoria Köln, 3. Liga 22-23)",72.56360285543731
+"O. Kiteishvili (27, Sturm Graz, Austrian Bundesliga 22-23)",71.11510976859755
+"D. Nazarov (33, Erzgebirge Aue, 3. Liga 22-23)",71.09266854421027
+"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",70.83573882292812
+"S. Kowalczyk (24, Pogoń Szczecin, Ekstraklasa 22-23)",70.34155149216484
+"T. Nguen (29, Ferencváros, NB I 22-23)",70.20723939972726
+"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",69.94470677392025
+"J. Paradela (24, River Plate, Argentinian Primera División 2023)",69.34538313441469
+"L.  Trabulo (28, Mafra, Portugal Segunda Liga 22-23)",69.23357487693175
+"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",69.1454249477546
+"Rafa Silva (30, Benfica, Primeira Liga 22-23)",69.01526036371357
+"J. Cortizo (26, Monterrey, Liga MX 22-23)",68.71293273199547
+"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",68.57946010747703
+"A. Nuriev (27, Sabah, Premyer Liqa 22-23)",68.57745426362274
+"Y. Taha El Idrissi (20, PEC Zwolle, Eerste Divisie 22-23)",68.56751197638177
+"I. Popov (35, Levski Sofia, Bulgarian First League 22-23)",68.22426907420943

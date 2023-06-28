@@ -1,214 +1,23 @@
-Player 1,Player 2,Similarity
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","U. Nikolić (29, Vojvodina, Serbian SuperLiga 22-23)",46.034338676401575
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)",64.48886757218719
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","P. Đuričković (31, Novi Pazar, Serbian SuperLiga 22-23)",9.29588995702088
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Đ. Gordić (18, Mladost Lučani, Serbian SuperLiga 22-23)",-24.08326377952817
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)",30.511598563678145
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Dimić (30, Radnički Niš, Serbian SuperLiga 22-23)",28.74559140837381
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Babić (32, Radnik Surdulica, Serbian SuperLiga 22-23)",32.45389871349201
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",42.24680879696757
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","N. Vlašić (25, Torino, Serie A 22-23)",24.107047123684627
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","L. Pellegrini (26, Roma, Serie A 22-23)",35.629347365018035
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","G. Caprari (29, Monza, Serie A 22-23)",37.74389871778595
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","L. Ferguson (23, Bologna, Serie A 22-23)",-29.92346794764782
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Al. Miranchuk (27, Torino, Serie A 22-23)",57.16734665556808
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Brahim Diaz (23, Milan, Serie A 22-23)",59.71267560519748
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Barák (28, Fiorentina, Serie A 22-23)",21.20807210273537
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","N. Bajrami (24, Sassuolo, Serie A 22-23)",22.21200097866788
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","T. Baldanzi (20, Empoli, Serie A 22-23)",10.929660051898509
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Pašalić (28, Atalanta, Serie A 22-23)",-14.032373838189145
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","N. Radonjić (27, Torino, Serie A 22-23)",34.817464571346775
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",35.88563294120633
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",57.12228898011992
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",56.957812454823184
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Colpani (24, Monza, Serie A 22-23)",49.03791687179282
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",29.165435670432476
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",5.122725559844471
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",65.04216108147087
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",7.4470546900787475
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",73.44612841254407
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",27.90917132122549
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",42.45231861501605
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",61.67721131771343
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",3.732275235169297
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",54.83205557421912
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",54.03230837613639
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",49.28890711992125
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","R. Botta (33, Bari, Serie B 22-23)",52.26395617734163
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",42.31653857825108
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",16.73863435672132
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","V. Parigini (27, Como, Serie B 22-23)",32.505745798303614
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Álex Blanco (24, Como, Serie B 22-23)",25.16857840242347
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",41.73310404586525
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",62.00420199803638
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","D. Camara (21, Parma, Serie B 22-23)",26.912784921714668
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",45.54447661465318
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",-0.815219345105268
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",15.018401881481658
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",29.39743513178351
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",31.504560630851564
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",13.90987324736996
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",56.05554209514548
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",18.093076995219125
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",26.780707106392796
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",13.419773835639406
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",57.08371585230163
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",50.59210082297025
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",41.13285104076474
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",53.1853241988157
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-20.6402820516728
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",40.199796037134384
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",-5.650732233913535
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",39.41734666661724
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",54.79893873297298
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","N. Belloni (28, Siena, Serie C 22-23)",17.178139530385874
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Frediani (29, Siena, Serie C 22-23)",53.24831767406252
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","F. Urso (28, Torres, Serie C 22-23)",42.46338849734844
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",56.73380530642053
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","G. Lisai (33, Torres, Serie C 22-23)",63.200926535030334
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",43.439033118039326
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","C. Attys (22, Trento, Serie C 22-23)",28.275655361177204
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",38.13150773009551
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",19.794133764607576
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",43.77652537049463
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",30.21418286338095
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",77.48803458464117
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",51.14984176390883
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",22.729073867415075
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",69.63876285494699
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",58.053165317704455
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",35.21573878606761
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",67.72868353560652
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",75.0741271190368
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",60.911939309771135
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",39.55595709778008
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",38.59231934118351
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",63.11707642257716
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",52.522077067852194
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",22.110184552770694
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",36.56549150693997
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",71.06988902869017
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",30.527533364235303
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",39.08299865371456
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",47.88636645857064
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",57.99983486090397
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",45.36287471358484
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",75.47568691686102
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",48.81012724640404
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",47.18054651948289
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",73.85757567408633
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",52.25044020037405
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",39.13377565345734
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",15.660953648679833
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",42.62682799695444
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",50.49666460752589
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",54.64090265739563
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",45.01642323596353
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",17.889008811203414
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-16.456008401155096
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",71.56575652791088
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",36.05169587041764
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",59.55287060773663
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",-13.637241045572384
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","I. Jebali (31, OB, Superliga 22-23)",65.6800498882559
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",28.70615917885985
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",58.584488878462274
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",33.51265661555807
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",59.32769195399589
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",62.104522001691954
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",76.35367867055882
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",49.83837072286798
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",30.836713948463224
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",48.365563303847054
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",40.9121249534038
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",36.269152522719175
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",54.02277327663006
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",37.67768289387624
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",5.771305240503162
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",75.2802048908255
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",33.85513543584529
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",59.71070070621769
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",60.890433748450334
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",42.447196549700834
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",43.480391389579175
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",21.65761283907516
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",35.08202957515034
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",38.4643608344014
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",27.032842999940044
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",50.0816434716093
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",61.6113814719209
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",45.98376802009524
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",23.85221227065581
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",4.963948075528029
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",36.72671787479973
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",63.962338158179456
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",67.95232938089431
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",42.21603376873146
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",56.70375457241668
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",32.59127191288787
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",41.82264870605778
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",41.903159870014825
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",54.9596147973145
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",36.02221725017954
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",-1.1468697875536598
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",55.20989410486755
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",73.02156149093555
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",61.21725704607947
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",54.32761755459897
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",54.862796808896185
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",56.5779612634806
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",66.14212453461153
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",69.85002877187947
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",43.11624586602281
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",52.49001410506983
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",-16.91051048836347
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",59.285838731474
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",9.87259523562322
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-17.499398188007888
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",21.85174660674621
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",29.134726898310596
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",44.95897403359847
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",55.89977317403989
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",-7.026801335841913
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",41.26368731710281
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",19.182481128108552
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",47.55472822966095
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",49.31445915934049
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",0.5549943303967015
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",11.780050477318971
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",27.94017340589673
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",61.31357066588416
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-7.148438263040031
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",16.125419483697303
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",66.26564919488749
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-23.10538348873517
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",23.247941832653943
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",27.430833943965784
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",50.36469523690409
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",7.12112941767882
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",69.29958999107423
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",36.29116830526282
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",22.063723229064387
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",22.70958655833143
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-10.32350730562098
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",69.48511348206793
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",33.995913951232964
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",65.35344997112382
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",57.749298682032105
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",60.18385835525876
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",30.74825138664279
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",62.949644405241145
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",39.09734022749319
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",43.47696249435912
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",35.546054229298065
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-25.028419920552185
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",45.90854127033226
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",35.19245031020802
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",8.027836618500634
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",20.79996487059796
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",60.13146184859646
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",55.19151795900332
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",58.33381255674994
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",26.891871435264704
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",52.81028300470572
-"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",57.16785519637448
+Player 1,Similarity
+"N. Nomura (32, Oita Trinita, J2 2023)",82.9516209498882
+"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)",81.91412505514396
+"D. Romanovskij (26, Šiauliai, Lithuanian A Lyga 2023)",80.62625143098275
+"Hussein Faisal (24, Smouha, Egyptian Premier League 22-23)",79.57304932914583
+"J. Lankester (23, Cambridge United, League One 22-23)",78.18393292495719
+"B. Hrgota (30, Greuther Fürth, 2. Bundesliga 22-23)",77.96323885677751
+"A. Kotnik (27, Koper, 1. SNL 22-23)",77.77274719681918
+"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)",77.48803458464117
+"J. Vélez (28, César Vallejo, Peruvian Liga 1 2023)",77.00504968174407
+"M. Vásquez (30, Al Faisaly, Saudi First Division 22-23)",76.81473114512724
+"Manu García (25, Aris, Greek Super League 22-23)",76.44172837423015
+"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)",76.35367867055882
+"A. Forson (20, Salzburg, Austrian Bundesliga 22-23)",76.33168918132738
+"D. Quintero (35, América de Cali, Colombian Primera Division 22-23)",76.23397307426531
+"A. Nuriev (27, Sabah, Premyer Liqa 22-23)",76.05002165865177
+"Jon Toral (28, OFI, Greek Super League 22-23)",75.9990777668451
+"F. Azaz (22, Plymouth Argyle, League One 22-23)",75.97965712283832
+"L. Acosta (29, Cincinnati, MLS 2023)",75.80990493041621
+"Mohamed Reda (22, Future, Egyptian Premier League 22-23)",75.58230482832082
+"L. Jakobi (21, Újpest, NB I 22-23)",75.49606460163473
+"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)",75.47568691686102
+"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)",75.2802048908255

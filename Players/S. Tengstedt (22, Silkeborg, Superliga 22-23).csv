@@ -1,103 +1,23 @@
-Player 1,Player 2,Similarity
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","I. Jebali (31, OB, Superliga 22-23)",11.284314666660272
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",22.79907216128351
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",12.01419759795057
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",40.679816281505474
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",29.1888763452154
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",18.217740556173545
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",-9.30605501452643
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",-4.135463348884964
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",26.71063596138082
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",28.304018252884
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",7.68095238633609
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",11.850948648379497
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",14.143667119485595
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",9.932541793172575
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",56.542724457399615
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",-3.656219195583613
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",10.560172873299727
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",-8.000940044318387
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",7.165689556518011
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",32.10080068384157
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",9.642877084594511
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",38.67148150546684
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",12.279585146971636
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",36.13017509412216
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",29.80887303979287
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",21.70291274383605
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",16.697991105586656
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",22.32900541625597
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",42.28994173062376
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",14.8227655735343
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",23.00455104541547
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",17.107233169214062
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",17.074283133252845
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",8.44159967403259
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",47.37485955199566
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",50.52393226307661
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",32.427326196531666
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",39.330079995583375
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",-17.518405807040583
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",38.72891713966764
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",41.69211828062402
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",42.466773348926985
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",-3.359230928789007
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",10.744806683112447
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",25.62266877883906
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",40.11629431875954
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",29.39122873302152
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",-10.579258788976585
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",-7.359518957661293
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",9.974610523822651
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",43.90565393900262
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",43.470018858604185
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",18.30994541853461
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-19.004802117791677
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",27.33744354960375
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",17.778111009366462
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",-33.73479303177797
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",18.506700537956277
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",11.352371308508966
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",15.364996175001266
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",-9.032509789316991
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",-0.6890320143502824
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",26.929563945765366
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",-1.103377434317908
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",27.30853989194332
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",75.28022453970569
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",40.84624075007788
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",6.828875391883249
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",17.963597143805305
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",34.0785410240894
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",1.2343959956193795
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",32.83230028093351
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",55.07027637373116
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",18.02890745360564
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",12.869478835548923
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",42.40173925269839
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",26.264785757085168
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",31.28754023545785
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",15.31418314506844
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",33.18423637695541
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",53.79842641958375
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",3.3923538279575034
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",-17.74290506948251
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",26.22100810692855
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",41.25437317325025
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",23.89219189528944
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",50.97004847190239
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",2.624265246097255
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",59.2810798746238
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",-27.78331266724227
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",53.49650357569964
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",8.932334392758987
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",-4.675716835541453
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",28.797797687088583
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",23.482671721768696
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",19.03987811897149
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",9.885474832274172
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",8.752666644350713
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",0.3590953255071004
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",33.13342405874455
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",-14.968512352236912
-"S. Tengstedt (22, Silkeborg, Superliga 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",7.578332804098826
+Player 1,Similarity
+"S. Tengstedt (22, Silkeborg, Superliga 22-23)",75.28022453970569
+"A. Barák (28, Fiorentina, Serie A 22-23)",74.11954164217882
+"P. Pyrdoł (24, SKRA Częstochowa, Polish I Liga 22-23)",72.40301317650375
+"J. Allen (28, Coventry City, Championship 22-23)",71.51029104506816
+"Emilio Lozano (27, SD Logroñés, Primera División RFEF 22-23)",71.39632414663112
+"L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",70.97706140382925
+"Afonso Sousa (23, Lech Poznań, Ekstraklasa 22-23)",69.77083575790317
+"A. Diallo (20, Sunderland, Championship 22-23)",69.41491211149197
+"T. Baldanzi (20, Empoli, Serie A 22-23)",68.05223719063252
+"D. Bakalov (34, Lokomotiv Sofia 1929, Bulgarian First League 22-23)",68.03273018403013
+"T. Igarashi (20, Renofa Yamaguchi, J2 2023)",65.87678236980538
+"Miguelito (33, Nea Salamis, Cyprus 1. Division 22-23)",65.65276558217735
+"A. da Cruz (26, Mechelen, Belgian Pro League 22-23)",65.34059625893707
+"N. Vlašić (25, Torino, Serie A 22-23)",65.27118711974649
+"F. Bartels (36, Holstein Kiel, 2. Bundesliga 22-23)",64.4588561800242
+"S. Steijn (21, Twente, Eredivisie 22-23)",64.3297979761937
+"Dani Lorenzo (20, Mérida AD, Primera División RFEF 22-23)",63.92351844719856
+"Jon Guridi (28, Deportivo Alavés, La Liga 2 22-23)",63.19328015232707
+"A. Tibidi (19, Rheindorf Altach, Austrian Bundesliga 22-23)",62.69171606906679
+"M. García (26, Aris, Greek Super League 22-23)",61.83346807015767
+"L. Rodríguez (26, Club Tijuana, Liga MX 22-23)",61.24561631320359
+"A. Ali (23, Moss, OBOS Ligaen 2023)",61.11804286410481

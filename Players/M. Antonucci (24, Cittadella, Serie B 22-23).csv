@@ -1,190 +1,23 @@
-Player 1,Player 2,Similarity
-"M. Antonucci (24, Cittadella, Serie B 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",22.08904494218509
-"M. Antonucci (24, Cittadella, Serie B 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",57.66755870110658
-"M. Antonucci (24, Cittadella, Serie B 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",61.5870205685388
-"M. Antonucci (24, Cittadella, Serie B 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",12.049290039399894
-"M. Antonucci (24, Cittadella, Serie B 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",50.69253057558165
-"M. Antonucci (24, Cittadella, Serie B 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",40.493838184072544
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",40.99983825453592
-"M. Antonucci (24, Cittadella, Serie B 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",12.815835485015151
-"M. Antonucci (24, Cittadella, Serie B 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",56.761460306092296
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",28.18421821316383
-"M. Antonucci (24, Cittadella, Serie B 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",39.37024226604841
-"M. Antonucci (24, Cittadella, Serie B 22-23)","R. Botta (33, Bari, Serie B 22-23)",38.34003307078716
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",62.2079811343766
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",43.70369514453398
-"M. Antonucci (24, Cittadella, Serie B 22-23)","V. Parigini (27, Como, Serie B 22-23)",64.41450006883142
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Álex Blanco (24, Como, Serie B 22-23)",70.37398525982442
-"M. Antonucci (24, Cittadella, Serie B 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",22.18280334383437
-"M. Antonucci (24, Cittadella, Serie B 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",55.812760679320725
-"M. Antonucci (24, Cittadella, Serie B 22-23)","D. Camara (21, Parma, Serie B 22-23)",50.48353764554042
-"M. Antonucci (24, Cittadella, Serie B 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",35.289566317980984
-"M. Antonucci (24, Cittadella, Serie B 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",22.34618953530631
-"M. Antonucci (24, Cittadella, Serie B 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",50.47370460932068
-"M. Antonucci (24, Cittadella, Serie B 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",8.48324372682013
-"M. Antonucci (24, Cittadella, Serie B 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",34.5100375748279
-"M. Antonucci (24, Cittadella, Serie B 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",21.10181034147173
-"M. Antonucci (24, Cittadella, Serie B 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",45.0355148657527
-"M. Antonucci (24, Cittadella, Serie B 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",84.17717259904346
-"M. Antonucci (24, Cittadella, Serie B 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",86.17944112950484
-"M. Antonucci (24, Cittadella, Serie B 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",46.11050044966975
-"M. Antonucci (24, Cittadella, Serie B 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",43.55167186300519
-"M. Antonucci (24, Cittadella, Serie B 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",38.4166935829312
-"M. Antonucci (24, Cittadella, Serie B 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",58.9256338834555
-"M. Antonucci (24, Cittadella, Serie B 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",32.26146897542605
-"M. Antonucci (24, Cittadella, Serie B 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",15.759902706846646
-"M. Antonucci (24, Cittadella, Serie B 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",52.08642192181552
-"M. Antonucci (24, Cittadella, Serie B 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",54.00598844067416
-"M. Antonucci (24, Cittadella, Serie B 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",51.26564518607
-"M. Antonucci (24, Cittadella, Serie B 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",71.3049478032225
-"M. Antonucci (24, Cittadella, Serie B 22-23)","N. Belloni (28, Siena, Serie C 22-23)",15.048490830260665
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Frediani (29, Siena, Serie C 22-23)",55.25649429876276
-"M. Antonucci (24, Cittadella, Serie B 22-23)","F. Urso (28, Torres, Serie C 22-23)",-3.2170711395676186
-"M. Antonucci (24, Cittadella, Serie B 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",27.94674266233682
-"M. Antonucci (24, Cittadella, Serie B 22-23)","G. Lisai (33, Torres, Serie C 22-23)",31.693721994702805
-"M. Antonucci (24, Cittadella, Serie B 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",27.24986736102973
-"M. Antonucci (24, Cittadella, Serie B 22-23)","C. Attys (22, Trento, Serie C 22-23)",74.31161907335955
-"M. Antonucci (24, Cittadella, Serie B 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",74.72672424490993
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",43.81776869333807
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",57.54757620907907
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",8.507957488746069
-"M. Antonucci (24, Cittadella, Serie B 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",51.50242887928109
-"M. Antonucci (24, Cittadella, Serie B 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",45.747165657084174
-"M. Antonucci (24, Cittadella, Serie B 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",52.84029634704935
-"M. Antonucci (24, Cittadella, Serie B 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",37.68275577554908
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",32.81161028624466
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",21.20005743157118
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",17.67891635123215
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",48.468225911001895
-"M. Antonucci (24, Cittadella, Serie B 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",31.78333196647552
-"M. Antonucci (24, Cittadella, Serie B 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",55.583172222409246
-"M. Antonucci (24, Cittadella, Serie B 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",18.574424828258334
-"M. Antonucci (24, Cittadella, Serie B 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",24.706212517725547
-"M. Antonucci (24, Cittadella, Serie B 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",32.406944262844085
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",11.974884312858736
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",64.6385133370714
-"M. Antonucci (24, Cittadella, Serie B 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",1.7802654804166047
-"M. Antonucci (24, Cittadella, Serie B 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",9.018300723613203
-"M. Antonucci (24, Cittadella, Serie B 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",-5.776292457182562
-"M. Antonucci (24, Cittadella, Serie B 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",26.534091514801705
-"M. Antonucci (24, Cittadella, Serie B 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",35.23198499173389
-"M. Antonucci (24, Cittadella, Serie B 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",7.887557906829801
-"M. Antonucci (24, Cittadella, Serie B 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",20.26586787068708
-"M. Antonucci (24, Cittadella, Serie B 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",11.468920271013593
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",0.8642029591308935
-"M. Antonucci (24, Cittadella, Serie B 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",36.589466473011406
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",38.16669439098517
-"M. Antonucci (24, Cittadella, Serie B 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",-10.468262066301298
-"M. Antonucci (24, Cittadella, Serie B 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",33.0865555921796
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",56.77508646485795
-"M. Antonucci (24, Cittadella, Serie B 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",28.1137490422866
-"M. Antonucci (24, Cittadella, Serie B 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",20.412800561141378
-"M. Antonucci (24, Cittadella, Serie B 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",49.86181354172545
-"M. Antonucci (24, Cittadella, Serie B 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",16.454903102072667
-"M. Antonucci (24, Cittadella, Serie B 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",16.429447589485573
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",20.756691080073857
-"M. Antonucci (24, Cittadella, Serie B 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",50.04783567270811
-"M. Antonucci (24, Cittadella, Serie B 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",51.42142004532515
-"M. Antonucci (24, Cittadella, Serie B 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",35.484509168292966
-"M. Antonucci (24, Cittadella, Serie B 22-23)","I. Jebali (31, OB, Superliga 22-23)",40.13477846998256
-"M. Antonucci (24, Cittadella, Serie B 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",30.05002766743834
-"M. Antonucci (24, Cittadella, Serie B 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",63.82934631225373
-"M. Antonucci (24, Cittadella, Serie B 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",51.32502369184046
-"M. Antonucci (24, Cittadella, Serie B 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",55.56098583564161
-"M. Antonucci (24, Cittadella, Serie B 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",30.826950104059787
-"M. Antonucci (24, Cittadella, Serie B 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",20.51944104582232
-"M. Antonucci (24, Cittadella, Serie B 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",53.14233888415849
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",65.782070367503
-"M. Antonucci (24, Cittadella, Serie B 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",52.54697174308565
-"M. Antonucci (24, Cittadella, Serie B 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",56.8234458383392
-"M. Antonucci (24, Cittadella, Serie B 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",8.090561486090554
-"M. Antonucci (24, Cittadella, Serie B 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",25.019593565527405
-"M. Antonucci (24, Cittadella, Serie B 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",27.197652401896534
-"M. Antonucci (24, Cittadella, Serie B 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",61.055344177751145
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",14.850394795700982
-"M. Antonucci (24, Cittadella, Serie B 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",57.75329371607882
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",9.397732466252972
-"M. Antonucci (24, Cittadella, Serie B 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",57.38006287679583
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",55.30693515046593
-"M. Antonucci (24, Cittadella, Serie B 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",16.697432090699625
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",33.963289447767494
-"M. Antonucci (24, Cittadella, Serie B 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",39.32610675473621
-"M. Antonucci (24, Cittadella, Serie B 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",46.6277616189648
-"M. Antonucci (24, Cittadella, Serie B 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",76.11545945990444
-"M. Antonucci (24, Cittadella, Serie B 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",38.33885339061176
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",52.95451752364212
-"M. Antonucci (24, Cittadella, Serie B 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",13.334148825623656
-"M. Antonucci (24, Cittadella, Serie B 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",43.60343328119132
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",60.83394865547105
-"M. Antonucci (24, Cittadella, Serie B 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",30.06796857155777
-"M. Antonucci (24, Cittadella, Serie B 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",39.065566868839504
-"M. Antonucci (24, Cittadella, Serie B 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",40.4841044789509
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",35.68239361590493
-"M. Antonucci (24, Cittadella, Serie B 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",31.778976225984835
-"M. Antonucci (24, Cittadella, Serie B 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",25.86703637887328
-"M. Antonucci (24, Cittadella, Serie B 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",28.67264442911696
-"M. Antonucci (24, Cittadella, Serie B 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",61.866648112810005
-"M. Antonucci (24, Cittadella, Serie B 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",15.186790764469862
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",11.790724004309135
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",19.46981694495004
-"M. Antonucci (24, Cittadella, Serie B 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",57.34003703861156
-"M. Antonucci (24, Cittadella, Serie B 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",20.870348595530093
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",38.426909230018815
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",29.465476681690088
-"M. Antonucci (24, Cittadella, Serie B 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",34.79471959625075
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",38.886731430671695
-"M. Antonucci (24, Cittadella, Serie B 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",-0.0734706987701449
-"M. Antonucci (24, Cittadella, Serie B 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",14.450613961888005
-"M. Antonucci (24, Cittadella, Serie B 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",1.8330174345909345
-"M. Antonucci (24, Cittadella, Serie B 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",31.46959788976024
-"M. Antonucci (24, Cittadella, Serie B 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",39.03800999909164
-"M. Antonucci (24, Cittadella, Serie B 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",24.09149468667566
-"M. Antonucci (24, Cittadella, Serie B 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-10.470930164123372
-"M. Antonucci (24, Cittadella, Serie B 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",26.62565313438169
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",49.69618751196526
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",-2.083599962918469
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",41.593606318825664
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",46.335820044207686
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",5.004049839497511
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",-2.744949533628294
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",9.481785164361108
-"M. Antonucci (24, Cittadella, Serie B 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",56.669453297128925
-"M. Antonucci (24, Cittadella, Serie B 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",21.621654039594148
-"M. Antonucci (24, Cittadella, Serie B 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",6.116754107522255
-"M. Antonucci (24, Cittadella, Serie B 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",25.95022105095054
-"M. Antonucci (24, Cittadella, Serie B 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",17.42734782914937
-"M. Antonucci (24, Cittadella, Serie B 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",6.393321011183888
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-4.310040976565201
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",51.70131822533946
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",-3.5225283787474
-"M. Antonucci (24, Cittadella, Serie B 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",20.19888340384387
-"M. Antonucci (24, Cittadella, Serie B 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",25.02406940582644
-"M. Antonucci (24, Cittadella, Serie B 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",5.969619430687279
-"M. Antonucci (24, Cittadella, Serie B 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",15.789277321373357
-"M. Antonucci (24, Cittadella, Serie B 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",46.07656122457428
-"M. Antonucci (24, Cittadella, Serie B 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",41.84078480158641
-"M. Antonucci (24, Cittadella, Serie B 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",46.64439359606382
-"M. Antonucci (24, Cittadella, Serie B 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",46.58347365026618
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",-12.79058687234946
-"M. Antonucci (24, Cittadella, Serie B 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-5.018113977941356
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",2.48180937040846
-"M. Antonucci (24, Cittadella, Serie B 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",16.7970518910093
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",20.810806643768704
-"M. Antonucci (24, Cittadella, Serie B 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",51.48420467577438
-"M. Antonucci (24, Cittadella, Serie B 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",33.74236168716694
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",41.35108200130004
-"M. Antonucci (24, Cittadella, Serie B 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",39.58349179569664
-"M. Antonucci (24, Cittadella, Serie B 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",58.577545200153146
-"M. Antonucci (24, Cittadella, Serie B 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",11.583922143099702
-"M. Antonucci (24, Cittadella, Serie B 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",67.22076156730947
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",11.351775899985808
-"M. Antonucci (24, Cittadella, Serie B 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",41.00565192256721
-"M. Antonucci (24, Cittadella, Serie B 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",60.584285930923954
-"M. Antonucci (24, Cittadella, Serie B 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",63.66306184229333
-"M. Antonucci (24, Cittadella, Serie B 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-13.314686113484916
-"M. Antonucci (24, Cittadella, Serie B 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",34.51565159104044
-"M. Antonucci (24, Cittadella, Serie B 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",10.906531434880858
-"M. Antonucci (24, Cittadella, Serie B 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",28.04185150327877
-"M. Antonucci (24, Cittadella, Serie B 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",71.9154544384195
-"M. Antonucci (24, Cittadella, Serie B 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",27.5466422337024
-"M. Antonucci (24, Cittadella, Serie B 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",13.439533484882125
+Player 1,Similarity
+"M. Antonucci (24, Cittadella, Serie B 22-23)",86.17944112950484
+"M. Antonucci (24, Cittadella, Serie B 22-23)",84.17717259904346
+"N. Radonjić (27, Torino, Serie A 22-23)",82.32550348695398
+"T. Pieńko (19, Zagłębie Lubin, Ekstraklasa 22-23)",78.63619383048601
+"M. Marzec (28, Katowice, Polish I Liga 22-23)",78.49201435814122
+"K. Froese (27, Wehen Wiesbaden, 3. Liga 22-23)",77.49674183505762
+"D. Duarte (35, UD Oliveirense, Portugal Segunda Liga 22-23)",76.38963688404019
+"I. Hutchinson (23, Walsall, League Two 22-23)",76.15466114800657
+"M. Antonucci (24, Cittadella, Serie B 22-23)",76.11545945990444
+"M. Browne (25, Oxford United, League One 22-23)",75.71443724327004
+"D. Butterworth (23, Port Vale, League One 22-23)",75.59420734979356
+"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)",75.2398999597663
+"D. Olejarka (21, Stal Rzeszów, Polish I Liga 22-23)",74.84168214743397
+"M. Antonucci (24, Cittadella, Serie B 22-23)",74.72672424490993
+"M. Antonucci (24, Cittadella, Serie B 22-23)",74.31161907335955
+"M. Sitek (22, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",74.10683365058975
+"K. Poku (21, Peterborough United, League One 22-23)",73.97940332797896
+"Y. Taha El Idrissi (20, PEC Zwolle, Eerste Divisie 22-23)",73.40444607385261
+"J. Lindstrøm (23, Eintracht Frankfurt, Bundesliga 22-23)",72.95868575010151
+"K. Edwards (25, Ipswich Town, League One 22-23)",72.64374592844244
+"M. Biton (18, Bnei Yehuda, Liga Leumit 22-23)",72.04277111927668
+"M. Antonucci (24, Cittadella, Serie B 22-23)",71.9154544384195

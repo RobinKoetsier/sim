@@ -1,156 +1,23 @@
-Player 1,Player 2,Similarity
-"A. Sala (22, Pro Sesto, Serie C 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",35.321248766293785
-"A. Sala (22, Pro Sesto, Serie C 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",66.19474263164791
-"A. Sala (22, Pro Sesto, Serie C 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",45.18520345669329
-"A. Sala (22, Pro Sesto, Serie C 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",-11.376914787883893
-"A. Sala (22, Pro Sesto, Serie C 22-23)","N. Belloni (28, Siena, Serie C 22-23)",56.874656487979614
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Frediani (29, Siena, Serie C 22-23)",4.838926238496509
-"A. Sala (22, Pro Sesto, Serie C 22-23)","F. Urso (28, Torres, Serie C 22-23)",-23.94582914741697
-"A. Sala (22, Pro Sesto, Serie C 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",26.32672518846646
-"A. Sala (22, Pro Sesto, Serie C 22-23)","G. Lisai (33, Torres, Serie C 22-23)",5.391835900826072
-"A. Sala (22, Pro Sesto, Serie C 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",-29.767366983475345
-"A. Sala (22, Pro Sesto, Serie C 22-23)","C. Attys (22, Trento, Serie C 22-23)",37.66647046900943
-"A. Sala (22, Pro Sesto, Serie C 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",2.1775289247589305
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",10.117246783239962
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",-35.93336289895796
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",-26.06058225151118
-"A. Sala (22, Pro Sesto, Serie C 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",-14.594499015642146
-"A. Sala (22, Pro Sesto, Serie C 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",-22.927416060441985
-"A. Sala (22, Pro Sesto, Serie C 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",42.445273552365656
-"A. Sala (22, Pro Sesto, Serie C 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",-26.48876937144621
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",-37.12495409537511
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",-27.61620076344915
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",-26.22087712836046
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",1.754405749679439
-"A. Sala (22, Pro Sesto, Serie C 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",-23.755832362739508
-"A. Sala (22, Pro Sesto, Serie C 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",-29.99639160938696
-"A. Sala (22, Pro Sesto, Serie C 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",-12.620639030031496
-"A. Sala (22, Pro Sesto, Serie C 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",12.585838779344376
-"A. Sala (22, Pro Sesto, Serie C 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",-32.23415126509365
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",-12.93567476768711
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",-18.16367505238065
-"A. Sala (22, Pro Sesto, Serie C 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",-23.65996780375387
-"A. Sala (22, Pro Sesto, Serie C 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",-3.076965161251359
-"A. Sala (22, Pro Sesto, Serie C 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",-32.29356148962882
-"A. Sala (22, Pro Sesto, Serie C 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",-20.929683542119776
-"A. Sala (22, Pro Sesto, Serie C 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",-28.77289106384363
-"A. Sala (22, Pro Sesto, Serie C 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",-32.647278095492766
-"A. Sala (22, Pro Sesto, Serie C 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",-22.864645349670425
-"A. Sala (22, Pro Sesto, Serie C 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",-40.68464101821875
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",-50.13424773244719
-"A. Sala (22, Pro Sesto, Serie C 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",5.991875215265457
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",0.7189431732510039
-"A. Sala (22, Pro Sesto, Serie C 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",6.803402680989858
-"A. Sala (22, Pro Sesto, Serie C 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",-7.249071008730788
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",-15.072651217581512
-"A. Sala (22, Pro Sesto, Serie C 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",-1.910674687629904
-"A. Sala (22, Pro Sesto, Serie C 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",5.741522546399039
-"A. Sala (22, Pro Sesto, Serie C 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",19.925777549510254
-"A. Sala (22, Pro Sesto, Serie C 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-17.46279522645332
-"A. Sala (22, Pro Sesto, Serie C 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-13.832146543713842
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",-13.366222485259978
-"A. Sala (22, Pro Sesto, Serie C 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",-42.58699429888246
-"A. Sala (22, Pro Sesto, Serie C 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",-27.943183187949856
-"A. Sala (22, Pro Sesto, Serie C 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",-18.204854986146323
-"A. Sala (22, Pro Sesto, Serie C 22-23)","I. Jebali (31, OB, Superliga 22-23)",-18.142209553347172
-"A. Sala (22, Pro Sesto, Serie C 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",19.453098635493017
-"A. Sala (22, Pro Sesto, Serie C 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",8.792283544282178
-"A. Sala (22, Pro Sesto, Serie C 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",4.019417130885388
-"A. Sala (22, Pro Sesto, Serie C 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",-31.970623956991933
-"A. Sala (22, Pro Sesto, Serie C 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",-28.433155055848125
-"A. Sala (22, Pro Sesto, Serie C 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",-16.342052105571078
-"A. Sala (22, Pro Sesto, Serie C 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",16.477635843168052
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",5.347952209951036
-"A. Sala (22, Pro Sesto, Serie C 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",19.953134640740775
-"A. Sala (22, Pro Sesto, Serie C 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",14.197968533970243
-"A. Sala (22, Pro Sesto, Serie C 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",-3.30558129408708
-"A. Sala (22, Pro Sesto, Serie C 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",-5.123673777506579
-"A. Sala (22, Pro Sesto, Serie C 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",-12.749181792625322
-"A. Sala (22, Pro Sesto, Serie C 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",36.66461975793285
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",-31.44912613019352
-"A. Sala (22, Pro Sesto, Serie C 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",47.03155506347502
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",-13.46156517474835
-"A. Sala (22, Pro Sesto, Serie C 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",16.98814682637117
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",-11.330501378060765
-"A. Sala (22, Pro Sesto, Serie C 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",-10.731390556386662
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",-24.955988136872637
-"A. Sala (22, Pro Sesto, Serie C 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",35.67651099084638
-"A. Sala (22, Pro Sesto, Serie C 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",-8.692173291605377
-"A. Sala (22, Pro Sesto, Serie C 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",2.876558652335788
-"A. Sala (22, Pro Sesto, Serie C 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",-7.212083601481558
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",-27.220873112259053
-"A. Sala (22, Pro Sesto, Serie C 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",-7.320737935528869
-"A. Sala (22, Pro Sesto, Serie C 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",28.20928786873281
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",35.72246899863282
-"A. Sala (22, Pro Sesto, Serie C 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",-22.059554532958064
-"A. Sala (22, Pro Sesto, Serie C 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",-17.60832656352323
-"A. Sala (22, Pro Sesto, Serie C 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",-4.610859583525587
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",37.02618864301648
-"A. Sala (22, Pro Sesto, Serie C 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",-41.97317122363213
-"A. Sala (22, Pro Sesto, Serie C 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",-39.61275405971029
-"A. Sala (22, Pro Sesto, Serie C 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",-8.029659179297886
-"A. Sala (22, Pro Sesto, Serie C 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",-4.644802910487047
-"A. Sala (22, Pro Sesto, Serie C 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",-9.222308833775612
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",-45.38955345119282
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",21.99655499870309
-"A. Sala (22, Pro Sesto, Serie C 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",-12.403780163327118
-"A. Sala (22, Pro Sesto, Serie C 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",-31.77763877605038
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",-26.84446046310583
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",-34.94768438145044
-"A. Sala (22, Pro Sesto, Serie C 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",-33.144892054599566
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",-10.902810091232237
-"A. Sala (22, Pro Sesto, Serie C 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",-28.67577517668003
-"A. Sala (22, Pro Sesto, Serie C 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",-30.278710999520737
-"A. Sala (22, Pro Sesto, Serie C 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",2.9976502374760785
-"A. Sala (22, Pro Sesto, Serie C 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",-34.72329124313003
-"A. Sala (22, Pro Sesto, Serie C 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",24.28130355927888
-"A. Sala (22, Pro Sesto, Serie C 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",-32.35696613148576
-"A. Sala (22, Pro Sesto, Serie C 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",15.93105317313255
-"A. Sala (22, Pro Sesto, Serie C 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",62.91943017600554
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",40.11070412778008
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",42.838165587144246
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",-33.254273364720206
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",-4.690715903104039
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",1.7185623563691577
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",0.2432240264958231
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",34.64804428797538
-"A. Sala (22, Pro Sesto, Serie C 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",-32.41889522814033
-"A. Sala (22, Pro Sesto, Serie C 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",4.566500808987139
-"A. Sala (22, Pro Sesto, Serie C 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",2.2647799267973245
-"A. Sala (22, Pro Sesto, Serie C 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",-37.09858154096237
-"A. Sala (22, Pro Sesto, Serie C 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",-33.04458273269471
-"A. Sala (22, Pro Sesto, Serie C 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",-29.60107240223651
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",13.26875239768559
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",29.59089452920043
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",-29.569330907768304
-"A. Sala (22, Pro Sesto, Serie C 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",38.426554329053616
-"A. Sala (22, Pro Sesto, Serie C 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",-8.656208615303989
-"A. Sala (22, Pro Sesto, Serie C 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",-12.447939379208004
-"A. Sala (22, Pro Sesto, Serie C 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",-46.05476539220251
-"A. Sala (22, Pro Sesto, Serie C 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",12.002518313508244
-"A. Sala (22, Pro Sesto, Serie C 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",-31.247481770630447
-"A. Sala (22, Pro Sesto, Serie C 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",-32.42571201105401
-"A. Sala (22, Pro Sesto, Serie C 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",23.24002923711718
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",-59.82857871475845
-"A. Sala (22, Pro Sesto, Serie C 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",0.8475374925178504
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",-34.073533910254845
-"A. Sala (22, Pro Sesto, Serie C 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",-16.406186258810013
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",-34.91489553733816
-"A. Sala (22, Pro Sesto, Serie C 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-26.404908264124373
-"A. Sala (22, Pro Sesto, Serie C 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",-32.7184911990843
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",-23.46494179873491
-"A. Sala (22, Pro Sesto, Serie C 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",5.745179349969037
-"A. Sala (22, Pro Sesto, Serie C 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",-24.794613226868798
-"A. Sala (22, Pro Sesto, Serie C 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",18.01372309357375
-"A. Sala (22, Pro Sesto, Serie C 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",3.0528700242899407
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",67.86862335439982
-"A. Sala (22, Pro Sesto, Serie C 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",23.129595237869715
-"A. Sala (22, Pro Sesto, Serie C 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",-4.619912611907216
-"A. Sala (22, Pro Sesto, Serie C 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",29.514268424992856
-"A. Sala (22, Pro Sesto, Serie C 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-48.93235529593636
-"A. Sala (22, Pro Sesto, Serie C 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",-28.645634024545213
-"A. Sala (22, Pro Sesto, Serie C 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",-37.76183181673628
-"A. Sala (22, Pro Sesto, Serie C 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",-15.62234231610482
-"A. Sala (22, Pro Sesto, Serie C 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",38.82527167042819
-"A. Sala (22, Pro Sesto, Serie C 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",15.17801525740458
-"A. Sala (22, Pro Sesto, Serie C 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",-28.607670232639325
+Player 1,Similarity
+"B. Penchev (21, Beroe, Bulgarian First League 22-23)",79.31059495958618
+"C. Kouan (23, Perugia, Serie B 22-23)",72.68248366334723
+"T. Onyango (20, Forest Green Rovers, League One 22-23)",69.52837193668266
+"D. Vogt (22, Meppen, 3. Liga 22-23)",69.45075957887522
+"K. Toporkiewicz (21, Sandecja Nowy Sącz, Polish I Liga 22-23)",68.80950762483894
+"A. Sala (22, Pro Sesto, Serie C 22-23)",67.86862335439982
+"A. Sala (22, Pro Sesto, Serie C 22-23)",66.19474263164791
+"R. Callachan (29, Ross County, Scottish Premiership 22-23)",66.02849582141576
+"A. Ayarza (30, Cusco, Peruvian Liga 1 2023)",64.49567660479059
+"G. Lapslie (25, Gillingham, League Two 22-23)",64.08452353059316
+"A. Sala (22, Pro Sesto, Serie C 22-23)",62.91943017600554
+"M. Laykin (20, Neftekhimik, Russian FNL 2 22-23)",62.88124752256314
+"S. Pittman (30, Livingston, Scottish Premiership 22-23)",62.36928824594538
+"K. Delić (24, Sloboda Tuzla, Bosnian Premier League 22-23)",62.30032139760312
+"R. Mudražija (26, Slaven Belupo, 1. HNL 22-23)",62.28535951798821
+"R. Gotts (23, Barrow, League Two 22-23)",62.07173137858128
+"Bayu Otto (23, Persik Kediri, BRI Liga 1 22-23)",61.02385916952381
+"L. Valente (19, Groningen, Eredivisie 22-23)",60.69482711323766
+"Juan Serrano (23, Algeciras, Primera División RFEF 22-23)",60.62246370313056
+"F. Ruçi (21, Bylis Ballsh, Albanian Premier League 22-23)",59.31418936758427
+"J. Waite (24, Newport County, League Two 22-23)",58.42366028104764
+"N. Morillon Schieber-Herrbach (18, Sant Julià, Andorra Primera Divisió 22-23)",58.191262610870375

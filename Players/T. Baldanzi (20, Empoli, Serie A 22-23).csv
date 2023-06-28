@@ -1,197 +1,23 @@
-Player 1,Player 2,Similarity
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Pašalić (28, Atalanta, Serie A 22-23)",27.321922434560296
-"T. Baldanzi (20, Empoli, Serie A 22-23)","N. Radonjić (27, Torino, Serie A 22-23)",51.862005143280335
-"T. Baldanzi (20, Empoli, Serie A 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",67.229308308059
-"T. Baldanzi (20, Empoli, Serie A 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",14.706325964187508
-"T. Baldanzi (20, Empoli, Serie A 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",20.578806560554185
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. Colpani (24, Monza, Serie A 22-23)",57.28655539828872
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",57.69839548471185
-"T. Baldanzi (20, Empoli, Serie A 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",-19.090257440020043
-"T. Baldanzi (20, Empoli, Serie A 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",35.30782244221924
-"T. Baldanzi (20, Empoli, Serie A 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",32.00675267265704
-"T. Baldanzi (20, Empoli, Serie A 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",0.4492562279024238
-"T. Baldanzi (20, Empoli, Serie A 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",59.52452639828897
-"T. Baldanzi (20, Empoli, Serie A 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",23.020108681534825
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",28.70864626603929
-"T. Baldanzi (20, Empoli, Serie A 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",-29.229721846460627
-"T. Baldanzi (20, Empoli, Serie A 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",51.05255640861186
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",2.3289683439437723
-"T. Baldanzi (20, Empoli, Serie A 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",8.867010329322827
-"T. Baldanzi (20, Empoli, Serie A 22-23)","R. Botta (33, Bari, Serie B 22-23)",41.54169281604027
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",42.98335325061285
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",-4.531809551415934
-"T. Baldanzi (20, Empoli, Serie A 22-23)","V. Parigini (27, Como, Serie B 22-23)",26.13063873385325
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Álex Blanco (24, Como, Serie B 22-23)",67.50698914569817
-"T. Baldanzi (20, Empoli, Serie A 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",-0.9358894229149944
-"T. Baldanzi (20, Empoli, Serie A 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",25.221445614603667
-"T. Baldanzi (20, Empoli, Serie A 22-23)","D. Camara (21, Parma, Serie B 22-23)",35.180288121500155
-"T. Baldanzi (20, Empoli, Serie A 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",4.05476624907127
-"T. Baldanzi (20, Empoli, Serie A 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",22.62988142781476
-"T. Baldanzi (20, Empoli, Serie A 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",26.533326979646517
-"T. Baldanzi (20, Empoli, Serie A 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",-4.604210050555719
-"T. Baldanzi (20, Empoli, Serie A 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",8.154354467963772
-"T. Baldanzi (20, Empoli, Serie A 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",13.10384820090702
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",31.4411257732804
-"T. Baldanzi (20, Empoli, Serie A 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",37.74573327714175
-"T. Baldanzi (20, Empoli, Serie A 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",60.72712703116762
-"T. Baldanzi (20, Empoli, Serie A 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",12.778326668214868
-"T. Baldanzi (20, Empoli, Serie A 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",26.30799989472369
-"T. Baldanzi (20, Empoli, Serie A 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",42.61571561809638
-"T. Baldanzi (20, Empoli, Serie A 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",32.83043235238042
-"T. Baldanzi (20, Empoli, Serie A 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",-15.054375035159584
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-19.252495743461143
-"T. Baldanzi (20, Empoli, Serie A 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",20.61285957460989
-"T. Baldanzi (20, Empoli, Serie A 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",5.354990835495121
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",18.65119375588024
-"T. Baldanzi (20, Empoli, Serie A 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",50.22167706291953
-"T. Baldanzi (20, Empoli, Serie A 22-23)","N. Belloni (28, Siena, Serie C 22-23)",-25.388760169185066
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Frediani (29, Siena, Serie C 22-23)",13.110478021209763
-"T. Baldanzi (20, Empoli, Serie A 22-23)","F. Urso (28, Torres, Serie C 22-23)",4.782172928700324
-"T. Baldanzi (20, Empoli, Serie A 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",-23.97728955313792
-"T. Baldanzi (20, Empoli, Serie A 22-23)","G. Lisai (33, Torres, Serie C 22-23)",-4.439682796068601
-"T. Baldanzi (20, Empoli, Serie A 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",16.29476379683273
-"T. Baldanzi (20, Empoli, Serie A 22-23)","C. Attys (22, Trento, Serie C 22-23)",25.1607868793717
-"T. Baldanzi (20, Empoli, Serie A 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",49.976037686109
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",31.08906163775731
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",56.626767938207934
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",41.93660843255816
-"T. Baldanzi (20, Empoli, Serie A 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",26.454160908988666
-"T. Baldanzi (20, Empoli, Serie A 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",32.086152746757826
-"T. Baldanzi (20, Empoli, Serie A 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",18.56649471474293
-"T. Baldanzi (20, Empoli, Serie A 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",26.43538440810674
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",54.40015279750698
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",22.163445387534896
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",3.5882811533400165
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",31.77199759169425
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",25.79520903841981
-"T. Baldanzi (20, Empoli, Serie A 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",59.93358002052521
-"T. Baldanzi (20, Empoli, Serie A 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",-1.6775662175167774
-"T. Baldanzi (20, Empoli, Serie A 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",4.673090256659411
-"T. Baldanzi (20, Empoli, Serie A 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",18.98988817128482
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",17.99157290589971
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",42.19626164068707
-"T. Baldanzi (20, Empoli, Serie A 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",12.875094076442457
-"T. Baldanzi (20, Empoli, Serie A 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",18.81433908515645
-"T. Baldanzi (20, Empoli, Serie A 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",16.781770426246904
-"T. Baldanzi (20, Empoli, Serie A 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",30.52466315381674
-"T. Baldanzi (20, Empoli, Serie A 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",59.60635476031296
-"T. Baldanzi (20, Empoli, Serie A 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",3.214927009874708
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",10.855682796937735
-"T. Baldanzi (20, Empoli, Serie A 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",27.60611876583556
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",38.32379195912902
-"T. Baldanzi (20, Empoli, Serie A 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",26.62466859642455
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",21.132680239110748
-"T. Baldanzi (20, Empoli, Serie A 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",-7.484755322003976
-"T. Baldanzi (20, Empoli, Serie A 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",67.4270079546172
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",40.11598685004484
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",36.27082548277245
-"T. Baldanzi (20, Empoli, Serie A 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",10.306535008360648
-"T. Baldanzi (20, Empoli, Serie A 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",43.14298079479793
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",42.645975023606816
-"T. Baldanzi (20, Empoli, Serie A 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",69.93073173820996
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",13.61773394413213
-"T. Baldanzi (20, Empoli, Serie A 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",67.70303466062923
-"T. Baldanzi (20, Empoli, Serie A 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",52.634605847968295
-"T. Baldanzi (20, Empoli, Serie A 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",68.05223719063252
-"T. Baldanzi (20, Empoli, Serie A 22-23)","I. Jebali (31, OB, Superliga 22-23)",20.391180335201508
-"T. Baldanzi (20, Empoli, Serie A 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",31.7693062376253
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",27.89536119452936
-"T. Baldanzi (20, Empoli, Serie A 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",43.71617852742825
-"T. Baldanzi (20, Empoli, Serie A 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",64.41867928278559
-"T. Baldanzi (20, Empoli, Serie A 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",39.19478958434809
-"T. Baldanzi (20, Empoli, Serie A 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",10.970274688954817
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",18.27408768865195
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",50.48414874160431
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",36.9968921346309
-"T. Baldanzi (20, Empoli, Serie A 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",44.192647130254976
-"T. Baldanzi (20, Empoli, Serie A 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",16.712854117875093
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",14.479791500324016
-"T. Baldanzi (20, Empoli, Serie A 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",4.075459289382638
-"T. Baldanzi (20, Empoli, Serie A 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",39.50014362177357
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",16.29025480026315
-"T. Baldanzi (20, Empoli, Serie A 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",25.058104467484597
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",4.320153935670025
-"T. Baldanzi (20, Empoli, Serie A 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",32.51580051851447
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",43.13867590304514
-"T. Baldanzi (20, Empoli, Serie A 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",14.520309637165866
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",37.22923704078229
-"T. Baldanzi (20, Empoli, Serie A 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",18.765943349401024
-"T. Baldanzi (20, Empoli, Serie A 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",30.434177691787436
-"T. Baldanzi (20, Empoli, Serie A 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",65.7289093564381
-"T. Baldanzi (20, Empoli, Serie A 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",34.147148478274964
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",56.86112044567867
-"T. Baldanzi (20, Empoli, Serie A 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",31.05065885943529
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",40.69377239131218
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",39.08858159436065
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",29.130405748309084
-"T. Baldanzi (20, Empoli, Serie A 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",24.2884201518358
-"T. Baldanzi (20, Empoli, Serie A 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",26.30703907640598
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",23.96991781551845
-"T. Baldanzi (20, Empoli, Serie A 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",55.158081180600426
-"T. Baldanzi (20, Empoli, Serie A 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",57.20742986238419
-"T. Baldanzi (20, Empoli, Serie A 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",27.5815610759656
-"T. Baldanzi (20, Empoli, Serie A 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",59.61668579084528
-"T. Baldanzi (20, Empoli, Serie A 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",-6.057886983261321
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",44.62755234364778
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",24.419473000860435
-"T. Baldanzi (20, Empoli, Serie A 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",58.047072151952406
-"T. Baldanzi (20, Empoli, Serie A 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",21.69426866206943
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",44.69561962693188
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",31.41453942795317
-"T. Baldanzi (20, Empoli, Serie A 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",53.19794487788122
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",32.23822937368844
-"T. Baldanzi (20, Empoli, Serie A 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",4.335326288312329
-"T. Baldanzi (20, Empoli, Serie A 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",7.352646671468327
-"T. Baldanzi (20, Empoli, Serie A 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",1.702764966417444
-"T. Baldanzi (20, Empoli, Serie A 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",62.67188449363141
-"T. Baldanzi (20, Empoli, Serie A 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",41.74081918384975
-"T. Baldanzi (20, Empoli, Serie A 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",18.721874982208355
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-26.31899016296372
-"T. Baldanzi (20, Empoli, Serie A 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",14.374045685508646
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",36.56076453380148
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",-32.44290822883381
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",33.95941691713836
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",32.14448127683788
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",19.750738733619425
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",-8.100753312964535
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",-12.0976553750288
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",47.24141203406389
-"T. Baldanzi (20, Empoli, Serie A 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",-4.359266545065819
-"T. Baldanzi (20, Empoli, Serie A 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",28.33335838226263
-"T. Baldanzi (20, Empoli, Serie A 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",68.3690673293544
-"T. Baldanzi (20, Empoli, Serie A 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",60.10738460002838
-"T. Baldanzi (20, Empoli, Serie A 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",29.636963037865115
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",0.4669237354152379
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",31.682504165133363
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",15.606151423872465
-"T. Baldanzi (20, Empoli, Serie A 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",9.930704244763849
-"T. Baldanzi (20, Empoli, Serie A 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",24.54680567291472
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",19.37990802114257
-"T. Baldanzi (20, Empoli, Serie A 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",18.57379991518326
-"T. Baldanzi (20, Empoli, Serie A 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",60.74896403717906
-"T. Baldanzi (20, Empoli, Serie A 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",51.67982778785848
-"T. Baldanzi (20, Empoli, Serie A 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",44.86111428481694
-"T. Baldanzi (20, Empoli, Serie A 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",40.38403747598215
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",28.06135385108801
-"T. Baldanzi (20, Empoli, Serie A 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",33.87584018681188
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",15.813741380479591
-"T. Baldanzi (20, Empoli, Serie A 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",-4.197974178634314
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",42.63419296877218
-"T. Baldanzi (20, Empoli, Serie A 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",44.780887401044346
-"T. Baldanzi (20, Empoli, Serie A 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",39.472657307155046
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",46.47139460262922
-"T. Baldanzi (20, Empoli, Serie A 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",33.34433532105044
-"T. Baldanzi (20, Empoli, Serie A 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",68.70949106786068
-"T. Baldanzi (20, Empoli, Serie A 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",-17.583058990228263
-"T. Baldanzi (20, Empoli, Serie A 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",70.86336550405841
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-3.788245363350572
-"T. Baldanzi (20, Empoli, Serie A 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",7.826530808411694
-"T. Baldanzi (20, Empoli, Serie A 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",58.54980531080597
-"T. Baldanzi (20, Empoli, Serie A 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",25.11218180118026
-"T. Baldanzi (20, Empoli, Serie A 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",20.07666359754221
-"T. Baldanzi (20, Empoli, Serie A 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",37.03263383551914
-"T. Baldanzi (20, Empoli, Serie A 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",7.118037856963213
-"T. Baldanzi (20, Empoli, Serie A 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",16.30933622824479
-"T. Baldanzi (20, Empoli, Serie A 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",37.72235623567688
-"T. Baldanzi (20, Empoli, Serie A 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",0.8358759215157003
-"T. Baldanzi (20, Empoli, Serie A 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",7.439178901288589
+Player 1,Similarity
+"A. Diallo (20, Sunderland, Championship 22-23)",83.0792028005291
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)",80.57196395854285
+"J. Cortizo (26, Monterrey, Liga MX 22-23)",79.7816525156129
+"O. Cooper (23, Swansea City, Championship 22-23)",78.5811604938163
+"D. Crowley (25, Willem II, Eerste Divisie 22-23)",78.3863246255772
+"L. Cundle (21, Swansea City, Championship 22-23)",77.7878914796477
+"O. Fernández (30, Puebla, Liga MX 22-23)",77.10678334424823
+"Borja Calvo (21, La Nucía, Primera División RFEF 22-23)",76.79164596672892
+"N. Vlašić (25, Torino, Serie A 22-23)",75.99084734016375
+"Arnau Ortiz (21, Real Murcia, Primera División RFEF 22-23)",75.84176010255874
+"A. Ramsey (20, Middlesbrough, Championship 22-23)",74.8508003819559
+"D. Crowley (25, Morecambe, League One 22-23)",74.5659307273149
+"R. Faivre (24, Lorient, Ligue 1 22-23)",74.37948865881586
+"J. Ponceau (22, Lorient, Ligue 1 22-23)",74.08327907433038
+"M. Møller Dæhli (28, Nürnberg, 2. Bundesliga 22-23)",73.60941018958871
+"Mike Ott (28, Barito Putera, BRI Liga 1 22-23)",73.3185120919576
+"C. Mochrie (20, Dunfermline Athletic, Scottish League One 22-23)",71.85569108980592
+"H. Al Abdan (23, Al Khaleej, Saudi Professional League 22-23)",71.80448852882364
+"S. Dimić (30, Radnički Niš, Serbian SuperLiga 22-23)",71.43021084922948
+"Abdulhadi Al-Harajin (28, Al Hazem, Saudi First Division 22-23)",71.13859930879377
+"Afonso Sousa (23, Lech Poznań, Ekstraklasa 22-23)",71.0301679390821
+"T. Baldanzi (20, Empoli, Serie A 22-23)",70.86336550405841

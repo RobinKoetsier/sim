@@ -1,168 +1,23 @@
-Player 1,Player 2,Similarity
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",48.15339223310514
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",41.88943373220872
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",40.99021075128687
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",54.40818686120137
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",51.539764101541344
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",50.28495811148496
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",43.39149006578004
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",58.22590043287021
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",26.0691386748595
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",58.45022259380347
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",37.712446008032686
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",33.98563117853404
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",56.62553458369509
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",49.988983735162826
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",58.02001368653848
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",53.43657835473689
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","N. Belloni (28, Siena, Serie C 22-23)",65.46001027058631
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Frediani (29, Siena, Serie C 22-23)",48.60770115653402
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","F. Urso (28, Torres, Serie C 22-23)",24.53915213777368
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",46.48077995150215
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","G. Lisai (33, Torres, Serie C 22-23)",43.16907654181144
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",29.492169872221268
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","C. Attys (22, Trento, Serie C 22-23)",57.09057952819051
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",65.00090566743937
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",40.35837509055244
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",38.2334474255104
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",25.62273312716423
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",37.928233506991056
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",20.36429189001181
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",22.963539841400397
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",43.6423970000657
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",19.91112585587608
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",35.78905523882146
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",24.460149608855133
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",48.563361697353166
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",42.40619029529199
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",51.96809870623233
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",30.04254273289057
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",38.77833439500123
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",41.3328558936444
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",27.76209170186124
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",46.03247042852634
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",0.4088423647262774
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",-0.7319823791294335
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",-10.614566675116563
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",28.312783282936326
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",23.071948373420508
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",24.38157607895131
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",26.72812536665543
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",17.118244351819794
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",3.481066641911576
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",43.39157413782373
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",30.065947422129863
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",2.4568875338688447
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",24.93708184219716
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",49.56606816279816
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",47.88085315447447
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",22.30842823588101
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",43.53630679250314
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-23.509859434519495
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-9.95735965046898
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",13.113412609483998
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",37.38304124405549
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",40.427725822617575
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",0.3582387556475481
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","I. Jebali (31, OB, Superliga 22-23)",47.92584440928989
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",39.48864461311249
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",36.44569529290608
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",53.675466327347806
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",37.55575474867376
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",44.848875414525
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",23.80667395283564
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",54.69111159392573
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",57.06517699697298
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",61.57591245384862
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",44.12547983124284
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",30.69489018106117
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",43.14986066205484
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",36.48665058890083
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",30.651264192809837
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",32.05926541479817
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",39.45371536686234
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",21.17467916802094
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",54.0878059276836
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",36.63813152938344
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",37.60238108312107
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",25.97935193128168
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",21.1957866116824
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",33.273571405226065
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",58.51779215825664
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",39.57001462394274
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",42.144253085962525
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",17.09227045413405
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",48.98675138136438
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",51.38771505123477
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",39.703840552561125
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",42.95432414089966
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",37.18911176570387
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",33.21952311016826
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",10.962862092808535
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",20.920185373167428
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",40.83123632526865
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",53.42291883247599
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",32.240659891642
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",3.83706298582812
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",8.539489705720078
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",44.96129962332487
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",27.11973320847826
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",47.33648412825573
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",31.625038234554125
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",23.10873482120552
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",32.97323870094678
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",26.22329548258365
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",30.90215371109821
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",31.70842555027928
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",27.870915017348107
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",33.07377172684628
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",11.75890615098178
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",23.624400382812304
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",6.764647395970454
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",53.999670557668445
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",33.903621609936245
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",39.56228261954829
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",48.081514177736565
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",35.73703670715277
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",24.03569283838851
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",55.67515817360687
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",42.52380694410181
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",20.98084992526576
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-4.223479079179555
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",-1.5260252775396033
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",10.441904085094317
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",13.188975717582744
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-16.763856569733285
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",17.989565273971415
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",10.403845985018451
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",22.3673599000374
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",2.789941546862482
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",0.6281034397867776
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",15.599426585926182
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",41.8341726809206
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",31.16750280829921
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",48.68818770810599
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",44.519831599495454
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",-8.77095351941682
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-13.240161806484252
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",4.740446960543779
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",34.86063710331791
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",1.0179415151325142
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",24.640897808853392
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",38.276062975364006
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",36.16330202878154
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",54.731414556243664
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",37.11093277254338
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",22.083695312696012
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",29.91828962963912
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",18.36478434831849
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",43.57972800970633
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",46.45384109679826
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",62.86805083272443
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-3.540228359335476
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",42.69239202566405
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",19.25438637938787
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",30.156173258232812
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",63.92324338599424
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",36.96407835465244
-"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",22.675314662790736
+Player 1,Similarity
+"M. Browne (25, Oxford United, League One 22-23)",72.08200174533985
+"C. Boniface (21, Van, Armenian Premier League 22-23)",68.6808315390918
+"N. Anđušić (26, Velež, Bosnian Premier League 22-23)",68.66903405679736
+"D. Duarte (35, UD Oliveirense, Portugal Segunda Liga 22-23)",67.88576909898823
+"P. Mbong (21, Birkirkara, Malta Premier League 22-23)",66.88516043426024
+"T. Slončík (18, Trinity Zlín, Czech Fortuna Liga 22-23)",65.6566201493843
+"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",65.46001027058631
+"S. McCartan (28, Glentoran, Northern Ireland Premiership 22-23)",65.27215587019025
+"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",65.00090566743937
+"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",63.92324338599424
+"K. Poku (21, Peterborough United, League One 22-23)",63.83951688439058
+"J. McEneff (22, Derry City, League of Ireland PL 2023)",63.668852235194095
+"I. Popov (35, Levski Sofia, Bulgarian First League 22-23)",63.03438726553093
+"E. Vizcarra (36, Madura United, BRI Liga 1 22-23)",62.95638316647827
+"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",62.86805083272443
+"J. Gallegos (21, SønderjyskE, Danish 1. Division 22-23)",62.83639842771846
+"O. Lingr (24, Slavia Praha, Czech Fortuna Liga 22-23)",62.27738883995531
+"J. Payne (28, Charlton Athletic, League One 22-23)",61.91553663397903
+"F. Jusufi (27, Renova, North Macedonia First League 22-23)",61.65599322303945
+"N. Radonjić (27, Torino, Serie A 22-23)",61.58878907228817
+"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",61.57591245384862
+"A. Vlkanova (28, Viktoria Plzeň, Czech Fortuna Liga 22-23)",61.54580665735878

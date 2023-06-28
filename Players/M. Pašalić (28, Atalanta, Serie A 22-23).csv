@@ -1,196 +1,23 @@
-Player 1,Player 2,Similarity
-"M. Pašalić (28, Atalanta, Serie A 22-23)","N. Radonjić (27, Torino, Serie A 22-23)",4.732600420294324
-"M. Pašalić (28, Atalanta, Serie A 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",27.287861817649272
-"M. Pašalić (28, Atalanta, Serie A 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",-8.812013596602522
-"M. Pašalić (28, Atalanta, Serie A 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",-3.824945867553552
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. Colpani (24, Monza, Serie A 22-23)",22.98196130086101
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",22.21151393009889
-"M. Pašalić (28, Atalanta, Serie A 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",26.269572836470207
-"M. Pašalić (28, Atalanta, Serie A 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",-14.709919381722733
-"M. Pašalić (28, Atalanta, Serie A 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",39.06773936394552
-"M. Pašalić (28, Atalanta, Serie A 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",-20.152850333825803
-"M. Pašalić (28, Atalanta, Serie A 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",20.152537292933687
-"M. Pašalić (28, Atalanta, Serie A 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",-6.600632412630763
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",-1.6954873793714569
-"M. Pašalić (28, Atalanta, Serie A 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",10.728613079536984
-"M. Pašalić (28, Atalanta, Serie A 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",10.331752206706303
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",-9.714760628800386
-"M. Pašalić (28, Atalanta, Serie A 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",-14.957647827607731
-"M. Pašalić (28, Atalanta, Serie A 22-23)","R. Botta (33, Bari, Serie B 22-23)",-17.631659328576756
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",23.87362912540013
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",-21.55350986131676
-"M. Pašalić (28, Atalanta, Serie A 22-23)","V. Parigini (27, Como, Serie B 22-23)",-15.11057914930127
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Álex Blanco (24, Como, Serie B 22-23)",24.448537551107304
-"M. Pašalić (28, Atalanta, Serie A 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",-21.80866867631538
-"M. Pašalić (28, Atalanta, Serie A 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",5.183687694584295
-"M. Pašalić (28, Atalanta, Serie A 22-23)","D. Camara (21, Parma, Serie B 22-23)",-1.2060802457208002
-"M. Pašalić (28, Atalanta, Serie A 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",-4.686199565822026
-"M. Pašalić (28, Atalanta, Serie A 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",30.961067294640365
-"M. Pašalić (28, Atalanta, Serie A 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",24.710582131879157
-"M. Pašalić (28, Atalanta, Serie A 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",-5.238964933578725
-"M. Pašalić (28, Atalanta, Serie A 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",23.571841619191005
-"M. Pašalić (28, Atalanta, Serie A 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",57.778529455045934
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",-11.334709437162507
-"M. Pašalić (28, Atalanta, Serie A 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",17.312490985250022
-"M. Pašalić (28, Atalanta, Serie A 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",18.664481838934023
-"M. Pašalić (28, Atalanta, Serie A 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",-10.953586848569971
-"M. Pašalić (28, Atalanta, Serie A 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",1.4716118357441847
-"M. Pašalić (28, Atalanta, Serie A 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",-9.174828943782384
-"M. Pašalić (28, Atalanta, Serie A 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",40.90328496350218
-"M. Pašalić (28, Atalanta, Serie A 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",-3.795507303168535
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",8.895641968762389
-"M. Pašalić (28, Atalanta, Serie A 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",-1.3307480113823429
-"M. Pašalić (28, Atalanta, Serie A 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",19.25320239033281
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",-6.310933191873561
-"M. Pašalić (28, Atalanta, Serie A 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",-0.6091650222937124
-"M. Pašalić (28, Atalanta, Serie A 22-23)","N. Belloni (28, Siena, Serie C 22-23)",2.278772674586131
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Frediani (29, Siena, Serie C 22-23)",4.71703890775625
-"M. Pašalić (28, Atalanta, Serie A 22-23)","F. Urso (28, Torres, Serie C 22-23)",-24.383355438854075
-"M. Pašalić (28, Atalanta, Serie A 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",-15.986423989748854
-"M. Pašalić (28, Atalanta, Serie A 22-23)","G. Lisai (33, Torres, Serie C 22-23)",-28.16851949754596
-"M. Pašalić (28, Atalanta, Serie A 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",-13.864894871081788
-"M. Pašalić (28, Atalanta, Serie A 22-23)","C. Attys (22, Trento, Serie C 22-23)",-7.34110671289308
-"M. Pašalić (28, Atalanta, Serie A 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",29.240730990931837
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",52.070241292480105
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",16.961446149559166
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",-11.978135995771
-"M. Pašalić (28, Atalanta, Serie A 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",-8.074257553876638
-"M. Pašalić (28, Atalanta, Serie A 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",11.360956010103536
-"M. Pašalić (28, Atalanta, Serie A 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",-8.995364280093483
-"M. Pašalić (28, Atalanta, Serie A 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",-17.258908208596075
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",29.81603361275577
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",4.4279683840972455
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",-13.324753973655609
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",10.042169934970836
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",-9.319796032225568
-"M. Pašalić (28, Atalanta, Serie A 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",-4.286244414965855
-"M. Pašalić (28, Atalanta, Serie A 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",-2.488305627060943
-"M. Pašalić (28, Atalanta, Serie A 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",-8.731008842476617
-"M. Pašalić (28, Atalanta, Serie A 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",-8.392397584382161
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",7.132257375593818
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",-12.203238858958372
-"M. Pašalić (28, Atalanta, Serie A 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",8.505933929692075
-"M. Pašalić (28, Atalanta, Serie A 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",36.073845598752754
-"M. Pašalić (28, Atalanta, Serie A 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",-5.333717492788457
-"M. Pašalić (28, Atalanta, Serie A 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",3.442090073025572
-"M. Pašalić (28, Atalanta, Serie A 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",29.139347266103595
-"M. Pašalić (28, Atalanta, Serie A 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",-7.356591219657929
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",-7.172965703289358
-"M. Pašalić (28, Atalanta, Serie A 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",-2.798254657639008
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",-1.1241286938488768
-"M. Pašalić (28, Atalanta, Serie A 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",10.114789844129854
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",47.91290089027004
-"M. Pašalić (28, Atalanta, Serie A 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",-5.2916852583606735
-"M. Pašalić (28, Atalanta, Serie A 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",15.67013521873938
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",0.2448080888181537
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",33.0890386377854
-"M. Pašalić (28, Atalanta, Serie A 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",35.705713433775
-"M. Pašalić (28, Atalanta, Serie A 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",8.217064619177421
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",21.509428374211552
-"M. Pašalić (28, Atalanta, Serie A 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",18.91239862632504
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",-11.496500763692945
-"M. Pašalić (28, Atalanta, Serie A 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",34.89030775747264
-"M. Pašalić (28, Atalanta, Serie A 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",-2.8757141602165417
-"M. Pašalić (28, Atalanta, Serie A 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",50.29583675047513
-"M. Pašalić (28, Atalanta, Serie A 22-23)","I. Jebali (31, OB, Superliga 22-23)",17.2624893293395
-"M. Pašalić (28, Atalanta, Serie A 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",41.46077887358226
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",13.24483606518674
-"M. Pašalić (28, Atalanta, Serie A 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",28.80167128484637
-"M. Pašalić (28, Atalanta, Serie A 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",5.91058028621614
-"M. Pašalić (28, Atalanta, Serie A 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",1.7953782080269236
-"M. Pašalić (28, Atalanta, Serie A 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",-18.40882295363456
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",-3.80836997785028
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",14.623105696977046
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",21.25083539307289
-"M. Pašalić (28, Atalanta, Serie A 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",22.81702041551704
-"M. Pašalić (28, Atalanta, Serie A 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",-0.1068547951407039
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",5.422896840157984
-"M. Pašalić (28, Atalanta, Serie A 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",6.6473999610399845
-"M. Pašalić (28, Atalanta, Serie A 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",59.89747644483354
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",-16.182286067790326
-"M. Pašalić (28, Atalanta, Serie A 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",-3.2452553939089523
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",-18.263293883393203
-"M. Pašalić (28, Atalanta, Serie A 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",11.185554930071346
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",2.970663019245172
-"M. Pašalić (28, Atalanta, Serie A 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",-3.8681085205539234
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",17.81565810004096
-"M. Pašalić (28, Atalanta, Serie A 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",13.666009513061198
-"M. Pašalić (28, Atalanta, Serie A 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",10.254731823545615
-"M. Pašalić (28, Atalanta, Serie A 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",15.058013741532234
-"M. Pašalić (28, Atalanta, Serie A 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",0.8027559584669638
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",2.5335277677931827
-"M. Pašalić (28, Atalanta, Serie A 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",19.61042361515132
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",59.38712245240093
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",9.06493216708496
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",2.50400601869562
-"M. Pašalić (28, Atalanta, Serie A 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",6.808736784087628
-"M. Pašalić (28, Atalanta, Serie A 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",13.88065593552891
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",2.610044559580213
-"M. Pašalić (28, Atalanta, Serie A 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",30.22653071551614
-"M. Pašalić (28, Atalanta, Serie A 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",15.724668260581788
-"M. Pašalić (28, Atalanta, Serie A 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",15.41300225987881
-"M. Pašalić (28, Atalanta, Serie A 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",9.339147154028543
-"M. Pašalić (28, Atalanta, Serie A 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",-21.589385413924365
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",29.42854938760393
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",56.72067209457666
-"M. Pašalić (28, Atalanta, Serie A 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",34.84722189460306
-"M. Pašalić (28, Atalanta, Serie A 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",-13.141266234030244
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",6.835542320546488
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",13.41165948724606
-"M. Pašalić (28, Atalanta, Serie A 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",26.277630713626
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",10.84075922680351
-"M. Pašalić (28, Atalanta, Serie A 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",-19.476588413963032
-"M. Pašalić (28, Atalanta, Serie A 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",-9.555690964729708
-"M. Pašalić (28, Atalanta, Serie A 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",-0.2198171290569463
-"M. Pašalić (28, Atalanta, Serie A 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",16.718953203335545
-"M. Pašalić (28, Atalanta, Serie A 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",69.82105660846226
-"M. Pašalić (28, Atalanta, Serie A 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",4.754751006804531
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-27.197824875558798
-"M. Pašalić (28, Atalanta, Serie A 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",24.94810845246528
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",43.679102487629656
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",-25.43850187999364
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",1.6141288935532798
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",-8.75384885808917
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",15.6501674763853
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",-3.8777264409943153
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",8.995687058562917
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",13.186689977423391
-"M. Pašalić (28, Atalanta, Serie A 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",-2.7701813050111963
-"M. Pašalić (28, Atalanta, Serie A 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",30.32344008238877
-"M. Pašalić (28, Atalanta, Serie A 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",46.40782015773399
-"M. Pašalić (28, Atalanta, Serie A 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",21.03009051317775
-"M. Pašalić (28, Atalanta, Serie A 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",-3.415555066396813
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",4.173142786635211
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",18.37929131981431
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",-13.767016474235708
-"M. Pašalić (28, Atalanta, Serie A 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",45.36709545958083
-"M. Pašalić (28, Atalanta, Serie A 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",29.05762274226476
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",1.2073849543169717
-"M. Pašalić (28, Atalanta, Serie A 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",-12.244257318107552
-"M. Pašalić (28, Atalanta, Serie A 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",51.22634668394451
-"M. Pašalić (28, Atalanta, Serie A 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",11.827901358452046
-"M. Pašalić (28, Atalanta, Serie A 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",8.599727883757577
-"M. Pašalić (28, Atalanta, Serie A 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",28.449237467946304
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",4.733927590893687
-"M. Pašalić (28, Atalanta, Serie A 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",26.99228802497185
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",-5.408332286919433
-"M. Pašalić (28, Atalanta, Serie A 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",-26.794495653620366
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",18.704178124402272
-"M. Pašalić (28, Atalanta, Serie A 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",39.253064854717536
-"M. Pašalić (28, Atalanta, Serie A 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",6.280397437930279
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",30.250340866744157
-"M. Pašalić (28, Atalanta, Serie A 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-5.919338010877389
-"M. Pašalić (28, Atalanta, Serie A 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",46.951087681762864
-"M. Pašalić (28, Atalanta, Serie A 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",4.427235872028412
-"M. Pašalić (28, Atalanta, Serie A 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",33.536269581201324
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",18.026631478049424
-"M. Pašalić (28, Atalanta, Serie A 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",13.309347115556792
-"M. Pašalić (28, Atalanta, Serie A 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",8.529967364037239
-"M. Pašalić (28, Atalanta, Serie A 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",17.932678797185847
-"M. Pašalić (28, Atalanta, Serie A 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-5.2029247664041725
-"M. Pašalić (28, Atalanta, Serie A 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",-11.934716237518913
-"M. Pašalić (28, Atalanta, Serie A 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",-3.653167316574924
-"M. Pašalić (28, Atalanta, Serie A 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",-14.793192543517636
-"M. Pašalić (28, Atalanta, Serie A 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",23.10616449959797
-"M. Pašalić (28, Atalanta, Serie A 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",-20.833297076345747
-"M. Pašalić (28, Atalanta, Serie A 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",-7.08260723651397
+Player 1,Similarity
+"L. Reischl (19, Liefering, Austrian 2. Liga 22-23)",71.97243071217025
+"M. Pašalić (28, Atalanta, Serie A 22-23)",69.82105660846226
+"B. Waters (28, Barrow, League Two 22-23)",69.2444396637604
+"J. Allen (28, Coventry City, Championship 22-23)",68.1349653631401
+"Youssef Obama (28, Al Hazem, Saudi First Division 22-23)",66.38545631715348
+"A. Ali (23, Moss, OBOS Ligaen 2023)",65.80517441223576
+"J. Carcela-González (23, Deinze, Belgian First Division B 22-23)",63.29898948362248
+"Alain Ribeiro (25, SD Logroñés, Primera División RFEF 22-23)",62.063620551459245
+"M. Kaandorp (24, De Graafschap, Eerste Divisie 22-23)",61.92955977229211
+"F. Bartels (36, Holstein Kiel, 2. Bundesliga 22-23)",60.46312189100436
+"M. Pašalić (28, Atalanta, Serie A 22-23)",59.89747644483354
+"L. Ferguson (23, Bologna, Serie A 22-23)",59.56022085161354
+"M. Pašalić (28, Atalanta, Serie A 22-23)",59.38712245240093
+"A. da Cruz (26, Mechelen, Belgian Pro League 22-23)",59.21105981539372
+"T. Nagamatsu (28, Gudja United, Malta Premier League 22-23)",58.80600507832202
+"R. Boateng (30, Maccabi Bnei Raina, Ligat Ha'al 22-23)",58.002893971571936
+"M. Pašalić (28, Atalanta, Serie A 22-23)",57.778529455045934
+"Romarinho (32, Al Ittihad, Saudi Professional League 22-23)",57.42121006594532
+"J. Lingard (30, Nottingham Forest, Premier League 22-23)",56.945152253759545
+"M. Pašalić (28, Atalanta, Serie A 22-23)",56.72067209457666
+"D. Heymans (23, Charleroi, Belgian Pro League 22-23)",56.71246878441879
+"S. de Jong (34, De Graafschap, Eerste Divisie 22-23)",55.90881424884867

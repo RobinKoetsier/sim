@@ -1,203 +1,23 @@
-Player 1,Player 2,Similarity
-"G. Caprari (29, Monza, Serie A 22-23)","L. Ferguson (23, Bologna, Serie A 22-23)",19.013041237158475
-"G. Caprari (29, Monza, Serie A 22-23)","Al. Miranchuk (27, Torino, Serie A 22-23)",68.78506254351336
-"G. Caprari (29, Monza, Serie A 22-23)","Brahim Diaz (23, Milan, Serie A 22-23)",75.85155297486793
-"G. Caprari (29, Monza, Serie A 22-23)","A. Barák (28, Fiorentina, Serie A 22-23)",63.59827411736958
-"G. Caprari (29, Monza, Serie A 22-23)","N. Bajrami (24, Sassuolo, Serie A 22-23)",53.917240822515936
-"G. Caprari (29, Monza, Serie A 22-23)","T. Baldanzi (20, Empoli, Serie A 22-23)",63.32194009091239
-"G. Caprari (29, Monza, Serie A 22-23)","M. Pašalić (28, Atalanta, Serie A 22-23)",33.93545384346483
-"G. Caprari (29, Monza, Serie A 22-23)","N. Radonjić (27, Torino, Serie A 22-23)",58.65690894121756
-"G. Caprari (29, Monza, Serie A 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",54.70072283081385
-"G. Caprari (29, Monza, Serie A 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",55.5310106949349
-"G. Caprari (29, Monza, Serie A 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",57.8278732949696
-"G. Caprari (29, Monza, Serie A 22-23)","A. Colpani (24, Monza, Serie A 22-23)",81.54089239966402
-"G. Caprari (29, Monza, Serie A 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",62.375616331854125
-"G. Caprari (29, Monza, Serie A 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",-12.18042794815581
-"G. Caprari (29, Monza, Serie A 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",59.11571956346285
-"G. Caprari (29, Monza, Serie A 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",32.678050207737755
-"G. Caprari (29, Monza, Serie A 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",40.63072333187839
-"G. Caprari (29, Monza, Serie A 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",71.93544127051238
-"G. Caprari (29, Monza, Serie A 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",55.83642907889299
-"G. Caprari (29, Monza, Serie A 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",59.16195945636999
-"G. Caprari (29, Monza, Serie A 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",-3.3557026225906146
-"G. Caprari (29, Monza, Serie A 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",75.82267262939904
-"G. Caprari (29, Monza, Serie A 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",45.40503101833293
-"G. Caprari (29, Monza, Serie A 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",42.83378879255577
-"G. Caprari (29, Monza, Serie A 22-23)","R. Botta (33, Bari, Serie B 22-23)",57.861130912081926
-"G. Caprari (29, Monza, Serie A 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",59.2865723812262
-"G. Caprari (29, Monza, Serie A 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",12.953455147448844
-"G. Caprari (29, Monza, Serie A 22-23)","V. Parigini (27, Como, Serie B 22-23)",39.334721589358
-"G. Caprari (29, Monza, Serie A 22-23)","Álex Blanco (24, Como, Serie B 22-23)",77.41072772942917
-"G. Caprari (29, Monza, Serie A 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",33.172633593336634
-"G. Caprari (29, Monza, Serie A 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",63.10525420063341
-"G. Caprari (29, Monza, Serie A 22-23)","D. Camara (21, Parma, Serie B 22-23)",48.04576973355743
-"G. Caprari (29, Monza, Serie A 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",42.38842679909191
-"G. Caprari (29, Monza, Serie A 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",29.03481708428643
-"G. Caprari (29, Monza, Serie A 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",40.36402640123288
-"G. Caprari (29, Monza, Serie A 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",21.61503855805515
-"G. Caprari (29, Monza, Serie A 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",49.981125396975386
-"G. Caprari (29, Monza, Serie A 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",48.50487951180787
-"G. Caprari (29, Monza, Serie A 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",63.31432817669296
-"G. Caprari (29, Monza, Serie A 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",44.93636892223769
-"G. Caprari (29, Monza, Serie A 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",69.9920983652815
-"G. Caprari (29, Monza, Serie A 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",17.460224750431312
-"G. Caprari (29, Monza, Serie A 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",60.40722511379134
-"G. Caprari (29, Monza, Serie A 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",30.42911341303724
-"G. Caprari (29, Monza, Serie A 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",44.63063114517191
-"G. Caprari (29, Monza, Serie A 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",32.25018823790732
-"G. Caprari (29, Monza, Serie A 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-5.131259348039328
-"G. Caprari (29, Monza, Serie A 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",50.14532641775163
-"G. Caprari (29, Monza, Serie A 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",15.525270174062264
-"G. Caprari (29, Monza, Serie A 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",39.93119881804346
-"G. Caprari (29, Monza, Serie A 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",63.418831017602805
-"G. Caprari (29, Monza, Serie A 22-23)","N. Belloni (28, Siena, Serie C 22-23)",17.51211339869468
-"G. Caprari (29, Monza, Serie A 22-23)","M. Frediani (29, Siena, Serie C 22-23)",39.708198829106514
-"G. Caprari (29, Monza, Serie A 22-23)","F. Urso (28, Torres, Serie C 22-23)",32.16382879018093
-"G. Caprari (29, Monza, Serie A 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",19.0214871951928
-"G. Caprari (29, Monza, Serie A 22-23)","G. Lisai (33, Torres, Serie C 22-23)",35.20410027525767
-"G. Caprari (29, Monza, Serie A 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",45.20080027001156
-"G. Caprari (29, Monza, Serie A 22-23)","C. Attys (22, Trento, Serie C 22-23)",32.822181326405065
-"G. Caprari (29, Monza, Serie A 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",73.94663180110528
-"G. Caprari (29, Monza, Serie A 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",43.578974413315485
-"G. Caprari (29, Monza, Serie A 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",68.60955560775108
-"G. Caprari (29, Monza, Serie A 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",44.75030748006132
-"G. Caprari (29, Monza, Serie A 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",62.98421565570552
-"G. Caprari (29, Monza, Serie A 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",65.11925994900149
-"G. Caprari (29, Monza, Serie A 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",14.02501428060578
-"G. Caprari (29, Monza, Serie A 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",56.88619677036351
-"G. Caprari (29, Monza, Serie A 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",70.51471376731524
-"G. Caprari (29, Monza, Serie A 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",56.60405692639663
-"G. Caprari (29, Monza, Serie A 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",38.34731010550764
-"G. Caprari (29, Monza, Serie A 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",39.31421882702539
-"G. Caprari (29, Monza, Serie A 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",53.34251686070236
-"G. Caprari (29, Monza, Serie A 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",65.63092083177948
-"G. Caprari (29, Monza, Serie A 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",36.89812808661416
-"G. Caprari (29, Monza, Serie A 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",41.43911105630309
-"G. Caprari (29, Monza, Serie A 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",49.52867320000781
-"G. Caprari (29, Monza, Serie A 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",47.72863959223322
-"G. Caprari (29, Monza, Serie A 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",56.33070588010594
-"G. Caprari (29, Monza, Serie A 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",33.45321425327224
-"G. Caprari (29, Monza, Serie A 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",14.345070902511914
-"G. Caprari (29, Monza, Serie A 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",26.705570917147405
-"G. Caprari (29, Monza, Serie A 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",48.59023983779666
-"G. Caprari (29, Monza, Serie A 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",73.1951681871639
-"G. Caprari (29, Monza, Serie A 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",37.19438380050431
-"G. Caprari (29, Monza, Serie A 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",47.59502373233191
-"G. Caprari (29, Monza, Serie A 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",52.497917117407866
-"G. Caprari (29, Monza, Serie A 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",36.78005566693132
-"G. Caprari (29, Monza, Serie A 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",53.01819750401695
-"G. Caprari (29, Monza, Serie A 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",40.573056200674685
-"G. Caprari (29, Monza, Serie A 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",7.532335614743808
-"G. Caprari (29, Monza, Serie A 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",41.96716818683472
-"G. Caprari (29, Monza, Serie A 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",58.1668289828346
-"G. Caprari (29, Monza, Serie A 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",53.3627499841119
-"G. Caprari (29, Monza, Serie A 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",27.262979692927814
-"G. Caprari (29, Monza, Serie A 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",47.63660314061771
-"G. Caprari (29, Monza, Serie A 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",18.93503228787365
-"G. Caprari (29, Monza, Serie A 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",28.887340449061057
-"G. Caprari (29, Monza, Serie A 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",53.236928474625245
-"G. Caprari (29, Monza, Serie A 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",68.44782923383545
-"G. Caprari (29, Monza, Serie A 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",63.96117249275501
-"G. Caprari (29, Monza, Serie A 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",55.98889273356278
-"G. Caprari (29, Monza, Serie A 22-23)","I. Jebali (31, OB, Superliga 22-23)",56.73961186169654
-"G. Caprari (29, Monza, Serie A 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",53.89928031255886
-"G. Caprari (29, Monza, Serie A 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",44.47983279923451
-"G. Caprari (29, Monza, Serie A 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",62.83960973123944
-"G. Caprari (29, Monza, Serie A 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",75.35982724958885
-"G. Caprari (29, Monza, Serie A 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",65.28704185777957
-"G. Caprari (29, Monza, Serie A 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",50.39978769545799
-"G. Caprari (29, Monza, Serie A 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",47.08520729151522
-"G. Caprari (29, Monza, Serie A 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",68.32334447845977
-"G. Caprari (29, Monza, Serie A 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",76.32799435744168
-"G. Caprari (29, Monza, Serie A 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",52.92422958328886
-"G. Caprari (29, Monza, Serie A 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",35.817105519342995
-"G. Caprari (29, Monza, Serie A 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",57.927680287043074
-"G. Caprari (29, Monza, Serie A 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",39.86651201872382
-"G. Caprari (29, Monza, Serie A 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",55.75302031178756
-"G. Caprari (29, Monza, Serie A 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",47.87075807268152
-"G. Caprari (29, Monza, Serie A 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",53.39922849042264
-"G. Caprari (29, Monza, Serie A 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",41.532767676080745
-"G. Caprari (29, Monza, Serie A 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",61.48285420768737
-"G. Caprari (29, Monza, Serie A 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",69.3709990542987
-"G. Caprari (29, Monza, Serie A 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",48.52099232256041
-"G. Caprari (29, Monza, Serie A 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",58.12609732210867
-"G. Caprari (29, Monza, Serie A 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",58.10260702404433
-"G. Caprari (29, Monza, Serie A 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",69.15928810245356
-"G. Caprari (29, Monza, Serie A 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",63.82701061166372
-"G. Caprari (29, Monza, Serie A 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",67.660843191292
-"G. Caprari (29, Monza, Serie A 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",69.27290629683972
-"G. Caprari (29, Monza, Serie A 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",46.392549993183074
-"G. Caprari (29, Monza, Serie A 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",55.99591199327949
-"G. Caprari (29, Monza, Serie A 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",21.714171851968132
-"G. Caprari (29, Monza, Serie A 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",58.64058834021064
-"G. Caprari (29, Monza, Serie A 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",64.16231033149984
-"G. Caprari (29, Monza, Serie A 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",68.85594612922917
-"G. Caprari (29, Monza, Serie A 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",28.18648144050017
-"G. Caprari (29, Monza, Serie A 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",70.93320077167226
-"G. Caprari (29, Monza, Serie A 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",69.94007021090695
-"G. Caprari (29, Monza, Serie A 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",63.96664966385445
-"G. Caprari (29, Monza, Serie A 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",68.63130841889787
-"G. Caprari (29, Monza, Serie A 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",36.12672227566191
-"G. Caprari (29, Monza, Serie A 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",47.14977865079061
-"G. Caprari (29, Monza, Serie A 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",24.177674433377277
-"G. Caprari (29, Monza, Serie A 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",75.43452740605308
-"G. Caprari (29, Monza, Serie A 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",54.70826451962313
-"G. Caprari (29, Monza, Serie A 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",65.17591224446046
-"G. Caprari (29, Monza, Serie A 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",59.92884306591032
-"G. Caprari (29, Monza, Serie A 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",69.5090084643689
-"G. Caprari (29, Monza, Serie A 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",59.14773599711617
-"G. Caprari (29, Monza, Serie A 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",38.92035068428304
-"G. Caprari (29, Monza, Serie A 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",42.84408646334168
-"G. Caprari (29, Monza, Serie A 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",36.80372150456373
-"G. Caprari (29, Monza, Serie A 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",67.48431926140938
-"G. Caprari (29, Monza, Serie A 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",40.40858764510014
-"G. Caprari (29, Monza, Serie A 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",34.77468566599651
-"G. Caprari (29, Monza, Serie A 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",4.821917023888473
-"G. Caprari (29, Monza, Serie A 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",3.721196223239816
-"G. Caprari (29, Monza, Serie A 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",35.546450451478265
-"G. Caprari (29, Monza, Serie A 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",0.0481015387132938
-"G. Caprari (29, Monza, Serie A 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",53.58573011157336
-"G. Caprari (29, Monza, Serie A 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",58.82765284168943
-"G. Caprari (29, Monza, Serie A 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",24.486585548728627
-"G. Caprari (29, Monza, Serie A 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",19.683587322655235
-"G. Caprari (29, Monza, Serie A 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",21.86889913834993
-"G. Caprari (29, Monza, Serie A 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",65.71886574174584
-"G. Caprari (29, Monza, Serie A 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",36.37224049893376
-"G. Caprari (29, Monza, Serie A 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",6.698229259668506
-"G. Caprari (29, Monza, Serie A 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",56.28182435677928
-"G. Caprari (29, Monza, Serie A 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",42.02274323298489
-"G. Caprari (29, Monza, Serie A 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",56.00809524135993
-"G. Caprari (29, Monza, Serie A 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-14.838329269832904
-"G. Caprari (29, Monza, Serie A 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",33.64651651726649
-"G. Caprari (29, Monza, Serie A 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",45.17324859331941
-"G. Caprari (29, Monza, Serie A 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",4.716142071769969
-"G. Caprari (29, Monza, Serie A 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",44.28698926075884
-"G. Caprari (29, Monza, Serie A 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",19.25315501433601
-"G. Caprari (29, Monza, Serie A 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",44.59905250502689
-"G. Caprari (29, Monza, Serie A 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",57.71984627275305
-"G. Caprari (29, Monza, Serie A 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",70.56809599307084
-"G. Caprari (29, Monza, Serie A 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",60.76358185834741
-"G. Caprari (29, Monza, Serie A 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",31.63859736378802
-"G. Caprari (29, Monza, Serie A 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",38.20448663869179
-"G. Caprari (29, Monza, Serie A 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",25.22772158561
-"G. Caprari (29, Monza, Serie A 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",49.142430234432
-"G. Caprari (29, Monza, Serie A 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",17.28935739201984
-"G. Caprari (29, Monza, Serie A 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",43.11937069039132
-"G. Caprari (29, Monza, Serie A 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",67.10089817632952
-"G. Caprari (29, Monza, Serie A 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",67.29131003465893
-"G. Caprari (29, Monza, Serie A 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",66.65632281203074
-"G. Caprari (29, Monza, Serie A 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",60.9718001771198
-"G. Caprari (29, Monza, Serie A 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",76.62931207883932
-"G. Caprari (29, Monza, Serie A 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",11.77116628107198
-"G. Caprari (29, Monza, Serie A 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",66.10733782511124
-"G. Caprari (29, Monza, Serie A 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-4.944789843855093
-"G. Caprari (29, Monza, Serie A 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",44.58703329803265
-"G. Caprari (29, Monza, Serie A 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",57.73319716306443
-"G. Caprari (29, Monza, Serie A 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",58.83268477160252
-"G. Caprari (29, Monza, Serie A 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",25.1841846194739
-"G. Caprari (29, Monza, Serie A 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",60.689715117360585
-"G. Caprari (29, Monza, Serie A 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",39.43780204245972
-"G. Caprari (29, Monza, Serie A 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",54.95879283016074
-"G. Caprari (29, Monza, Serie A 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",58.4235458562067
-"G. Caprari (29, Monza, Serie A 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",38.23016909020062
-"G. Caprari (29, Monza, Serie A 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",43.33278887668577
+Player 1,Similarity
+"A. Măţan (23, Columbus Crew, MLS 2023)",90.37344761663157
+"E. López (28, Pachuca, Liga MX 22-23)",81.60969334911563
+"G. Caprari (29, Monza, Serie A 22-23)",81.54089239966402
+"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)",80.38299106718276
+"G. Konstantelias (20, PAOK, Greek Super League 22-23)",79.46611531697067
+"S. Rodríguez (23, New York City, MLS 2023)",79.20783634867983
+"M. Tolić (26, Maribor, 1. SNL 22-23)",79.08582023503959
+"T. Nguen (29, Ferencváros, NB I 22-23)",78.7449850178501
+"Arnau Ortiz (21, Real Murcia, Primera División RFEF 22-23)",78.18256960446426
+"Rafa Silva (30, Benfica, Primeira Liga 22-23)",77.72974791398231
+"Ľ. Tupta (25, Slovan Liberec, Czech Fortuna Liga 22-23)",77.67205248653934
+"Afonso Sousa (23, Lech Poznań, Ekstraklasa 22-23)",77.58379618668333
+"G. Caprari (29, Monza, Serie A 22-23)",77.41072772942917
+"M. Sardalishvili (30, Shukura, Erovnuli Liga 2023)",76.77841456900711
+"P. Santos (27, Moreirense, Portugal Segunda Liga 22-23)",76.65145869565046
+"G. Caprari (29, Monza, Serie A 22-23)",76.62931207883932
+"O. Fernández (30, Puebla, Liga MX 22-23)",76.55910374327026
+"N. Vlašić (25, Torino, Serie A 22-23)",76.43489652235942
+"G. Caprari (29, Monza, Serie A 22-23)",76.32799435744168
+"G. Caprari (29, Monza, Serie A 22-23)",75.85155297486793
+"G. Caprari (29, Monza, Serie A 22-23)",75.82267262939904
+"J. Gallegos (21, SønderjyskE, Danish 1. Division 22-23)",75.7218160784505

@@ -1,79 +1,23 @@
-Player 1,Player 2,Similarity
-"D. Males (22, Basel, Swiss Super League 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",44.03670916719592
-"D. Males (22, Basel, Swiss Super League 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",85.65151219674854
-"D. Males (22, Basel, Swiss Super League 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",44.6332561529662
-"D. Males (22, Basel, Swiss Super League 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",29.832604849057965
-"D. Males (22, Basel, Swiss Super League 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",29.13329773456981
-"D. Males (22, Basel, Swiss Super League 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",18.427013478531396
-"D. Males (22, Basel, Swiss Super League 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",82.90216169004981
-"D. Males (22, Basel, Swiss Super League 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",75.52064349356934
-"D. Males (22, Basel, Swiss Super League 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",66.70954300350348
-"D. Males (22, Basel, Swiss Super League 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",22.266221935036395
-"D. Males (22, Basel, Swiss Super League 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",42.81837226988078
-"D. Males (22, Basel, Swiss Super League 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",73.03638272917108
-"D. Males (22, Basel, Swiss Super League 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",69.59540862628992
-"D. Males (22, Basel, Swiss Super League 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",75.36281916188523
-"D. Males (22, Basel, Swiss Super League 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",62.71340674584732
-"D. Males (22, Basel, Swiss Super League 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",32.95520120570388
-"D. Males (22, Basel, Swiss Super League 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",17.37812928895553
-"D. Males (22, Basel, Swiss Super League 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",47.76146732678934
-"D. Males (22, Basel, Swiss Super League 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",65.40043900257132
-"D. Males (22, Basel, Swiss Super League 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",62.324474535836615
-"D. Males (22, Basel, Swiss Super League 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",75.00861314188892
-"D. Males (22, Basel, Swiss Super League 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",51.53975776661625
-"D. Males (22, Basel, Swiss Super League 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",70.43585044860437
-"D. Males (22, Basel, Swiss Super League 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",58.52265336271101
-"D. Males (22, Basel, Swiss Super League 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",61.64144391700511
-"D. Males (22, Basel, Swiss Super League 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",60.6735822166658
-"D. Males (22, Basel, Swiss Super League 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",54.9593962686596
-"D. Males (22, Basel, Swiss Super League 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",15.042292322064691
-"D. Males (22, Basel, Swiss Super League 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",66.39845583436588
-"D. Males (22, Basel, Swiss Super League 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",45.05421492296773
-"D. Males (22, Basel, Swiss Super League 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-10.919275547186208
-"D. Males (22, Basel, Swiss Super League 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",17.58608306941211
-"D. Males (22, Basel, Swiss Super League 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",16.08506194036509
-"D. Males (22, Basel, Swiss Super League 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",73.5863230759791
-"D. Males (22, Basel, Swiss Super League 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",73.70563683323265
-"D. Males (22, Basel, Swiss Super League 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",11.226375081479176
-"D. Males (22, Basel, Swiss Super League 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",42.45343242085289
-"D. Males (22, Basel, Swiss Super League 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",35.89595295226589
-"D. Males (22, Basel, Swiss Super League 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",53.63120039712983
-"D. Males (22, Basel, Swiss Super League 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",66.44454460984659
-"D. Males (22, Basel, Swiss Super League 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-16.34655640067608
-"D. Males (22, Basel, Swiss Super League 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",34.45320653269057
-"D. Males (22, Basel, Swiss Super League 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",22.234167671928898
-"D. Males (22, Basel, Swiss Super League 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",29.404279127110684
-"D. Males (22, Basel, Swiss Super League 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-14.013087170859809
-"D. Males (22, Basel, Swiss Super League 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",13.675144766273776
-"D. Males (22, Basel, Swiss Super League 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",51.60635069560126
-"D. Males (22, Basel, Swiss Super League 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-14.760185992365177
-"D. Males (22, Basel, Swiss Super League 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",68.46661426641266
-"D. Males (22, Basel, Swiss Super League 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",36.39437508581161
-"D. Males (22, Basel, Swiss Super League 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",63.09763208026831
-"D. Males (22, Basel, Swiss Super League 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",34.35516284146512
-"D. Males (22, Basel, Swiss Super League 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",61.01290805841483
-"D. Males (22, Basel, Swiss Super League 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",77.89455984820044
-"D. Males (22, Basel, Swiss Super League 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",17.35637366552909
-"D. Males (22, Basel, Swiss Super League 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",42.48188425878829
-"D. Males (22, Basel, Swiss Super League 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-0.1442155403678454
-"D. Males (22, Basel, Swiss Super League 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",51.55371461789071
-"D. Males (22, Basel, Swiss Super League 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",58.42972433252041
-"D. Males (22, Basel, Swiss Super League 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",21.916188039680492
-"D. Males (22, Basel, Swiss Super League 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",54.94505344381013
-"D. Males (22, Basel, Swiss Super League 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",77.22205655763842
-"D. Males (22, Basel, Swiss Super League 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",79.65979780694965
-"D. Males (22, Basel, Swiss Super League 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",67.13488696878687
-"D. Males (22, Basel, Swiss Super League 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",58.25544152973171
-"D. Males (22, Basel, Swiss Super League 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",14.55240478468932
-"D. Males (22, Basel, Swiss Super League 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",56.16861030890534
-"D. Males (22, Basel, Swiss Super League 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-6.811833992822866
-"D. Males (22, Basel, Swiss Super League 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",49.10321902957499
-"D. Males (22, Basel, Swiss Super League 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",54.39881068572561
-"D. Males (22, Basel, Swiss Super League 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",70.82822715507447
-"D. Males (22, Basel, Swiss Super League 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",47.054757066399226
-"D. Males (22, Basel, Swiss Super League 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",69.5866254478799
-"D. Males (22, Basel, Swiss Super League 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",68.64783237159118
-"D. Males (22, Basel, Swiss Super League 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",62.664511657250735
-"D. Males (22, Basel, Swiss Super League 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",45.72857177128831
-"D. Males (22, Basel, Swiss Super League 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",42.67187324849253
-"D. Males (22, Basel, Swiss Super League 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",74.41482811380642
+Player 1,Similarity
+"D. Males (22, Basel, Swiss Super League 22-23)",85.65151219674854
+"S. Szymański (24, Feyenoord, Eredivisie 22-23)",85.38810320120305
+"M. Palienko (28, Akron Togliatti, Russian FNL 2 22-23)",84.7704781480539
+"F. Fragapane (30, Minnesota United, MLS 2023)",84.69998209490169
+"M. Soula (24, Cherno More, Bulgarian First League 22-23)",84.67548308594756
+"S. Córdova (25, Tigres UANL, Liga MX 22-23)",83.04849936022298
+"D. Males (22, Basel, Swiss Super League 22-23)",82.90216169004981
+"Y. Benrahou (24, Hajduk Split, 1. HNL 22-23)",82.87919355165279
+"Kevin Mirallas (35, AEL, Cyprus 1. Division 22-23)",82.84407108917844
+"L. Pellegrini (26, Roma, Serie A 22-23)",82.54979193272585
+"V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",81.88171128623696
+"O. Velanas (24, NAC Breda, Eerste Divisie 22-23)",81.82388753802292
+"Juan Carlos Menudo (31, UD Logroñés, Primera División RFEF 22-23)",81.71363426740741
+"N. Pantović (29, Nyíregyháza Spartacus, NB II 22-23)",81.62694786408358
+"J. Brandt (27, Borussia Dortmund, Bundesliga 22-23)",81.43071789554726
+"D. Danu (20, CSF Bălți, Moldovan Super Liga 22-23)",81.3909888776315
+"P. Mišić (28, Tuzla City, Bosnian Premier League 22-23)",81.03037198203677
+"M. Meyer (27, Luzern, Swiss Super League 22-23)",80.98649176724997
+"O. Checkol (23, Hapoel Nof HaGalil, Liga Leumit 22-23)",80.8432443070389
+"Márió Németh (28, Budafoki MTE, NB II 22-23)",80.69156741264443
+"C. Pasquato (33, Trento, Serie C 22-23)",80.65165830112367
+"Andreas Pereira (27, Fulham, Premier League 22-23)",80.50930293300254

@@ -1,162 +1,23 @@
-Player 1,Player 2,Similarity
-"J. Desogus (20, Pescara, Serie C 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",47.79566974997866
-"J. Desogus (20, Pescara, Serie C 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",52.012215682715045
-"J. Desogus (20, Pescara, Serie C 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",33.65077406989139
-"J. Desogus (20, Pescara, Serie C 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",50.99017339173542
-"J. Desogus (20, Pescara, Serie C 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",32.70531315908945
-"J. Desogus (20, Pescara, Serie C 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",11.335604083864345
-"J. Desogus (20, Pescara, Serie C 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",54.176456605857645
-"J. Desogus (20, Pescara, Serie C 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",38.36357340413276
-"J. Desogus (20, Pescara, Serie C 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",58.1654638166453
-"J. Desogus (20, Pescara, Serie C 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",73.03166374516863
-"J. Desogus (20, Pescara, Serie C 22-23)","N. Belloni (28, Siena, Serie C 22-23)",14.472352566784831
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Frediani (29, Siena, Serie C 22-23)",45.72815003126875
-"J. Desogus (20, Pescara, Serie C 22-23)","F. Urso (28, Torres, Serie C 22-23)",2.338189221078929
-"J. Desogus (20, Pescara, Serie C 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",21.3132602377831
-"J. Desogus (20, Pescara, Serie C 22-23)","G. Lisai (33, Torres, Serie C 22-23)",24.274450156591897
-"J. Desogus (20, Pescara, Serie C 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",25.65655138856456
-"J. Desogus (20, Pescara, Serie C 22-23)","C. Attys (22, Trento, Serie C 22-23)",71.74940834502188
-"J. Desogus (20, Pescara, Serie C 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",73.64853779840932
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",33.65531461007728
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",55.763965586971096
-"J. Desogus (20, Pescara, Serie C 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",18.27496786608482
-"J. Desogus (20, Pescara, Serie C 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",58.17790862730129
-"J. Desogus (20, Pescara, Serie C 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",43.51312614868669
-"J. Desogus (20, Pescara, Serie C 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",51.474242094012
-"J. Desogus (20, Pescara, Serie C 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",46.90683037569238
-"J. Desogus (20, Pescara, Serie C 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",39.53610387314646
-"J. Desogus (20, Pescara, Serie C 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",27.27897318763407
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",13.767080677214786
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",47.43652727820781
-"J. Desogus (20, Pescara, Serie C 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",43.16245686786032
-"J. Desogus (20, Pescara, Serie C 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",63.512753954279496
-"J. Desogus (20, Pescara, Serie C 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",11.62329516357956
-"J. Desogus (20, Pescara, Serie C 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",24.183161183629032
-"J. Desogus (20, Pescara, Serie C 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",37.210077243988245
-"J. Desogus (20, Pescara, Serie C 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",11.41983611887011
-"J. Desogus (20, Pescara, Serie C 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",69.49760533467695
-"J. Desogus (20, Pescara, Serie C 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",9.967028218399916
-"J. Desogus (20, Pescara, Serie C 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",0.4680982692502221
-"J. Desogus (20, Pescara, Serie C 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",2.7028373665546104
-"J. Desogus (20, Pescara, Serie C 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",32.75368440318216
-"J. Desogus (20, Pescara, Serie C 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",43.58571671124899
-"J. Desogus (20, Pescara, Serie C 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",13.977628889192072
-"J. Desogus (20, Pescara, Serie C 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",22.58577678189717
-"J. Desogus (20, Pescara, Serie C 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",10.73677513491826
-"J. Desogus (20, Pescara, Serie C 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",7.662262439115816
-"J. Desogus (20, Pescara, Serie C 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",32.68918449107032
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",28.74100790427405
-"J. Desogus (20, Pescara, Serie C 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",-10.36157285836223
-"J. Desogus (20, Pescara, Serie C 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",42.4452703873445
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",53.22686306803183
-"J. Desogus (20, Pescara, Serie C 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",31.094771669495664
-"J. Desogus (20, Pescara, Serie C 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",13.039551800697105
-"J. Desogus (20, Pescara, Serie C 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",60.74784931102008
-"J. Desogus (20, Pescara, Serie C 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",5.469345559287548
-"J. Desogus (20, Pescara, Serie C 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",27.156139240511017
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",32.77348504469192
-"J. Desogus (20, Pescara, Serie C 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",53.93017050826535
-"J. Desogus (20, Pescara, Serie C 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",57.62037484922288
-"J. Desogus (20, Pescara, Serie C 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",44.82393561392422
-"J. Desogus (20, Pescara, Serie C 22-23)","I. Jebali (31, OB, Superliga 22-23)",38.85979432294755
-"J. Desogus (20, Pescara, Serie C 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",40.52705084771867
-"J. Desogus (20, Pescara, Serie C 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",61.96129130306613
-"J. Desogus (20, Pescara, Serie C 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",62.82167597107687
-"J. Desogus (20, Pescara, Serie C 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",58.48593246504318
-"J. Desogus (20, Pescara, Serie C 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",38.80807689770751
-"J. Desogus (20, Pescara, Serie C 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",19.285669779417702
-"J. Desogus (20, Pescara, Serie C 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",54.96833763579589
-"J. Desogus (20, Pescara, Serie C 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",70.4039608755585
-"J. Desogus (20, Pescara, Serie C 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",61.103189971507945
-"J. Desogus (20, Pescara, Serie C 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",55.70098001745932
-"J. Desogus (20, Pescara, Serie C 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",17.856407553661597
-"J. Desogus (20, Pescara, Serie C 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",34.45223112262796
-"J. Desogus (20, Pescara, Serie C 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",19.114004104079243
-"J. Desogus (20, Pescara, Serie C 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",66.25668414776504
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",22.611034652435777
-"J. Desogus (20, Pescara, Serie C 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",63.99645296930424
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",10.969140756156415
-"J. Desogus (20, Pescara, Serie C 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",63.76925292946397
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",53.97942003585106
-"J. Desogus (20, Pescara, Serie C 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",19.21117439760506
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",28.483665253413136
-"J. Desogus (20, Pescara, Serie C 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",33.5951351091313
-"J. Desogus (20, Pescara, Serie C 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",48.37759633477055
-"J. Desogus (20, Pescara, Serie C 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",84.49256197421782
-"J. Desogus (20, Pescara, Serie C 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",43.80401745810658
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",56.68524368309035
-"J. Desogus (20, Pescara, Serie C 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",26.369642969989727
-"J. Desogus (20, Pescara, Serie C 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",45.925806028305765
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",58.07730341351623
-"J. Desogus (20, Pescara, Serie C 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",36.02978125401998
-"J. Desogus (20, Pescara, Serie C 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",38.46016542903136
-"J. Desogus (20, Pescara, Serie C 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",40.13948550352578
-"J. Desogus (20, Pescara, Serie C 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",40.33164000827352
-"J. Desogus (20, Pescara, Serie C 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",39.005164283661856
-"J. Desogus (20, Pescara, Serie C 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",32.86407822947781
-"J. Desogus (20, Pescara, Serie C 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",31.80344584659756
-"J. Desogus (20, Pescara, Serie C 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",61.76931455766789
-"J. Desogus (20, Pescara, Serie C 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",10.650029216266216
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",19.514855864547343
-"J. Desogus (20, Pescara, Serie C 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",20.536088427986773
-"J. Desogus (20, Pescara, Serie C 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",64.09167772285052
-"J. Desogus (20, Pescara, Serie C 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",25.69487108207604
-"J. Desogus (20, Pescara, Serie C 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",42.55380357657928
-"J. Desogus (20, Pescara, Serie C 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",31.91925935022978
-"J. Desogus (20, Pescara, Serie C 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",35.922188898837625
-"J. Desogus (20, Pescara, Serie C 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",35.75834229757301
-"J. Desogus (20, Pescara, Serie C 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",6.819050203869772
-"J. Desogus (20, Pescara, Serie C 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",19.06660150544284
-"J. Desogus (20, Pescara, Serie C 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",8.317315548183519
-"J. Desogus (20, Pescara, Serie C 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",39.517253497968085
-"J. Desogus (20, Pescara, Serie C 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",30.73077407248514
-"J. Desogus (20, Pescara, Serie C 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",12.61376683849837
-"J. Desogus (20, Pescara, Serie C 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-15.369071175137217
-"J. Desogus (20, Pescara, Serie C 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",25.273212503585206
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",35.584495989882946
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",-1.9518503667904257
-"J. Desogus (20, Pescara, Serie C 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",32.758195251767646
-"J. Desogus (20, Pescara, Serie C 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",44.50665531372229
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",1.2910739614708762
-"J. Desogus (20, Pescara, Serie C 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",-12.910409888049031
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",8.674961531010247
-"J. Desogus (20, Pescara, Serie C 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",55.909154444838336
-"J. Desogus (20, Pescara, Serie C 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",17.567107073077096
-"J. Desogus (20, Pescara, Serie C 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",6.497672652085878
-"J. Desogus (20, Pescara, Serie C 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",25.593684959417622
-"J. Desogus (20, Pescara, Serie C 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",10.980284669547588
-"J. Desogus (20, Pescara, Serie C 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",17.946451452003345
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-1.446313431339954
-"J. Desogus (20, Pescara, Serie C 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",36.02391104453925
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",10.124355685412608
-"J. Desogus (20, Pescara, Serie C 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",12.959071315436688
-"J. Desogus (20, Pescara, Serie C 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",24.83002388742811
-"J. Desogus (20, Pescara, Serie C 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",5.217674128927083
-"J. Desogus (20, Pescara, Serie C 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",14.247555597761233
-"J. Desogus (20, Pescara, Serie C 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",42.21727427454272
-"J. Desogus (20, Pescara, Serie C 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",50.6480516933926
-"J. Desogus (20, Pescara, Serie C 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",51.49076613313315
-"J. Desogus (20, Pescara, Serie C 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",35.945235710485555
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",-7.496318426790174
-"J. Desogus (20, Pescara, Serie C 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",6.687162346589029
-"J. Desogus (20, Pescara, Serie C 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",8.577791938646422
-"J. Desogus (20, Pescara, Serie C 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",15.121650038844503
-"J. Desogus (20, Pescara, Serie C 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",15.04904224431528
-"J. Desogus (20, Pescara, Serie C 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",49.36740643359832
-"J. Desogus (20, Pescara, Serie C 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",38.72924519537159
-"J. Desogus (20, Pescara, Serie C 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",39.14610045773508
-"J. Desogus (20, Pescara, Serie C 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",39.42892865848426
-"J. Desogus (20, Pescara, Serie C 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",54.0775784512346
-"J. Desogus (20, Pescara, Serie C 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",-0.3876417723073454
-"J. Desogus (20, Pescara, Serie C 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",63.75163552891566
-"J. Desogus (20, Pescara, Serie C 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",15.970197214446229
-"J. Desogus (20, Pescara, Serie C 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",35.074597066302545
-"J. Desogus (20, Pescara, Serie C 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",59.821777805444775
-"J. Desogus (20, Pescara, Serie C 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",61.0973510195853
-"J. Desogus (20, Pescara, Serie C 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-12.398040960830594
-"J. Desogus (20, Pescara, Serie C 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",46.66929913979394
-"J. Desogus (20, Pescara, Serie C 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",9.355177447575691
-"J. Desogus (20, Pescara, Serie C 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",35.873752374908875
-"J. Desogus (20, Pescara, Serie C 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",71.59680294834482
-"J. Desogus (20, Pescara, Serie C 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",29.12464486018409
-"J. Desogus (20, Pescara, Serie C 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",18.70947719499004
+Player 1,Similarity
+"M. Antonucci (24, Cittadella, Serie B 22-23)",86.17944112950484
+"T. Pieńko (19, Zagłębie Lubin, Ekstraklasa 22-23)",85.88405970654324
+"J. Desogus (20, Pescara, Serie C 22-23)",84.49256197421782
+"N. Radonjić (27, Torino, Serie A 22-23)",82.36219204104965
+"M. Sitek (22, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",82.34518870771836
+"L. Cuppone (25, Pescara, Serie C 22-23)",81.1925894691516
+"J. Lindstrøm (23, Eintracht Frankfurt, Bundesliga 22-23)",80.56441325033411
+"M. Marzec (28, Katowice, Polish I Liga 22-23)",78.99124796608885
+"Arnau Ortiz (21, Real Murcia, Primera División RFEF 22-23)",78.54796514060303
+"Álex Blanco (24, Como, Serie B 22-23)",78.45760084912358
+"N. Vlašić (25, Torino, Serie A 22-23)",78.36939004395266
+"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)",78.19372496848884
+"K. Froese (27, Wehen Wiesbaden, 3. Liga 22-23)",77.92954854455112
+"Mostafa Ziko (26, Haras El Hodood, Egyptian Premier League 22-23)",77.80975772859135
+"Y. Taha El Idrissi (20, PEC Zwolle, Eerste Divisie 22-23)",77.74648760036202
+"M. Browne (25, Oxford United, League One 22-23)",77.54492528352903
+"K. Edwards (25, Ipswich Town, League One 22-23)",76.48512391279037
+"Đ. Ivanović (27, Čukarički, Serbian SuperLiga 22-23)",75.99408847287872
+"K. Poku (21, Peterborough United, League One 22-23)",75.86676816008627
+"D. Varešanović (22, Sarajevo, Bosnian Premier League 22-23)",75.79648676309793
+"D. Butterworth (23, Port Vale, League One 22-23)",75.14456435512275
+"Rafa Silva (30, Benfica, Primeira Liga 22-23)",74.84579713136986

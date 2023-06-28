@@ -1,69 +1,23 @@
-Player 1,Player 2,Similarity
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",26.38847759512793
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",-1.6206239433596017
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",19.49913594992843
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",26.958527553556323
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",22.675088956097664
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",17.018675455175806
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",26.86800341845329
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",54.55009258862694
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",29.15038318930197
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",24.80418863955424
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",27.432063540891065
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",34.53512086274373
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",38.636691900628186
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",17.4959851567803
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",16.60997975250075
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",13.311221310365262
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",29.64755895805312
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",-3.1215799119746093
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",10.559985246659725
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",2.901534863320246
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",19.614153241015543
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",31.847149282018027
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",44.54371403727462
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",5.782682397249912
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",39.99500353216236
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",-7.624255088960035
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",2.8962261249213963
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",27.927495870510064
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",10.316357073397525
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",41.03956144795738
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",2.714612747967592
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",26.7545561486225
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",3.3015383810021297
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",20.968296507734447
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",1.163441301963212
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",37.60172811963549
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",25.870609279308223
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",11.437536448159785
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",29.77352992860272
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",22.840485130973025
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",7.162838454142295
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",38.84246813822613
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",37.58059411301657
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",25.35525052951429
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",60.71188605264454
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",-25.42499306215248
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",22.48250914535868
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",24.024761938734585
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",-2.162804312532499
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",15.529676452321514
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",28.814802493588
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",14.704559979565571
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",11.576419780230902
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",34.47735184705162
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",25.966437568314856
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",16.656548925431643
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",43.78757627689225
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",48.1761441030292
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",26.84493684598988
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",32.44949063670116
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",30.63113287242281
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-15.610273421633988
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",22.64568988106432
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",3.525282496697326
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",30.58989987117907
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",49.12435140006911
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",41.14026196158254
-"Fredy (33, Antalyaspor, Süper Lig 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",23.631742510922447
+Player 1,Similarity
+"M. Čermák (24, České Budějovice, Czech Fortuna Liga 22-23)",74.62599311673671
+"C. Watts (21, Morecambe, League One 22-23)",74.04371350199898
+"Ž. Popović (23, Iskra, Montenegro First League 22-23)",73.60773540937822
+"D. Camara (21, Parma, Serie B 22-23)",73.58863544017072
+"A. Ouahim (25, Heracles, Eerste Divisie 22-23)",73.5205630001529
+"K. Toporkiewicz (21, Sandecja Nowy Sącz, Polish I Liga 22-23)",73.26131701579591
+"S. Koné (22, Porto II, Portugal Segunda Liga 22-23)",72.04387725109196
+"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",70.83573882292812
+"B. Dejaegere (32, Toulouse, Ligue 1 22-23)",69.96994472938921
+"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)",69.63957055195245
+"D. Philipp (23, Viktoria Köln, 3. Liga 22-23)",68.80256883950857
+"R. Kouda (20, Picerno, Serie C 22-23)",68.14930907784802
+"O. Kiteishvili (27, Sturm Graz, Austrian Bundesliga 22-23)",67.36949762824112
+"M. Harness (27, Ipswich Town, League One 22-23)",67.32040451145038
+"I. Tuci (22, Lokomotiva Zagreb, 1. HNL 22-23)",67.24948400103662
+"F. Deli (28, Pordenone, Serie C 22-23)",67.06037887784343
+"L.  Trabulo (28, Mafra, Portugal Segunda Liga 22-23)",66.61288451261079
+"D. Varešanović (22, Sarajevo, Bosnian Premier League 22-23)",66.57294030885316
+"Anselmo (34, Al Wahda, Saudi Professional League 22-23)",66.27699429952536
+"I. Shkolik (22, Neftekhimik, Russian FNL 2 22-23)",65.7046905709502
+"L. Stankovski (20, Rabotnički, North Macedonia First League 22-23)",65.510106577725
+"D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",65.06922357619132

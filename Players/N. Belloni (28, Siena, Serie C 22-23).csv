@@ -1,151 +1,23 @@
-Player 1,Player 2,Similarity
-"N. Belloni (28, Siena, Serie C 22-23)","M. Frediani (29, Siena, Serie C 22-23)",51.352628350523176
-"N. Belloni (28, Siena, Serie C 22-23)","F. Urso (28, Torres, Serie C 22-23)",32.59800459125484
-"N. Belloni (28, Siena, Serie C 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",67.89541601329722
-"N. Belloni (28, Siena, Serie C 22-23)","G. Lisai (33, Torres, Serie C 22-23)",51.37233893069008
-"N. Belloni (28, Siena, Serie C 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",22.36118051592625
-"N. Belloni (28, Siena, Serie C 22-23)","C. Attys (22, Trento, Serie C 22-23)",48.913193532601404
-"N. Belloni (28, Siena, Serie C 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",29.27602721708221
-"N. Belloni (28, Siena, Serie C 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",21.02350272851076
-"N. Belloni (28, Siena, Serie C 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",7.171267798377009
-"N. Belloni (28, Siena, Serie C 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",16.70401242489337
-"N. Belloni (28, Siena, Serie C 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",25.349321895834997
-"N. Belloni (28, Siena, Serie C 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",13.564802890376365
-"N. Belloni (28, Siena, Serie C 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",28.142915399888626
-"N. Belloni (28, Siena, Serie C 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",19.34233852798808
-"N. Belloni (28, Siena, Serie C 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",-9.445690978252044
-"N. Belloni (28, Siena, Serie C 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",35.32583007235877
-"N. Belloni (28, Siena, Serie C 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",29.34861012199744
-"N. Belloni (28, Siena, Serie C 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",34.342223712637306
-"N. Belloni (28, Siena, Serie C 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",26.13904061167713
-"N. Belloni (28, Siena, Serie C 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",9.750612924106134
-"N. Belloni (28, Siena, Serie C 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",43.81992522919788
-"N. Belloni (28, Siena, Serie C 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",50.26094099624695
-"N. Belloni (28, Siena, Serie C 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",22.10790957808067
-"N. Belloni (28, Siena, Serie C 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",32.22607459680459
-"N. Belloni (28, Siena, Serie C 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",16.322504092958713
-"N. Belloni (28, Siena, Serie C 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",5.447464750165109
-"N. Belloni (28, Siena, Serie C 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",2.7762674791429127
-"N. Belloni (28, Siena, Serie C 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",-15.901294483684786
-"N. Belloni (28, Siena, Serie C 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",19.41826550294443
-"N. Belloni (28, Siena, Serie C 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",-1.5087277830580053
-"N. Belloni (28, Siena, Serie C 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",26.35917212028189
-"N. Belloni (28, Siena, Serie C 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",27.059044805234684
-"N. Belloni (28, Siena, Serie C 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",19.666904124939304
-"N. Belloni (28, Siena, Serie C 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",0.5413867688213743
-"N. Belloni (28, Siena, Serie C 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",31.58515959955372
-"N. Belloni (28, Siena, Serie C 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",24.66551242066704
-"N. Belloni (28, Siena, Serie C 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",9.210431156962697
-"N. Belloni (28, Siena, Serie C 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",-4.099546680754625
-"N. Belloni (28, Siena, Serie C 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",26.446361833576997
-"N. Belloni (28, Siena, Serie C 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",34.92460557073386
-"N. Belloni (28, Siena, Serie C 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",15.506198519249743
-"N. Belloni (28, Siena, Serie C 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",41.0211442340401
-"N. Belloni (28, Siena, Serie C 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-22.79626757356372
-"N. Belloni (28, Siena, Serie C 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-27.308014155742622
-"N. Belloni (28, Siena, Serie C 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",19.72604836866979
-"N. Belloni (28, Siena, Serie C 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",-9.08878839289931
-"N. Belloni (28, Siena, Serie C 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",7.927559482617981
-"N. Belloni (28, Siena, Serie C 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",-25.781839337372343
-"N. Belloni (28, Siena, Serie C 22-23)","I. Jebali (31, OB, Superliga 22-23)",29.25263532881373
-"N. Belloni (28, Siena, Serie C 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",26.5710741194978
-"N. Belloni (28, Siena, Serie C 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",22.15289728428757
-"N. Belloni (28, Siena, Serie C 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",25.200013967213877
-"N. Belloni (28, Siena, Serie C 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",-0.2013580184151443
-"N. Belloni (28, Siena, Serie C 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",25.89564425295155
-"N. Belloni (28, Siena, Serie C 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",28.25563850957095
-"N. Belloni (28, Siena, Serie C 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",37.08503531932679
-"N. Belloni (28, Siena, Serie C 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",18.57170504197285
-"N. Belloni (28, Siena, Serie C 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",48.00672343131975
-"N. Belloni (28, Siena, Serie C 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",11.585996787230702
-"N. Belloni (28, Siena, Serie C 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",30.627172229753462
-"N. Belloni (28, Siena, Serie C 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",41.744060444008014
-"N. Belloni (28, Siena, Serie C 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",37.18241185225115
-"N. Belloni (28, Siena, Serie C 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",9.54908178493092
-"N. Belloni (28, Siena, Serie C 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",25.172427431161324
-"N. Belloni (28, Siena, Serie C 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",29.06189611710245
-"N. Belloni (28, Siena, Serie C 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",30.766267495555454
-"N. Belloni (28, Siena, Serie C 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",33.11832144274382
-"N. Belloni (28, Siena, Serie C 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",22.49960260452065
-"N. Belloni (28, Siena, Serie C 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",37.67691893944352
-"N. Belloni (28, Siena, Serie C 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",10.743112790064188
-"N. Belloni (28, Siena, Serie C 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",26.769800561780954
-"N. Belloni (28, Siena, Serie C 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",24.99819359301846
-"N. Belloni (28, Siena, Serie C 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",4.32684279880066
-"N. Belloni (28, Siena, Serie C 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",35.42741031220647
-"N. Belloni (28, Siena, Serie C 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",13.49060488317636
-"N. Belloni (28, Siena, Serie C 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",15.91507595001002
-"N. Belloni (28, Siena, Serie C 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",27.35827157480516
-"N. Belloni (28, Siena, Serie C 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",23.663143277372285
-"N. Belloni (28, Siena, Serie C 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",29.38149581896756
-"N. Belloni (28, Siena, Serie C 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",34.76266643568177
-"N. Belloni (28, Siena, Serie C 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",34.12214292113186
-"N. Belloni (28, Siena, Serie C 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",25.25728804090707
-"N. Belloni (28, Siena, Serie C 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",-9.63740764557034
-"N. Belloni (28, Siena, Serie C 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",1.9210708792681088
-"N. Belloni (28, Siena, Serie C 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",42.82360647603665
-"N. Belloni (28, Siena, Serie C 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",27.4197564707519
-"N. Belloni (28, Siena, Serie C 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",40.51414053095892
-"N. Belloni (28, Siena, Serie C 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",-9.19578555403557
-"N. Belloni (28, Siena, Serie C 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",-6.0772908469121445
-"N. Belloni (28, Siena, Serie C 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",4.740998605573865
-"N. Belloni (28, Siena, Serie C 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",18.963210994490343
-"N. Belloni (28, Siena, Serie C 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",17.501265755556535
-"N. Belloni (28, Siena, Serie C 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",14.513205716426706
-"N. Belloni (28, Siena, Serie C 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",-3.1306817467329195
-"N. Belloni (28, Siena, Serie C 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",21.878137655139906
-"N. Belloni (28, Siena, Serie C 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",29.78732800235157
-"N. Belloni (28, Siena, Serie C 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",28.41252724224307
-"N. Belloni (28, Siena, Serie C 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",39.13861680725379
-"N. Belloni (28, Siena, Serie C 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",11.562117417349594
-"N. Belloni (28, Siena, Serie C 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",0.3247551869528211
-"N. Belloni (28, Siena, Serie C 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",9.276372173269063
-"N. Belloni (28, Siena, Serie C 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",49.66041340975831
-"N. Belloni (28, Siena, Serie C 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",11.030877008563152
-"N. Belloni (28, Siena, Serie C 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",34.828520429657
-"N. Belloni (28, Siena, Serie C 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",65.58418150318451
-"N. Belloni (28, Siena, Serie C 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",22.9096310200551
-"N. Belloni (28, Siena, Serie C 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",36.45966521207015
-"N. Belloni (28, Siena, Serie C 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",19.346836070715305
-"N. Belloni (28, Siena, Serie C 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",40.50155596717284
-"N. Belloni (28, Siena, Serie C 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",75.39149791277822
-"N. Belloni (28, Siena, Serie C 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",21.611228122169923
-"N. Belloni (28, Siena, Serie C 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",28.73037744037038
-"N. Belloni (28, Siena, Serie C 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-32.44130644683171
-"N. Belloni (28, Siena, Serie C 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",-27.485329049929994
-"N. Belloni (28, Siena, Serie C 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",-26.87557519414005
-"N. Belloni (28, Siena, Serie C 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",16.065478927716015
-"N. Belloni (28, Siena, Serie C 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-8.964631130451254
-"N. Belloni (28, Siena, Serie C 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",-5.356680126358046
-"N. Belloni (28, Siena, Serie C 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",9.70341725551845
-"N. Belloni (28, Siena, Serie C 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",12.322874466310871
-"N. Belloni (28, Siena, Serie C 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",10.00202934104914
-"N. Belloni (28, Siena, Serie C 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",14.705539694510048
-"N. Belloni (28, Siena, Serie C 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",8.037763883890852
-"N. Belloni (28, Siena, Serie C 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",0.7269471140920178
-"N. Belloni (28, Siena, Serie C 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",2.024839006280279
-"N. Belloni (28, Siena, Serie C 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",15.875063728823257
-"N. Belloni (28, Siena, Serie C 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",23.70903900612239
-"N. Belloni (28, Siena, Serie C 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",-6.542266709351756
-"N. Belloni (28, Siena, Serie C 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-3.0164371583950143
-"N. Belloni (28, Siena, Serie C 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",7.863251232785585
-"N. Belloni (28, Siena, Serie C 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",35.54413849214163
-"N. Belloni (28, Siena, Serie C 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",-5.853849763351116
-"N. Belloni (28, Siena, Serie C 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-2.265892164271539
-"N. Belloni (28, Siena, Serie C 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",19.52654899007506
-"N. Belloni (28, Siena, Serie C 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",14.70407452152909
-"N. Belloni (28, Siena, Serie C 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",43.8073943010962
-"N. Belloni (28, Siena, Serie C 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",-5.169730440268639
-"N. Belloni (28, Siena, Serie C 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",22.015380953424263
-"N. Belloni (28, Siena, Serie C 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",4.139021409767247
-"N. Belloni (28, Siena, Serie C 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",31.464475495251293
-"N. Belloni (28, Siena, Serie C 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",43.55654310512693
-"N. Belloni (28, Siena, Serie C 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",4.249472306387238
-"N. Belloni (28, Siena, Serie C 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",44.9803835479274
-"N. Belloni (28, Siena, Serie C 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-1.3638308633889014
-"N. Belloni (28, Siena, Serie C 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",16.828964673623954
-"N. Belloni (28, Siena, Serie C 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",23.092557938745877
-"N. Belloni (28, Siena, Serie C 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",22.36684628094359
-"N. Belloni (28, Siena, Serie C 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",44.67372351214879
-"N. Belloni (28, Siena, Serie C 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",50.78619638986669
-"N. Belloni (28, Siena, Serie C 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",25.22565831808231
+Player 1,Similarity
+"N. Belloni (28, Siena, Serie C 22-23)",75.39149791277822
+"M. Schelle (25, Horn, Austrian 2. Liga 22-23)",71.63082491990357
+"N. Belloni (28, Siena, Serie C 22-23)",67.89541601329722
+"S. Hraiech (27, Cesena, Serie C 22-23)",67.67795285896906
+"F. D'Amico (22, Pro Sesto, Serie C 22-23)",67.29460350471841
+"N. Belloni (28, Siena, Serie C 22-23)",65.58418150318451
+"T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",65.46001027058631
+"R. Zsolnai (28, Ajka, NB II 22-23)",65.3036519690917
+"M. Laykin (20, Neftekhimik, Russian FNL 2 22-23)",64.47397561183057
+"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)",64.40649944042491
+"K. Arshid (28, Hapoel Acre, Liga Leumit 22-23)",63.06009240086967
+"N. Mezquida (31, Volos NFC, Greek Super League 22-23)",61.42050551590835
+"K. Delić (24, Sloboda Tuzla, Bosnian Premier League 22-23)",59.8325666427013
+"O. Hajrovic (27, Jedinstvo, Montenegro First League 22-23)",59.72505748631751
+"S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",59.00426487348511
+"K. Toporkiewicz (21, Sandecja Nowy Sącz, Polish I Liga 22-23)",58.787275917978775
+"B. Kücükylidiz (22, Hillerød, Danish 1. Division 22-23)",57.53398897364818
+"A. Sala (22, Pro Sesto, Serie C 22-23)",56.874656487979614
+"A. Brković (22, Posušje, Bosnian Premier League 22-23)",56.460915360065655
+"J. Tabiner (19, Crewe Alexandra, League Two 22-23)",56.039217652674864
+"Z. Jánó (18, Liefering, Austrian 2. Liga 22-23)",55.91374962674893
+"M. McKenna (32, Arbroath, Scottish Championship 22-23)",55.26134561537624

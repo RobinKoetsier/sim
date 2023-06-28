@@ -1,70 +1,23 @@
-Player 1,Player 2,Similarity
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",43.91371496232841
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",66.64757354273631
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",61.12565963755532
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",77.97256589940643
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",58.469863448209466
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",66.90982280279566
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",37.47784036974672
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",18.624617108622125
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",65.48373878905703
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",78.1653344949263
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",65.93700559390581
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",77.82587991808127
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",77.67893652736372
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",83.36119643075627
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",71.72866549143959
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",76.96903357566163
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",62.37098891834356
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",55.51471375338809
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",18.788596226180804
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",59.57765079871721
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",31.394186313008262
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-10.42593160280742
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",43.22906670211032
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",39.653401252604176
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",54.73324073576924
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",72.7752127834065
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",15.911891868331896
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",58.40436101052293
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",46.53863098779639
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",48.27114070638039
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",74.77407495706593
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",12.68818289493634
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",33.24457231410621
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",37.49800660199687
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",53.12103515969808
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-9.700719033094666
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",22.77084093397013
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",69.88588871935164
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-0.0460576990059379
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",51.654102466536834
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",29.75493772089017
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",69.44424395148744
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",37.68348171098664
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",73.49677030369335
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",60.16097776067401
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",39.62998499816199
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",29.24819898932422
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-10.693316720991367
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",81.0668462848588
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",42.652326161149205
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",59.4317368435321
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",67.26004328718417
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",76.0692684195537
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",63.71294198669872
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",78.60305754516781
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",64.72365610150203
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",21.7165600785162
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",56.782109835011575
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-11.385687152066335
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",68.48724939083152
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",45.44082019337655
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",47.224353701894906
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",37.34750007044803
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",72.20157029750773
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",71.02316921176967
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",65.66896211939904
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",51.89477323138772
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",56.20617885366962
-"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",72.6672688611865
+Player 1,Similarity
+"T. Horvat (24, Sturm Graz, Austrian Bundesliga 22-23)",88.0302236270881
+"Jorge García (30, La Nucía, Primera División RFEF 22-23)",86.55144483184742
+"I. Jebali (31, OB, Superliga 22-23)",85.081718452641
+"N. Bätzner (23, Oostende, Belgian Pro League 22-23)",84.39494649254075
+"D. Mertens (36, Galatasaray, Süper Lig 22-23)",84.32972630889995
+"L. Duijvestijn (24, Almere City, Eerste Divisie 22-23)",84.1232541526441
+"F. Azaz (22, Plymouth Argyle, League One 22-23)",83.92507187492771
+"M. Barshazky (26, Maccabi Petah Tikva, Liga Leumit 22-23)",83.89378791087388
+"A.  Lőrinczy (29, Diósgyőr, NB II 22-23)",83.83734895963433
+"A. Suárez (20, Alajuelense, Costa Rica Primera División 22-23)",83.83469124187265
+"Y. Maziz (24, Metz, Ligue 2 22-23)",83.54809896211182
+"Kady (27, Qarabag, Premyer Liqa 22-23)",83.46376789156284
+"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",83.36119643075627
+"M. Ševčík (20, Zbrojovka Brno, Czech Fortuna Liga 22-23)",83.33257290577535
+"A. Memela (35, Richards Bay, South Africa PSL 22-23)",83.28759640376191
+"K. Musona (32, Al Ta'ee, Saudi Professional League 22-23)",83.08311871959965
+"Cauly (27, Ludogorets, Bulgarian First League 22-23)",82.67221559037445
+"M. Castroman (28, Thun, Swiss Challenge League 22-23)",82.23511245388538
+"T. Nguen (29, Ferencváros, NB I 22-23)",82.09677237722987
+"I. Bognár (32, MTK, NB II 22-23)",82.07554981464793
+"A. Băluță (29, Puskás FC, NB I 22-23)",82.05991605731916
+"L. Acosta (29, Cincinnati, MLS 2023)",81.9668707460477

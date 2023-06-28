@@ -1,167 +1,23 @@
-Player 1,Player 2,Similarity
-"S. Hraiech (27, Cesena, Serie C 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",-1.4405121825056593
-"S. Hraiech (27, Cesena, Serie C 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",54.00982879086409
-"S. Hraiech (27, Cesena, Serie C 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",36.85874629362192
-"S. Hraiech (27, Cesena, Serie C 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",12.002014011891545
-"S. Hraiech (27, Cesena, Serie C 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",13.529599338353496
-"S. Hraiech (27, Cesena, Serie C 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",49.31144439400441
-"S. Hraiech (27, Cesena, Serie C 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",45.247331265549775
-"S. Hraiech (27, Cesena, Serie C 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",30.06418812806993
-"S. Hraiech (27, Cesena, Serie C 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",43.00913416078938
-"S. Hraiech (27, Cesena, Serie C 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",10.194670580186276
-"S. Hraiech (27, Cesena, Serie C 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",43.36205291826978
-"S. Hraiech (27, Cesena, Serie C 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",49.70381889941425
-"S. Hraiech (27, Cesena, Serie C 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",12.60182581328216
-"S. Hraiech (27, Cesena, Serie C 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",62.74319464778853
-"S. Hraiech (27, Cesena, Serie C 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",17.14633179980208
-"S. Hraiech (27, Cesena, Serie C 22-23)","N. Belloni (28, Siena, Serie C 22-23)",67.67795285896906
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Frediani (29, Siena, Serie C 22-23)",21.420954791411678
-"S. Hraiech (27, Cesena, Serie C 22-23)","F. Urso (28, Torres, Serie C 22-23)",32.918625494544365
-"S. Hraiech (27, Cesena, Serie C 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",29.520790863713003
-"S. Hraiech (27, Cesena, Serie C 22-23)","G. Lisai (33, Torres, Serie C 22-23)",53.579372347205314
-"S. Hraiech (27, Cesena, Serie C 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",-1.635736578053169
-"S. Hraiech (27, Cesena, Serie C 22-23)","C. Attys (22, Trento, Serie C 22-23)",36.88863979953405
-"S. Hraiech (27, Cesena, Serie C 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",11.391565397121218
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",-9.875995546217398
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",-3.1508061237813543
-"S. Hraiech (27, Cesena, Serie C 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",29.715456169586545
-"S. Hraiech (27, Cesena, Serie C 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",32.6020306492065
-"S. Hraiech (27, Cesena, Serie C 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",0.0857479942268447
-"S. Hraiech (27, Cesena, Serie C 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",23.772611799631
-"S. Hraiech (27, Cesena, Serie C 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",32.86550345018372
-"S. Hraiech (27, Cesena, Serie C 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",9.968440213414135
-"S. Hraiech (27, Cesena, Serie C 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",19.437039568621177
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",16.174849925393577
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",40.464979309896165
-"S. Hraiech (27, Cesena, Serie C 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",20.7305622404371
-"S. Hraiech (27, Cesena, Serie C 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",18.329997742635427
-"S. Hraiech (27, Cesena, Serie C 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",4.996473598961638
-"S. Hraiech (27, Cesena, Serie C 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",36.13241771250086
-"S. Hraiech (27, Cesena, Serie C 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",28.54617256332748
-"S. Hraiech (27, Cesena, Serie C 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",30.842468699478083
-"S. Hraiech (27, Cesena, Serie C 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",7.577853688488462
-"S. Hraiech (27, Cesena, Serie C 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",21.528658365871262
-"S. Hraiech (27, Cesena, Serie C 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",2.763703249953932
-"S. Hraiech (27, Cesena, Serie C 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",16.3166812743402
-"S. Hraiech (27, Cesena, Serie C 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",18.01222159295865
-"S. Hraiech (27, Cesena, Serie C 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",30.85742663514423
-"S. Hraiech (27, Cesena, Serie C 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",-4.476532173215321
-"S. Hraiech (27, Cesena, Serie C 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",15.833030003412402
-"S. Hraiech (27, Cesena, Serie C 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",12.774985415744272
-"S. Hraiech (27, Cesena, Serie C 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",6.718548596891099
-"S. Hraiech (27, Cesena, Serie C 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",57.87726051323805
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",6.765658358472809
-"S. Hraiech (27, Cesena, Serie C 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",20.51643695172799
-"S. Hraiech (27, Cesena, Serie C 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",32.042671889388885
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",4.739075142042321
-"S. Hraiech (27, Cesena, Serie C 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",36.43292596848994
-"S. Hraiech (27, Cesena, Serie C 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",7.088262295530387
-"S. Hraiech (27, Cesena, Serie C 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",45.70492131356063
-"S. Hraiech (27, Cesena, Serie C 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-33.753048111900874
-"S. Hraiech (27, Cesena, Serie C 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-5.670061102713009
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",23.680925346600144
-"S. Hraiech (27, Cesena, Serie C 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",-6.735191621358788
-"S. Hraiech (27, Cesena, Serie C 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",26.600564017519712
-"S. Hraiech (27, Cesena, Serie C 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",-17.47831953298235
-"S. Hraiech (27, Cesena, Serie C 22-23)","I. Jebali (31, OB, Superliga 22-23)",21.801406485711134
-"S. Hraiech (27, Cesena, Serie C 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",15.908990610425985
-"S. Hraiech (27, Cesena, Serie C 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",5.1821258333600095
-"S. Hraiech (27, Cesena, Serie C 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",0.8873643624011687
-"S. Hraiech (27, Cesena, Serie C 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",15.864784923262846
-"S. Hraiech (27, Cesena, Serie C 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",29.06626805232591
-"S. Hraiech (27, Cesena, Serie C 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",32.79098965298966
-"S. Hraiech (27, Cesena, Serie C 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",13.487262346729985
-"S. Hraiech (27, Cesena, Serie C 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",29.662441907368983
-"S. Hraiech (27, Cesena, Serie C 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",31.955785190850456
-"S. Hraiech (27, Cesena, Serie C 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",0.5340302014057401
-"S. Hraiech (27, Cesena, Serie C 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",21.247197973160848
-"S. Hraiech (27, Cesena, Serie C 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",23.31865572964441
-"S. Hraiech (27, Cesena, Serie C 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",-1.7184253653094208
-"S. Hraiech (27, Cesena, Serie C 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",-3.187015986988994
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",28.81009898172065
-"S. Hraiech (27, Cesena, Serie C 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",40.42545072911415
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",24.587462283995272
-"S. Hraiech (27, Cesena, Serie C 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",38.142642351770746
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",-3.093706540889344
-"S. Hraiech (27, Cesena, Serie C 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",40.34262300329812
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",-5.374714004536592
-"S. Hraiech (27, Cesena, Serie C 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",40.64773964331827
-"S. Hraiech (27, Cesena, Serie C 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",4.463761752781111
-"S. Hraiech (27, Cesena, Serie C 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",6.7540662593237615
-"S. Hraiech (27, Cesena, Serie C 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",22.83705403242604
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",30.019813962782266
-"S. Hraiech (27, Cesena, Serie C 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",31.71893163141753
-"S. Hraiech (27, Cesena, Serie C 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",42.11268696208422
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",28.69596243403989
-"S. Hraiech (27, Cesena, Serie C 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",11.752726271552534
-"S. Hraiech (27, Cesena, Serie C 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",35.60241193171782
-"S. Hraiech (27, Cesena, Serie C 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",26.42707802911508
-"S. Hraiech (27, Cesena, Serie C 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",52.64536480782061
-"S. Hraiech (27, Cesena, Serie C 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",16.443183523294252
-"S. Hraiech (27, Cesena, Serie C 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",-5.17511732749896
-"S. Hraiech (27, Cesena, Serie C 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",26.531996181239965
-"S. Hraiech (27, Cesena, Serie C 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",15.550115579156095
-"S. Hraiech (27, Cesena, Serie C 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",36.315711194115
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",16.11269758212415
-"S. Hraiech (27, Cesena, Serie C 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",-20.05818880178632
-"S. Hraiech (27, Cesena, Serie C 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",26.452762864916902
-"S. Hraiech (27, Cesena, Serie C 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",24.648636214485958
-"S. Hraiech (27, Cesena, Serie C 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",21.92379226721213
-"S. Hraiech (27, Cesena, Serie C 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",5.820390802122185
-"S. Hraiech (27, Cesena, Serie C 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",9.535701638509805
-"S. Hraiech (27, Cesena, Serie C 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",5.039178722424973
-"S. Hraiech (27, Cesena, Serie C 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",28.62388572691484
-"S. Hraiech (27, Cesena, Serie C 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",20.14047199578157
-"S. Hraiech (27, Cesena, Serie C 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",12.936049059908076
-"S. Hraiech (27, Cesena, Serie C 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",31.109577667089862
-"S. Hraiech (27, Cesena, Serie C 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",-19.664003652352253
-"S. Hraiech (27, Cesena, Serie C 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",-10.68158086241884
-"S. Hraiech (27, Cesena, Serie C 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",16.755243459373105
-"S. Hraiech (27, Cesena, Serie C 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-3.5430141796823587
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",13.521904533218338
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",53.55511219850082
-"S. Hraiech (27, Cesena, Serie C 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",9.243063854716285
-"S. Hraiech (27, Cesena, Serie C 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",21.6258056343434
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",5.464229835767342
-"S. Hraiech (27, Cesena, Serie C 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",3.686237634607502
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",42.91222621204975
-"S. Hraiech (27, Cesena, Serie C 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",23.422581444886603
-"S. Hraiech (27, Cesena, Serie C 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",5.190098880160965
-"S. Hraiech (27, Cesena, Serie C 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-30.07165746510894
-"S. Hraiech (27, Cesena, Serie C 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",0.0539150296229602
-"S. Hraiech (27, Cesena, Serie C 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",-21.63580486334133
-"S. Hraiech (27, Cesena, Serie C 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",46.50199663353387
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-28.56833024017392
-"S. Hraiech (27, Cesena, Serie C 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",-6.582038978058091
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",21.72321757871176
-"S. Hraiech (27, Cesena, Serie C 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-5.85932427037957
-"S. Hraiech (27, Cesena, Serie C 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",-7.874287125938848
-"S. Hraiech (27, Cesena, Serie C 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",5.407815293351711
-"S. Hraiech (27, Cesena, Serie C 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",-2.659671794699327
-"S. Hraiech (27, Cesena, Serie C 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",5.822472690422292
-"S. Hraiech (27, Cesena, Serie C 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",13.433925780793318
-"S. Hraiech (27, Cesena, Serie C 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",11.079362373526
-"S. Hraiech (27, Cesena, Serie C 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",30.064097792061528
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",1.7186585666053928
-"S. Hraiech (27, Cesena, Serie C 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",31.79776175848787
-"S. Hraiech (27, Cesena, Serie C 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",15.61452255805028
-"S. Hraiech (27, Cesena, Serie C 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",-6.993566556906081
-"S. Hraiech (27, Cesena, Serie C 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",9.643773468622816
-"S. Hraiech (27, Cesena, Serie C 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",6.577773925605228
-"S. Hraiech (27, Cesena, Serie C 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",6.819897671895705
-"S. Hraiech (27, Cesena, Serie C 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",-4.578202834517954
-"S. Hraiech (27, Cesena, Serie C 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",33.95430875027685
-"S. Hraiech (27, Cesena, Serie C 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",-5.5461560638929965
-"S. Hraiech (27, Cesena, Serie C 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",18.09394536427397
-"S. Hraiech (27, Cesena, Serie C 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",-0.734447328972407
-"S. Hraiech (27, Cesena, Serie C 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",31.03359436254881
-"S. Hraiech (27, Cesena, Serie C 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",5.130731803594037
-"S. Hraiech (27, Cesena, Serie C 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",3.508500744218282
-"S. Hraiech (27, Cesena, Serie C 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",23.82139584704899
-"S. Hraiech (27, Cesena, Serie C 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-9.025961339653216
-"S. Hraiech (27, Cesena, Serie C 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",13.505562243035117
-"S. Hraiech (27, Cesena, Serie C 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",2.257551605999482
-"S. Hraiech (27, Cesena, Serie C 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",29.98271142670538
-"S. Hraiech (27, Cesena, Serie C 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",40.22691213730795
-"S. Hraiech (27, Cesena, Serie C 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",62.85435328571849
-"S. Hraiech (27, Cesena, Serie C 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",15.675189926467326
+Player 1,Similarity
+"Ó. Trejo (35, Rayo Vallecano, La Liga 22-23)",70.17504588517018
+"S. Hraiech (27, Cesena, Serie C 22-23)",67.67795285896906
+"M. Čuić (22, Radomlje, 1. SNL 22-23)",66.41327643181224
+"K. Toporkiewicz (21, Sandecja Nowy Sącz, Polish I Liga 22-23)",65.06090378473365
+"M. Schelle (25, Horn, Austrian 2. Liga 22-23)",63.62083727456525
+"N. Berkovitz (20, Hapoel Petah Tikva, Liga Leumit 22-23)",62.95447403042193
+"S. Hraiech (27, Cesena, Serie C 22-23)",62.85435328571849
+"S. Hraiech (27, Cesena, Serie C 22-23)",62.74319464778853
+"L. Nonikashvili (28, Saburtalo, Erovnuli Liga 2023)",60.600563684093856
+"Ivo Rodrigues (28, Famalicão, Primeira Liga 22-23)",59.698471322132384
+"Adri Cuevas (33, Ceuta, Primera División RFEF 22-23)",58.83291139636261
+"R. Zsolnai (28, Ajka, NB II 22-23)",57.97322959542223
+"S. Hraiech (27, Cesena, Serie C 22-23)",57.87726051323805
+"N. Morillon Schieber-Herrbach (18, Sant Julià, Andorra Primera Divisió 22-23)",57.432651469129134
+"C. Palmer (22, Linfield, Northern Ireland Premiership 22-23)",57.33477868454875
+"Vasco Sousa (20, Porto II, Portugal Segunda Liga 22-23)",57.15522392248526
+"D. Camara (21, Parma, Serie B 22-23)",57.05492783853296
+"A. Mogoș (20, CSMS Iaşi, Romanian Liga II 22-23)",56.50771143445842
+"Anselmo (34, Al Wahda, Saudi Professional League 22-23)",55.45668682497713
+"M. Mehlem (25, Darmstadt 98, 2. Bundesliga 22-23)",54.90391073798009
+"Albert Reyes (27, UE Santa Coloma, Andorra Primera Divisió 22-23)",54.862312423229454
+"T. Linus (18, Mosta, Malta Premier League 22-23)",54.07999529740414

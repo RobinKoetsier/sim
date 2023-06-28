@@ -1,116 +1,23 @@
-Player 1,Player 2,Similarity
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",43.67237066692689
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",44.31976852709399
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",40.25098648304856
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",34.66504849017829
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",56.5821976405539
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",55.27118019329603
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",47.53099380277105
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-5.654946336567416
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-3.771743016643478
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",63.225053860960365
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",43.807664796627535
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",69.58216383265933
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",-5.730305010068888
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","I. Jebali (31, OB, Superliga 22-23)",65.24057490559824
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",46.29985086736945
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",47.518479115374944
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",31.01235424184805
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",66.21020276377872
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",65.64563933760641
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",67.69702007692108
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",46.79846797466751
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",56.574973925944285
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",56.44775073483476
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",53.63171493837768
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",30.465425725139237
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",44.17984561567677
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",21.3092193512818
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",18.747843730966345
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",64.47674604528015
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",45.805768376412296
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",47.97825660566467
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",77.2968045783831
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",31.28247217553819
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",47.01749553536178
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",24.159576810988312
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",63.80808499048746
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",37.812397095696895
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",40.741225975882415
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",50.54637310242703
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",68.04281630934129
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",48.387003444423314
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",58.19926781287001
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",20.91656632042524
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",32.829535837933754
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",62.88532789055051
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",65.53717626933371
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",60.61456098780942
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",54.84952565176261
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",26.78663831390309
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",43.24166594945107
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",41.98889160045119
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",47.08420314812581
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",38.35244121832416
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",14.265706143521315
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",69.4175900077316
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",67.40157938548003
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",66.38343350613168
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",45.24398457423497
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",58.5570596167151
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",45.59623904425823
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",53.22293851766098
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",54.16181189180599
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",33.43836576047699
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",56.10071437287117
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",-0.4881231901555353
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",30.52382556323191
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",3.379017949880808
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-12.086817094053876
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",38.0205811586109
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",28.643410771460008
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",41.16223234281122
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",54.58667657933284
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",-0.3724116895292136
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",22.01396229023382
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",19.387451257973844
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",50.00095588994344
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",39.69305679286442
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",1.7309026186329977
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",26.747760041442653
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",20.25779069590204
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",61.49417766195205
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-25.0566334927426
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",13.434807553051469
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",58.8159052308506
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-9.762451106403203
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",11.598414327290788
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",7.481904646513652
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",32.876827092363506
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",38.43063510967696
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",69.51517020722633
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",38.977925928448194
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",43.55749351026464
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",14.944012225757566
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",1.083157529537606
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",58.19172365618039
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",4.8496173730248255
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",56.196503193299385
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",57.720047909849846
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",55.09916855318329
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",28.9231663940063
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",67.23176854746843
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",47.75265608517291
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",44.99275919159514
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",43.46536945530346
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",4.422843941403316
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",44.46673976675588
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",42.06722703794233
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",22.212430424602022
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",4.179362103927244
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",54.22789188087408
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",32.197893236912414
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",54.66192355009735
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",40.93227859207123
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",55.45342729382375
-"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",38.98671188375513
+Player 1,Similarity
+"Jon Toral (28, OFI, Greek Super League 22-23)",83.73062980798993
+"A. Nuriev (27, Sabah, Premyer Liqa 22-23)",82.85058819133658
+"Xavi Puerto (31, Atlètic Club d'Escaldes, Andorra Primera Divisió 22-23)",82.83546179008776
+"Hussein Faisal (24, Smouha, Egyptian Premier League 22-23)",82.49653137687865
+"R. Wolski (30, Wisła Płock, Ekstraklasa 22-23)",81.0028655495444
+"B. Hrgota (30, Greuther Fürth, 2. Bundesliga 22-23)",80.92567033221312
+"B. El Khannous (19, Genk, Belgian Pro League 22-23)",80.92306646295931
+"F. Sassi (31, Al Duhail, Qatari Stars League 22-23)",80.43384837440534
+"G. Ivanov (35, Slavia Sofia, Bulgarian First League 22-23)",80.4013771647774
+"Lucas Paquetà (25, West Ham United, Premier League 22-23)",80.19774237799207
+"M. Čermák (24, České Budějovice, Czech Fortuna Liga 22-23)",79.86461305368354
+"João Mendes (28, Chaves, Primeira Liga 22-23)",79.5809440098098
+"M. Harness (27, Ipswich Town, League One 22-23)",78.95707569166072
+"J. Lankester (23, Cambridge United, League One 22-23)",78.61895387666567
+"M. Burgess (28, Sydney, A-League Men 22-23)",78.13375531111748
+"Manu García (25, Aris, Greek Super League 22-23)",77.84556354753843
+"D. Romanovskij (26, Šiauliai, Lithuanian A Lyga 2023)",77.71479362071204
+"O. Pineda (27, AEK Athens, Greek Super League 22-23)",77.65014224246404
+"P. Altán (25, Municipal, Guatemala Liga Nacional 22-23)",77.58773037548721
+"O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",77.2968045783831
+"E. Sylvestre (23, Pau, Ligue 2 22-23)",76.95053320003181
+"M. Chrapek (31, Piast Gliwice, Ekstraklasa 22-23)",76.92188231436137

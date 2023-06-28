@@ -1,194 +1,23 @@
-Player 1,Player 2,Similarity
-"C. De Ketelaere (22, Milan, Serie A 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",15.260816285747328
-"C. De Ketelaere (22, Milan, Serie A 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",33.21320056049259
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. Colpani (24, Monza, Serie A 22-23)",67.09971674530125
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",46.31318130295276
-"C. De Ketelaere (22, Milan, Serie A 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",7.745133127497389
-"C. De Ketelaere (22, Milan, Serie A 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",42.74780076449265
-"C. De Ketelaere (22, Milan, Serie A 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",49.30864311142081
-"C. De Ketelaere (22, Milan, Serie A 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",11.249343405837063
-"C. De Ketelaere (22, Milan, Serie A 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",46.44426304573236
-"C. De Ketelaere (22, Milan, Serie A 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",24.939311993693263
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",32.491467196436645
-"C. De Ketelaere (22, Milan, Serie A 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",-7.757402887982359
-"C. De Ketelaere (22, Milan, Serie A 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",32.49917995521668
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",10.190869435656785
-"C. De Ketelaere (22, Milan, Serie A 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",20.99541097738561
-"C. De Ketelaere (22, Milan, Serie A 22-23)","R. Botta (33, Bari, Serie B 22-23)",38.701129093373616
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",41.34714924723028
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",-12.634088480047994
-"C. De Ketelaere (22, Milan, Serie A 22-23)","V. Parigini (27, Como, Serie B 22-23)",25.785823551055792
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Álex Blanco (24, Como, Serie B 22-23)",68.55456266357984
-"C. De Ketelaere (22, Milan, Serie A 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",11.704720250842875
-"C. De Ketelaere (22, Milan, Serie A 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",30.23433534630266
-"C. De Ketelaere (22, Milan, Serie A 22-23)","D. Camara (21, Parma, Serie B 22-23)",59.82220940737773
-"C. De Ketelaere (22, Milan, Serie A 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",10.428663319480371
-"C. De Ketelaere (22, Milan, Serie A 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",34.33901005817028
-"C. De Ketelaere (22, Milan, Serie A 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",33.01796944205309
-"C. De Ketelaere (22, Milan, Serie A 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",22.25757193319309
-"C. De Ketelaere (22, Milan, Serie A 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",25.670441333930576
-"C. De Ketelaere (22, Milan, Serie A 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",32.597492620792515
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",44.37544595640174
-"C. De Ketelaere (22, Milan, Serie A 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",32.954022134372764
-"C. De Ketelaere (22, Milan, Serie A 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",58.10257550841907
-"C. De Ketelaere (22, Milan, Serie A 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",26.301452591794103
-"C. De Ketelaere (22, Milan, Serie A 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",41.94255232694725
-"C. De Ketelaere (22, Milan, Serie A 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",52.96036442690819
-"C. De Ketelaere (22, Milan, Serie A 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",41.858178570700105
-"C. De Ketelaere (22, Milan, Serie A 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",-3.111587383694646
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-12.644095385052225
-"C. De Ketelaere (22, Milan, Serie A 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",33.06943992555224
-"C. De Ketelaere (22, Milan, Serie A 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",-10.634238035637054
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",34.427868862427204
-"C. De Ketelaere (22, Milan, Serie A 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",46.41404094961619
-"C. De Ketelaere (22, Milan, Serie A 22-23)","N. Belloni (28, Siena, Serie C 22-23)",0.1053038863497279
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Frediani (29, Siena, Serie C 22-23)",31.4877897722657
-"C. De Ketelaere (22, Milan, Serie A 22-23)","F. Urso (28, Torres, Serie C 22-23)",14.236246982309938
-"C. De Ketelaere (22, Milan, Serie A 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",5.8929499979299065
-"C. De Ketelaere (22, Milan, Serie A 22-23)","G. Lisai (33, Torres, Serie C 22-23)",6.22381244149651
-"C. De Ketelaere (22, Milan, Serie A 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",11.86997348902809
-"C. De Ketelaere (22, Milan, Serie A 22-23)","C. Attys (22, Trento, Serie C 22-23)",37.39064660456789
-"C. De Ketelaere (22, Milan, Serie A 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",46.91682842190597
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",34.72526732288238
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",56.7547605448168
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",49.23882205786026
-"C. De Ketelaere (22, Milan, Serie A 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",55.963444001922426
-"C. De Ketelaere (22, Milan, Serie A 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",34.75405797119616
-"C. De Ketelaere (22, Milan, Serie A 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",42.99085776784949
-"C. De Ketelaere (22, Milan, Serie A 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",36.93051497862783
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",61.37779379034852
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",30.51360285072567
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",12.143850722362853
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",60.093688844525786
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",37.509660443269546
-"C. De Ketelaere (22, Milan, Serie A 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",54.320355368350434
-"C. De Ketelaere (22, Milan, Serie A 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",9.623559775064074
-"C. De Ketelaere (22, Milan, Serie A 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",19.66678399151903
-"C. De Ketelaere (22, Milan, Serie A 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",32.31045223909152
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",24.342936552451334
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",46.44996347529253
-"C. De Ketelaere (22, Milan, Serie A 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",32.549332696282995
-"C. De Ketelaere (22, Milan, Serie A 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",18.688871608598475
-"C. De Ketelaere (22, Milan, Serie A 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",3.1710545235987877
-"C. De Ketelaere (22, Milan, Serie A 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",35.13026985420759
-"C. De Ketelaere (22, Milan, Serie A 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",64.58623806182301
-"C. De Ketelaere (22, Milan, Serie A 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",20.40383145959475
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",22.931421635824936
-"C. De Ketelaere (22, Milan, Serie A 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",30.76509855861207
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",55.29099667624276
-"C. De Ketelaere (22, Milan, Serie A 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",40.7981876809078
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",30.774283456394848
-"C. De Ketelaere (22, Milan, Serie A 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",-15.61396528618445
-"C. De Ketelaere (22, Milan, Serie A 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",63.233600500556
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",25.520217675690283
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",45.989944475077294
-"C. De Ketelaere (22, Milan, Serie A 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",0.8388035803980318
-"C. De Ketelaere (22, Milan, Serie A 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",54.28305686179776
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",29.152229339138746
-"C. De Ketelaere (22, Milan, Serie A 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",46.33719491848557
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",22.58225320687415
-"C. De Ketelaere (22, Milan, Serie A 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",58.93596630828102
-"C. De Ketelaere (22, Milan, Serie A 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",49.76298829757885
-"C. De Ketelaere (22, Milan, Serie A 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",56.87270742370416
-"C. De Ketelaere (22, Milan, Serie A 22-23)","I. Jebali (31, OB, Superliga 22-23)",30.73967211128561
-"C. De Ketelaere (22, Milan, Serie A 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",39.57624811294773
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",48.35709665935177
-"C. De Ketelaere (22, Milan, Serie A 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",53.07221208563801
-"C. De Ketelaere (22, Milan, Serie A 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",52.77626600217875
-"C. De Ketelaere (22, Milan, Serie A 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",51.16594151887285
-"C. De Ketelaere (22, Milan, Serie A 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",18.88353010418125
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",30.374419662402808
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",52.886509732408825
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",47.77644962159294
-"C. De Ketelaere (22, Milan, Serie A 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",33.07185679851924
-"C. De Ketelaere (22, Milan, Serie A 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",19.43934747900133
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",31.60972788296832
-"C. De Ketelaere (22, Milan, Serie A 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",15.229375163046605
-"C. De Ketelaere (22, Milan, Serie A 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",44.757600601673296
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",38.80561613501356
-"C. De Ketelaere (22, Milan, Serie A 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",36.57632247464349
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",6.190240093702285
-"C. De Ketelaere (22, Milan, Serie A 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",50.8782810180232
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",32.095932448156894
-"C. De Ketelaere (22, Milan, Serie A 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",28.17239597571113
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",26.03958103266118
-"C. De Ketelaere (22, Milan, Serie A 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",20.2075977753726
-"C. De Ketelaere (22, Milan, Serie A 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",39.03270969016874
-"C. De Ketelaere (22, Milan, Serie A 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",57.573799359200194
-"C. De Ketelaere (22, Milan, Serie A 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",37.48065165565929
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",59.81045190680635
-"C. De Ketelaere (22, Milan, Serie A 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",51.24915188282021
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",59.43880135470159
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",34.46241755386307
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",31.96330035611348
-"C. De Ketelaere (22, Milan, Serie A 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",41.66950542148963
-"C. De Ketelaere (22, Milan, Serie A 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",27.912220943471997
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",47.03395997383944
-"C. De Ketelaere (22, Milan, Serie A 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",54.99596822402357
-"C. De Ketelaere (22, Milan, Serie A 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",47.50766797042881
-"C. De Ketelaere (22, Milan, Serie A 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",22.355623413890477
-"C. De Ketelaere (22, Milan, Serie A 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",53.76315171411113
-"C. De Ketelaere (22, Milan, Serie A 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",1.969744991094397
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",47.83960291193032
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",35.259332616663066
-"C. De Ketelaere (22, Milan, Serie A 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",58.46012330948385
-"C. De Ketelaere (22, Milan, Serie A 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",29.96595309666969
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",54.54056879409009
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",32.881046434740554
-"C. De Ketelaere (22, Milan, Serie A 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",51.45371719821127
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",32.630597857293616
-"C. De Ketelaere (22, Milan, Serie A 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",20.63066729539638
-"C. De Ketelaere (22, Milan, Serie A 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",22.01687552775751
-"C. De Ketelaere (22, Milan, Serie A 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",10.90783071489358
-"C. De Ketelaere (22, Milan, Serie A 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",69.63688513797618
-"C. De Ketelaere (22, Milan, Serie A 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",16.232824447644504
-"C. De Ketelaere (22, Milan, Serie A 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",29.72620115704704
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-24.56965152952162
-"C. De Ketelaere (22, Milan, Serie A 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",6.932693018884489
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",23.05327550134932
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",-14.985082244928456
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",32.1535759130056
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",31.91927160958444
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",-8.50486548125364
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",-11.510532530010318
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",10.18472156297488
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",49.64420810335312
-"C. De Ketelaere (22, Milan, Serie A 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",3.1205788577550497
-"C. De Ketelaere (22, Milan, Serie A 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-2.686942478544003
-"C. De Ketelaere (22, Milan, Serie A 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",64.55075420821079
-"C. De Ketelaere (22, Milan, Serie A 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",31.567164322076163
-"C. De Ketelaere (22, Milan, Serie A 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",37.35195633710263
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",5.771041019521743
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",29.963957341826188
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",21.581533681235445
-"C. De Ketelaere (22, Milan, Serie A 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",1.6693081498225646
-"C. De Ketelaere (22, Milan, Serie A 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",43.48835388514739
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",33.63280654734812
-"C. De Ketelaere (22, Milan, Serie A 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",8.3527104185664
-"C. De Ketelaere (22, Milan, Serie A 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",34.7412588541845
-"C. De Ketelaere (22, Milan, Serie A 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",61.074051956900966
-"C. De Ketelaere (22, Milan, Serie A 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",46.885803096280135
-"C. De Ketelaere (22, Milan, Serie A 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",46.10221809385495
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",20.871652206827275
-"C. De Ketelaere (22, Milan, Serie A 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",51.9749165617007
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",19.225486240366624
-"C. De Ketelaere (22, Milan, Serie A 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",0.9403749730181888
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",45.69399371453072
-"C. De Ketelaere (22, Milan, Serie A 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",59.117522882536925
-"C. De Ketelaere (22, Milan, Serie A 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",46.9134728306409
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",42.263248328591885
-"C. De Ketelaere (22, Milan, Serie A 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",36.41802196948321
-"C. De Ketelaere (22, Milan, Serie A 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",61.45407156131254
-"C. De Ketelaere (22, Milan, Serie A 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",10.582570902772597
-"C. De Ketelaere (22, Milan, Serie A 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",69.55052276684839
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-0.247404614801479
-"C. De Ketelaere (22, Milan, Serie A 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",16.585964467062627
-"C. De Ketelaere (22, Milan, Serie A 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",42.46191073232247
-"C. De Ketelaere (22, Milan, Serie A 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",25.19151747932312
-"C. De Ketelaere (22, Milan, Serie A 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",6.366037670993895
-"C. De Ketelaere (22, Milan, Serie A 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",39.824830560560834
-"C. De Ketelaere (22, Milan, Serie A 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",16.532099026642708
-"C. De Ketelaere (22, Milan, Serie A 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",17.06216516974329
-"C. De Ketelaere (22, Milan, Serie A 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",35.14848507921794
-"C. De Ketelaere (22, Milan, Serie A 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",13.38859561286884
-"C. De Ketelaere (22, Milan, Serie A 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",26.87902181510267
+Player 1,Similarity
+"Borja Calvo (21, La Nucía, Primera División RFEF 22-23)",81.55922065913254
+"J. Musiala (20, Bayern München, Bundesliga 22-23)",79.38954093679624
+"T. van Leeuwen (21, TOP Oss, Eerste Divisie 22-23)",76.88751011469674
+"S. Dimić (30, Radnički Niš, Serbian SuperLiga 22-23)",76.68994062701682
+"A. Tibidi (19, Rheindorf Altach, Austrian Bundesliga 22-23)",75.24454681555184
+"A. Ramsey (20, Middlesbrough, Championship 22-23)",75.17978715220876
+"J. Cortizo (26, Monterrey, Liga MX 22-23)",74.00600041817582
+"M. Mircevski (26, Vardar, North Macedonia First League 22-23)",73.91255574114844
+"D. Varešanović (22, Sarajevo, Bosnian Premier League 22-23)",73.52127920844542
+"N. Abdokov (22, Kuban Krasnodar, Russian FNL 2 22-23)",73.23271121011948
+"G. Konstantelias (20, PAOK, Greek Super League 22-23)",73.16090001876717
+"N. Vlašić (25, Torino, Serie A 22-23)",73.159458432185
+"Rafa Silva (30, Benfica, Primeira Liga 22-23)",72.57994535594693
+"Brahim Diaz (23, Milan, Serie A 22-23)",72.37777236030989
+"Abdulhadi Al-Harajin (28, Al Hazem, Saudi First Division 22-23)",71.95546509755934
+"N. Hasson (21, Hapoel Ramat Gan, Liga Leumit 22-23)",71.73851345877364
+"L. Rodríguez (26, Club Tijuana, Liga MX 22-23)",71.44747310293775
+"L. Schaub (28, Hannover 96, 2. Bundesliga 22-23)",71.25808377242305
+"M. Sitek (22, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",71.05442012877678
+"S. Shoretire (19, Bolton Wanderers, League One 22-23)",71.02926503262019
+"S. Kowalczyk (24, Pogoń Szczecin, Ekstraklasa 22-23)",70.67530735881307
+"Marquinhos (23, Ferencváros, NB I 22-23)",70.47868383739005

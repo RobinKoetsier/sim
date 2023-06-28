@@ -1,195 +1,23 @@
-Player 1,Player 2,Similarity
-"N. Radonjić (27, Torino, Serie A 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",42.59658687347571
-"N. Radonjić (27, Torino, Serie A 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",59.41464417825311
-"N. Radonjić (27, Torino, Serie A 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",61.32846002343765
-"N. Radonjić (27, Torino, Serie A 22-23)","A. Colpani (24, Monza, Serie A 22-23)",47.10238388007191
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",82.32550348695398
-"N. Radonjić (27, Torino, Serie A 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",7.432955337628996
-"N. Radonjić (27, Torino, Serie A 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",78.22164585015898
-"N. Radonjić (27, Torino, Serie A 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",44.33236433130233
-"N. Radonjić (27, Torino, Serie A 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",31.29050650827928
-"N. Radonjić (27, Torino, Serie A 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",53.07323804649048
-"N. Radonjić (27, Torino, Serie A 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",54.79082215542896
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",60.26501468470799
-"N. Radonjić (27, Torino, Serie A 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",4.987564707885289
-"N. Radonjić (27, Torino, Serie A 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",61.46734215298005
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",37.99643714659236
-"N. Radonjić (27, Torino, Serie A 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",52.390537354651975
-"N. Radonjić (27, Torino, Serie A 22-23)","R. Botta (33, Bari, Serie B 22-23)",61.40807250865482
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",64.12277789956661
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",47.51168007886194
-"N. Radonjić (27, Torino, Serie A 22-23)","V. Parigini (27, Como, Serie B 22-23)",78.86072316289798
-"N. Radonjić (27, Torino, Serie A 22-23)","Álex Blanco (24, Como, Serie B 22-23)",55.99749216748274
-"N. Radonjić (27, Torino, Serie A 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",39.31432776607405
-"N. Radonjić (27, Torino, Serie A 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",57.94131860269843
-"N. Radonjić (27, Torino, Serie A 22-23)","D. Camara (21, Parma, Serie B 22-23)",47.699992879135856
-"N. Radonjić (27, Torino, Serie A 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",28.882243361151893
-"N. Radonjić (27, Torino, Serie A 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",-0.854634578563842
-"N. Radonjić (27, Torino, Serie A 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",61.58878907228817
-"N. Radonjić (27, Torino, Serie A 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",11.240625963613086
-"N. Radonjić (27, Torino, Serie A 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",31.217195729237524
-"N. Radonjić (27, Torino, Serie A 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",2.1722845609404167
-"N. Radonjić (27, Torino, Serie A 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",59.37472899682926
-"N. Radonjić (27, Torino, Serie A 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",79.8122233971436
-"N. Radonjić (27, Torino, Serie A 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",82.36219204104965
-"N. Radonjić (27, Torino, Serie A 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",47.47970735233624
-"N. Radonjić (27, Torino, Serie A 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",61.47062671049851
-"N. Radonjić (27, Torino, Serie A 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",48.49955732325424
-"N. Radonjić (27, Torino, Serie A 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",51.22667046966873
-"N. Radonjić (27, Torino, Serie A 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",47.31385184915999
-"N. Radonjić (27, Torino, Serie A 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-1.5203619628145946
-"N. Radonjić (27, Torino, Serie A 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",49.98183981612849
-"N. Radonjić (27, Torino, Serie A 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",42.363729503349326
-"N. Radonjić (27, Torino, Serie A 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",57.975369055515394
-"N. Radonjić (27, Torino, Serie A 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",86.66236389888552
-"N. Radonjić (27, Torino, Serie A 22-23)","N. Belloni (28, Siena, Serie C 22-23)",17.28918419933601
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Frediani (29, Siena, Serie C 22-23)",57.967220746089566
-"N. Radonjić (27, Torino, Serie A 22-23)","F. Urso (28, Torres, Serie C 22-23)",18.88468719529232
-"N. Radonjić (27, Torino, Serie A 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",36.95140184047997
-"N. Radonjić (27, Torino, Serie A 22-23)","G. Lisai (33, Torres, Serie C 22-23)",49.41462255172892
-"N. Radonjić (27, Torino, Serie A 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",44.46926559447324
-"N. Radonjić (27, Torino, Serie A 22-23)","C. Attys (22, Trento, Serie C 22-23)",70.49423369743546
-"N. Radonjić (27, Torino, Serie A 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",76.90020649492097
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",24.59139693572404
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",59.21927225212935
-"N. Radonjić (27, Torino, Serie A 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",19.31650431853895
-"N. Radonjić (27, Torino, Serie A 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",57.77372997605822
-"N. Radonjić (27, Torino, Serie A 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",41.48722230742512
-"N. Radonjić (27, Torino, Serie A 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",38.13584572778023
-"N. Radonjić (27, Torino, Serie A 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",65.2828732300854
-"N. Radonjić (27, Torino, Serie A 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",38.6092658621265
-"N. Radonjić (27, Torino, Serie A 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",34.88126748142698
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",38.87701279695225
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",46.56983818381683
-"N. Radonjić (27, Torino, Serie A 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",55.63773610346912
-"N. Radonjić (27, Torino, Serie A 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",79.05139151664939
-"N. Radonjić (27, Torino, Serie A 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",26.67217407115671
-"N. Radonjić (27, Torino, Serie A 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",36.30484067952294
-"N. Radonjić (27, Torino, Serie A 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",55.75984165353305
-"N. Radonjić (27, Torino, Serie A 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",19.78438076593058
-"N. Radonjić (27, Torino, Serie A 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",76.85258347949461
-"N. Radonjić (27, Torino, Serie A 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",7.7546360571125215
-"N. Radonjić (27, Torino, Serie A 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",-5.294384193221585
-"N. Radonjić (27, Torino, Serie A 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",8.252181616364682
-"N. Radonjić (27, Torino, Serie A 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",25.9646892880735
-"N. Radonjić (27, Torino, Serie A 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",40.13276658516111
-"N. Radonjić (27, Torino, Serie A 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",20.452071157356364
-"N. Radonjić (27, Torino, Serie A 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",35.97814323298342
-"N. Radonjić (27, Torino, Serie A 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",21.873864445310897
-"N. Radonjić (27, Torino, Serie A 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",3.4698344457750405
-"N. Radonjić (27, Torino, Serie A 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",42.94592029742737
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",26.908663176658408
-"N. Radonjić (27, Torino, Serie A 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",-8.547624184190935
-"N. Radonjić (27, Torino, Serie A 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",45.55597606583384
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",60.78172075902408
-"N. Radonjić (27, Torino, Serie A 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",28.060842381592632
-"N. Radonjić (27, Torino, Serie A 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",24.81793190186626
-"N. Radonjić (27, Torino, Serie A 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",46.43456700950684
-"N. Radonjić (27, Torino, Serie A 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-10.2772369401861
-"N. Radonjić (27, Torino, Serie A 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-2.439883452002359
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",38.19839216807039
-"N. Radonjić (27, Torino, Serie A 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",60.22769285579469
-"N. Radonjić (27, Torino, Serie A 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",71.07202473721524
-"N. Radonjić (27, Torino, Serie A 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",14.014539547039046
-"N. Radonjić (27, Torino, Serie A 22-23)","I. Jebali (31, OB, Superliga 22-23)",53.86942977274513
-"N. Radonjić (27, Torino, Serie A 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",30.893950735667868
-"N. Radonjić (27, Torino, Serie A 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",62.81168806235825
-"N. Radonjić (27, Torino, Serie A 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",51.55859344097522
-"N. Radonjić (27, Torino, Serie A 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",68.67897682376515
-"N. Radonjić (27, Torino, Serie A 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",50.073193536168446
-"N. Radonjić (27, Torino, Serie A 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",33.411530164244795
-"N. Radonjić (27, Torino, Serie A 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",68.30454467891246
-"N. Radonjić (27, Torino, Serie A 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",79.23109199589616
-"N. Radonjić (27, Torino, Serie A 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",54.84935610141876
-"N. Radonjić (27, Torino, Serie A 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",64.93129175657214
-"N. Radonjić (27, Torino, Serie A 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",23.459806301570765
-"N. Radonjić (27, Torino, Serie A 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",37.28949811829238
-"N. Radonjić (27, Torino, Serie A 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",35.50555326982469
-"N. Radonjić (27, Torino, Serie A 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",39.21563981234132
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",36.13061430512105
-"N. Radonjić (27, Torino, Serie A 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",51.80499064028072
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",28.18432626233744
-"N. Radonjić (27, Torino, Serie A 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",63.1562276143414
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",56.1856014041786
-"N. Radonjić (27, Torino, Serie A 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",29.226546220220342
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",39.16685207655396
-"N. Radonjić (27, Torino, Serie A 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",32.91714005762191
-"N. Radonjić (27, Torino, Serie A 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",51.31421497090465
-"N. Radonjić (27, Torino, Serie A 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",86.82465976807183
-"N. Radonjić (27, Torino, Serie A 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",49.3411338428287
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",64.53993265302752
-"N. Radonjić (27, Torino, Serie A 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",18.084235873639937
-"N. Radonjić (27, Torino, Serie A 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",30.429453808488727
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",62.43285504761496
-"N. Radonjić (27, Torino, Serie A 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",44.56257172446109
-"N. Radonjić (27, Torino, Serie A 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",46.49180144015268
-"N. Radonjić (27, Torino, Serie A 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",44.88749377481771
-"N. Radonjić (27, Torino, Serie A 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",35.54709544085593
-"N. Radonjić (27, Torino, Serie A 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",28.526628763462984
-"N. Radonjić (27, Torino, Serie A 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",33.76618457094535
-"N. Radonjić (27, Torino, Serie A 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",32.43609227195645
-"N. Radonjić (27, Torino, Serie A 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",62.56900613339571
-"N. Radonjić (27, Torino, Serie A 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",29.63357168236409
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",16.363162902719015
-"N. Radonjić (27, Torino, Serie A 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",0.7909261537498948
-"N. Radonjić (27, Torino, Serie A 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",57.48389819678078
-"N. Radonjić (27, Torino, Serie A 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",43.43454551845689
-"N. Radonjić (27, Torino, Serie A 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",56.91609551300849
-"N. Radonjić (27, Torino, Serie A 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",44.51580499519466
-"N. Radonjić (27, Torino, Serie A 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",34.34331647442358
-"N. Radonjić (27, Torino, Serie A 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",45.00606996481633
-"N. Radonjić (27, Torino, Serie A 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",21.15562782410609
-"N. Radonjić (27, Torino, Serie A 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",34.56498077798754
-"N. Radonjić (27, Torino, Serie A 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",6.092522838876963
-"N. Radonjić (27, Torino, Serie A 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",39.97372303333183
-"N. Radonjić (27, Torino, Serie A 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",13.3005617980108
-"N. Radonjić (27, Torino, Serie A 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",20.10798790087261
-"N. Radonjić (27, Torino, Serie A 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-0.9674947402222708
-"N. Radonjić (27, Torino, Serie A 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-6.080326508668139
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",38.17232196788581
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",6.325958452825556
-"N. Radonjić (27, Torino, Serie A 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",54.380613640965024
-"N. Radonjić (27, Torino, Serie A 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",60.4902438906532
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",4.394419771337471
-"N. Radonjić (27, Torino, Serie A 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",-0.6663932168359957
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",12.186207029501444
-"N. Radonjić (27, Torino, Serie A 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",62.43382241078146
-"N. Radonjić (27, Torino, Serie A 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",26.85103566170288
-"N. Radonjić (27, Torino, Serie A 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-10.404766797300024
-"N. Radonjić (27, Torino, Serie A 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",12.27457589871056
-"N. Radonjić (27, Torino, Serie A 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",13.781921924539889
-"N. Radonjić (27, Torino, Serie A 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",22.880316394474796
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-31.38886724463918
-"N. Radonjić (27, Torino, Serie A 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",20.330282217154924
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",16.611640021726306
-"N. Radonjić (27, Torino, Serie A 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-0.3898240558952883
-"N. Radonjić (27, Torino, Serie A 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",12.967001054130504
-"N. Radonjić (27, Torino, Serie A 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",-3.330188100586489
-"N. Radonjić (27, Torino, Serie A 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",30.916803670828813
-"N. Radonjić (27, Torino, Serie A 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",42.97417340177297
-"N. Radonjić (27, Torino, Serie A 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",55.000444504502525
-"N. Radonjić (27, Torino, Serie A 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",65.36241827802868
-"N. Radonjić (27, Torino, Serie A 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",50.781737771337085
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",-9.723238289009045
-"N. Radonjić (27, Torino, Serie A 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-24.67508506082504
-"N. Radonjić (27, Torino, Serie A 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",17.758635878859398
-"N. Radonjić (27, Torino, Serie A 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",34.63950464703812
-"N. Radonjić (27, Torino, Serie A 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",10.092504440449469
-"N. Radonjić (27, Torino, Serie A 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",39.296622559159
-"N. Radonjić (27, Torino, Serie A 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",47.06948303205798
-"N. Radonjić (27, Torino, Serie A 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",39.79334429769722
-"N. Radonjić (27, Torino, Serie A 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",49.42353576210706
-"N. Radonjić (27, Torino, Serie A 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",49.53433135021418
-"N. Radonjić (27, Torino, Serie A 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",2.127433601320652
-"N. Radonjić (27, Torino, Serie A 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",52.02360388216278
-"N. Radonjić (27, Torino, Serie A 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",0.0216034793180347
-"N. Radonjić (27, Torino, Serie A 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",39.9292915849536
-"N. Radonjić (27, Torino, Serie A 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",67.8282439505704
-"N. Radonjić (27, Torino, Serie A 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",60.37092637788108
-"N. Radonjić (27, Torino, Serie A 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-1.2560175344624418
-"N. Radonjić (27, Torino, Serie A 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",59.33087733546277
-"N. Radonjić (27, Torino, Serie A 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",21.64520246938439
-"N. Radonjić (27, Torino, Serie A 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",46.53816937043255
-"N. Radonjić (27, Torino, Serie A 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",64.18520840801024
-"N. Radonjić (27, Torino, Serie A 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",35.59086174918288
-"N. Radonjić (27, Torino, Serie A 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",28.00141805072568
+Player 1,Similarity
+"K. Poku (21, Peterborough United, League One 22-23)",89.71660320854402
+"N. Radonjić (27, Torino, Serie A 22-23)",86.82465976807183
+"N. Radonjić (27, Torino, Serie A 22-23)",86.66236389888552
+"H. Chapman (25, Bradford City, League Two 22-23)",84.65769845402129
+"K. Edwards (25, Ipswich Town, League One 22-23)",84.09218989092544
+"T. Pieńko (19, Zagłębie Lubin, Ekstraklasa 22-23)",82.61256291185549
+"N. Radonjić (27, Torino, Serie A 22-23)",82.36219204104965
+"N. Radonjić (27, Torino, Serie A 22-23)",82.32550348695398
+"N. Shaw (22, Inverness CT, Scottish Championship 22-23)",81.66479484317789
+"N. Benedetti (26, Mazatlán, Liga MX 22-23)",81.27964927424229
+"M. Marzec (28, Katowice, Polish I Liga 22-23)",81.03773123895822
+"A. Vlkanova (28, Viktoria Plzeň, Czech Fortuna Liga 22-23)",80.6268332121157
+"C. Neghli (21, De Graafschap, Eerste Divisie 22-23)",80.58583017144205
+"M. Sitek (22, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",79.92640110628503
+"N. Radonjić (27, Torino, Serie A 22-23)",79.8122233971436
+"N. Radonjić (27, Torino, Serie A 22-23)",79.23109199589616
+"N. Radonjić (27, Torino, Serie A 22-23)",79.05139151664939
+"N. Radonjić (27, Torino, Serie A 22-23)",78.86072316289798
+"Đ. Ivanović (27, Čukarički, Serbian SuperLiga 22-23)",78.83081683522273
+"D. Duarte (35, UD Oliveirense, Portugal Segunda Liga 22-23)",78.30934072066594
+"N. Radonjić (27, Torino, Serie A 22-23)",78.22164585015898
+"I. Hutchinson (23, Walsall, League Two 22-23)",78.15430586178684

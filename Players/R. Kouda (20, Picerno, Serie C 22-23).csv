@@ -1,161 +1,23 @@
-Player 1,Player 2,Similarity
-"R. Kouda (20, Picerno, Serie C 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",35.19123444050422
-"R. Kouda (20, Picerno, Serie C 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",13.441969525876749
-"R. Kouda (20, Picerno, Serie C 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",49.36353635127595
-"R. Kouda (20, Picerno, Serie C 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",25.760124810936347
-"R. Kouda (20, Picerno, Serie C 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",49.151544747423294
-"R. Kouda (20, Picerno, Serie C 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",58.39407570476144
-"R. Kouda (20, Picerno, Serie C 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",42.3156399628989
-"R. Kouda (20, Picerno, Serie C 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",76.20657492155513
-"R. Kouda (20, Picerno, Serie C 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",46.010757555745386
-"R. Kouda (20, Picerno, Serie C 22-23)","N. Belloni (28, Siena, Serie C 22-23)",38.51653624447706
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Frediani (29, Siena, Serie C 22-23)",19.48933109149559
-"R. Kouda (20, Picerno, Serie C 22-23)","F. Urso (28, Torres, Serie C 22-23)",2.9714583174761557
-"R. Kouda (20, Picerno, Serie C 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",25.30866694035689
-"R. Kouda (20, Picerno, Serie C 22-23)","G. Lisai (33, Torres, Serie C 22-23)",28.728442848882192
-"R. Kouda (20, Picerno, Serie C 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",-9.38139889452942
-"R. Kouda (20, Picerno, Serie C 22-23)","C. Attys (22, Trento, Serie C 22-23)",72.13872687297899
-"R. Kouda (20, Picerno, Serie C 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",35.43868638336083
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",-2.880382733880963
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",-1.7078989038326264
-"R. Kouda (20, Picerno, Serie C 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",-1.254758959362571
-"R. Kouda (20, Picerno, Serie C 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",18.385576310056365
-"R. Kouda (20, Picerno, Serie C 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",-11.509143746325435
-"R. Kouda (20, Picerno, Serie C 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",60.03071769808459
-"R. Kouda (20, Picerno, Serie C 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",24.51559381168226
-"R. Kouda (20, Picerno, Serie C 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",0.414037154525177
-"R. Kouda (20, Picerno, Serie C 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",-12.923193913429252
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",-1.804021813391939
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",27.80135123002124
-"R. Kouda (20, Picerno, Serie C 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",13.419673777053918
-"R. Kouda (20, Picerno, Serie C 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",24.45336572411568
-"R. Kouda (20, Picerno, Serie C 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",-19.573312559835983
-"R. Kouda (20, Picerno, Serie C 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",20.019312045997367
-"R. Kouda (20, Picerno, Serie C 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",15.112918705656798
-"R. Kouda (20, Picerno, Serie C 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",2.1787716528348557
-"R. Kouda (20, Picerno, Serie C 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",37.14990100905694
-"R. Kouda (20, Picerno, Serie C 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",9.741737458281504
-"R. Kouda (20, Picerno, Serie C 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",-5.524334922882349
-"R. Kouda (20, Picerno, Serie C 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",9.429869011376356
-"R. Kouda (20, Picerno, Serie C 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",0.8450806030377955
-"R. Kouda (20, Picerno, Serie C 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",12.30966460635407
-"R. Kouda (20, Picerno, Serie C 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",-26.82786491201384
-"R. Kouda (20, Picerno, Serie C 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",0.0896671521215046
-"R. Kouda (20, Picerno, Serie C 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",-23.668433665173257
-"R. Kouda (20, Picerno, Serie C 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",-28.27047046685897
-"R. Kouda (20, Picerno, Serie C 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",33.4674554859546
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",-1.831747578683219
-"R. Kouda (20, Picerno, Serie C 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",8.22945503619009
-"R. Kouda (20, Picerno, Serie C 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",38.00337027136312
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",4.2256983062647215
-"R. Kouda (20, Picerno, Serie C 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",12.703187001975582
-"R. Kouda (20, Picerno, Serie C 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",-2.468850531842905
-"R. Kouda (20, Picerno, Serie C 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",52.0250858314193
-"R. Kouda (20, Picerno, Serie C 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-8.307258604238907
-"R. Kouda (20, Picerno, Serie C 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",8.107452596500565
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",20.981013298175814
-"R. Kouda (20, Picerno, Serie C 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",-10.777620320844866
-"R. Kouda (20, Picerno, Serie C 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",31.32225821290873
-"R. Kouda (20, Picerno, Serie C 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",-6.2454257738737775
-"R. Kouda (20, Picerno, Serie C 22-23)","I. Jebali (31, OB, Superliga 22-23)",14.182051673026743
-"R. Kouda (20, Picerno, Serie C 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",10.283058120933758
-"R. Kouda (20, Picerno, Serie C 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",48.00119388915083
-"R. Kouda (20, Picerno, Serie C 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",11.22007239606992
-"R. Kouda (20, Picerno, Serie C 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",22.72000732462203
-"R. Kouda (20, Picerno, Serie C 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",5.301850480647211
-"R. Kouda (20, Picerno, Serie C 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",11.673895291804746
-"R. Kouda (20, Picerno, Serie C 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",34.678943948094386
-"R. Kouda (20, Picerno, Serie C 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",56.13627661432032
-"R. Kouda (20, Picerno, Serie C 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",26.548613551437786
-"R. Kouda (20, Picerno, Serie C 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",43.44245982912427
-"R. Kouda (20, Picerno, Serie C 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",19.518834852506316
-"R. Kouda (20, Picerno, Serie C 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",7.20141176175755
-"R. Kouda (20, Picerno, Serie C 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",-11.795154855408384
-"R. Kouda (20, Picerno, Serie C 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",34.70966120002987
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",-0.2928970144868007
-"R. Kouda (20, Picerno, Serie C 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",56.83736248974971
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",1.0288141840528515
-"R. Kouda (20, Picerno, Serie C 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",51.97416361545008
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",-1.7455268734235232
-"R. Kouda (20, Picerno, Serie C 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",8.334342337483502
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",-17.115769393591858
-"R. Kouda (20, Picerno, Serie C 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",41.40588739851301
-"R. Kouda (20, Picerno, Serie C 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",2.8200892520957277
-"R. Kouda (20, Picerno, Serie C 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",47.30159045337877
-"R. Kouda (20, Picerno, Serie C 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",7.817470538876242
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",13.511982000121684
-"R. Kouda (20, Picerno, Serie C 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",6.372796012513357
-"R. Kouda (20, Picerno, Serie C 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",33.988133582153914
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",70.10703686358664
-"R. Kouda (20, Picerno, Serie C 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",0.7241741466618484
-"R. Kouda (20, Picerno, Serie C 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",2.3737426995046302
-"R. Kouda (20, Picerno, Serie C 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",14.131858566863208
-"R. Kouda (20, Picerno, Serie C 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",68.14930907784802
-"R. Kouda (20, Picerno, Serie C 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",-7.1903132015959255
-"R. Kouda (20, Picerno, Serie C 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",-20.15668398295578
-"R. Kouda (20, Picerno, Serie C 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",-5.963307470368455
-"R. Kouda (20, Picerno, Serie C 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",25.4156193927948
-"R. Kouda (20, Picerno, Serie C 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",1.4995078343964858
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",-5.904915774654793
-"R. Kouda (20, Picerno, Serie C 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",7.163031115677833
-"R. Kouda (20, Picerno, Serie C 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",22.29708176197457
-"R. Kouda (20, Picerno, Serie C 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",-0.7921808964513354
-"R. Kouda (20, Picerno, Serie C 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",5.965033693393148
-"R. Kouda (20, Picerno, Serie C 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",-2.215071090299544
-"R. Kouda (20, Picerno, Serie C 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",-4.732949786011504
-"R. Kouda (20, Picerno, Serie C 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",15.088796945597345
-"R. Kouda (20, Picerno, Serie C 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",-10.253395744259018
-"R. Kouda (20, Picerno, Serie C 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",-13.170865454656102
-"R. Kouda (20, Picerno, Serie C 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",-12.127890472755194
-"R. Kouda (20, Picerno, Serie C 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",4.03596545560254
-"R. Kouda (20, Picerno, Serie C 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",-9.621555152367083
-"R. Kouda (20, Picerno, Serie C 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",-24.49883172580896
-"R. Kouda (20, Picerno, Serie C 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",2.7424912788664804
-"R. Kouda (20, Picerno, Serie C 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",31.83996730297631
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",27.67093791790344
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",55.04033376720175
-"R. Kouda (20, Picerno, Serie C 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",-11.91740168997528
-"R. Kouda (20, Picerno, Serie C 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",24.395814337154675
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",-4.384626034364867
-"R. Kouda (20, Picerno, Serie C 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",-13.257552655269148
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",26.550929293435104
-"R. Kouda (20, Picerno, Serie C 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",1.6723657902915487
-"R. Kouda (20, Picerno, Serie C 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",10.988320183528568
-"R. Kouda (20, Picerno, Serie C 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-20.9804156092138
-"R. Kouda (20, Picerno, Serie C 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",-8.217179637376718
-"R. Kouda (20, Picerno, Serie C 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",-26.315093731184767
-"R. Kouda (20, Picerno, Serie C 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",4.655757436145762
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-1.4410944363466824
-"R. Kouda (20, Picerno, Serie C 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",35.580753245488
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",-2.3055745687944085
-"R. Kouda (20, Picerno, Serie C 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",14.886261056869769
-"R. Kouda (20, Picerno, Serie C 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",-7.201204104931755
-"R. Kouda (20, Picerno, Serie C 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",-13.0261808411591
-"R. Kouda (20, Picerno, Serie C 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",-9.60228702020328
-"R. Kouda (20, Picerno, Serie C 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",27.594882615611247
-"R. Kouda (20, Picerno, Serie C 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",8.3114200900447
-"R. Kouda (20, Picerno, Serie C 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",14.165517745320129
-"R. Kouda (20, Picerno, Serie C 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",48.71826752828024
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",-44.91047100379465
-"R. Kouda (20, Picerno, Serie C 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",7.023100463607138
-"R. Kouda (20, Picerno, Serie C 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",-9.32579993509856
-"R. Kouda (20, Picerno, Serie C 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",0.7499709440080021
-"R. Kouda (20, Picerno, Serie C 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",-16.674892491608496
-"R. Kouda (20, Picerno, Serie C 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-9.900478890459668
-"R. Kouda (20, Picerno, Serie C 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",-13.05117296076938
-"R. Kouda (20, Picerno, Serie C 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",-14.00681800880216
-"R. Kouda (20, Picerno, Serie C 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",21.180602055693424
-"R. Kouda (20, Picerno, Serie C 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",-6.103061940571114
-"R. Kouda (20, Picerno, Serie C 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",4.097368924391868
-"R. Kouda (20, Picerno, Serie C 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",21.121612560868066
-"R. Kouda (20, Picerno, Serie C 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",52.0628258080422
-"R. Kouda (20, Picerno, Serie C 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",9.014943964898707
-"R. Kouda (20, Picerno, Serie C 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",38.163030434793285
-"R. Kouda (20, Picerno, Serie C 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",28.764470186964104
-"R. Kouda (20, Picerno, Serie C 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-36.22072361638029
-"R. Kouda (20, Picerno, Serie C 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",9.785870326064796
-"R. Kouda (20, Picerno, Serie C 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",-23.818690753333826
-"R. Kouda (20, Picerno, Serie C 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",25.01339200176187
-"R. Kouda (20, Picerno, Serie C 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",62.20341079619083
-"R. Kouda (20, Picerno, Serie C 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",41.20347150094624
-"R. Kouda (20, Picerno, Serie C 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",-4.500023179611488
+Player 1,Similarity
+"M. Browne (25, Oxford United, League One 22-23)",76.49192416557025
+"C. Watts (21, Morecambe, League One 22-23)",76.41647046321441
+"R. Kouda (20, Picerno, Serie C 22-23)",76.20657492155513
+"Ž. Popović (23, Iskra, Montenegro First League 22-23)",73.93081739833191
+"R. Kouda (20, Picerno, Serie C 22-23)",72.13872687297899
+"R. Kouda (20, Picerno, Serie C 22-23)",70.10703686358664
+"D. Politic (23, Port Vale, League One 22-23)",68.23003340008535
+"R. Kouda (20, Picerno, Serie C 22-23)",68.14930907784802
+"R. Gînsari (31, Milsami, Moldovan Super Liga 22-23)",65.8210581149715
+"D. Butterworth (23, Port Vale, League One 22-23)",65.21732275355086
+"L. Cuppone (25, Pescara, Serie C 22-23)",64.74385115559828
+"D. Camara (21, Parma, Serie B 22-23)",64.74089354799067
+"K. Toporkiewicz (21, Sandecja Nowy Sącz, Polish I Liga 22-23)",62.891386713683126
+"L. Nonikashvili (28, Saburtalo, Erovnuli Liga 2023)",62.86501310405903
+"R. Kouda (20, Picerno, Serie C 22-23)",62.20341079619083
+"D. Vogt (22, Meppen, 3. Liga 22-23)",62.16191661446431
+"B. Fadiga (22, Ionikos, Greek Super League 22-23)",61.23527926175984
+"B. Diarra (19, Huddersfield Town, Championship 22-23)",61.04479219614085
+"R. Kouda (20, Picerno, Serie C 22-23)",60.03071769808459
+"J. Walker (29, Bradford City, League Two 22-23)",59.91467051291392
+"R. Broom (26, Cheltenham Town, League One 22-23)",59.7189147336202
+"R. Kouda (20, Picerno, Serie C 22-23)",58.39407570476144

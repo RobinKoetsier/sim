@@ -1,185 +1,23 @@
-Player 1,Player 2,Similarity
-"C. D'Urso (25, Cosenza, Serie B 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",75.91816920979187
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",69.40227450785314
-"C. D'Urso (25, Cosenza, Serie B 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",-22.789547061619547
-"C. D'Urso (25, Cosenza, Serie B 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",78.53544759041225
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",54.93617240393517
-"C. D'Urso (25, Cosenza, Serie B 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",64.35365735880406
-"C. D'Urso (25, Cosenza, Serie B 22-23)","R. Botta (33, Bari, Serie B 22-23)",55.59677316350119
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",48.410239522360655
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",21.08518103981979
-"C. D'Urso (25, Cosenza, Serie B 22-23)","V. Parigini (27, Como, Serie B 22-23)",43.80646168481171
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Álex Blanco (24, Como, Serie B 22-23)",60.608930612906896
-"C. D'Urso (25, Cosenza, Serie B 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",54.53616091724533
-"C. D'Urso (25, Cosenza, Serie B 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",66.41158330867813
-"C. D'Urso (25, Cosenza, Serie B 22-23)","D. Camara (21, Parma, Serie B 22-23)",18.881466834060475
-"C. D'Urso (25, Cosenza, Serie B 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",21.138608907045416
-"C. D'Urso (25, Cosenza, Serie B 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",21.95861567863981
-"C. D'Urso (25, Cosenza, Serie B 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",54.401084021538736
-"C. D'Urso (25, Cosenza, Serie B 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",14.6689955828979
-"C. D'Urso (25, Cosenza, Serie B 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",58.65502469878305
-"C. D'Urso (25, Cosenza, Serie B 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",13.752877292701026
-"C. D'Urso (25, Cosenza, Serie B 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",69.76085165064715
-"C. D'Urso (25, Cosenza, Serie B 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",18.590945071417988
-"C. D'Urso (25, Cosenza, Serie B 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",46.43613468987296
-"C. D'Urso (25, Cosenza, Serie B 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",-9.441077705229771
-"C. D'Urso (25, Cosenza, Serie B 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",58.34529290241968
-"C. D'Urso (25, Cosenza, Serie B 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",49.29473893106141
-"C. D'Urso (25, Cosenza, Serie B 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",20.113580862143053
-"C. D'Urso (25, Cosenza, Serie B 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",18.49824175210193
-"C. D'Urso (25, Cosenza, Serie B 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-14.5732114996866
-"C. D'Urso (25, Cosenza, Serie B 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",36.858316290390505
-"C. D'Urso (25, Cosenza, Serie B 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",11.139441696446054
-"C. D'Urso (25, Cosenza, Serie B 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",23.454425712457848
-"C. D'Urso (25, Cosenza, Serie B 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",46.719372700266334
-"C. D'Urso (25, Cosenza, Serie B 22-23)","N. Belloni (28, Siena, Serie C 22-23)",24.1273562626573
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Frediani (29, Siena, Serie C 22-23)",48.23904261422873
-"C. D'Urso (25, Cosenza, Serie B 22-23)","F. Urso (28, Torres, Serie C 22-23)",39.91574966697732
-"C. D'Urso (25, Cosenza, Serie B 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",28.81371363929305
-"C. D'Urso (25, Cosenza, Serie B 22-23)","G. Lisai (33, Torres, Serie C 22-23)",41.53394300962729
-"C. D'Urso (25, Cosenza, Serie B 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",58.652109384646046
-"C. D'Urso (25, Cosenza, Serie B 22-23)","C. Attys (22, Trento, Serie C 22-23)",28.112943814664547
-"C. D'Urso (25, Cosenza, Serie B 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",62.63198093426878
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",47.330398130008206
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",67.15822554517236
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",51.592116685866095
-"C. D'Urso (25, Cosenza, Serie B 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",53.85910917736941
-"C. D'Urso (25, Cosenza, Serie B 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",58.50291936134081
-"C. D'Urso (25, Cosenza, Serie B 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",-5.168072520366917
-"C. D'Urso (25, Cosenza, Serie B 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",51.449197305500114
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",50.62822453332688
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",67.02402422133365
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",45.31847472479144
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",41.79990047712156
-"C. D'Urso (25, Cosenza, Serie B 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",53.10821434781303
-"C. D'Urso (25, Cosenza, Serie B 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",72.00787772351903
-"C. D'Urso (25, Cosenza, Serie B 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",55.75016806221288
-"C. D'Urso (25, Cosenza, Serie B 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",38.6673674074326
-"C. D'Urso (25, Cosenza, Serie B 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",47.2103842867791
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",45.172604474024446
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",53.08791342759348
-"C. D'Urso (25, Cosenza, Serie B 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",14.943049487782814
-"C. D'Urso (25, Cosenza, Serie B 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",4.207921883660597
-"C. D'Urso (25, Cosenza, Serie B 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",7.387299206685875
-"C. D'Urso (25, Cosenza, Serie B 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",55.784380407151446
-"C. D'Urso (25, Cosenza, Serie B 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",49.54350623596312
-"C. D'Urso (25, Cosenza, Serie B 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",54.51777246163358
-"C. D'Urso (25, Cosenza, Serie B 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",45.58530819915822
-"C. D'Urso (25, Cosenza, Serie B 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",65.60656137461324
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",51.982460468033445
-"C. D'Urso (25, Cosenza, Serie B 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",38.824729372187264
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",32.00960217542673
-"C. D'Urso (25, Cosenza, Serie B 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",-1.7648496167693852
-"C. D'Urso (25, Cosenza, Serie B 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",29.165236534986818
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",66.53011583814086
-"C. D'Urso (25, Cosenza, Serie B 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",47.04566380651311
-"C. D'Urso (25, Cosenza, Serie B 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",17.12879754013523
-"C. D'Urso (25, Cosenza, Serie B 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",34.2427079465773
-"C. D'Urso (25, Cosenza, Serie B 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",11.903759059375712
-"C. D'Urso (25, Cosenza, Serie B 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",19.059442529095925
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",30.893101611470275
-"C. D'Urso (25, Cosenza, Serie B 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",68.31234585652108
-"C. D'Urso (25, Cosenza, Serie B 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",55.528747105146834
-"C. D'Urso (25, Cosenza, Serie B 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",36.04535937603891
-"C. D'Urso (25, Cosenza, Serie B 22-23)","I. Jebali (31, OB, Superliga 22-23)",48.29771071535765
-"C. D'Urso (25, Cosenza, Serie B 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",42.68688610518797
-"C. D'Urso (25, Cosenza, Serie B 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",26.3662946794376
-"C. D'Urso (25, Cosenza, Serie B 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",52.49539545084083
-"C. D'Urso (25, Cosenza, Serie B 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",61.2380231281121
-"C. D'Urso (25, Cosenza, Serie B 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",71.1208953640537
-"C. D'Urso (25, Cosenza, Serie B 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",48.84537479062951
-"C. D'Urso (25, Cosenza, Serie B 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",43.86403088893252
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",46.58180465615157
-"C. D'Urso (25, Cosenza, Serie B 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",64.1373060827242
-"C. D'Urso (25, Cosenza, Serie B 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",34.45454192359264
-"C. D'Urso (25, Cosenza, Serie B 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",28.463130236008933
-"C. D'Urso (25, Cosenza, Serie B 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",50.96624176053057
-"C. D'Urso (25, Cosenza, Serie B 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",54.94637110612365
-"C. D'Urso (25, Cosenza, Serie B 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",16.403830755220874
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",53.44359833643678
-"C. D'Urso (25, Cosenza, Serie B 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",34.72651791941358
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",44.45200211743227
-"C. D'Urso (25, Cosenza, Serie B 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",40.153270366832125
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",74.75289333473076
-"C. D'Urso (25, Cosenza, Serie B 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",52.60036035320766
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",61.77500668928597
-"C. D'Urso (25, Cosenza, Serie B 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",21.764699492344945
-"C. D'Urso (25, Cosenza, Serie B 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",60.03706680927964
-"C. D'Urso (25, Cosenza, Serie B 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",47.92522130818567
-"C. D'Urso (25, Cosenza, Serie B 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",69.37198416054783
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",72.95428163515523
-"C. D'Urso (25, Cosenza, Serie B 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",36.96503454125473
-"C. D'Urso (25, Cosenza, Serie B 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",28.53968303391821
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",16.43690866381152
-"C. D'Urso (25, Cosenza, Serie B 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",64.76773441430981
-"C. D'Urso (25, Cosenza, Serie B 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",60.90150498060611
-"C. D'Urso (25, Cosenza, Serie B 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",50.11400714769827
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",-3.935202225937659
-"C. D'Urso (25, Cosenza, Serie B 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",45.83715929759124
-"C. D'Urso (25, Cosenza, Serie B 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",75.03582234778382
-"C. D'Urso (25, Cosenza, Serie B 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",63.80247699790568
-"C. D'Urso (25, Cosenza, Serie B 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",73.79602957347457
-"C. D'Urso (25, Cosenza, Serie B 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",45.47586554056232
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",26.26185781006232
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",2.917593813705449
-"C. D'Urso (25, Cosenza, Serie B 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",49.2658043371006
-"C. D'Urso (25, Cosenza, Serie B 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",56.199435820347965
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",68.64318310761772
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",49.9644406330463
-"C. D'Urso (25, Cosenza, Serie B 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",52.2070044684942
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",44.64599363983013
-"C. D'Urso (25, Cosenza, Serie B 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",51.662389617139546
-"C. D'Urso (25, Cosenza, Serie B 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",54.51556753785122
-"C. D'Urso (25, Cosenza, Serie B 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",43.51418902164989
-"C. D'Urso (25, Cosenza, Serie B 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",63.79515036225085
-"C. D'Urso (25, Cosenza, Serie B 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",38.103669317743964
-"C. D'Urso (25, Cosenza, Serie B 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",45.45019395892355
-"C. D'Urso (25, Cosenza, Serie B 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",23.12447607490717
-"C. D'Urso (25, Cosenza, Serie B 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-11.537663961141744
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",31.58848465613982
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",-5.584170568084952
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",76.14862443412466
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",60.22301249706798
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",38.98636793477169
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",37.75087460418193
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",28.57126274095928
-"C. D'Urso (25, Cosenza, Serie B 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",70.76626263097987
-"C. D'Urso (25, Cosenza, Serie B 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",17.253686532305686
-"C. D'Urso (25, Cosenza, Serie B 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",5.430485058370923
-"C. D'Urso (25, Cosenza, Serie B 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",38.03064901367368
-"C. D'Urso (25, Cosenza, Serie B 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",52.547303278111926
-"C. D'Urso (25, Cosenza, Serie B 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",49.00692548648564
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-23.111886994997764
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",7.968106063636614
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",37.15172637057153
-"C. D'Urso (25, Cosenza, Serie B 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-8.152446072595666
-"C. D'Urso (25, Cosenza, Serie B 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",28.533432701232485
-"C. D'Urso (25, Cosenza, Serie B 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",15.918298308674144
-"C. D'Urso (25, Cosenza, Serie B 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",47.48784312254008
-"C. D'Urso (25, Cosenza, Serie B 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",42.07927895785288
-"C. D'Urso (25, Cosenza, Serie B 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",58.38505682733224
-"C. D'Urso (25, Cosenza, Serie B 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",59.72654820656072
-"C. D'Urso (25, Cosenza, Serie B 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",20.43328012173333
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",47.8928611754466
-"C. D'Urso (25, Cosenza, Serie B 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",4.031981663542938
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",40.4011441605669
-"C. D'Urso (25, Cosenza, Serie B 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",41.28854754415452
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",44.257455573173225
-"C. D'Urso (25, Cosenza, Serie B 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",51.22186763961604
-"C. D'Urso (25, Cosenza, Serie B 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",71.92976275228658
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",71.37805823156029
-"C. D'Urso (25, Cosenza, Serie B 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",65.3517113757453
-"C. D'Urso (25, Cosenza, Serie B 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",67.3215850443255
-"C. D'Urso (25, Cosenza, Serie B 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",8.80563757130992
-"C. D'Urso (25, Cosenza, Serie B 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",53.212621635758914
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-32.806498441050174
-"C. D'Urso (25, Cosenza, Serie B 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",39.08142705539008
-"C. D'Urso (25, Cosenza, Serie B 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",54.13019259114448
-"C. D'Urso (25, Cosenza, Serie B 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",48.73072082949727
-"C. D'Urso (25, Cosenza, Serie B 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",37.764705748321234
-"C. D'Urso (25, Cosenza, Serie B 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",66.78172328608764
-"C. D'Urso (25, Cosenza, Serie B 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",52.75997777159653
-"C. D'Urso (25, Cosenza, Serie B 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",41.04933751611246
-"C. D'Urso (25, Cosenza, Serie B 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",37.48583433090816
-"C. D'Urso (25, Cosenza, Serie B 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",30.442204676720326
-"C. D'Urso (25, Cosenza, Serie B 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",45.59367424900662
+Player 1,Similarity
+"M. Møller Dæhli (28, Nürnberg, 2. Bundesliga 22-23)",82.3965708818728
+"F. Torres (23, Orlando City, MLS 2023)",80.79277368879522
+"D. Duarte (35, UD Oliveirense, Portugal Segunda Liga 22-23)",80.24187735673061
+"Jesús Carrillo (24, Numancia, Primera División RFEF 22-23)",80.21631273470055
+"A. Măţan (23, Columbus Crew, MLS 2023)",79.85072381405678
+"C. D'Urso (25, Cosenza, Serie B 22-23)",78.53544759041225
+"J. Payne (28, Charlton Athletic, League One 22-23)",77.7365511658076
+"Bernard (30, Panathinaikos, Greek Super League 22-23)",77.46626706849575
+"B. Brahimi (23, Caen, Ligue 2 22-23)",77.05027410744772
+"J. Brandt (27, Borussia Dortmund, Bundesliga 22-23)",76.84850773257072
+"Nam Tae-Hee (31, Al Duhail, Qatari Stars League 22-23)",76.45198554375925
+"C. D'Urso (25, Cosenza, Serie B 22-23)",76.14862443412466
+"C. D'Urso (25, Cosenza, Serie B 22-23)",75.91816920979187
+"D. Crowley (25, Morecambe, League One 22-23)",75.40944520006786
+"O. Fernández (30, Puebla, Liga MX 22-23)",75.3611369214195
+"C. D'Urso (25, Cosenza, Serie B 22-23)",75.03582234778382
+"S. Appelkamp (22, Fortuna Düsseldorf, 2. Bundesliga 22-23)",74.95331185798445
+"C. D'Urso (25, Cosenza, Serie B 22-23)",74.75289333473076
+"I. Malcorra (35, Rosario Central, Argentinian Primera División 2023)",74.59709830103593
+"C. Guanca (30, Al Shabab, Saudi Professional League 22-23)",74.48983986483432
+"J. Sánchez (33, UTC Cajamarca, Peruvian Liga 1 2023)",74.41779914440892
+"D. Beširović (29, Mezőkövesd-Zsóry, NB I 22-23)",74.19986928933653
