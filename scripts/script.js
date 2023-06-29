@@ -104,8 +104,11 @@ d3.csv("names.csv").then(function (data) {
         .attr("height", yScale.bandwidth())
         .attr("fill", "steelblue")
         .on("mouseover", handleMouseOver) // Add mouseover event listener
-        .on("mouseout", handleMouseOut); // Add mouseout event listener
-
+        .on("mouseout", handleMouseOut) // Add mouseout event listener
+        .on("click", function(_, d) { // Modify event binding to access the correct value
+          var player = d['Player'];
+          $("#dropdown").val(player).trigger("change");
+        });
 
       // Create value labels
       svg.selectAll(".value-label")
@@ -147,14 +150,13 @@ svg.append("g")
   .style("font-size", "10px") // Set the font size to 10 pixels
   .style("cursor", "pointer") // Add cursor pointer to the y-axis labels
   .on("click", function(_, d) { // Modify event binding to access the correct value
-    //var labelValue = String(d).slice(0, String(d).indexOf("(")).trim(); // Convert d to a string and extract the value before "("
+    var labelValue = String(d).slice(0, String(d).indexOf("(")).trim(); // Convert d to a string and extract the value before "("
     
-    //var formattedValue = labelValue.substring(labelValue.lastIndexOf('.') + 1); 
-    //console.log(formattedValue)
-    //var transfermarktUrl = "https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=" + encodeURIComponent(formattedValue); // Construct the URL
+    var formattedValue = labelValue.substring(labelValue.lastIndexOf('.') + 1); 
+    var transfermarktUrl = "https://www.transfermarkt.com/schnellsuche/ergebnis/schnellsuche?query=" + encodeURIComponent(formattedValue); // Construct the URL
     //window.location.href = transfermarktUrl; // Redirect to the specified URL
-    //window.open(transfermarktUrl, "_blank"); // Open the specified URL in a new tab
-    $("#dropdown").val(d).trigger("change");
+    window.open(transfermarktUrl, "_blank"); // Open the specified URL in a new tab
+    //$("#dropdown").val(d).trigger("change");
   });
 
 

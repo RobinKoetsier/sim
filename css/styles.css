@@ -22,7 +22,9 @@ body {
   flex-direction: column;
   text-align: center;
   min-height: 100vh;
-  margin: 5;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 10px;
   transition: background 0.2s linear;
 }
 
