@@ -1,188 +1,26 @@
-Player 1,Player 2,Similarity
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",-62.009120586663066
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",30.17365080990142
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",25.489929900124547
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",64.3219741072784
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",-16.909669049993948
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",15.403812117828098
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",3.180224172923622
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",24.792622675914323
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",-6.905891441995923
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",14.484934737370708
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",-34.61402963693933
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",35.832509246779374
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",-35.35873109136484
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",-24.841122788613436
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",-20.65112872990026
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",45.132938435328505
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",-38.41990244460777
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",36.29063717556552
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",-22.1457991631552
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",36.06308630205996
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",-33.66811007631765
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",-43.96061594240335
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",2.674619261419306
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",52.97458112867493
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",60.22890877582464
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",-39.685977554130325
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",16.281814720704283
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",-3.927337617617372
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",-37.91951428723378
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",24.250361542562786
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",11.154090624636192
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",61.09775710975145
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",-1.7899388535985887
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",6.252292755858246
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",50.57380165320542
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",23.37461260607597
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",0.6321485112348133
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",37.22230345680224
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",44.87108887526623
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",-5.024097699566156
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",26.19261009650356
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",24.01372718401767
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",33.61638446752609
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",22.616752730698693
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",30.27870217737596
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",1.521234565160578
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",42.98238701425345
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",36.99528008465108
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",-9.017525165032518
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",22.28716883778379
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",21.93374517363872
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",8.054665944397398
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",49.289172556754416
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",6.925730133622371
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",65.45446130887065
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",41.03313937802252
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",48.73451976133734
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",26.84327460503019
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",4.992976910737766
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-42.509732946926256
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",-7.9211694537502435
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",-34.155789209709994
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",-2.4717076718328608
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",43.096425707823016
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",-7.833376619071375
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",14.157065924222618
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",9.067666205359853
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",-13.170399721221347
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",23.16313244221669
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",18.82274037419315
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",6.564942087686064
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",9.553358264691315
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",47.30599604819775
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",31.83946020406833
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",13.29784806441693
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",11.916921823713816
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",10.997952165814842
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",31.08422822636826
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",-23.743534146944786
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-25.441472822314196
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",23.58303994125756
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",61.50560833262556
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",-0.5479689052572251
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",53.9814868729505
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-17.95848338185437
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",17.14837628436916
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",62.17132147058811
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",14.74100930165234
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",-35.90493466781718
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-22.41432813160749
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",12.157424860623944
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-34.55461711495256
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",-23.09224207861792
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-16.887791384516262
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",14.381911005563005
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",-15.196456376029056
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-14.964832497566077
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-55.06493917692391
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-13.556220914474345
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",12.604330850085734
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",29.038777228902998
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",29.53556354621672
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",4.95285707506921
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",-0.5658220509893244
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",6.4356416965991645
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",-47.41765478897764
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",3.665206573872208
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",1.0418780113180144
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",40.51832229365663
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",1.3380305812452966
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",43.0932089741495
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",-14.946258835808225
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",-2.215744921098971
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",35.167384418807714
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",20.905563855041017
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",-4.0594659231450505
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",-20.327854013632383
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",-18.88432174745248
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",38.32052208778335
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",35.1486260767755
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",8.686862691886756
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",36.0969283897545
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",33.458760315105366
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",37.41037773998531
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",3.7177657992153312
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",56.06858944401935
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",32.844207823999646
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",2.4464687884649017
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",-5.447712877507251
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",18.92795051996064
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",37.656400463556174
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",26.63402267323366
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",-2.762292372114868
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",14.45675532124209
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",-12.241011015510868
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",67.38848149146759
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",44.90848874469362
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",-31.284877809905566
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",58.77682460463809
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",-17.081465265089378
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",41.84727577426884
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",-28.00211057827598
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",1.8728032037377933
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",1.815547828424113
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",-6.458351500730614
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",-29.18679785850861
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",-2.116547890317347
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",23.14244465702781
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",-8.26233704199908
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",36.79273728512703
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",3.625390017715573
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",62.06130324148993
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",29.709730153368845
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",-16.22996835806222
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",-4.47098358299583
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",28.87182663203604
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",-12.459103818801966
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",39.445529737849306
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",23.849043365565
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",-21.80496720272789
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",-15.380808462787783
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",-26.962480303810672
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",-34.103171281503144
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",28.064756757217783
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",-25.09539291307396
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",-44.0531612408453
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",5.848064156389871
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",9.599107503329972
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",-36.16481239166068
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",35.16541856948678
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","P. Mareš (32, RFS, Virsliga 2023)",-29.81521192453581
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-14.811832742186892
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",-11.66037418705023
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",-33.674723693122715
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",11.566867312979046
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",6.295712592955757
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",20.423087473882003
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",30.497286629805657
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",38.69781047209034
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",34.593344689914304
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",-22.211787793254885
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",23.87295872264289
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",-23.39680625251415
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",26.712641416880988
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",-31.497192204215484
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",13.80960596201794
-"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",4.038150017864292
+Player,Similarity
+"R. Maddaloni (24, Imolese, Serie C 22-23)",82.7048028386967
+"L. Lurvink (21, FC Schaffhausen, Swiss Challenge League 22-23)",81.25048242548178
+"P. Marchi (32, Sangiuliano City, Serie C 22-23)",78.59054515083136
+"M. Zlatković (26, Balzan, Malta Premier League 22-23)",78.17565555931608
+"Bernardo (28, Salzburg, Austrian Bundesliga 22-23)",77.52768052024832
+"N. Leković (33, Mladost Lučani, Serbian SuperLiga 22-23)",76.2029384010323
+"G. Berardi (34, Bellinzona, Swiss Challenge League 22-23)",75.53624027689139
+"O. Guðmundsson (21, FH, Iceland Besta-Deild Karla 2023)",75.35770407386401
+"K. Słaby (29, Sandecja Nowy Sącz, Polish I Liga 22-23)",74.57633578510716
+"R. Mazur (31, Resistencia, Paraguay Division Profesional 2023)",73.39839044795214
+"D. Carlson (25, St. Pölten, Austrian 2. Liga 22-23)",73.16095816203563
+"Alef (29, Khon Kaen United, Thai League 1 22-23)",72.99415795926335
+"R. Meneses (24, Atlético Chiriquí, Panama LPF 2023)",72.56163945014784
+"A. van Hoorenbeeck (24, Mechelen, Belgian Pro League 22-23)",72.48831617925394
+"H. Haghverdi (30, Neftchi, Premyer Liqa 22-23)",72.23426202971082
+"D. Biraschi (28, Fatih Karagümrük, Süper Lig 22-23)",72.23392842210649
+"S. Ndlovu (26, Golden Arrows, South Africa PSL 22-23)",72.14085970767393
+"C. Coll (31, Derry City, League of Ireland PL 2023)",72.03359429051687
+"E. Hoxhallari (27, UTA Arad, SuperLiga României 22-23)",71.51449352243408
+"N. Grajeda (34, Iztapa, Guatemala Liga Nacional 22-23)",71.50411103717327
+"E. Fuentes (32, Santa Lucía, Guatemala Liga Nacional 22-23)",71.37242551221289
+"H. Errabei (31, Hammam-Sousse, Tunisian Ligue 1 22-23)",70.91465547053002
+"K. Zammit (27, Birkirkara, Malta Premier League 22-23)",70.64695198059646
+"L. Kelly (24, Bournemouth, Premier League 22-23)",70.02817040179059
+"L. De León (27, Cobán Imperial, Guatemala Liga Nacional 22-23)",69.99704796080002

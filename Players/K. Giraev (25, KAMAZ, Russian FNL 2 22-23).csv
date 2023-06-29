@@ -1,60 +1,26 @@
-Player 1,Player 2,Similarity
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","V. Alexandru (31, AS FC Buzău, Romanian Liga II 22-23)",82.48487230758992
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","A. Maziero (25, Cumbayá, Ecuador Liga Pro 2023)",81.99163708430753
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","S. Müller (22, Hallescher FC, 3. Liga 22-23)",78.779677322694
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","F. Borsos (22, Győri ETO, NB II 22-23)",83.93481596766408
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","J. Tranziska (21, Admira, Austrian 2. Liga 22-23)",71.02416127606989
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","B. Matić (31, Napredak Kruševac, Serbian SuperLiga 22-23)",83.47608545918347
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","J. Barrales (36, Asteras Tripolis, Greek Super League 22-23)",59.87166581521885
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","E. McGuckin (32, Carrick Rangers, Northern Ireland Premiership 22-23)",74.61941065347148
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","M. Kelemen (23, Ružomberok, Slovak Super Liga 22-23)",79.06300965401635
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","M. Smith (33, Salford City, League Two 22-23)",74.8677954379878
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","G. Cirjan (34, Oţelul, Romanian Liga II 22-23)",68.66687505591057
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","M. Monsberger (22, Floridsdorfer AC, Austrian 2. Liga 22-23)",79.28544213960012
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","J. Toledo (37, Sarmiento, Argentinian Primera División 2023)",75.60427232815489
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","C. Washington (30, Rotherham United, Championship 22-23)",76.05520372149923
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","R. Berlinski (28, Rot-Weiss Essen, 3. Liga 22-23)",86.65162301224345
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","Beto (25, Udinese, Serie A 22-23)",94.4972639981774
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","T. Awoniyi (25, Nottingham Forest, Premier League 22-23)",89.2633315191176
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","A. La Mantia (32, SPAL, Serie B 22-23)",81.86028849475065
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","N. Todorov (26, Dunfermline Athletic, Scottish League One 22-23)",75.86289360117078
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","P. Yordanov (33, OFK Pirin, Bulgarian First League 22-23)",80.42427681602663
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","E. Sorga (23, Lokomotiv Plovdiv, Bulgarian First League 22-23)",68.42981424326825
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","K. Krastev (24, Beroe, Bulgarian First League 22-23)",86.87917567327112
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","B. Manevski (37, Pelister, North Macedonia First League 22-23)",66.97921660390426
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","P. Mijić (24, Horn, Austrian 2. Liga 22-23)",86.97134989637645
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)",83.41318971295254
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","Oufa (26, ENPPI, Egyptian Premier League 22-23)",80.46098544010519
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","A. Vigh (35, Dorogi FC, NB II 22-23)",76.66076256260716
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)",67.18906721505508
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","S. Selmani (21, Kastrioti Krujë, Albanian Premier League 22-23)",76.35255501921928
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","C. Wilkinson (28, Walsall, League Two 22-23)",72.45710098270905
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","José Ángel Carrillo (29, Huesca, La Liga 2 22-23)",63.88662252335471
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","D. Johnson (30, Mansfield Town, League Two 22-23)",87.38526615525593
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","M. Đurić (33, Hellas Verona, Serie A 22-23)",68.49054349402718
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","F. Noccioli (23, San Donato Tavarnelle, Serie C 22-23)",81.30488015107336
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","Bruno Mota (27, Cheonan City, K League 2 2023)",79.85991984526073
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)",81.9407450668183
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","I. Ugbo (24, Troyes, Ligue 1 22-23)",76.61603828446106
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","K. Kouassi (19, Sutton United, League Two 22-23)",65.79792625268315
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)",80.34149206352735
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","C. Monschein (30, Ried, Austrian Bundesliga 22-23)",80.81673830660158
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","A. Sitalo (33, Inhulets, Ukrainian Premier Liha 22-23)",82.22712206975854
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","A. Williams (36, Walsall, League Two 22-23)",75.88254142351576
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","R. Nemoto (23, Tochigi, J2 2023)",86.56084822721637
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","A. Yakubu (24, Rio Ave, Primeira Liga 22-23)",83.03035435174313
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)",87.3492193811701
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","G. Cooper (25, Chindia Târgovişte, SuperLiga României 22-23)",84.5021155882113
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","Antoñín Cortés (23, Anorthosis, Cyprus 1. Division 22-23)",79.94838748316691
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","G. Leyes (33, Academia Cantolao, Peruvian Liga 1 2023)",80.66988850805137
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","D. Hylton (34, Northampton Town, League Two 22-23)",65.70027618617027
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","F. Bohman (26, Trelleborg, Superettan 2023)",81.61081062022573
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","K. Connell (21, Raith Rovers, Scottish Championship 22-23)",83.03875850439528
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","J. Zuñiga (29, Xinabajul, Guatemala Liga Nacional 22-23)",82.73021557848708
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","T. Hopper (29, Colchester United, League Two 22-23)",78.67936579430848
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","M. Egho (29, Randers, Superliga 22-23)",87.68944279358539
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","M. Hornyák (29, Csákvári TK, NB II 22-23)",84.85797687175149
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","M. van Duinen (31, Excelsior, Eredivisie 22-23)",77.05015167506494
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","L. Bekui (28, Al Sahel, Saudi First Division 22-23)",60.385999677133775
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","Vitor (25, Najran, Saudi First Division 22-23)",59.22052931023286
-"K. Giraev (25, KAMAZ, Russian FNL 2 22-23)","M. Jurina (29, Al Faisaly, Saudi First Division 22-23)",60.24270765624217
+Player,Similarity
+"Beto (25, Udinese, Serie A 22-23)",94.4972639981774
+"M. Leaburn (19, Charlton Athletic, League One 22-23)",92.36700035191328
+"B. Bilalov (20, Volga Ulyanovsk, Russian FNL 2 22-23)",92.11181071364048
+"R. Ache (24, Greuther Fürth, 2. Bundesliga 22-23)",91.94444905116428
+"J. Wakeling (21, Swindon Town, League Two 22-23)",91.1192966567959
+"L. Lauberbach (25, Eintracht Braunschweig, 2. Bundesliga 22-23)",90.52365709368196
+"K. Joseph (21, Oxford United, League One 22-23)",90.38536637750542
+"D. Németh (19, Zalaegerszegi TE, NB I 22-23)",90.27913874856976
+"D. Vašulín (24, Hradec Králové, Czech Fortuna Liga 22-23)",90.24491998919976
+"M. Konaté (25, Akhmat Grozny, Russian Premier League 22-23)",90.18814437844736
+"I. Bebou (29, Hoffenheim, Bundesliga 22-23)",89.99525848664884
+"L. Gondou (21, Sarmiento, Argentinian Primera División 2023)",89.81459668853056
+"M. Raičević (29, Mornar, Montenegro First League 22-23)",89.68707143105762
+"T. Awoniyi (25, Nottingham Forest, Premier League 22-23)",89.2633315191176
+"A. Arrighini (32, Pro Vercelli, Serie C 22-23)",89.20556753225263
+"H. Wright (25, Antalyaspor, Süper Lig 22-23)",89.17602119771095
+"Ewan Urain (23, Amorebieta, Primera División RFEF 22-23)",89.00599467720428
+"V. Perlaza (28, ADT, Peruvian Liga 1 2023)",88.78104124789897
+"S. Williamson (22, Queen's Park, Scottish Championship 22-23)",88.67667242674419
+"F. Lohkemper (28, Nürnberg, 2. Bundesliga 22-23)",88.62050622223582
+"P. Abdulla (29, Jönköpings Södra, Superettan 2023)",88.34225538280378
+"M. Satriano (22, Empoli, Serie A 22-23)",88.2662144812269
+"C. Strandberg (27, Al Sailiya, Qatari Stars League 22-23)",88.26458160786528
+"G. Zakpa (30, Sabail, Premyer Liqa 22-23)",88.23691170739707
+"E. Ikoba (25, Zalaegerszegi TE, NB I 22-23)",88.17624308311832

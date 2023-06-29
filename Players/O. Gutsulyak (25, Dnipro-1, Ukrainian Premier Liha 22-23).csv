@@ -1,72 +1,26 @@
-Player 1,Player 2,Similarity
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","V. Naumets (24, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",42.54071187172022
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","M. Zaderaka (28, Kryvbas KR, Ukrainian Premier Liha 22-23)",32.887369388194266
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","V. Dakhnovskyi (24, Veres, Ukrainian Premier Liha 22-23)",60.92325473879965
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","N. Voloshyn (19, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",62.127006281425466
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","S. Myakushko (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",47.50885745246809
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","Y. Pidlepenets (24, Dnipro-1, Ukrainian Premier Liha 22-23)",73.47690087239354
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","D. Blanco (28, Dnipro-1, Ukrainian Premier Liha 22-23)",55.41496247176181
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","V. Kalitvintsev (30, Oleksandria, Ukrainian Premier Liha 22-23)",23.489119250660004
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","N. Vorobchak (23, Minaj, Ukrainian Premier Liha 22-23)",33.7637798026573
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","Z. Badibanga (31, Chornomorets, Ukrainian Premier Liha 22-23)",39.72307668614539
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","V. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",53.42415812868072
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",59.58277380845324
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","V. Kabaev (27, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",62.439621801441206
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","O. Kozak (28, Inhulets, Ukrainian Premier Liha 22-23)",48.26099232121568
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","D. Alefirenko (23, Chornomorets, Ukrainian Premier Liha 22-23)",75.12847924005469
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","B. Boychuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",48.36895453274448
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","V. Tsygankov (25, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",39.46818839248856
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","V. Rogozynskyi (27, Minaj, Ukrainian Premier Liha 22-23)",9.33354951010536
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","E. Kuliev (21, Minaj, Ukrainian Premier Liha 22-23)",43.29823252856719
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","O. Zubkov (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",48.03014925832942
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","V. Odaryuk (29, Inhulets, Ukrainian Premier Liha 22-23)",32.27722347590001
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",24.045948479748592
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","D. Kryskiv (22, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",58.72815053610152
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","A. Bliznichenko (28, Veres, Ukrainian Premier Liha 22-23)",31.089094798475447
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)",47.36910193660132
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",46.25113431179829
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",56.585016787050776
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",28.926025577848275
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",15.560654052521503
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",22.225056088016203
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",68.18192286749539
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",58.650767914345856
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",48.701845190946834
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",41.493229697162285
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",30.564967107452883
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",59.56962694400162
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",39.874779256676895
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",37.77928917741477
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",51.21764006470093
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",43.40185955516871
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",21.4924047139781
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",57.801874701853166
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",62.29203981748503
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",13.821536111860294
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",62.01073816594585
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",60.24325377673669
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",32.44379182531588
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",65.40971536040284
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",25.94080133790719
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",55.38838188799423
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",44.706216496369095
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",2.499444310133236
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",53.64930765530024
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",4.730512674309384
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",65.84097900583053
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",54.475528060550346
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",62.77371675631378
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",47.41076995861251
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",80.03366751064384
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",68.62270943597298
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",33.374819698060776
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",58.37511011036389
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",62.52609156413092
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",34.75742348575564
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",63.63991372107963
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",74.12763297201101
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",14.975333293725498
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",47.53508894413096
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",49.60566078547705
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",54.329939296796816
-"O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",76.61465157026718
+Player,Similarity
+"Z. Aboukhlal (23, Toulouse, Ligue 1 22-23)",86.80639417809752
+"M. Leckie (32, Melbourne City, A-League Men 22-23)",86.4139504248808
+"J. Rodríguez (29, América, Liga MX 22-23)",85.86290532934758
+"Galeno (25, Porto, Primeira Liga 22-23)",85.22453878988043
+"T. Zimmerschied (24, Hallescher FC, 3. Liga 22-23)",85.16776946718974
+"N. Thórisson (23, Beerschot-Wilrijk, Belgian First Division B 22-23)",85.01400975410432
+"J. Moussango (20, Diósgyőr, NB II 22-23)",84.70294215108312
+"S. Zenjov (34, Flora, Estonian Meistriliiga 2023)",84.46633929861027
+"R. Selmani (26, Renova, North Macedonia First League 22-23)",84.08709715378704
+"Haitham Asiri (22, Al Ahli, Saudi First Division 22-23)",83.9072706041537
+"S. Mitrović (20, Crvena Zvezda, Serbian SuperLiga 22-23)",83.62501947650856
+"E. Nuamah (19, Nordsjælland, Superliga 22-23)",82.37388626841958
+"M. Kudus (22, Ajax, Eredivisie 22-23)",82.35605999686547
+"D. Špikić (24, Dinamo Zagreb, 1. HNL 22-23)",82.27293205924025
+"W. Zaha (30, Crystal Palace, Premier League 22-23)",81.7417395281534
+"O. Bukari (24, Crvena Zvezda, Serbian SuperLiga 22-23)",81.5841661781948
+"J. Ikoné (25, Fiorentina, Serie A 22-23)",81.49629508513547
+"R. Hatuel (25, Hapoel Be'er Sheva, Ligat Ha'al 22-23)",81.4253244056185
+"B. Rodríguez (23, América, Liga MX 22-23)",81.28796818545013
+"M. Cvetanoski (25, Shkupi, North Macedonia First League 22-23)",81.26137512395249
+"L. Sinayoko (23, Auxerre, Ligue 1 22-23)",80.91119148392899
+"R. Ndo (22, Estrela Amadora, Portugal Segunda Liga 22-23)",80.88583578501365
+"S. Izountouemoi (24, Brage, Superettan 2023)",80.73074941981135
+"J. Pemberton (30, Guadalupe, Costa Rica Primera División 22-23)",80.60859336896067
+"O. Camara (24, Dinamo Tbilisi, Erovnuli Liga 2023)",80.59061589711104

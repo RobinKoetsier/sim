@@ -1,82 +1,26 @@
-Player 1,Player 2,Similarity
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",74.18570695903627
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",44.627300782952574
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",72.56592956365454
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",18.21851085089548
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",78.08878419691395
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",38.33968309190672
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",41.3691807864634
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",22.692003949486796
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",24.269980019187347
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",81.7792985036826
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",79.72438527496344
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",64.84518730821912
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",34.893574272897304
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",38.682068601586096
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",64.02740234389744
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",78.14238008506432
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",62.70859362993909
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",81.35608294884837
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",39.87972474696172
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",-18.466893689466325
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",43.68040980025312
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",71.74218612494356
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",54.91733542280295
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",74.57428846642647
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",49.05038992586408
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",62.62761511152235
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",76.95841520856578
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",68.54830822058742
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",63.792277104239645
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",61.01153210702751
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",-7.065028487254146
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",57.50509393113145
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",62.54762020344252
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-38.80795323779937
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",1.310467817488966
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",42.62973724905145
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",65.82477930991325
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",72.45171643984112
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",26.991281592039705
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",53.26769189395348
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",50.6378440972997
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",43.027215868250224
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",56.70427932400226
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-19.705057129561425
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",30.409503734714644
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",21.10266741249345
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",53.33122433100085
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-28.555622159314886
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",-10.61533195481938
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",65.69719793692192
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-30.138438972722465
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",51.93525985841275
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",46.70857594687414
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",70.03929788360476
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",32.739564204156416
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",46.62487692588154
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",74.84603855905435
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",16.95825509856457
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",56.17297066206793
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",14.976675903457574
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",61.50300703580671
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",61.14749287106679
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",24.92072505893535
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",37.00332455690229
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",64.1114681857097
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",68.89653409212862
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",64.7053820605082
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",38.96264664264798
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",0.6876887696900881
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",23.12984881265636
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-14.645892259976971
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",28.100530497970137
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",41.92730893663345
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",55.85971064858928
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",67.49030143579424
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",69.24967086562971
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",75.41969176492968
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",74.65289686110683
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",33.97138834099321
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",59.916148998969234
-"F. Rieder (21, Young Boys, Swiss Super League 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",89.31233868652468
+Player,Similarity
+"C. Hernández (27, Antigua GFC, Guatemala Liga Nacional 22-23)",89.45317469370431
+"L. Vapne (19, FK Metta, Virsliga 2023)",89.31233868652468
+"R. Kronaveter (36, Maribor, 1. SNL 22-23)",89.17134166847238
+"Ager Aketxe (29, Eibar, La Liga 2 22-23)",87.84626917153258
+"Dudu (24, AS FC Buzău, Romanian Liga II 22-23)",86.76978323811348
+"B. Rácz (27, Szombathelyi Haladás, NB II 22-23)",86.7036467323021
+"A. Lescano (21, Gimnasia La Plata, Argentinian Primera División 2023)",85.66016205902787
+"S. Schrijvers (26, OH Leuven, Belgian Pro League 22-23)",85.15854860851607
+"T. Savanier (31, Montpellier, Ligue 1 22-23)",84.99433951025163
+"Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",84.91876091051238
+"A. Arena (22, Gubbio, Serie C 22-23)",84.89518474947688
+"A. Roman (29, CSMS Iaşi, Romanian Liga II 22-23)",84.20677732770892
+"F. Sambueza (34, Santa Fe, Colombian Primera Division 22-23)",83.89799031040343
+"Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",83.81944116953395
+"E. Vidal (27, Persita, BRI Liga 1 22-23)",83.61500719364734
+"K. Ouarkhane (23, JS Soualem, Botola Pro 22-23)",83.53880141643157
+"Álex Arias (33, CD Calahorra, Primera División RFEF 22-23)",83.21709403399181
+"Y. Kikui (23, Matsumoto Yamaga, J3 2023)",82.69156071795453
+"J. Vergés (31, Gualaceo, Ecuador Liga Pro 2023)",82.52242719351489
+"L. Fernández (24, Toluca, Liga MX 22-23)",82.46172321358304
+"A. Vutov (26, Lokomotiv Sofia 1929, Bulgarian First League 22-23)",82.20780016828407
+"S. Kallaku (25, Teuta Durrës, Albanian Premier League 22-23)",82.06407426798916
+"S. Szymański (24, Feyenoord, Eredivisie 22-23)",82.06240415720858
+"Zé Valente (28, Persebaya Surabaya, BRI Liga 1 22-23)",81.88903185328203
+"A. Băluță (29, Puskás FC, NB I 22-23)",81.88337251169531

@@ -1,90 +1,26 @@
-Player 1,Player 2,Similarity
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Yahya Al Ghassani (25, Shabab Al Ahli Dubai, UAE Pro League 22-23)",71.02134184745056
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)",59.09838624624864
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Harib Abdalla Suhail (20, Shabab Al Ahli Dubai, UAE Pro League 22-23)",63.52380271862249
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","B. Ramírez (22, Al Ittihad Kalba, UAE Pro League 22-23)",59.813491879787705
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Leandro Spadacio (23, Al Ittihad Kalba, UAE Pro League 22-23)",73.24966423868565
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Mohamed Al Junaibi (24, Al Dhafra, UAE Pro League 22-23)",37.98474812555176
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Ahmed Abunamous (23, Bani Yas, UAE Pro League 22-23)",80.37717319199533
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Diaby (31, Al Ittihad Kalba, UAE Pro League 22-23)",63.12040882011779
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Caio Canedo (32, Al Ain, UAE Pro League 22-23)",36.06264646513324
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","F. Kruspzky (20, Al Wahda, UAE Pro League 22-23)",30.771465077383937
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","T. Seferi (26, Vorskla, Ukrainian Premier Liha 22-23)",67.30330281684103
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Solomon-Otabor (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",71.38416307223041
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","G. Pasich (29, Veres, Ukrainian Premier Liha 22-23)",50.869628521660246
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",46.67347812971568
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","R. Rusyn (27, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",67.20960129311528
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Y. Kartushov (32, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",-6.155993654048894
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","O. Ilyin (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",26.703293313653155
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)",67.339759662392
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Naumets (24, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",81.78253514500486
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","M. Zaderaka (28, Kryvbas KR, Ukrainian Premier Liha 22-23)",51.975788103031775
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Dakhnovskyi (24, Veres, Ukrainian Premier Liha 22-23)",49.32589145825633
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","N. Voloshyn (19, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",51.23574037030356
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","S. Myakushko (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",64.193317632132
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Y. Pidlepenets (24, Dnipro-1, Ukrainian Premier Liha 22-23)",49.38304435580457
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","D. Blanco (28, Dnipro-1, Ukrainian Premier Liha 22-23)",41.89708419629693
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Kalitvintsev (30, Oleksandria, Ukrainian Premier Liha 22-23)",52.10125242489172
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","N. Vorobchak (23, Minaj, Ukrainian Premier Liha 22-23)",58.23208925767447
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Z. Badibanga (31, Chornomorets, Ukrainian Premier Liha 22-23)",42.337579116207486
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",51.28090952382933
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",61.14238619288047
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Kabaev (27, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",63.26945426383147
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","O. Kozak (28, Inhulets, Ukrainian Premier Liha 22-23)",54.43791640749903
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","D. Alefirenko (23, Chornomorets, Ukrainian Premier Liha 22-23)",71.92151870974632
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","B. Boychuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",66.29031436544227
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Tsygankov (25, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",67.50398788588453
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Rogozynskyi (27, Minaj, Ukrainian Premier Liha 22-23)",12.083478186306236
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","E. Kuliev (21, Minaj, Ukrainian Premier Liha 22-23)",45.183674918293725
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","O. Zubkov (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",74.76131274928231
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","V. Odaryuk (29, Inhulets, Ukrainian Premier Liha 22-23)",14.886087550929798
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",46.47720032056298
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","D. Kryskiv (22, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",69.65545022636633
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Bliznichenko (28, Veres, Ukrainian Premier Liha 22-23)",57.46969909600021
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)",69.7116342483528
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",45.89247131737918
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",66.97476254418125
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",18.302114167578235
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",44.804131868899546
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",50.511475996095214
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",54.8495131399332
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",74.89653707579474
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",75.33066593205969
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",45.50355080768666
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",57.08884422043157
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",48.30407156504972
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",64.95973962247025
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",16.56241025965531
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",68.37728176931702
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",64.11427732117465
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",61.90594347715156
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",82.23800046802067
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",57.56292910689965
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",62.800024230251296
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",62.52592454384237
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",61.106169653246646
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",29.88743954778103
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",40.58653528004701
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",52.351190734648455
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",57.23171989375789
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",35.43935271485347
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",12.059762458449953
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",77.90602896880051
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",-16.625248391917875
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",76.16289903261566
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",64.04307591251808
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",68.67425347957362
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",48.4078060578615
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",77.10197022332375
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",75.4818235842313
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",42.38538566797623
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",51.91228096846879
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",78.46041102151398
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",27.948557933530758
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",81.3313284918557
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",65.1580206602006
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",1.889654557064852
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",69.42865610328673
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",22.927613472426096
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",47.55729115028481
-"Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",74.41623076534819
+Player,Similarity
+"B. Tekpetey (25, Ludogorets, Bulgarian First League 22-23)",90.98246403652811
+"A. Kolaj (24, Pescara, Serie C 22-23)",89.8963322819443
+"D. Bouanga (28, Los Angeles FC, MLS 2023)",89.82182171918666
+"M. Manhoef (21, Vitesse, Eredivisie 22-23)",89.69280883888493
+"G. Diangana (24, West Bromwich Albion, Championship 22-23)",89.38011727121152
+"J. Mickels (29, Sabah, Premyer Liqa 22-23)",89.0681194505158
+"L. Olden Larsen (24, Häcken, Allsvenskan 2023)",88.29028544527101
+"C. Lichtenberger (27, Lafnitz, Austrian 2. Liga 22-23)",88.24735688686842
+"Y. Gboho (22, Cercle Brugge, Belgian Pro League 22-23)",87.9723291666214
+"Mohamed Salah (30, Liverpool, Premier League 22-23)",87.76584651306503
+"S. Chukwueze (24, Villarreal, La Liga 22-23)",87.74659194684766
+"D. Merola (23, Pescara, Serie C 22-23)",87.58547449052512
+"O. Bukari (24, Crvena Zvezda, Serbian SuperLiga 22-23)",87.32525498532358
+"Nawaf Al Sadi (21, Abha, Saudi Professional League 22-23)",87.15960281109254
+"S. Tiffoney (24, Partick Thistle, Scottish Championship 22-23)",86.98779731296997
+"Willy Semedo (29, Pafos, Cyprus 1. Division 22-23)",86.58167958496392
+"P. Mbarga (31, Bali United, BRI Liga 1 22-23)",86.55338159083186
+"J. Paintsil (25, Genk, Belgian Pro League 22-23)",86.40299258742982
+"M. Kovácsréti (22, Nyíregyháza Spartacus, NB II 22-23)",86.36243103410024
+"A. Brrou (24, Standard Liège II, Belgian First Division B 22-23)",86.2270856885177
+"S. Silvera (22, Central Coast Mariners, A-League Men 22-23)",86.13439775602825
+"S. Allouch (21, VVV Venlo, Eerste Divisie 22-23)",85.94325571687429
+"T. Barseghyan (29, Slovan Bratislava, Slovak Super Liga 22-23)",85.64333823084544
+"M. Usor (21, LASK, Austrian Bundesliga 22-23)",85.62395372547827
+"J. Ceka (23, Magdeburg, 2. Bundesliga 22-23)",85.59871806760978

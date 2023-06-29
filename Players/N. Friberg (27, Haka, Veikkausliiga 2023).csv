@@ -1,32 +1,26 @@
-Player 1,Player 2,Similarity
-"N. Friberg (27, Haka, Veikkausliiga 2023)","C. Antwi (23, KuPS, Veikkausliiga 2023)",38.9989262595464
-"N. Friberg (27, Haka, Veikkausliiga 2023)","M. Rale (22, Honka, Veikkausliiga 2023)",22.833599203778235
-"N. Friberg (27, Haka, Veikkausliiga 2023)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",59.38716318218227
-"N. Friberg (27, Haka, Veikkausliiga 2023)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",17.437204135558314
-"N. Friberg (27, Haka, Veikkausliiga 2023)","T. Ollila (23, HJK, Veikkausliiga 2023)",1.3980055989503537
-"N. Friberg (27, Haka, Veikkausliiga 2023)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",-11.287026952684302
-"N. Friberg (27, Haka, Veikkausliiga 2023)","K. Ofori (21, SJK, Veikkausliiga 2023)",-14.58755863258045
-"N. Friberg (27, Haka, Veikkausliiga 2023)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",33.71804068931789
-"N. Friberg (27, Haka, Veikkausliiga 2023)","P. Soiri (28, HJK, Veikkausliiga 2023)",-5.185969418593087
-"N. Friberg (27, Haka, Veikkausliiga 2023)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",3.330220107777531
-"N. Friberg (27, Haka, Veikkausliiga 2023)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",3.7493635037583175
-"N. Friberg (27, Haka, Veikkausliiga 2023)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",3.191051028368302
-"N. Friberg (27, Haka, Veikkausliiga 2023)","M. Gaye (24, Riga FC, Virsliga 2023)",3.913833588937852
-"N. Friberg (27, Haka, Veikkausliiga 2023)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",20.873076026182005
-"N. Friberg (27, Haka, Veikkausliiga 2023)","P. Mareš (32, RFS, Virsliga 2023)",5.017549442914956
-"N. Friberg (27, Haka, Veikkausliiga 2023)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-3.6567282596340505
-"N. Friberg (27, Haka, Veikkausliiga 2023)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",-15.06260979663126
-"N. Friberg (27, Haka, Veikkausliiga 2023)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",1.5873936341852948
-"N. Friberg (27, Haka, Veikkausliiga 2023)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",16.22793549818794
-"N. Friberg (27, Haka, Veikkausliiga 2023)","N. Bretschneider (23, FK Auda, Virsliga 2023)",10.93809987753288
-"N. Friberg (27, Haka, Veikkausliiga 2023)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",-9.424320481101311
-"N. Friberg (27, Haka, Veikkausliiga 2023)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",-6.941877085659076
-"N. Friberg (27, Haka, Veikkausliiga 2023)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",41.24586590503886
-"N. Friberg (27, Haka, Veikkausliiga 2023)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",-0.208303490090866
-"N. Friberg (27, Haka, Veikkausliiga 2023)","P. Fall (22, Valmiera FC, Virsliga 2023)",19.82251484263836
-"N. Friberg (27, Haka, Veikkausliiga 2023)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",21.278995658675225
-"N. Friberg (27, Haka, Veikkausliiga 2023)","R. Skrebels (23, FK Auda, Virsliga 2023)",44.51380598906316
-"N. Friberg (27, Haka, Veikkausliiga 2023)","E. Birka (23, Valmiera FC, Virsliga 2023)",-3.346461730114881
-"N. Friberg (27, Haka, Veikkausliiga 2023)","R. Savaļnieks (30, RFS, Virsliga 2023)",-1.440118592915946
-"N. Friberg (27, Haka, Veikkausliiga 2023)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",32.1697671023835
-"N. Friberg (27, Haka, Veikkausliiga 2023)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",-22.02600581089431
+Player,Similarity
+"Jaime Paredes (32, SD Logroñés, Primera División RFEF 22-23)",84.44988071148276
+"G. Tsivelekidis (24, Nõmme Kalju, Estonian Meistriliiga 2023)",81.90056244601134
+"B. Stillhart (29, St. Gallen, Swiss Super League 22-23)",78.70431912884743
+"T. Thomas (27, Charlton Athletic, League One 22-23)",76.9587019700604
+"M. Dal Hende (32, SønderjyskE, Danish 1. Division 22-23)",73.7444209706161
+"M. Possenti (30, Renate, Serie C 22-23)",73.62186790646902
+"A. Azrual (21, Hapoel Afula, Liga Leumit 22-23)",73.61194432058139
+"B. Böðvarsson (28, Trelleborg, Superettan 2023)",73.06612864345107
+"Q. Bernard (33, Niort, Ligue 2 22-23)",72.90550927508585
+"M. Lilander (25, Flora, Estonian Meistriliiga 2023)",72.2294208090256
+"M. Capoferri (21, Piacenza, Serie C 22-23)",71.18115856106037
+"Myung-Sun Kim (22, Cheongju FC, K League 2 2023)",70.62956808769705
+"G. Šlein (27, Nõmme Kalju, Estonian Meistriliiga 2023)",70.24577797864652
+"N. Stijepović (29, Sutjeska, Montenegro First League 22-23)",69.70819971967262
+"E. Vaitkūnas (34, Šiauliai, Lithuanian A Lyga 2023)",69.67663266565084
+"F. Greilinger (22, 1860 München, 3. Liga 22-23)",69.23137347866562
+"M. Persson (22, Brage, Superettan 2023)",69.18629011062639
+"M. Sampirisi (30, Frosinone, Serie B 22-23)",68.19341825669261
+"M. Ono (26, Montedio Yamagata, J2 2023)",68.15992248001642
+"R. Mazáň (29, Hebar 1918, Bulgarian First League 22-23)",68.14084959465725
+"H. Izrin (35, Hapoel Petah Tikva, Liga Leumit 22-23)",67.73678261488848
+"J. Jacobs (23, Almere City, Eerste Divisie 22-23)",67.70531020491684
+"M. Medvedev (33, Qarabag, Premyer Liqa 22-23)",67.16849456591561
+"M. Bećirović (34, Floridsdorfer AC, Austrian 2. Liga 22-23)",67.07928365775481
+"V. Larsson (23, Värnamo, Allsvenskan 2023)",67.0666628343834

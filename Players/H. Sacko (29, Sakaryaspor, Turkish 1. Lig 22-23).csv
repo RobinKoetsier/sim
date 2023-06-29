@@ -1,113 +1,26 @@
-Player 1,Player 2,Similarity
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","А.Tuzcu (20, Gençlerbirliği, Turkish 1. Lig 22-23)",53.36012199835793
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","F. Ezeh (25, Eyüpspor, Turkish 1. Lig 22-23)",64.44857615318809
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","O. Belyaev (23, Gençlerbirliği, Turkish 1. Lig 22-23)",36.57567856620352
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Ali Saleh (23, Al Wasl, UAE Pro League 22-23)",22.247316982935423
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Fabio de Lima (29, Al Wasl, UAE Pro League 22-23)",14.434997987920692
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Aylton Boa Morte (29, Khorfakkan, UAE Pro League 22-23)",65.07658015035912
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Lourency (27, Al Bataeh, UAE Pro League 22-23)",41.13521240942096
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","S. Rahimi (26, Al Ain, UAE Pro League 22-23)",25.18319635172465
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Ali Madan (27, Ajman, UAE Pro League 22-23)",18.426049688675587
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Ryan Mendes (33, Al Nasr, UAE Pro League 22-23)",22.53363925844198
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Amer Bazuhair (31, Dibba Al Fujairah, UAE Pro League 22-23)",48.22067670447412
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Suhail Ahmed Al Noobi (27, Bani Yas, UAE Pro League 22-23)",50.90148593682425
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","P. Mboungou (22, Ajman, UAE Pro League 22-23)",39.69039182741939
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","A. Bencharki (28, Al Jazira, UAE Pro League 22-23)",35.49309510298283
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","M. Rayhi (28, Al Dhafra, UAE Pro League 22-23)",29.02803714877308
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","O. Traore (20, Al Jazira, UAE Pro League 22-23)",35.218953440304944
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Juninho (23, Khorfakkan, UAE Pro League 22-23)",54.10774724023643
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Jajá (24, Dibba Al Fujairah, UAE Pro League 22-23)",69.31065005791352
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","A. Yarmolenko (33, Al Ain, UAE Pro League 22-23)",0.440302053981005
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Luan Pereira (23, Al Sharjah, UAE Pro League 22-23)",-0.8793078376643985
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","O. Camara (22, Al Sharjah, UAE Pro League 22-23)",29.932300889319187
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","S. Gassama (22, Al Bataeh, UAE Pro League 22-23)",42.68950334987957
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)",23.50221529554208
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Yahya Al Ghassani (25, Shabab Al Ahli Dubai, UAE Pro League 22-23)",40.39054631080501
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)",23.166451261857304
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Harib Abdalla Suhail (20, Shabab Al Ahli Dubai, UAE Pro League 22-23)",22.13069454276714
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","B. Ramírez (22, Al Ittihad Kalba, UAE Pro League 22-23)",52.628165298786
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Leandro Spadacio (23, Al Ittihad Kalba, UAE Pro League 22-23)",16.922648824326682
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Mohamed Al Junaibi (24, Al Dhafra, UAE Pro League 22-23)",43.88663679357396
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Ahmed Abunamous (23, Bani Yas, UAE Pro League 22-23)",39.08593965069728
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","A. Diaby (31, Al Ittihad Kalba, UAE Pro League 22-23)",35.526526026826346
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Caio Canedo (32, Al Ain, UAE Pro League 22-23)",17.34709470095867
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","F. Kruspzky (20, Al Wahda, UAE Pro League 22-23)",39.24915183045516
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","T. Seferi (26, Vorskla, Ukrainian Premier Liha 22-23)",55.15463935196634
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","V. Solomon-Otabor (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",40.94073597237534
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","G. Pasich (29, Veres, Ukrainian Premier Liha 22-23)",21.81702500001208
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",35.540020378230864
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","R. Rusyn (27, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",20.62607697223611
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Y. Kartushov (32, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",3.402321524623453
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","O. Ilyin (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",50.85173297252638
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)",51.4409560800645
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","V. Naumets (24, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",20.25323899353768
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","M. Zaderaka (28, Kryvbas KR, Ukrainian Premier Liha 22-23)",14.81510897254088
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","V. Dakhnovskyi (24, Veres, Ukrainian Premier Liha 22-23)",67.70175513971873
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","N. Voloshyn (19, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",61.78423374576924
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","S. Myakushko (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",33.25828720408704
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Y. Pidlepenets (24, Dnipro-1, Ukrainian Premier Liha 22-23)",54.19057831926772
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","D. Blanco (28, Dnipro-1, Ukrainian Premier Liha 22-23)",45.06632505490404
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","V. Kalitvintsev (30, Oleksandria, Ukrainian Premier Liha 22-23)",-2.2996438704245974
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","N. Vorobchak (23, Minaj, Ukrainian Premier Liha 22-23)",37.67422527801462
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Z. Badibanga (31, Chornomorets, Ukrainian Premier Liha 22-23)",27.86102972626613
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","V. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",30.925552602982275
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",46.57302421141148
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","V. Kabaev (27, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",34.84763242964335
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","O. Kozak (28, Inhulets, Ukrainian Premier Liha 22-23)",30.74198834785573
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","D. Alefirenko (23, Chornomorets, Ukrainian Premier Liha 22-23)",57.23366516349744
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","B. Boychuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",64.00376062493564
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","V. Tsygankov (25, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",8.85386314308627
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","V. Rogozynskyi (27, Minaj, Ukrainian Premier Liha 22-23)",16.108304564524857
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","E. Kuliev (21, Minaj, Ukrainian Premier Liha 22-23)",44.75277068037894
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","O. Zubkov (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-5.317726408322495
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","V. Odaryuk (29, Inhulets, Ukrainian Premier Liha 22-23)",42.35059308297388
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",31.33464185879789
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","D. Kryskiv (22, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",13.742444428274608
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","A. Bliznichenko (28, Veres, Ukrainian Premier Liha 22-23)",-3.141799063656423
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)",21.563800671397345
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",26.472417515492065
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",34.87405881561644
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",57.50970742247792
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",5.238268616885108
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",-2.118478290748928
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",46.21863987239134
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",14.599379232066385
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",11.351957305246096
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",27.738319682587893
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",36.89611287886629
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",25.74387026217017
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",5.798239879330959
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",53.27542361293725
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",37.54179935791092
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",29.81095996342362
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",-11.22974030521495
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",16.613840981944293
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",63.88609919065974
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",-16.775777143448344
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",45.13115752624534
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",13.356433710744003
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",31.950909263152504
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",29.12094221477526
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",13.36904613728502
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",14.9105157330617
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",35.92813633023225
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",25.54126745570469
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",11.223791944702183
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",31.739620729509028
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",47.54822925417353
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",40.56294285232009
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",35.06697431844535
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",52.344952349427786
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",59.07712489938491
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",32.18281227655622
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",32.46496266748788
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",11.2398084747586
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",31.29020040309835
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",11.67882836378789
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",13.432833991851153
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",68.88632752488157
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",38.87512743562663
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",24.61013549981904
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",45.54423456128486
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",37.45971621371017
-"H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",41.62685882656383
+Player,Similarity
+"D. Connolly (28, Bohemians, League of Ireland PL 2023)",81.1692055296384
+"R. Tulloch (22, Dundalk, League of Ireland PL 2023)",79.0371884719628
+"Maher Hawsawi (30, Al Orubah, Saudi First Division 22-23)",77.71585900229401
+"W. Fajardo (22, Achuapa, Guatemala Liga Nacional 22-23)",77.04274601712359
+"J. Butler (22, Ingolstadt, 3. Liga 22-23)",76.22105794355161
+"F. Tahiraj (26, Radomlje, 1. SNL 22-23)",75.24977088676592
+"Nélson Luz (25, Vitória Guimarães, Primeira Liga 22-23)",75.01157455325279
+"D. Jastrzembski (23, Śląsk Wrocław, Ekstraklasa 22-23)",74.95535881440335
+"S. Chatthong (30, Nakhon Ratchasima, Thai League 1 22-23)",74.37424055328763
+"Y. Naganuma (26, Sagan Tosu, J1 2023)",73.98744490860652
+"Suleiman Camara (21, Ibiza, La Liga 2 22-23)",73.74981872705635
+"Juninho Rocha (25, Gimpo Citizen, K League 2 2023)",73.33710506555754
+"D. Paroutis (22, Anorthosis, Cyprus 1. Division 22-23)",73.02881477601062
+"M. Smolenski (20, OFK Pirin, Bulgarian First League 22-23)",72.89722124569785
+"J. Hautier (19, Yverdon Sport, Swiss Challenge League 22-23)",72.54314192735556
+"J. Hurtado (22, Municipal Grecia, Costa Rica Primera División 22-23)",72.43117864162697
+"Adilson (26, CD Badajoz, Primera División RFEF 22-23)",72.30683350164979
+"J. Gomes (25, UD Oliveirense, Portugal Segunda Liga 22-23)",72.09574606027662
+"M. İnan (24, Keçiörengücü, Turkish 1. Lig 22-23)",71.80041431749945
+"C. Saile (0, Kaizer Chiefs, South Africa PSL 22-23)",71.64245808375502
+"A. Hoxha (24, Slaven Belupo, 1. HNL 22-23)",71.58359463548044
+"Ju-Gong Kim (27, Jeju United, K League 1 2023)",71.15606090732646
+"T. Burey (22, Millwall, Championship 22-23)",70.44520192511985
+"J. Ayew (31, Crystal Palace, Premier League 22-23)",70.3097927707411
+"M. Risaldi (26, Madura United, BRI Liga 1 22-23)",70.18506863721397

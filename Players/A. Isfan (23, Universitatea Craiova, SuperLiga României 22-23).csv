@@ -1,100 +1,26 @@
-Player 1,Player 2,Similarity
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",48.9380490135603
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",47.29618011354631
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",32.8750607027156
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",30.866050770408176
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",55.66761160183622
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",49.32801181211733
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",55.53985158845016
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",64.9836514457943
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",20.068678968231527
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",41.10303475395731
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",31.970366811002343
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",55.13738562631505
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",33.325247245617895
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",39.32647460928454
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",24.42472151325137
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",65.20334881176758
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",40.84318595782927
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",10.723496944768216
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",14.677916837833092
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",30.201042990889903
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",38.82901637754431
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",60.235702604111616
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",33.581198735981786
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",43.81808013968463
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",23.007123962751606
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",45.92344716842032
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",38.03675509934841
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",21.810903737207333
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",37.20130635748757
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",52.17570086469948
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",45.661241992501296
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",31.28847203773204
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",20.28773603501586
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",24.42715509737945
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",46.16832413733157
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",11.491611063641114
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",7.318854046101866
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",43.92074515335106
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",53.70120107102384
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",32.64936226444512
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",37.1902312526587
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",35.00954653700957
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",41.2752148051806
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",57.791734248571714
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",17.922698558493614
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",30.889384359434622
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",21.02548051395133
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",32.93537401525173
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",12.14278423563342
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",37.65776827264439
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-6.599286680151352
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",31.19896054249468
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",51.970554673143766
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",26.1649251098519
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",28.494019897832324
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",48.355059495858406
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",-6.830685654875025
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",16.474744795737138
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",28.294166886665035
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",32.49854248562969
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",38.59862506455951
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",8.792876398733478
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",9.426146374436984
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",13.855607972114171
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",16.820986940937072
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",9.500579033011467
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",44.42777694578456
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",21.35857794275464
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",25.56787578880668
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",31.19078256238105
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",5.877110170720943
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",21.606889096451063
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",22.74008518135409
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",54.37475883048965
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",32.18739245352377
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",51.14636553302629
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",-16.048058353623293
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-16.570207672502228
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",28.17899698897176
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",23.44330032491836
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",36.223135370363785
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",45.65676275452
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",39.83242865578776
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",29.83173604858929
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",44.28259210028653
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",46.35752598608368
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",32.405026703901505
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",60.08384311123305
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",12.947652849883273
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",53.261144866160016
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",41.60875350229162
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",35.51876859949048
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-18.42059411860252
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",37.03514624718404
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",21.621354736497167
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",25.123170579822546
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",56.45388904861407
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",15.125305004149771
-"A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",21.411905011301304
+Player,Similarity
+"A. Růsek (24, Sigma Olomouc, Czech Fortuna Liga 22-23)",76.20568657230545
+"M. Starke (32, VfB Oldenburg, 3. Liga 22-23)",73.78373029594275
+"D. Olejarka (21, Stal Rzeszów, Polish I Liga 22-23)",72.76680134230261
+"C. Wright (23, Plymouth Argyle, League One 22-23)",71.2889076243152
+"A. Kotnik (27, Koper, 1. SNL 22-23)",70.03593671674179
+"A. Clarke (20, Linfield, Northern Ireland Premiership 22-23)",69.67083632404591
+"K. Froese (27, Wehen Wiesbaden, 3. Liga 22-23)",69.6034458464796
+"T. Svetlin (21, AŠK Bravo, 1. SNL 22-23)",69.28352745341974
+"S. Pawłowski (36, Zagłębie Sosnowiec, Polish I Liga 22-23)",69.13467957733349
+"T. Pieńko (19, Zagłębie Lubin, Ekstraklasa 22-23)",68.68448566520634
+"J. Roberts (29, Stevenage, League Two 22-23)",68.44624337291593
+"Z. Flemming (24, Millwall, Championship 22-23)",68.24022991593952
+"V. Janketić (26, Rudar, Montenegro First League 22-23)",68.1882392529623
+"Brais Abelenda (27, Pontevedra, Primera División RFEF 22-23)",67.65433435276054
+"M. Harness (27, Ipswich Town, League One 22-23)",67.49194434324365
+"D. Falcinelli (31, Modena, Serie B 22-23)",67.14447889124804
+"Đ. Ivanović (27, Čukarički, Serbian SuperLiga 22-23)",66.42623460665075
+"F. Colidio (23, Tigre, Argentinian Primera División 2023)",65.73546826693091
+"D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",65.20334881176758
+"B. Hrgota (30, Greuther Fürth, 2. Bundesliga 22-23)",65.1038131652245
+"C. Zabou (26, Botoşani, SuperLiga României 22-23)",64.9836514457943
+"C. Attys (22, Trento, Serie C 22-23)",64.18552844753394
+"I. Tuci (22, Lokomotiva Zagreb, 1. HNL 22-23)",64.156854851428
+"M. Antonucci (24, Cittadella, Serie B 22-23)",63.82934631225373
+"D. Butterworth (23, Port Vale, League One 22-23)",63.53746970573345

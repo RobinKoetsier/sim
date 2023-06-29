@@ -1,228 +1,26 @@
-Player 1,Player 2,Similarity
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Y. Mechergui (23, CA Bizertin, Tunisian Ligue 1 22-23)",8.390487185777536
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Harrabi (24, Monastir, Tunisian Ligue 1 22-23)",45.0306776359961
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","W. Sahli (35, Chebba, Tunisian Ligue 1 22-23)",13.25308306293825
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)",36.43893251228001
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Ü. Ergün (30, Bodrumspor, Turkish 1. Lig 22-23)",1.9636173762088096
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Ovacıklı (34, BB Erzurumspor, Turkish 1. Lig 22-23)",30.86981218133913
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Dere (30, Altınordu, Turkish 1. Lig 22-23)",29.26371734705535
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Sarıkaya (25, Altay, Turkish 1. Lig 22-23)",34.53392100363036
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","H. Bilgiç (30, Boluspor, Turkish 1. Lig 22-23)",35.44340771246247
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","G. Süzen (35, Denizlispor, Turkish 1. Lig 22-23)",-10.472462189726278
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)",3.285908802656192
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)",59.04434579482258
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)",57.27919208480255
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","İ. Köybaşı (33, Göztepe, Turkish 1. Lig 22-23)",-8.724311018155113
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Şahin (22, Manisa BBSK, Turkish 1. Lig 22-23)",33.183376450558455
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)",23.986527666823463
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Bayrak (24, Tuzlaspor, Turkish 1. Lig 22-23)",-2.873841540978115
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Naderi (26, Altay, Turkish 1. Lig 22-23)",-8.00623157333179
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","G. Kaya (27, Pendikspor, Turkish 1. Lig 22-23)",32.12137119939966
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)",47.58840800745083
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Uçar (31, Eyüpspor, Turkish 1. Lig 22-23)",33.450376168121394
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Pala (22, Rizespor, Turkish 1. Lig 22-23)",18.11714979991624
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)",13.31792276358214
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Şengül (24, Bandırmaspor, Turkish 1. Lig 22-23)",46.41676349156126
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)",23.41276658472912
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Gönül (25, Samsunspor, Turkish 1. Lig 22-23)",5.927324879262745
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Koç (26, Rizespor, Turkish 1. Lig 22-23)",8.368801838447295
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Özgenc (38, Pendikspor, Turkish 1. Lig 22-23)",16.604479245029225
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","C. Cavlan (31, Bandırmaspor, Turkish 1. Lig 22-23)",35.87314884039963
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)",26.029928634944987
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",24.90759793830756
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",30.19115928686327
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",35.92955206050283
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",42.91908932090735
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",46.869403049892064
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",16.452398391475455
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",10.99974711794507
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",17.450340104349088
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",28.091952136266148
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",30.58733337095679
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",4.402686441248409
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",8.27513710550578
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",13.061648760947516
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",16.939603411796032
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",15.83247560481549
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",5.01205279166566
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",31.581658607906256
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",8.917251369148923
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",2.433388784967076
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",24.713974427452943
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",-6.622126806896042
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",34.34473446979804
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",0.3431654554643845
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",21.974179272969742
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",22.83850356917049
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",45.36839768366588
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",-34.938945497880354
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",28.13376704762033
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",-40.03287902259461
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",22.803464763192896
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",-7.130880603641618
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",7.147471334652233
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",39.05588378904319
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",48.18055585495256
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",13.10467097494017
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",-7.329949732842618
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",66.10828459177401
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",27.79060476785916
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",28.48011407615958
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",7.394502938532338
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",42.49446558169761
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",37.41414964347414
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",35.98538063561377
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",56.114972229198536
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",67.44928318699435
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",27.837086713545716
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",37.397839346400616
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",15.24841804505123
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",36.339043532999774
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",26.92232201636249
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",37.07873318710072
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",40.943656883183415
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",13.64140524171082
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",29.16516809853717
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",55.371192825923
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",28.054488247122205
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",51.72103209785863
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",25.453689227211022
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",9.750255336395211
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",22.6085310870381
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",7.373369543450438
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",30.85657062475141
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",74.35161927779386
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",-7.32085041243153
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",40.80781673477596
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",10.70714420792964
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",28.816869495672204
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",15.275977895520226
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",32.275621828068346
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-7.241149735360477
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",33.83388288386173
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",14.547377544567938
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",20.075975639547018
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",25.353761147299675
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",13.879258433093636
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",2.459800981141774
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",39.31281274734135
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",30.166209155532552
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",32.388040572688
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",36.92574951562081
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",16.652092760704868
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",25.78297630494616
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",50.32430136543879
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",27.13735824904357
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",-7.743512453207732
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",11.014954692838316
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",15.92622614836203
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",46.71914633365802
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",-2.3334531112746166
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",12.939118946720075
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",52.60775719362217
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",27.407824714257124
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",25.990288966510757
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",15.218267163942096
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",23.90959603288456
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",35.60295375187291
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",42.66082378498901
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",22.223541569451683
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",4.983886147277998
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",18.89577673742388
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",13.912816457074486
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-3.4053370126704
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",-4.575811907750655
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",19.3262620891788
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",4.724706953351361
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",-0.0179765835883416
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",1.595404487755862
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-25.0719814690053
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",34.081073232584714
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",40.513260950486654
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",25.059320636306936
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",10.629112486068324
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",-18.67357463452063
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",22.64636890778503
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",-7.911288776307342
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",-23.76309527473904
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",0.4459009412554057
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",22.240036885323786
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",56.95750372258318
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",5.017790549768311
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",16.06234579018281
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",-5.314660328318442
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",13.539757066757122
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",1.6051181716385226
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",46.90288092365495
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",24.439040774888035
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",29.392697880448672
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",-14.839763326542045
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",41.26265936606664
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",-16.95642405879966
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",15.529136796903744
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",13.052704926242107
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",20.945976342339936
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",4.549737724815663
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",55.67362521156398
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",28.43401258138043
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",-0.7838922774329488
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",20.05193139338089
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",34.34306858308934
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",14.545741539295998
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",17.114557714666887
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",33.480856816169656
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",7.4085123549156116
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",42.70499471264311
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",11.756068301859033
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",55.38026485477307
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",8.010701234368907
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",16.690553177162176
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",30.351739607005378
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",18.75238634003177
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",22.60704895521541
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",1.6175912741659797
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",24.42477689280796
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",28.09718532162793
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",31.179680895342944
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",-11.26844495565953
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",28.921494382351437
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",24.086074728974328
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",22.276405545429864
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",31.133588234291164
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",23.907552401416854
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",44.56072008025643
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",58.17725155203467
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",28.362990393242548
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",26.18963867571494
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",23.46405113942902
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",25.257972795313112
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",35.89466468725231
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",19.556339850666262
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",17.882200587134086
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",-3.583387272096304
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",-21.44314712203543
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",7.280748506537001
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",8.65558586863176
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",10.45171842258829
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",-5.207439898404094
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",24.68455358208392
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",0.2789224325404999
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",-9.24067038117384
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",2.409882323338318
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","P. Mareš (32, RFS, Virsliga 2023)",-6.617107403667211
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-21.899923942832437
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",-19.931950351305527
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",2.805714612641138
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",-5.077949966493108
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",11.039832393169794
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",20.6358946138581
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",7.496214107225177
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",21.45311706253348
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",9.13621479456887
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",17.940112062576336
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",10.21112946243109
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",31.100570597259
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",10.570588957780627
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",8.063454786121623
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",-11.689566468212838
-"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",44.78638621283323
+Player,Similarity
+"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",74.35161927779386
+"N. Tofanari (25, Rimini, Serie C 22-23)",71.41615236950574
+"S. Nhlapo (34, SuperSport United, South Africa PSL 22-23)",70.3662168976561
+"Mohamad Kamal Azizi (29, Kuala Lumpur City, Malaysian Super League 2023)",67.91713291125984
+"Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",67.44928318699435
+"Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",66.10828459177401
+"T. Mabua (28, Richards Bay, South Africa PSL 22-23)",64.9510476575649
+"A. Ndour (29, Sochaux, Ligue 2 22-23)",64.82239124533369
+"Juninho (27, Pafos, Cyprus 1. Division 22-23)",64.7766292262193
+"M. Coppolaro (26, Modena, Serie B 22-23)",64.54781562509851
+"Mário Camora (36, CFR Cluj, SuperLiga României 22-23)",64.07446805219075
+"Mohd Azrif Nasrulhaq (32, Sri Pahang, Malaysian Super League 2023)",63.85857439194948
+"Steeve Furtado (28, CSKA 1948 Sofia, Bulgarian First League 22-23)",63.42847122977408
+"C. Subero (31, Atlético Bucaramanga, Colombian Primera Division 22-23)",62.77174327154433
+"R. Darbinyan (27, Shirak, Armenian Premier League 22-23)",62.62032065501468
+"I. Govea (26, Club Tijuana, Liga MX 22-23)",62.1771035315756
+"N. Alho (30, Volos NFC, Greek Super League 22-23)",62.01267153769463
+"J. Stryger Larsen (32, Trabzonspor, Süper Lig 22-23)",61.363519591933866
+"E. Del Prato (23, Parma, Serie B 22-23)",61.362263087651634
+"V. Manceau (33, Guingamp, Ligue 2 22-23)",61.02961305333786
+"Y. Jarici (34, Mouloudia Oujda, Botola Pro 22-23)",60.95929905433537
+"J. Quiñones (22, César Vallejo, Peruvian Liga 1 2023)",60.87372059138871
+"M. De Sciglio (30, Juventus, Serie A 22-23)",60.19931522851941
+"H. Kalai (28, Hassania Agadir, Botola Pro 22-23)",60.02486911541804
+"M. Paluli (28, Sivasspor, Süper Lig 22-23)",59.78346033893759

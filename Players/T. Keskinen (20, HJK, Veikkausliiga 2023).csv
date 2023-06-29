@@ -1,17 +1,26 @@
-Player 1,Player 2,Similarity
-"T. Keskinen (20, HJK, Veikkausliiga 2023)","S. Haarala (23, Ilves, Veikkausliiga 2023)",60.18629986249288
-"T. Keskinen (20, HJK, Veikkausliiga 2023)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",65.67441645966163
-"T. Keskinen (20, HJK, Veikkausliiga 2023)","L. Rogerson (25, Haka, Veikkausliiga 2023)",53.50914318673576
-"T. Keskinen (20, HJK, Veikkausliiga 2023)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",88.82991492323283
-"T. Keskinen (20, HJK, Veikkausliiga 2023)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",86.22100042227169
-"T. Keskinen (20, HJK, Veikkausliiga 2023)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",26.952676665216615
-"T. Keskinen (20, HJK, Veikkausliiga 2023)","M. Correa (21, FK Metta, Virsliga 2023)",41.28583540734733
-"T. Keskinen (20, HJK, Veikkausliiga 2023)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",76.26078290680645
-"T. Keskinen (20, HJK, Veikkausliiga 2023)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",21.97273779861264
-"T. Keskinen (20, HJK, Veikkausliiga 2023)","Emerson Deocleciano (23, RFS, Virsliga 2023)",73.2563599559461
-"T. Keskinen (20, HJK, Veikkausliiga 2023)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",69.27497558547509
-"T. Keskinen (20, HJK, Veikkausliiga 2023)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",-8.34359417338884
-"T. Keskinen (20, HJK, Veikkausliiga 2023)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",67.45135303047242
-"T. Keskinen (20, HJK, Veikkausliiga 2023)","M. Diop (20, Valmiera FC, Virsliga 2023)",35.32352778428512
-"T. Keskinen (20, HJK, Veikkausliiga 2023)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",70.67218180933955
-"T. Keskinen (20, HJK, Veikkausliiga 2023)","O. Niang (21, Riga FC, Virsliga 2023)",82.3371833730691
+Player,Similarity
+"D. Kulusevski (23, Tottenham Hotspur, Premier League 22-23)",91.19943603794412
+"T. Okubo (24, Urawa Reds, J1 2023)",89.92237252298129
+"F. Amuzu (23, Anderlecht, Belgian Pro League 22-23)",89.83775070490672
+"T. Ito (25, Magdeburg, 2. Bundesliga 22-23)",89.82660926226814
+"C. Gómez (20, Real Salt Lake, MLS 2023)",89.82384524707753
+"W. Alli (22, Zbrojovka Brno, Czech Fortuna Liga 22-23)",89.71605317931206
+"L. Maina (23, Köln, Bundesliga 22-23)",89.4402033072389
+"L. Angulo (19, Alianza Petrolera, Colombian Primera Division 22-23)",89.25917386228535
+"R. Ofosu (31, Ohod, Saudi First Division 22-23)",89.1575890987314
+"J. Tuominen (27, KuPS, Veikkausliiga 2023)",88.82991492323283
+"David Virgili (24, FC Santa Coloma, Andorra Primera Divisió 22-23)",88.43437914761955
+"J. Córdoba (22, Malacateco, Guatemala Liga Nacional 22-23)",88.24481683316118
+"O. Hernández (30, Norwich City, Championship 22-23)",87.98562303096463
+"V. Misidjan (29, Twente, Eredivisie 22-23)",87.86667354254433
+"J. Trenskow (22, HB Køge, Danish 1. Division 22-23)",87.85010200261182
+"V. Solomon-Otabor (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",87.5982212780573
+"H. Layous (22, Hapoel Tel Aviv, Ligat Ha'al 22-23)",87.41834306416224
+"Gonçalo Borges (22, Porto II, Portugal Segunda Liga 22-23)",87.35580844661891
+"F. Chiesa (25, Juventus, Serie A 22-23)",87.32325925695497
+"B. Önal (18, De Graafschap, Eerste Divisie 22-23)",87.13458243090511
+"K. Mitoma (26, Brighton, Premier League 22-23)",86.81645103721371
+"Vinícius Júnior (22, Real Madrid, La Liga 22-23)",86.75375375368313
+"Hélder Costa (29, Al Ittihad, Saudi Professional League 22-23)",86.70742287383298
+"K. Lebon (25, Neftchi, Premyer Liqa 22-23)",86.68248975349539
+"Michael (27, Al Hilal, Saudi Professional League 22-23)",86.60379555009074

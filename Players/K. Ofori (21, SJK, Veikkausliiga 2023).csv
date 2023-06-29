@@ -1,25 +1,26 @@
-Player 1,Player 2,Similarity
-"K. Ofori (21, SJK, Veikkausliiga 2023)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",26.3467968447495
-"K. Ofori (21, SJK, Veikkausliiga 2023)","P. Soiri (28, HJK, Veikkausliiga 2023)",66.64791607260268
-"K. Ofori (21, SJK, Veikkausliiga 2023)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",30.46685433068924
-"K. Ofori (21, SJK, Veikkausliiga 2023)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",16.85136978611079
-"K. Ofori (21, SJK, Veikkausliiga 2023)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",31.622956418426845
-"K. Ofori (21, SJK, Veikkausliiga 2023)","M. Gaye (24, Riga FC, Virsliga 2023)",50.87237942754529
-"K. Ofori (21, SJK, Veikkausliiga 2023)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",20.63276289902728
-"K. Ofori (21, SJK, Veikkausliiga 2023)","P. Mareš (32, RFS, Virsliga 2023)",20.39973410854777
-"K. Ofori (21, SJK, Veikkausliiga 2023)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-15.549217207675293
-"K. Ofori (21, SJK, Veikkausliiga 2023)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",31.99457077504736
-"K. Ofori (21, SJK, Veikkausliiga 2023)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",41.0311594545492
-"K. Ofori (21, SJK, Veikkausliiga 2023)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",-1.2269543253672095
-"K. Ofori (21, SJK, Veikkausliiga 2023)","N. Bretschneider (23, FK Auda, Virsliga 2023)",30.556652997384138
-"K. Ofori (21, SJK, Veikkausliiga 2023)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",6.906289584868028
-"K. Ofori (21, SJK, Veikkausliiga 2023)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",40.00811962027082
-"K. Ofori (21, SJK, Veikkausliiga 2023)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",4.182463664242972
-"K. Ofori (21, SJK, Veikkausliiga 2023)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",43.36376909801902
-"K. Ofori (21, SJK, Veikkausliiga 2023)","P. Fall (22, Valmiera FC, Virsliga 2023)",35.36698989995528
-"K. Ofori (21, SJK, Veikkausliiga 2023)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",34.944714383977136
-"K. Ofori (21, SJK, Veikkausliiga 2023)","R. Skrebels (23, FK Auda, Virsliga 2023)",25.864992330638263
-"K. Ofori (21, SJK, Veikkausliiga 2023)","E. Birka (23, Valmiera FC, Virsliga 2023)",25.431303562567464
-"K. Ofori (21, SJK, Veikkausliiga 2023)","R. Savaļnieks (30, RFS, Virsliga 2023)",18.387697074769168
-"K. Ofori (21, SJK, Veikkausliiga 2023)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",10.36112575020152
-"K. Ofori (21, SJK, Veikkausliiga 2023)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",43.92348855653585
+Player,Similarity
+"T. Carrique (24, Celta de Vigo B, Primera División RFEF 22-23)",79.56097562040651
+"J. Valverde (27, Deportivo Saprissa, Costa Rica Primera División 22-23)",79.2191376139414
+"S. El Karouani (22, NEC, Eredivisie 22-23)",77.09278181222493
+"B. Pauljević (33, Újpest, NB I 22-23)",75.09578388882987
+"T. Santos (24, Horsens, Superliga 22-23)",74.92508301789199
+"Dylan Tavares (26, Bastia, Ligue 2 22-23)",74.77903073044476
+"D. Machado (29, Lens, Ligue 1 22-23)",74.39690854695088
+"J. Gyau (30, Degerfors, Allsvenskan 2023)",74.01078606632014
+"M. Pedersen (22, Feyenoord, Eredivisie 22-23)",73.55597977407467
+"D. Grassini (23, Carrarese, Serie C 22-23)",73.44236839729147
+"R. Yesayan (21, Noah, Armenian Premier League 22-23)",73.25319732530791
+"Carlos Redruello (25, Cornellà, Primera División RFEF 22-23)",73.05027319935115
+"A. Wightman (19, Glentoran, Northern Ireland Premiership 22-23)",72.63593666673638
+"A. Rabah (29, Maccabi Bnei Raina, Ligat Ha'al 22-23)",72.5977211517769
+"Gustavo Ferrareis (27, Puebla, Liga MX 22-23)",72.25273894575608
+"A. Guiebre (25, Reggiana, Serie C 22-23)",72.14489569715936
+"B. Norton-Cuffy (19, Coventry City, Championship 22-23)",72.03537151104547
+"Joel López (21, Cultural Leonesa, Primera División RFEF 22-23)",71.96912654856759
+"A. Candela (23, Venezia, Serie B 22-23)",71.80680226542623
+"Paulo Vitor (23, Rio Ave, Primeira Liga 22-23)",71.62210791468935
+"S. Birindelli (23, Monza, Serie A 22-23)",71.54228482698376
+"L. Kambič (24, Koper, 1. SNL 22-23)",71.43248637976079
+"D. Sylla (20, Laval, Ligue 2 22-23)",71.35453497706169
+"M. Pala (22, Rizespor, Turkish 1. Lig 22-23)",70.89709631773995
+"Alfred Planas (27, Cornellà, Primera División RFEF 22-23)",70.89318552661568

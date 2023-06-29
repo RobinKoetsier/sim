@@ -1,186 +1,26 @@
-Player 1,Player 2,Similarity
-"L. Tremolada (31, Modena, Serie B 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",45.70571154236519
-"L. Tremolada (31, Modena, Serie B 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",73.73411792036183
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",82.283116314785
-"L. Tremolada (31, Modena, Serie B 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",0.2019270822279417
-"L. Tremolada (31, Modena, Serie B 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",72.0348387198908
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",79.48963065104158
-"L. Tremolada (31, Modena, Serie B 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",72.07734596481056
-"L. Tremolada (31, Modena, Serie B 22-23)","R. Botta (33, Bari, Serie B 22-23)",62.07321187925508
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",45.34501410719656
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",15.333408284029984
-"L. Tremolada (31, Modena, Serie B 22-23)","V. Parigini (27, Como, Serie B 22-23)",29.50783120999304
-"L. Tremolada (31, Modena, Serie B 22-23)","Álex Blanco (24, Como, Serie B 22-23)",9.485938649680078
-"L. Tremolada (31, Modena, Serie B 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",72.65257298472181
-"L. Tremolada (31, Modena, Serie B 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",73.37915286455122
-"L. Tremolada (31, Modena, Serie B 22-23)","D. Camara (21, Parma, Serie B 22-23)",13.512644443935445
-"L. Tremolada (31, Modena, Serie B 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",50.871766369878365
-"L. Tremolada (31, Modena, Serie B 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",-20.3686242974791
-"L. Tremolada (31, Modena, Serie B 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",21.194014467779883
-"L. Tremolada (31, Modena, Serie B 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",20.446858547005885
-"L. Tremolada (31, Modena, Serie B 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",53.78823923134205
-"L. Tremolada (31, Modena, Serie B 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",-3.193978912023084
-"L. Tremolada (31, Modena, Serie B 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",70.24943204086036
-"L. Tremolada (31, Modena, Serie B 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",7.530398176015769
-"L. Tremolada (31, Modena, Serie B 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",13.462812721692536
-"L. Tremolada (31, Modena, Serie B 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",-7.361640349516032
-"L. Tremolada (31, Modena, Serie B 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",71.09838515423077
-"L. Tremolada (31, Modena, Serie B 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",34.36651100327898
-"L. Tremolada (31, Modena, Serie B 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",15.507618423145312
-"L. Tremolada (31, Modena, Serie B 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",70.32719782500295
-"L. Tremolada (31, Modena, Serie B 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-26.353854953331503
-"L. Tremolada (31, Modena, Serie B 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",41.01301728421986
-"L. Tremolada (31, Modena, Serie B 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",-5.772344103226836
-"L. Tremolada (31, Modena, Serie B 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",24.839174653364296
-"L. Tremolada (31, Modena, Serie B 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",51.32070551085097
-"L. Tremolada (31, Modena, Serie B 22-23)","N. Belloni (28, Siena, Serie C 22-23)",26.97331767013072
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Frediani (29, Siena, Serie C 22-23)",58.28156446451232
-"L. Tremolada (31, Modena, Serie B 22-23)","F. Urso (28, Torres, Serie C 22-23)",70.80081630493436
-"L. Tremolada (31, Modena, Serie B 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",65.87894405005797
-"L. Tremolada (31, Modena, Serie B 22-23)","G. Lisai (33, Torres, Serie C 22-23)",69.85351130670267
-"L. Tremolada (31, Modena, Serie B 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",78.31714131626268
-"L. Tremolada (31, Modena, Serie B 22-23)","C. Attys (22, Trento, Serie C 22-23)",9.018177530543737
-"L. Tremolada (31, Modena, Serie B 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",45.90923244547756
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",23.94508660299646
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",51.16099485187803
-"L. Tremolada (31, Modena, Serie B 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",45.03609771687663
-"L. Tremolada (31, Modena, Serie B 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",66.93937904534052
-"L. Tremolada (31, Modena, Serie B 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",66.81715173767114
-"L. Tremolada (31, Modena, Serie B 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",-3.4048040035686387
-"L. Tremolada (31, Modena, Serie B 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",80.09065125729083
-"L. Tremolada (31, Modena, Serie B 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",57.105256782126354
-"L. Tremolada (31, Modena, Serie B 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",66.4231204782672
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",86.11679170460744
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",44.379269150434816
-"L. Tremolada (31, Modena, Serie B 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",82.30197929917934
-"L. Tremolada (31, Modena, Serie B 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",46.54106425719967
-"L. Tremolada (31, Modena, Serie B 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",68.16914715436035
-"L. Tremolada (31, Modena, Serie B 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",75.9812016767046
-"L. Tremolada (31, Modena, Serie B 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",67.04614889606967
-"L. Tremolada (31, Modena, Serie B 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",46.09329582714357
-"L. Tremolada (31, Modena, Serie B 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",44.892528398689976
-"L. Tremolada (31, Modena, Serie B 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",54.835802540975344
-"L. Tremolada (31, Modena, Serie B 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",27.030296268360367
-"L. Tremolada (31, Modena, Serie B 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",46.47228012963648
-"L. Tremolada (31, Modena, Serie B 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",56.6682335329186
-"L. Tremolada (31, Modena, Serie B 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",44.92504689640441
-"L. Tremolada (31, Modena, Serie B 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",72.57301220175812
-"L. Tremolada (31, Modena, Serie B 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",91.02642751977714
-"L. Tremolada (31, Modena, Serie B 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",69.4454104466687
-"L. Tremolada (31, Modena, Serie B 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",53.27887782116908
-"L. Tremolada (31, Modena, Serie B 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",57.38417898697872
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",38.6024652270044
-"L. Tremolada (31, Modena, Serie B 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",42.744920389302656
-"L. Tremolada (31, Modena, Serie B 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",3.9600857071089366
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",63.57170322996212
-"L. Tremolada (31, Modena, Serie B 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",51.17055604977329
-"L. Tremolada (31, Modena, Serie B 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",48.68001915571419
-"L. Tremolada (31, Modena, Serie B 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",27.56795294257198
-"L. Tremolada (31, Modena, Serie B 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-2.677269873646254
-"L. Tremolada (31, Modena, Serie B 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-24.236947538979507
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",80.3501627936996
-"L. Tremolada (31, Modena, Serie B 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",47.09133896516652
-"L. Tremolada (31, Modena, Serie B 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",63.3027392089263
-"L. Tremolada (31, Modena, Serie B 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",-15.271834029688884
-"L. Tremolada (31, Modena, Serie B 22-23)","I. Jebali (31, OB, Superliga 22-23)",77.77338297591893
-"L. Tremolada (31, Modena, Serie B 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",34.078352394538605
-"L. Tremolada (31, Modena, Serie B 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",33.820982658004354
-"L. Tremolada (31, Modena, Serie B 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",43.25263814638694
-"L. Tremolada (31, Modena, Serie B 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",60.90044953325546
-"L. Tremolada (31, Modena, Serie B 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",78.95805560085718
-"L. Tremolada (31, Modena, Serie B 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",87.28990851302314
-"L. Tremolada (31, Modena, Serie B 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",63.74476127893771
-"L. Tremolada (31, Modena, Serie B 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",35.843763089967624
-"L. Tremolada (31, Modena, Serie B 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",49.00473336917279
-"L. Tremolada (31, Modena, Serie B 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",33.18072502146136
-"L. Tremolada (31, Modena, Serie B 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",50.199348695828775
-"L. Tremolada (31, Modena, Serie B 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",74.99811466299167
-"L. Tremolada (31, Modena, Serie B 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",67.66036083836104
-"L. Tremolada (31, Modena, Serie B 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",-7.354695160226855
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",90.92385983541187
-"L. Tremolada (31, Modena, Serie B 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",30.21142629067972
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",89.78657089894504
-"L. Tremolada (31, Modena, Serie B 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",57.10767268433411
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",62.043319677819866
-"L. Tremolada (31, Modena, Serie B 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",65.10926697092458
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",52.28587815207126
-"L. Tremolada (31, Modena, Serie B 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",42.48824065687082
-"L. Tremolada (31, Modena, Serie B 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",59.49465114845772
-"L. Tremolada (31, Modena, Serie B 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",22.391908490472638
-"L. Tremolada (31, Modena, Serie B 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",75.88524963669146
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",56.3500551891926
-"L. Tremolada (31, Modena, Serie B 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",49.87800991193684
-"L. Tremolada (31, Modena, Serie B 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",3.217194095395701
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",-7.709051160622278
-"L. Tremolada (31, Modena, Serie B 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",67.35330874914126
-"L. Tremolada (31, Modena, Serie B 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",78.84400774735704
-"L. Tremolada (31, Modena, Serie B 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",80.54273902081279
-"L. Tremolada (31, Modena, Serie B 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",20.35570977063151
-"L. Tremolada (31, Modena, Serie B 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",51.77651853384144
-"L. Tremolada (31, Modena, Serie B 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",54.52116250790279
-"L. Tremolada (31, Modena, Serie B 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",63.83251501866226
-"L. Tremolada (31, Modena, Serie B 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",45.76199891743376
-"L. Tremolada (31, Modena, Serie B 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",82.71378986663461
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",28.863053703798453
-"L. Tremolada (31, Modena, Serie B 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",-4.610718569232296
-"L. Tremolada (31, Modena, Serie B 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",40.75835592899885
-"L. Tremolada (31, Modena, Serie B 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",92.75047899761816
-"L. Tremolada (31, Modena, Serie B 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",70.26072573403287
-"L. Tremolada (31, Modena, Serie B 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",71.29981079253997
-"L. Tremolada (31, Modena, Serie B 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",61.961717322992335
-"L. Tremolada (31, Modena, Serie B 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",64.42210058336161
-"L. Tremolada (31, Modena, Serie B 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",91.6285001880104
-"L. Tremolada (31, Modena, Serie B 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",92.83378614770844
-"L. Tremolada (31, Modena, Serie B 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",69.88489332017554
-"L. Tremolada (31, Modena, Serie B 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",44.65285502744536
-"L. Tremolada (31, Modena, Serie B 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",-18.46573557141787
-"L. Tremolada (31, Modena, Serie B 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",65.79170753551912
-"L. Tremolada (31, Modena, Serie B 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",45.67074647644479
-"L. Tremolada (31, Modena, Serie B 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-39.92152629031827
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",11.337562532814031
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",38.1164536078025
-"L. Tremolada (31, Modena, Serie B 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",61.914504859791776
-"L. Tremolada (31, Modena, Serie B 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",69.38716287604262
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",6.17084227405693
-"L. Tremolada (31, Modena, Serie B 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",65.08396439287824
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",34.32639161740269
-"L. Tremolada (31, Modena, Serie B 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",45.21024232349786
-"L. Tremolada (31, Modena, Serie B 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",70.2530309255417
-"L. Tremolada (31, Modena, Serie B 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-3.835995117358175
-"L. Tremolada (31, Modena, Serie B 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",6.458411436852147
-"L. Tremolada (31, Modena, Serie B 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",27.77706418866722
-"L. Tremolada (31, Modena, Serie B 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",56.10355910807956
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-18.836480355879925
-"L. Tremolada (31, Modena, Serie B 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",-13.878816297489635
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",80.86851302501495
-"L. Tremolada (31, Modena, Serie B 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-36.22653330148684
-"L. Tremolada (31, Modena, Serie B 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",32.18494919915849
-"L. Tremolada (31, Modena, Serie B 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",20.005593274404674
-"L. Tremolada (31, Modena, Serie B 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",76.50303001483212
-"L. Tremolada (31, Modena, Serie B 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",-0.5312231319988839
-"L. Tremolada (31, Modena, Serie B 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",69.29376651756775
-"L. Tremolada (31, Modena, Serie B 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",55.422938001766965
-"L. Tremolada (31, Modena, Serie B 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",9.52068049987838
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",37.82896086630876
-"L. Tremolada (31, Modena, Serie B 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-33.735946274761574
-"L. Tremolada (31, Modena, Serie B 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",86.33765983052274
-"L. Tremolada (31, Modena, Serie B 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",59.94266773856014
-"L. Tremolada (31, Modena, Serie B 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",47.7176654890356
-"L. Tremolada (31, Modena, Serie B 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",52.76167272248035
-"L. Tremolada (31, Modena, Serie B 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",79.16973219333218
-"L. Tremolada (31, Modena, Serie B 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",51.32267871946553
-"L. Tremolada (31, Modena, Serie B 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",76.0710800820781
-"L. Tremolada (31, Modena, Serie B 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",36.50022756285591
-"L. Tremolada (31, Modena, Serie B 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",29.74129626607038
-"L. Tremolada (31, Modena, Serie B 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",29.079417483985956
-"L. Tremolada (31, Modena, Serie B 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-30.740457486057053
-"L. Tremolada (31, Modena, Serie B 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",54.27619626341388
-"L. Tremolada (31, Modena, Serie B 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",35.469056477009985
-"L. Tremolada (31, Modena, Serie B 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",24.758097734020467
-"L. Tremolada (31, Modena, Serie B 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",43.48105150583786
-"L. Tremolada (31, Modena, Serie B 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",78.63220610251396
-"L. Tremolada (31, Modena, Serie B 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",83.04514382276928
-"L. Tremolada (31, Modena, Serie B 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",66.43195283536724
-"L. Tremolada (31, Modena, Serie B 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",19.57036003343483
-"L. Tremolada (31, Modena, Serie B 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",62.52221777331246
-"L. Tremolada (31, Modena, Serie B 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",78.0872806977216
+Player,Similarity
+"R. Torres (31, Alianza Atlético, Peruvian Liga 1 2023)",95.66607856354516
+"X. Shaqiri (31, Chicago Fire, MLS 2023)",94.8974128550054
+"Y. Maziz (24, Metz, Ligue 2 22-23)",93.41901973387952
+"I. Bognár (32, MTK, NB II 22-23)",93.31409547651332
+"S. Purisay (36, Chonburi, Thai League 1 22-23)",92.83378614770844
+"D. Saba (30, Sivasspor, Süper Lig 22-23)",92.75047899761816
+"Muralha (30, Al Riyadh, Saudi First Division 22-23)",92.61335518330668
+"R. Garro (25, Talleres Córdoba, Argentinian Primera División 2023)",92.3716766522631
+"D. Quintero (35, América de Cali, Colombian Primera Division 22-23)",91.8609233060774
+"J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",91.6285001880104
+"M. Liendl (37, Grazer AK, Austrian 2. Liga 22-23)",91.34271502768313
+"A. Memela (35, Richards Bay, South Africa PSL 22-23)",91.02642751977714
+"Kaku (28, Al Taawon, Saudi Professional League 22-23)",90.98044397191764
+"M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",90.92385983541187
+"R. Messika (33, Hapoel Umm al-Fahm, Liga Leumit 22-23)",90.85106203565852
+"M. Castroman (28, Thun, Swiss Challenge League 22-23)",89.78657089894504
+"Bruno Fernandes (28, Manchester United, Premier League 22-23)",89.56372823753067
+"K. Stöger (29, Bochum, Bundesliga 22-23)",89.52137015774221
+"Igor Coronado (30, Al Ittihad, Saudi Professional League 22-23)",89.52022311897956
+"D. Božović (34, Dečić, Montenegro First League 22-23)",89.50671428405967
+"Josué (32, Legia Warszawa, Ekstraklasa 22-23)",89.4695456308094
+"K. Velasco (26, Deportivo Cali, Colombian Primera Division 22-23)",89.35977870760155
+"M. Barshazky (26, Maccabi Petah Tikva, Liga Leumit 22-23)",89.24659436254441
+"B. Fernandes (28, Goa, Indian Super League 22-23)",88.95306394368177
+"A.  Lőrinczy (29, Diósgyőr, NB II 22-23)",88.7685615767377

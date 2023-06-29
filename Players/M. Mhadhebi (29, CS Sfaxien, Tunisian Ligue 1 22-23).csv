@@ -1,238 +1,26 @@
-Player 1,Player 2,Similarity
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)",28.78656844713844
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)",38.821885790454665
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Y. Kchok (22, CA Bizertin, Tunisian Ligue 1 22-23)",31.662946104760824
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. Sioud (31, Rejiche, Tunisian Ligue 1 22-23)",15.432062544575622
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","H. Helal (30, EO Sidi Bouzid, Tunisian Ligue 1 22-23)",17.13787124963403
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Houssem Teka (22, Monastir, Tunisian Ligue 1 22-23)",-1.8307332858982863
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","R. Derbali (20, Olympique Béja, Tunisian Ligue 1 22-23)",34.26167878615655
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","R. Bouchniba (19, ES Tunis, Tunisian Ligue 1 22-23)",45.10620369763205
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)",40.1794898869561
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)",56.00751179818343
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Y. Mechergui (23, CA Bizertin, Tunisian Ligue 1 22-23)",5.045906883744687
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","S. Harrabi (24, Monastir, Tunisian Ligue 1 22-23)",65.889989607748
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","W. Sahli (35, Chebba, Tunisian Ligue 1 22-23)",16.42715679416263
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)",66.93695726445146
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Ü. Ergün (30, Bodrumspor, Turkish 1. Lig 22-23)",-3.9310237551405662
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","O. Ovacıklı (34, BB Erzurumspor, Turkish 1. Lig 22-23)",23.67411793137365
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. Dere (30, Altınordu, Turkish 1. Lig 22-23)",23.234985824226552
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","S. Sarıkaya (25, Altay, Turkish 1. Lig 22-23)",24.963759638116613
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","H. Bilgiç (30, Boluspor, Turkish 1. Lig 22-23)",46.05512058521484
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","G. Süzen (35, Denizlispor, Turkish 1. Lig 22-23)",-8.15206042972875
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)",-12.081734751660198
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)",48.02639143295567
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)",56.45708048043259
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","İ. Köybaşı (33, Göztepe, Turkish 1. Lig 22-23)",-21.40107604693228
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Şahin (22, Manisa BBSK, Turkish 1. Lig 22-23)",38.19827533862002
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)",24.057833383401523
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","O. Bayrak (24, Tuzlaspor, Turkish 1. Lig 22-23)",17.826103444261513
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Naderi (26, Altay, Turkish 1. Lig 22-23)",35.56850633253024
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","G. Kaya (27, Pendikspor, Turkish 1. Lig 22-23)",-6.415968554569619
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)",21.12777458333913
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Uçar (31, Eyüpspor, Turkish 1. Lig 22-23)",7.605255355544169
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Pala (22, Rizespor, Turkish 1. Lig 22-23)",9.027510161748348
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)",16.187309256389884
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. Şengül (24, Bandırmaspor, Turkish 1. Lig 22-23)",36.49571757426988
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)",23.22681853296648
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","S. Gönül (25, Samsunspor, Turkish 1. Lig 22-23)",22.82155866410604
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. Koç (26, Rizespor, Turkish 1. Lig 22-23)",13.339805797760324
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","E. Özgenc (38, Pendikspor, Turkish 1. Lig 22-23)",-0.4243049325115123
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","C. Cavlan (31, Bandırmaspor, Turkish 1. Lig 22-23)",35.378545624712935
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)",-0.7439283952955459
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",35.47913731165682
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",28.53809907746975
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",28.96351919229697
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",25.110799119399417
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",40.2451865825548
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",18.6977448671653
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",13.969455903166123
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",18.13842207774224
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",22.45210703937108
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",49.43840956249792
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",-10.536995604110036
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",10.36337509463938
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",35.06426209978595
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",21.73080784599487
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",19.74932273120564
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",16.961929364776516
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",33.89163753548362
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",17.590586907823237
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",15.059743942202228
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",16.047213282799735
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",-12.315182748020518
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",50.93537287736311
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",1.5349220184119252
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",5.461510651412013
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",16.93962561743585
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",29.43104233895864
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",-33.26971050115996
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",33.671701733189394
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",-34.52315233131814
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",22.251905491121125
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",-20.6498862186978
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",-15.972652535334335
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",23.138341433858542
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",37.28300467926712
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",37.02935962239933
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",-19.467742717997428
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",61.98478061933984
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",18.25311976526985
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",10.654402968976054
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",0.6629572017941932
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",13.71611592927139
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",52.14262441523631
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",10.416900647370063
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",37.60018858587131
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",31.157565982486474
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",20.384561759597425
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",18.18861333742918
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",29.19662539079965
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",30.64986975985458
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",6.710213080768153
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",12.839849784935216
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",14.253758525837476
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",9.703690683385394
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",40.05078773935082
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",19.623119836212453
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",24.20718739335808
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",47.054057850346126
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",39.65909295800043
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",0.5373051087960805
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",14.448391450940829
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",28.291493929523064
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",21.1574602428756
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",63.68952621321308
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",4.405697021822695
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",48.36483734496525
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",13.918768693852954
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",44.74834433540386
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",26.772416927268296
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",24.46033752406033
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-14.95328660176524
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",25.970186874708904
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",-1.5107223177432656
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",13.058856116845964
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",54.233956120822135
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",12.761451714532
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",12.130148323145354
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",39.714088270646215
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",27.3350324389192
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",16.09387515512822
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",55.340555582838455
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",21.125485564332596
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",12.513599186621816
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",52.965812055401
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",35.60743368362339
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",10.11321776198739
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",20.91770993342556
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",14.975095604892337
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",38.30204338600191
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",-11.929981813546668
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-11.119460447574154
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",35.53399869307562
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",31.122444284287475
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",30.353019374209754
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",42.22816849184749
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",0.4427839910198312
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",18.51367829728268
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",48.14982678065369
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",23.160146907114
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",0.4912140370500355
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-9.282738336176676
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",17.764654217430706
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-19.5508390436462
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",-6.306070983239928
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",3.015650239855144
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",11.79356265886802
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",-7.25863089910941
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-14.5513539909091
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-44.50366545570721
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-11.016238272307358
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",35.03931713162369
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",33.03338080378609
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",13.547758526466565
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",-19.400070765552645
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",30.091287908983077
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",-6.244533347633817
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",-34.14513500512474
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",18.743968816830403
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",34.7920740827534
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",70.36860888351111
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",10.48239176936586
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",33.84722845064353
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",4.5170749026334125
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",10.454241420434668
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",19.845694592740152
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",52.85321639947141
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",17.603262599612737
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",27.905799211783396
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",-9.777749653853371
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",42.39114606503867
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",24.67608943698194
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",44.0253675381931
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",60.78119018663162
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",20.564920582249385
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",24.44932869326609
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",35.136066016408016
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",35.680825357526
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",26.69902994671772
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",25.58163494337235
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",26.42337969135574
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",15.456735840915684
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",10.07051553127128
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",30.692809178686662
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",14.63971781486715
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",21.588767909928453
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",2.727623239854573
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",40.54511799629763
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",44.74515916612932
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",23.60233808081481
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",48.62878249805726
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",11.691793632131118
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",46.03207971413195
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",3.7933561301744927
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",26.29405159626184
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",37.1680710701712
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",11.147686449390577
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",10.035744573103672
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",9.881696233465783
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",35.269646463696546
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",35.0009682483761
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",44.29231479939991
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",16.73083553083464
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",67.65933751596074
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",41.33352107518682
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",22.640988522328115
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",42.04590151761683
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",20.459393859510108
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",8.896394683361704
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",48.46147683992233
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",6.696937699278186
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",20.57561007969957
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",3.6935415667958
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",-21.9023935278506
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",-10.673227799651812
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",46.27618442643227
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",18.219281556443644
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",-7.814540781545769
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",61.97280352383137
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",43.43193176938792
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",-7.802909224990085
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",22.8284050755116
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","P. Mareš (32, RFS, Virsliga 2023)",-17.512678825144786
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-9.157301834584976
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",-9.050015098534995
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",-1.7020996314469503
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",20.67589723846816
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",8.558764606155503
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",45.627412679877686
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",28.83534395856734
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",0.0436959600482018
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",16.05956769209169
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",23.947373665229502
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",20.146333093401903
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",23.348700909496763
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",33.76634628979675
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",-9.80804963780312
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",6.947099714727656
-"M. Mhadhebi (29, CS Sfaxien, Tunisian Ligue 1 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",29.571994759957644
+Player,Similarity
+"Mohamad Fauzan (28, Kelantan United, Malaysian Super League 2023)",79.19424335028675
+"W. Pineda (29, Guastatoya, Guatemala Liga Nacional 22-23)",77.13510317502845
+"M. Allan (27, Montrose, Scottish League One 22-23)",75.61213136860034
+"N. Leković (33, Mladost Lučani, Serbian SuperLiga 22-23)",75.27003209644676
+"N. Breitenbruch (27, Arsenal de Srandí, Argentinian Primera División 2023)",73.68196788120757
+"E. Sobhy (37, Ismaily, Egyptian Premier League 22-23)",73.53031814963035
+"C. Attard (28, Birkirkara, Malta Premier League 22-23)",72.49763660349043
+"C. Gladun (21, Ripensia Timişoara, Romanian Liga II 22-23)",71.77697784759512
+"A. Mondal (23, Sreenidi Deccan, I-League 22-23)",71.42923525005223
+"D. Boljević (33, Petrovac, Montenegro First League 22-23)",70.79020189518587
+"F. Fabbri (21, Olbia, Serie C 22-23)",70.65432857093309
+"A. Tarkhatt (25, FAR Rabat, Botola Pro 22-23)",70.53297434050509
+"G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",70.36860888351111
+"M. Moreira (28, Austria Klagenfurt, Austrian Bundesliga 22-23)",69.53434680048234
+"K. Gómez (23, Puntarenas, Costa Rica Primera División 22-23)",69.4692658306572
+"O. Isaenko (23, Krasnodar II, Russian FNL 2 22-23)",69.20294157584385
+"A. Ioniţă (23, Chindia Târgovişte, SuperLiga României 22-23)",68.99859251629779
+"M. Hrabina (30, Zbrojovka Brno, Czech Fortuna Liga 22-23)",68.58579308504208
+"J. Saborido (25, General Caballero JLM, Paraguay Division Profesional 2023)",68.22753858577634
+"M. Papp (33, Dorogi FC, NB II 22-23)",68.09752285545822
+"Phan Tuấn Tài (22, Viettel, V League 1 2023)",67.65933751596074
+"M. Pinton (24, Mantova, Serie C 22-23)",67.65260479618424
+"D. Legbo (21, Ararat, Armenian Premier League 22-23)",67.58646937092287
+"J. Walker (25, Sirens, Malta Premier League 22-23)",67.23724274897226
+"S. Hlatshwayo (29, Golden Arrows, South Africa PSL 22-23)",67.16382800774716

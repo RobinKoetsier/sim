@@ -1,23 +1,26 @@
-Player 1,Player 2,Similarity
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","K. Kouassi (19, Sutton United, League Two 22-23)",53.20657832776045
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)",71.48781935048594
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","C. Monschein (30, Ried, Austrian Bundesliga 22-23)",74.45979384478589
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","A. Sitalo (33, Inhulets, Ukrainian Premier Liha 22-23)",63.179007793746166
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","A. Williams (36, Walsall, League Two 22-23)",63.18284102464261
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","R. Nemoto (23, Tochigi, J2 2023)",87.70435120155481
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","A. Yakubu (24, Rio Ave, Primeira Liga 22-23)",86.80878975485325
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)",84.66825876860821
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","G. Cooper (25, Chindia Târgovişte, SuperLiga României 22-23)",71.72823919114656
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","Antoñín Cortés (23, Anorthosis, Cyprus 1. Division 22-23)",82.19336780501794
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","G. Leyes (33, Academia Cantolao, Peruvian Liga 1 2023)",65.71812665488075
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","D. Hylton (34, Northampton Town, League Two 22-23)",59.58732540175843
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","F. Bohman (26, Trelleborg, Superettan 2023)",80.88990227923094
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","K. Connell (21, Raith Rovers, Scottish Championship 22-23)",67.37600599777056
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","J. Zuñiga (29, Xinabajul, Guatemala Liga Nacional 22-23)",60.19101532486981
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","T. Hopper (29, Colchester United, League Two 22-23)",76.79671696636692
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","M. Egho (29, Randers, Superliga 22-23)",80.72360416282096
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","M. Hornyák (29, Csákvári TK, NB II 22-23)",79.08040814635255
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","M. van Duinen (31, Excelsior, Eredivisie 22-23)",74.29897455243733
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","L. Bekui (28, Al Sahel, Saudi First Division 22-23)",69.32690845257015
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","Vitor (25, Najran, Saudi First Division 22-23)",67.62546875504172
-"I. Ugbo (24, Troyes, Ligue 1 22-23)","M. Jurina (29, Al Faisaly, Saudi First Division 22-23)",69.1100999890721
+Player,Similarity
+"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)",94.7708210992549
+"Eric Balastegui (19, Engordany, Andorra Primera Divisió 22-23)",89.78360775652821
+"R. Nemoto (23, Tochigi, J2 2023)",87.70435120155481
+"T. Awoniyi (25, Nottingham Forest, Premier League 22-23)",87.45690766106284
+"A. Yakubu (24, Rio Ave, Primeira Liga 22-23)",86.80878975485325
+"M. Pucciarelli (31, Vis Pesaro, Serie C 22-23)",86.76654484348222
+"A. Dereli (30, Altınordu, Turkish 1. Lig 22-23)",86.29362428132171
+"E. Sorga (23, Lokomotiv Plovdiv, Bulgarian First League 22-23)",86.19380049988655
+"N. Namolovan (21, Dacia-Buiucani, Moldovan Super Liga 22-23)",85.6447516030641
+"A. Schmid (24, Austria Lustenau, Austrian Bundesliga 22-23)",85.35413867555913
+"O. Ojetunde (20, Lernayin Artsakh, Armenian Premier League 22-23)",85.27048546834534
+"L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)",84.66825876860821
+"S. Müller (22, Hallescher FC, 3. Liga 22-23)",84.63824408580093
+"C. Bălan (28, PAS Giannina, Greek Super League 22-23)",84.61474834020405
+"C. Washington (30, Rotherham United, Championship 22-23)",84.55695896600886
+"E. Kachunga (31, Bolton Wanderers, League One 22-23)",84.29180277960657
+"B. Guzdek (20, Odra Opole, Polish I Liga 22-23)",84.22328156056203
+"S. Hendriks (28, Olympiakos, Cyprus 1. Division 22-23)",84.16401380801992
+"M. Finotto (30, Cosenza, Serie B 22-23)",84.06750572201493
+"Pedro Marques (25, NEC, Eredivisie 22-23)",83.74472769759778
+"F. Borsos (22, Győri ETO, NB II 22-23)",83.7425997387177
+"E. Sokler (23, Radomlje, 1. SNL 22-23)",83.52179990157266
+"R. Injgia (22, Samtredia, Erovnuli Liga 2023)",83.14907085108982
+"B. Wood (30, New England, MLS 2023)",82.74447450214437
+"T. Zajíc (26, České Budějovice, Czech Fortuna Liga 22-23)",82.63392707683276

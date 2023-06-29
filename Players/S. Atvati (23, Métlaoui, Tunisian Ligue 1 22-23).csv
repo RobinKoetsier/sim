@@ -1,229 +1,26 @@
-Player 1,Player 2,Similarity
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)",14.289058617230053
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Y. Mechergui (23, CA Bizertin, Tunisian Ligue 1 22-23)",29.370964564444147
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","S. Harrabi (24, Monastir, Tunisian Ligue 1 22-23)",35.044830075485024
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","W. Sahli (35, Chebba, Tunisian Ligue 1 22-23)",51.71229958809713
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)",78.23927325814437
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Ü. Ergün (30, Bodrumspor, Turkish 1. Lig 22-23)",2.951935191158473
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","O. Ovacıklı (34, BB Erzurumspor, Turkish 1. Lig 22-23)",19.683391729279464
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","A. Dere (30, Altınordu, Turkish 1. Lig 22-23)",-25.398286349978083
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","S. Sarıkaya (25, Altay, Turkish 1. Lig 22-23)",52.21961296371384
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","H. Bilgiç (30, Boluspor, Turkish 1. Lig 22-23)",16.640921220811908
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","G. Süzen (35, Denizlispor, Turkish 1. Lig 22-23)",5.13584202486201
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)",-28.541920116396657
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)",12.23024476381104
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)",37.238327603368205
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","İ. Köybaşı (33, Göztepe, Turkish 1. Lig 22-23)",1.6592121857465767
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Şahin (22, Manisa BBSK, Turkish 1. Lig 22-23)",25.88565844761861
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)",26.345981086239377
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","O. Bayrak (24, Tuzlaspor, Turkish 1. Lig 22-23)",22.794784078287787
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Naderi (26, Altay, Turkish 1. Lig 22-23)",53.72682012588472
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","G. Kaya (27, Pendikspor, Turkish 1. Lig 22-23)",-45.896285204748125
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)",16.665586403773727
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Uçar (31, Eyüpspor, Turkish 1. Lig 22-23)",-26.480528407925924
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Pala (22, Rizespor, Turkish 1. Lig 22-23)",-10.170687111539191
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)",36.09771271547507
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","A. Şengül (24, Bandırmaspor, Turkish 1. Lig 22-23)",38.199017590068536
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)",36.100596520811806
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","S. Gönül (25, Samsunspor, Turkish 1. Lig 22-23)",47.44836680191236
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","A. Koç (26, Rizespor, Turkish 1. Lig 22-23)",16.25756092918633
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","E. Özgenc (38, Pendikspor, Turkish 1. Lig 22-23)",-36.50686301826894
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","C. Cavlan (31, Bandırmaspor, Turkish 1. Lig 22-23)",14.888747469340007
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)",-23.563457968997557
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",62.28357951727118
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",12.820888096493825
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",71.17337853049665
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",9.503796440937236
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",30.57719530164525
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",38.50699580768106
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",37.00253351164295
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",41.0247753830362
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",-7.620120381791094
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",44.69993991931155
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",-25.85264604925398
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",61.84423495990954
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",63.44329878857078
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",29.117652847147884
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",3.5287371081289995
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",56.33412145188288
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",-28.01415694594318
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",16.023740054525398
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",14.164468517670226
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",41.620303735911705
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",24.247115365440077
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",70.57757417384971
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",10.016068975666084
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",-8.826824334612139
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",-20.219092435301203
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",33.63141028492249
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",8.063525415905302
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",17.455356525372263
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",7.609446325789975
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",7.464176783594249
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",-20.013949906443397
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",-35.192745325129934
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",12.198221270992036
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",40.5762225620046
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",74.18090982906601
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",-26.27462811288841
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",19.858035028891635
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",52.01618153323449
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",-22.267403854195305
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",38.21243272267646
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",-29.148555243589204
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",63.02619383120045
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",14.928373347240134
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",15.001857767901097
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",8.82149030386038
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",22.353003196076244
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",-20.387897041067816
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",69.55768461137818
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",33.13084507609956
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",-0.4551321224563885
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",14.839246335575844
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",-0.4941915873567827
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",29.91903057695216
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",62.30089935589495
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",23.794081847559585
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",20.587934766746702
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",32.453077645611444
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",17.754208337934973
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",18.99126028781754
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",64.92318635298045
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",46.87620982752444
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",49.9310727150451
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",14.5662784568727
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",37.23604295511878
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",25.292580910112488
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",19.95832978432968
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",64.40288966573152
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",30.613403619728707
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",7.472179532836259
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-52.32039246825547
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",-4.027471266105179
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",-45.19521084712658
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",-10.366655542897254
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",57.12647926221828
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",-32.59476568414614
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",7.585236956217678
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",-4.798111034788147
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",29.53740407119248
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",47.66398710619287
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",57.93215494705045
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",26.986316588955567
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",29.49842223425857
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",38.48901332377669
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-14.106682846780638
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",54.5791779318071
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",29.74217911122721
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",16.90842869085759
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",-9.818176062092306
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",-3.86017963031504
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-39.29499999527458
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",-6.349508918148716
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",51.712331794297015
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",-2.9466006064915504
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",67.24646472262677
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-24.084014055387154
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",-2.6672502786546066
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",43.45175041128444
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-15.226054523926004
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",-28.581795517385896
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-28.355055746093893
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",39.53156005183391
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-29.214806998084
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",23.31208519296462
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-21.3778349854503
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",-6.145226513078543
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",25.452769498537915
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",4.244399686074466
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-7.915291445147578
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-4.674932700946444
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",13.507875129659372
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",49.32580285732128
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",57.13654279365572
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",7.7983667659929425
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",41.84483568736777
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",50.51862123586199
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",-28.53917480967602
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",62.575071982551066
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",38.66199719322117
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",34.55683537075732
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",21.98435595657849
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",42.63864490381636
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",8.737987585771805
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",-10.802464518754096
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",62.29758022836543
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",22.79841824840911
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",5.3389874565731725
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",-29.61687706924189
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",2.1870294835360404
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",31.86910339763493
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",52.01028304835944
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",62.0937838124472
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",45.39238856881731
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",10.689128526400475
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",64.37315553537918
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",-13.44511796061512
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",29.269677026437265
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",7.924273620285918
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",1.4255520008900453
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",11.24685974259165
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",26.09012722978465
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",-3.394311800043801
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",2.5505289947020526
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",18.79805614264532
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",-1.8015531395010729
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",35.98933387782518
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",13.3246323216213
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",52.8478587552688
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",10.493693986275698
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",68.97313542457863
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",2.417091723060041
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",71.32063327589866
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",-10.685019396859024
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",27.57507440215683
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",-10.689602224773964
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",-3.943874151505468
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",-10.54520633193667
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",4.44792471772464
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",36.03870593527626
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",-9.988558696789603
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",2.938939140025807
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",-14.523189404395096
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",50.08046453421954
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",3.479526611787151
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",26.630087705450677
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",-13.459456880843367
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",1.0028210373557682
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",-44.36057650579696
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",27.480684814054147
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",-12.89772345061592
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",-24.37190571487595
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",-13.602548612521018
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",12.52077518095377
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",2.381666786378252
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",51.2488685621884
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",-14.500159869803277
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",-20.39526641863144
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",-0.971145593901637
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",58.19660887534417
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",-42.2298970732259
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",48.09119421921786
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","P. Mareš (32, RFS, Virsliga 2023)",-19.02764543823795
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",5.115209616470886
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",14.916761365438102
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",-33.71316912744292
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",32.27370938983473
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",-36.60486311422888
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",52.547431088669306
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",21.27759315778464
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",19.46282890118632
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",19.1147309002977
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",-14.317474442950006
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",15.344122206979897
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",-14.462661344427072
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",60.02932117565408
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",-8.40269368856243
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",55.2563664458513
-"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",16.27645434813097
+Player,Similarity
+"B. Gyamfi (27, Potenza, Serie C 22-23)",86.57663159792537
+"D. Crowley (23, Cork City, League of Ireland PL 2023)",84.74825789431111
+"B. Williams (24, Cheltenham Town, League One 22-23)",84.26076642490229
+"U. García (22, Atlético de San Luis, Liga MX 22-23)",83.83491549596327
+"I. Neacșu (18, Minaur Baia Mare, Romanian Liga II 22-23)",83.28325454675301
+"Min-jun Kim (20, Pyeongtaek Citizen, K4 League 2023)",81.61216124391987
+"P. Nersveen (30, Hødd, OBOS Ligaen 2023)",81.50604216579777
+"Bader Nasser (21, Al Batin, Saudi Professional League 22-23)",81.4546292112559
+"H. Toffolo (27, Nottingham Forest, Premier League 22-23)",81.09122891004084
+"R. Law (23, Gillingham, League Two 22-23)",80.74322102915373
+"Jung-ho Lee (25, Chuncheon, K3 League 2023)",80.37783890520703
+"S. Grigoryan (28, Alashkert, Armenian Premier League 22-23)",79.97602378721143
+"T. Eyoma (23, Lincoln City, League One 22-23)",79.84345991718251
+"D. Strachan (20, Peterhead, Scottish League One 22-23)",79.71853964819908
+"O. Berber (31, İstanbulspor, Süper Lig 22-23)",79.21285843279617
+"S. Ottesen (22, Stabæk, Eliteserien 2023)",78.94367607168957
+"J. Keohane (32, Rochdale, League Two 22-23)",78.68636551721038
+"Daniel Sang (31, Sabah, Malaysian Super League 2023)",78.37992289511834
+"C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)",78.23927325814437
+"A. Gîţ (25, Unirea Dej, Romanian Liga II 22-23)",78.18465577243092
+"J. Ruffels (29, Huddersfield Town, Championship 22-23)",78.05273627251792
+"T. Mandler (22, Kapfenberger SV, Austrian 2. Liga 22-23)",77.94539680671208
+"M. Stijepović (23, Jezero, Montenegro First League 22-23)",77.60727664887804
+"Mohamed El Maghraby (22, Smouha, Egyptian Premier League 22-23)",77.59549696805107
+"K. Forsythe (20, Carrick Rangers, Northern Ireland Premiership 22-23)",77.2571220045499

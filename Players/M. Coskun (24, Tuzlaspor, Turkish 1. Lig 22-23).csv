@@ -1,191 +1,26 @@
-Player 1,Player 2,Similarity
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",-19.29296283878065
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",40.9985125758843
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",15.322563785427008
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",-12.27987300181535
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",25.414697499560702
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",52.52032909358832
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",2.817363154674013
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",33.20426181637692
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",38.83184842917149
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",7.459309445687731
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",20.283316834328268
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",36.3831316570984
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",3.345757250184745
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",7.857563839462428
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",54.902211753921215
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",23.69066427859585
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",3.305179658268398
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",-44.855540995382746
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",45.17233612077735
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",-29.3746037706046
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",58.77709534827017
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",18.82682579629112
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",44.932509153959
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",15.537458562503964
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",5.316899320389632
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",3.5735165099134605
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",29.785326643386608
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",32.40200165104884
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",20.304071617803952
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",18.02650643604304
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",12.319481193361495
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",21.545190923876984
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",13.975919942387888
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",8.819810469843057
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",23.09516303636821
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",41.25683939942952
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",21.80775930520752
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",28.205429071890727
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",31.552007799513888
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",-6.870287158054728
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",13.804519577776334
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",20.59401892192497
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",34.44364613699068
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",48.547932563660886
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",19.941732189829008
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",15.801915064222912
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",41.91133282787851
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",13.355382889196074
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",22.070951634723954
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",49.7409473602092
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",26.550016589416035
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",3.633479000208583
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",42.92772889963359
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",23.79556084444617
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",39.61863822313749
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",19.570187101197934
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",14.702980103471011
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",31.677804547687348
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",27.057111433624257
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",36.569432862065874
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",2.1442474423032527
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",21.42746438941479
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-14.962818486355564
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",9.92344008139605
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",-4.288837716343766
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",32.31810104705078
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",49.10682597386764
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",-2.436992440574577
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",8.221737054554115
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",21.034768300252058
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",18.560478136732996
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",27.62729883987752
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",39.98483276475135
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",41.342318184286405
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",0.2777118245642564
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",29.302454169672217
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-1.8461692167191837
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",5.801641263916751
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",34.14917712693787
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",34.73476478734393
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",19.360345220169155
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",22.06583870869324
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",22.864874268798687
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",0.5574401444307755
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",39.21526559745333
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",20.897461523065505
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",27.448219525301447
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",17.4150734449763
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",12.451356221070917
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",-4.098261981168574
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-13.691398774583938
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",6.912683898944951
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",14.180306760939796
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",38.354105823803096
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",3.358533315175992
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",43.19696735139149
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",12.076659506174485
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",6.219637036707921
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",35.90542594617378
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",7.591848363877474
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",17.310239670150068
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",21.857576201545093
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",20.228983634237487
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",30.198843784614542
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",37.09805138779896
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",-12.82287029748421
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",37.16702006352461
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",26.53864008730644
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",6.326724587487491
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",42.501114942752416
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",28.830666433423552
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",26.535903811050755
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",13.944196560769932
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",26.008091488206325
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",22.440511047940905
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",1.1465421847898432
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",44.37147529606692
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",2.986341555776247
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",43.654179943326646
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",-5.8144572623895625
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",13.164505104433816
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",20.235782775663907
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",7.067563825759936
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",19.27761797572807
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",18.212244323014385
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",28.46236903852129
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",32.912979690052566
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",19.210853107026946
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",39.17687777286837
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",-10.15390387056338
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",-0.3407439101992849
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",5.08817604454443
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",25.52924032613821
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",18.36545264835005
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",38.85372120518214
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",2.020984862803901
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",16.8115528900974
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",8.100727738881023
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",30.511176562680465
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",25.260056504422955
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",35.1533250613414
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",27.13538615685608
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",17.8766981640707
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",23.27995230849576
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",17.0406812270161
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",6.16347726783798
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",28.132470939769902
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",21.270111775461743
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",13.492589062530495
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",5.614774908826062
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",44.35918873930035
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",18.71382449202369
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",26.931610651222705
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",10.399901258583927
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",37.74065844063078
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",36.18438465275001
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",44.11261069737281
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",28.52784742721236
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",-17.237248360700985
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",-0.8202151987803028
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",46.72751022577192
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",8.36584331704436
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",1.66548083180336
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",20.750949128560244
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",30.017760131249943
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",15.972964031347637
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",22.27302385132503
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",22.00430376820469
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",10.743370975148263
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",11.474581009170624
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",17.457732380985476
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",-13.008843161846723
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",19.556238144871298
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","P. Mareš (32, RFS, Virsliga 2023)",15.274454195262813
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",19.18080477214311
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",41.503613695091225
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",-1.166095645598171
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",-3.955493549178348
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",24.766075945226245
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",39.151722064977946
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",9.163559583552198
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",20.662611194246157
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",38.1350670703092
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",5.567142408505903
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",22.118840977390256
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",6.257280090839444
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",36.6165741413824
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",26.38072015082206
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",9.682324392718806
-"M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",63.44658993943033
+Player,Similarity
+"Seon-Ho Kim (22, Bucheon 1995, K League 2 2023)",69.62972555814588
+"F. Mura (24, Racing Club, Argentinian Primera División 2023)",65.11873743948901
+"Kim Jin-Rae (26, Seongnam, K League 2 2023)",64.15495228036274
+"J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",63.44658993943033
+"Y. Nagatomo (36, Tokyo, J1 2023)",63.433997027869935
+"S. Tokumoto (27, Tokyo, J1 2023)",63.32403567076589
+"J. Hernández (24, Tolima, Colombian Primera Division 22-23)",63.24065562573957
+"Álvaro Barbosa (30, Fuenlabrada, Primera División RFEF 22-23)",63.02216492845761
+"M. Farfán (24, Dallas, MLS 2023)",62.44566466001008
+"Matheus Mascarenhas (24, U Craiova 1948, SuperLiga României 22-23)",62.013277372777054
+"Karim El Eraki (25, Al Masry, Egyptian Premier League 22-23)",60.4424382565147
+"S. Bengtsson (19, Helsingborg, Superettan 2023)",60.39246007189016
+"T. Zeegers (23, MVV, Eerste Divisie 22-23)",60.27206357280575
+"M. Grechkin (27, Beitar Jerusalem, Ligat Ha'al 22-23)",59.989154929328215
+"D. Štiglec (32, Gorica, 1. HNL 22-23)",59.84464513004168
+"Bandar Nasser (33, Al Feiha, Saudi Professional League 22-23)",59.67133697408572
+"E. Perleche (22, Carlos Mannucci, Peruvian Liga 1 2023)",59.64578286127572
+"J. Dirksen (20, Emmen, Eredivisie 22-23)",59.641757012334985
+"Saifeldeen Fadlalla (20, Al Gharafa, Qatari Stars League 22-23)",59.44769878182469
+"L. Burnet (32, Emmen, Eredivisie 22-23)",58.9449322586292
+"Marc Cucurella (24, Chelsea, Premier League 22-23)",58.80918905602456
+"O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",58.77709534827017
+"O. Yitzhak (22, Hapoel Kfar Saba, Liga Leumit 22-23)",58.60378558291956
+"Ali Nasser Al Marri (22, Al Markhiya, Qatari Stars League 22-23)",58.22253520262364
+"S. van Wermeskerken (28, Cambuur, Eredivisie 22-23)",58.06741529806402

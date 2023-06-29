@@ -1,32 +1,26 @@
-Player 1,Player 2,Similarity
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-32.48129266987538
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",29.282481615400503
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",23.858947320075945
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",77.487385286464
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",19.948954638818865
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",69.30834369988682
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",55.60956751691317
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",3.531548115485314
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",46.91706277697495
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-6.4550191788317655
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",85.97966845508864
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",46.10483237904733
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",48.61886480917267
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",41.91140844755174
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",69.62485223359629
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",46.664141299672046
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",73.86675644143732
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",34.67942570272599
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",16.373490590235264
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",23.863350453308374
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-24.368254762721584
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",28.462883170681845
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",47.86966258867801
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",8.054476417925619
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",54.9362659020197
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",79.60239686342139
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",74.48782926746065
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",77.6625379507884
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",16.53448503235522
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",57.66789501371529
-"M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",74.01619540627183
+Player,Similarity
+"D. Quintero (35, América de Cali, Colombian Primera Division 22-23)",89.0930987156356
+"Igor Coronado (30, Al Ittihad, Saudi Professional League 22-23)",88.5897218582043
+"R. Garro (25, Talleres Córdoba, Argentinian Primera División 2023)",87.76292827355319
+"X. Shaqiri (31, Chicago Fire, MLS 2023)",87.69601025642302
+"D. Payet (36, Olympique Marseille, Ligue 1 22-23)",87.61292761535508
+"J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",87.56280874184664
+"Muralha (30, Al Riyadh, Saudi First Division 22-23)",86.42929473347333
+"L. Acosta (29, Cincinnati, MLS 2023)",86.41275052610303
+"D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",86.40795379411036
+"K. Stöger (29, Bochum, Bundesliga 22-23)",86.38020671632913
+"K. Hoggas (31, SK Beveren, Belgian First Division B 22-23)",86.28878851539
+"R. Torres (31, Alianza Atlético, Peruvian Liga 1 2023)",86.27277187701526
+"Zé Valente (28, Persebaya Surabaya, BRI Liga 1 22-23)",86.24021786394268
+"Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",85.97966845508864
+"Ó. Barreto (30, Unión Comercio, Peruvian Liga 1 2023)",85.83884769228996
+"I. Bognár (32, MTK, NB II 22-23)",85.5602661531759
+"David Corominas (37, Ordino, Andorra Primera Divisió 22-23)",85.49999660986401
+"M. Frøkjær-Jensen (23, OB, Superliga 22-23)",85.27879745319262
+"F. Wirtz (20, Bayer Leverkusen, Bundesliga 22-23)",85.23049255061814
+"A. Memela (35, Richards Bay, South Africa PSL 22-23)",85.1749572405486
+"Carles Gil (30, New England, MLS 2023)",85.10619196113349
+"B. Natcho (35, Partizan, Serbian SuperLiga 22-23)",84.5752477726707
+"M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",84.13267019279292
+"Rakan Al Shamlan (24, Al Batin, Saudi Professional League 22-23)",83.97942365162952
+"D. Saba (30, Sivasspor, Süper Lig 22-23)",83.97213169483364

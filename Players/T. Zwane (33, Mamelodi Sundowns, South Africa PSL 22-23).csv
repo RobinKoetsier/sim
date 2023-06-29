@@ -1,121 +1,26 @@
-Player 1,Player 2,Similarity
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",27.430725008798778
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",55.92605390418519
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",51.589488747041045
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",52.95732413090541
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",73.1822637111264
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",40.15275632503294
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",31.92824610836727
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",65.82108388438961
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",38.33416285373028
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",59.92176143062644
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",40.16241690008064
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",43.70236638680456
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",16.89146626551445
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",38.76618747278637
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",63.3017587124581
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",68.92904573281594
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",76.10830926013242
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",37.94985235030031
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","I. Jebali (31, OB, Superliga 22-23)",58.88360192790154
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",52.59871622709833
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",33.09888305755526
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",38.36781752759572
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",82.11137084093639
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",73.36446523418519
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",58.05215511258366
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",31.67940686755516
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",57.89201977923702
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",53.849425669571815
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",47.76440402138864
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",36.325509340381046
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",43.80059708432465
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",16.049417982797717
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",26.959881812780168
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",60.09508518487837
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",31.627368787545905
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",40.784550098610495
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",62.98145417139223
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",36.80887432694628
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",46.04696622099587
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",41.13082791046605
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",44.98177971035582
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",42.53769328186133
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",46.47858097533248
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",53.09034200924499
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",72.6177160855085
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",63.11320724878592
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",55.89841394759636
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",17.69607125584033
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",44.48939010807324
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",59.32201881604055
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",61.95091906957367
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",40.34489044296737
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",83.90725906913138
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",62.237613817272
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",48.838465434895454
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",50.04748842096617
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",30.30589174234869
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",71.87939940843118
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",15.923018687675071
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",72.40814065379885
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",62.37643172804278
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",70.49694412375426
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",58.16287153654991
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",77.82946318108478
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",49.86998604995824
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",50.25871256876033
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",48.25794325330674
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",26.18405132716245
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",80.76930976726784
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",13.730375963110658
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",33.43444537898595
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-16.901153420416414
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-23.680423299286645
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",25.795315679248063
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",-3.277513560288061
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",38.22343918402095
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",44.81360215055981
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",8.088702065763599
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",8.824799823279125
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",0.9493218069266944
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",57.10457792071734
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",21.983784086189463
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",11.041820967730615
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",66.48864513865213
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",41.57831394140307
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",77.00519466830578
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-19.89156005606709
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",9.90702541237391
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",61.22481166634447
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-15.20263748563812
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",29.490946527412028
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",26.058131629808685
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",39.83748375301151
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",46.49560299565778
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",79.76289525665815
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",54.74927535056897
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",43.24864034533349
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",45.95257371741776
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",33.60731642935392
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",64.86764102479528
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",-1.8935277941762805
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",69.86400122376034
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",72.68302750009178
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",60.57639568062171
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",46.28224752573222
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",57.600185946866056
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",69.80834533924612
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",10.808056066299883
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",56.64831793923558
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-15.599283950814696
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",24.407764518794988
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",48.305981044683904
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",16.659272611765733
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",33.08310354409025
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",60.40538264547305
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",38.3381708804044
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",53.23348445496361
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",31.598736642899443
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",38.88153902081303
-"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",46.39685539791215
+Player,Similarity
+"David Silva (37, Real Sociedad, La Liga 22-23)",90.17022766522696
+"O. Pineda (27, AEK Athens, Greek Super League 22-23)",89.4109485439271
+"Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",88.69858406452767
+"P. Altán (25, Municipal, Guatemala Liga Nacional 22-23)",88.24570226693349
+"Brahim Diaz (23, Milan, Serie A 22-23)",88.24321653423438
+"S. Kowalczyk (24, Pogoń Szczecin, Ekstraklasa 22-23)",87.4680785429873
+"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)",87.15576541872312
+"T. Nguen (29, Ferencváros, NB I 22-23)",86.62320011687117
+"João Mendes (28, Chaves, Primeira Liga 22-23)",86.4526060706476
+"Xavi Puerto (31, Atlètic Club d'Escaldes, Andorra Primera Divisió 22-23)",85.08582732818228
+"G. Konstantelias (20, PAOK, Greek Super League 22-23)",84.7358082371409
+"D. Silva (36, Millonarios, Colombian Primera Division 22-23)",84.40227771889792
+"Alberto Noguera (33, Mumbai City, Indian Super League 22-23)",84.03658336341948
+"E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",83.90725906913138
+"J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",82.11137084093639
+"P. Santos (27, Moreirense, Portugal Segunda Liga 22-23)",81.82821183758439
+"T. van Leeuwen (21, TOP Oss, Eerste Divisie 22-23)",81.67872594344425
+"E. Sylvestre (23, Pau, Ligue 2 22-23)",81.39523397248608
+"J. Ponceau (22, Lorient, Ligue 1 22-23)",81.38338096546138
+"N. Eraković (23, Sutjeska, Montenegro First League 22-23)",81.32096210171835
+"Manu García (25, Aris, Greek Super League 22-23)",81.22271064873786
+"E. Panya (23, Muang Thong United, Thai League 1 22-23)",80.76930976726784
+"A. Ramsey (20, Middlesbrough, Championship 22-23)",80.48521445822912
+"O. El Kaddouri (32, PAOK, Greek Super League 22-23)",80.42000700280784
+"B. El Khannous (19, Genk, Belgian Pro League 22-23)",80.05759870263874

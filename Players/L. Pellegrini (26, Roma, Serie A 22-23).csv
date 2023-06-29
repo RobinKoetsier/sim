@@ -1,204 +1,26 @@
-Player 1,Player 2,Similarity
-"L. Pellegrini (26, Roma, Serie A 22-23)","G. Caprari (29, Monza, Serie A 22-23)",47.85181812038879
-"L. Pellegrini (26, Roma, Serie A 22-23)","L. Ferguson (23, Bologna, Serie A 22-23)",-17.899734434404216
-"L. Pellegrini (26, Roma, Serie A 22-23)","Al. Miranchuk (27, Torino, Serie A 22-23)",45.27571701724975
-"L. Pellegrini (26, Roma, Serie A 22-23)","Brahim Diaz (23, Milan, Serie A 22-23)",40.21233493596054
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Barák (28, Fiorentina, Serie A 22-23)",9.002278905681738
-"L. Pellegrini (26, Roma, Serie A 22-23)","N. Bajrami (24, Sassuolo, Serie A 22-23)",64.78566129604155
-"L. Pellegrini (26, Roma, Serie A 22-23)","T. Baldanzi (20, Empoli, Serie A 22-23)",14.716633238045617
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Pašalić (28, Atalanta, Serie A 22-23)",-0.426844100399038
-"L. Pellegrini (26, Roma, Serie A 22-23)","N. Radonjić (27, Torino, Serie A 22-23)",30.567984321902543
-"L. Pellegrini (26, Roma, Serie A 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",20.745592604383265
-"L. Pellegrini (26, Roma, Serie A 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",81.50354654527531
-"L. Pellegrini (26, Roma, Serie A 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",74.93631552691426
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Colpani (24, Monza, Serie A 22-23)",56.593355945765936
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",18.199224452493063
-"L. Pellegrini (26, Roma, Serie A 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",-12.10921946130262
-"L. Pellegrini (26, Roma, Serie A 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",56.96098135767266
-"L. Pellegrini (26, Roma, Serie A 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",3.174408429552173
-"L. Pellegrini (26, Roma, Serie A 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",70.46217927880608
-"L. Pellegrini (26, Roma, Serie A 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",51.443680688670646
-"L. Pellegrini (26, Roma, Serie A 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",75.7006971610923
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",75.84405162459728
-"L. Pellegrini (26, Roma, Serie A 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",-11.603562920362188
-"L. Pellegrini (26, Roma, Serie A 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",66.55035925991159
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",79.85522796201434
-"L. Pellegrini (26, Roma, Serie A 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",71.65855815820147
-"L. Pellegrini (26, Roma, Serie A 22-23)","R. Botta (33, Bari, Serie B 22-23)",49.62119268281494
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",48.46202708291296
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",-2.415267522578328
-"L. Pellegrini (26, Roma, Serie A 22-23)","V. Parigini (27, Como, Serie B 22-23)",17.447613657223883
-"L. Pellegrini (26, Roma, Serie A 22-23)","Álex Blanco (24, Como, Serie B 22-23)",27.419654845855863
-"L. Pellegrini (26, Roma, Serie A 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",71.80915343894426
-"L. Pellegrini (26, Roma, Serie A 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",74.72960622798534
-"L. Pellegrini (26, Roma, Serie A 22-23)","D. Camara (21, Parma, Serie B 22-23)",18.60597004639419
-"L. Pellegrini (26, Roma, Serie A 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",48.25944728687854
-"L. Pellegrini (26, Roma, Serie A 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",-13.134133607092014
-"L. Pellegrini (26, Roma, Serie A 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",28.330197317605187
-"L. Pellegrini (26, Roma, Serie A 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",-3.4665309386066703
-"L. Pellegrini (26, Roma, Serie A 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",77.73445404064353
-"L. Pellegrini (26, Roma, Serie A 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",4.676502454998984
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",78.9281452672481
-"L. Pellegrini (26, Roma, Serie A 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",14.782669464929516
-"L. Pellegrini (26, Roma, Serie A 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",24.49487093635309
-"L. Pellegrini (26, Roma, Serie A 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",-10.57820296592636
-"L. Pellegrini (26, Roma, Serie A 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",66.6172603075248
-"L. Pellegrini (26, Roma, Serie A 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",9.290925518628171
-"L. Pellegrini (26, Roma, Serie A 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",7.065808497588903
-"L. Pellegrini (26, Roma, Serie A 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",65.67888061971404
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-20.8732957193776
-"L. Pellegrini (26, Roma, Serie A 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",37.54501506862224
-"L. Pellegrini (26, Roma, Serie A 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",-5.090469903302013
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",13.041801083683804
-"L. Pellegrini (26, Roma, Serie A 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",52.66371140440573
-"L. Pellegrini (26, Roma, Serie A 22-23)","N. Belloni (28, Siena, Serie C 22-23)",23.435412143066134
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Frediani (29, Siena, Serie C 22-23)",39.909201630438886
-"L. Pellegrini (26, Roma, Serie A 22-23)","F. Urso (28, Torres, Serie C 22-23)",78.55278089372392
-"L. Pellegrini (26, Roma, Serie A 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",56.577204071112
-"L. Pellegrini (26, Roma, Serie A 22-23)","G. Lisai (33, Torres, Serie C 22-23)",33.69767651347465
-"L. Pellegrini (26, Roma, Serie A 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",87.19778754380563
-"L. Pellegrini (26, Roma, Serie A 22-23)","C. Attys (22, Trento, Serie C 22-23)",-0.2677964887683561
-"L. Pellegrini (26, Roma, Serie A 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",59.95172317628127
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",36.738260778183154
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",73.25222257689072
-"L. Pellegrini (26, Roma, Serie A 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",59.86781969366094
-"L. Pellegrini (26, Roma, Serie A 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",54.81637428838604
-"L. Pellegrini (26, Roma, Serie A 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",76.33838077500496
-"L. Pellegrini (26, Roma, Serie A 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",1.4831242781566365
-"L. Pellegrini (26, Roma, Serie A 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",57.59774263020563
-"L. Pellegrini (26, Roma, Serie A 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",47.639501612324814
-"L. Pellegrini (26, Roma, Serie A 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",77.34612067867914
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",75.28755495514314
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",13.92349990008491
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",80.96273574888316
-"L. Pellegrini (26, Roma, Serie A 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",46.99530689613197
-"L. Pellegrini (26, Roma, Serie A 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",81.41719823372296
-"L. Pellegrini (26, Roma, Serie A 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",66.58120232741351
-"L. Pellegrini (26, Roma, Serie A 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",71.23627837571672
-"L. Pellegrini (26, Roma, Serie A 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",71.81502745383416
-"L. Pellegrini (26, Roma, Serie A 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",64.612582653543
-"L. Pellegrini (26, Roma, Serie A 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",19.842892696140357
-"L. Pellegrini (26, Roma, Serie A 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",-6.23326549504237
-"L. Pellegrini (26, Roma, Serie A 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",13.62914110466374
-"L. Pellegrini (26, Roma, Serie A 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",72.6601385857835
-"L. Pellegrini (26, Roma, Serie A 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",32.888720164152446
-"L. Pellegrini (26, Roma, Serie A 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",85.81084164576072
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",78.00153132511191
-"L. Pellegrini (26, Roma, Serie A 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",72.6813584387984
-"L. Pellegrini (26, Roma, Serie A 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",55.15305875895898
-"L. Pellegrini (26, Roma, Serie A 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",23.05950515304038
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",12.510282715414537
-"L. Pellegrini (26, Roma, Serie A 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",0.6018569890158796
-"L. Pellegrini (26, Roma, Serie A 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",2.99942722026356
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",54.83585223629455
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",34.051651588076666
-"L. Pellegrini (26, Roma, Serie A 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",11.789129192502534
-"L. Pellegrini (26, Roma, Serie A 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",13.66043245621472
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",0.4214830385835181
-"L. Pellegrini (26, Roma, Serie A 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-2.206969321886741
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",60.9797118038774
-"L. Pellegrini (26, Roma, Serie A 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",50.64429429899805
-"L. Pellegrini (26, Roma, Serie A 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",48.14984654456015
-"L. Pellegrini (26, Roma, Serie A 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",22.621996594570145
-"L. Pellegrini (26, Roma, Serie A 22-23)","I. Jebali (31, OB, Superliga 22-23)",70.40158341544641
-"L. Pellegrini (26, Roma, Serie A 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",36.18896317714046
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",18.988366750388742
-"L. Pellegrini (26, Roma, Serie A 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",64.7474788322172
-"L. Pellegrini (26, Roma, Serie A 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",55.77917184646996
-"L. Pellegrini (26, Roma, Serie A 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",77.10420834029472
-"L. Pellegrini (26, Roma, Serie A 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",71.62756994677525
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",69.51905329139571
-"L. Pellegrini (26, Roma, Serie A 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",48.13705503383486
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",53.66159869816018
-"L. Pellegrini (26, Roma, Serie A 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",22.378463112824814
-"L. Pellegrini (26, Roma, Serie A 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",69.76354257605067
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",86.81415953773917
-"L. Pellegrini (26, Roma, Serie A 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",87.37116066916664
-"L. Pellegrini (26, Roma, Serie A 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",12.978009380317094
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",69.29929347561458
-"L. Pellegrini (26, Roma, Serie A 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",31.010943737292525
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",72.60046567875756
-"L. Pellegrini (26, Roma, Serie A 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",43.05955928152619
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",73.78829970501366
-"L. Pellegrini (26, Roma, Serie A 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",76.8634807619225
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",77.63942245873744
-"L. Pellegrini (26, Roma, Serie A 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",31.29349439958048
-"L. Pellegrini (26, Roma, Serie A 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",82.54979193272585
-"L. Pellegrini (26, Roma, Serie A 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",26.47690020138904
-"L. Pellegrini (26, Roma, Serie A 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",82.71950667648194
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",29.57191533030621
-"L. Pellegrini (26, Roma, Serie A 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",25.83529642795844
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",9.65848197857716
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",8.797456862059887
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",92.37568838009705
-"L. Pellegrini (26, Roma, Serie A 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",70.50528075576209
-"L. Pellegrini (26, Roma, Serie A 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",66.12818066560125
-"L. Pellegrini (26, Roma, Serie A 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",9.969886575110182
-"L. Pellegrini (26, Roma, Serie A 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",38.67824763286464
-"L. Pellegrini (26, Roma, Serie A 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",74.13746632505091
-"L. Pellegrini (26, Roma, Serie A 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",78.65184314051986
-"L. Pellegrini (26, Roma, Serie A 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",71.98877169715385
-"L. Pellegrini (26, Roma, Serie A 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",70.66030258382577
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",36.28767580777289
-"L. Pellegrini (26, Roma, Serie A 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",4.732314957436983
-"L. Pellegrini (26, Roma, Serie A 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",38.225465803535386
-"L. Pellegrini (26, Roma, Serie A 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",70.84426659271033
-"L. Pellegrini (26, Roma, Serie A 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",59.879410783525735
-"L. Pellegrini (26, Roma, Serie A 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",85.11724993283289
-"L. Pellegrini (26, Roma, Serie A 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",48.45124188878235
-"L. Pellegrini (26, Roma, Serie A 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",73.79084857687789
-"L. Pellegrini (26, Roma, Serie A 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",75.2559841025351
-"L. Pellegrini (26, Roma, Serie A 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",70.65792517628363
-"L. Pellegrini (26, Roma, Serie A 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",80.95108029697028
-"L. Pellegrini (26, Roma, Serie A 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",47.60680684794983
-"L. Pellegrini (26, Roma, Serie A 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",6.380679217981331
-"L. Pellegrini (26, Roma, Serie A 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",71.94324906399314
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",67.71153454047743
-"L. Pellegrini (26, Roma, Serie A 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-23.0129488229248
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",10.408479349587225
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",31.69707689829921
-"L. Pellegrini (26, Roma, Serie A 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",66.95611262166695
-"L. Pellegrini (26, Roma, Serie A 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",78.02487293135711
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",20.09511069070765
-"L. Pellegrini (26, Roma, Serie A 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",69.60795993872428
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",51.81714392732689
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",36.31020936973497
-"L. Pellegrini (26, Roma, Serie A 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",76.37865959877682
-"L. Pellegrini (26, Roma, Serie A 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-7.768982138885533
-"L. Pellegrini (26, Roma, Serie A 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",23.05475670342492
-"L. Pellegrini (26, Roma, Serie A 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",31.72741588070021
-"L. Pellegrini (26, Roma, Serie A 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",31.24602102245872
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-8.215462637361206
-"L. Pellegrini (26, Roma, Serie A 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",-1.851062770966959
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",69.62417149664071
-"L. Pellegrini (26, Roma, Serie A 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-18.73090049476027
-"L. Pellegrini (26, Roma, Serie A 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",65.97473185741262
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",42.87556850058442
-"L. Pellegrini (26, Roma, Serie A 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",83.88752339579256
-"L. Pellegrini (26, Roma, Serie A 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",22.05626038807671
-"L. Pellegrini (26, Roma, Serie A 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",51.25202008808301
-"L. Pellegrini (26, Roma, Serie A 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",79.22397471748826
-"L. Pellegrini (26, Roma, Serie A 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",6.3898906497486445
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",46.279520648120126
-"L. Pellegrini (26, Roma, Serie A 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-10.665901473672772
-"L. Pellegrini (26, Roma, Serie A 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",59.04093667072702
-"L. Pellegrini (26, Roma, Serie A 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",75.84055623182724
-"L. Pellegrini (26, Roma, Serie A 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",21.391188043473875
-"L. Pellegrini (26, Roma, Serie A 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",40.52389498471183
-"L. Pellegrini (26, Roma, Serie A 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",74.68683646407843
-"L. Pellegrini (26, Roma, Serie A 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",77.77039770203072
-"L. Pellegrini (26, Roma, Serie A 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",67.50640937931529
-"L. Pellegrini (26, Roma, Serie A 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",45.25400688158376
-"L. Pellegrini (26, Roma, Serie A 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",-2.765318450414073
-"L. Pellegrini (26, Roma, Serie A 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",33.86472104960421
-"L. Pellegrini (26, Roma, Serie A 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-23.01352834839878
-"L. Pellegrini (26, Roma, Serie A 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",40.67094308457268
-"L. Pellegrini (26, Roma, Serie A 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",54.35729220988165
-"L. Pellegrini (26, Roma, Serie A 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",50.87281757783043
-"L. Pellegrini (26, Roma, Serie A 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",68.60406691551056
-"L. Pellegrini (26, Roma, Serie A 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",76.10334285909734
-"L. Pellegrini (26, Roma, Serie A 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",87.73428484221193
-"L. Pellegrini (26, Roma, Serie A 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",70.2519016618935
-"L. Pellegrini (26, Roma, Serie A 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",32.28645171727292
-"L. Pellegrini (26, Roma, Serie A 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",46.89150731618045
-"L. Pellegrini (26, Roma, Serie A 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",86.6372397402071
+Player,Similarity
+"F. Nabiyev (23, Kapaz, Premyer Liqa 22-23)",92.57325643038726
+"K. Sandoval (26, Cienciano, Peruvian Liga 1 2023)",92.4531781095087
+"A. Maxim (32, Beşiktaş, Süper Lig 22-23)",92.37568838009705
+"Javi Hernández (33, Bengaluru, Indian Super League 22-23)",92.30281590164508
+"Márió Németh (28, Budafoki MTE, NB II 22-23)",91.84226518319718
+"J. Swift (27, West Bromwich Albion, Championship 22-23)",90.66732182944658
+"M. Mijić (33, Novi Pazar, Serbian SuperLiga 22-23)",89.84428253394799
+"A. Pritchard (30, Sunderland, Championship 22-23)",89.82249930798038
+"N. Alexandersson (21, Moss, OBOS Ligaen 2023)",89.44967628797167
+"L. Fernández (24, Toluca, Liga MX 22-23)",89.19712929215736
+"J. Wurtz (30, Wehen Wiesbaden, 3. Liga 22-23)",89.14156842194645
+"Ł. Janoszka (36, Ruch Chorzów, Polish I Liga 22-23)",88.9432628871404
+"K. Turner (25, Partick Thistle, Scottish Championship 22-23)",88.78800028564986
+"M. Wunderlich (37, Viktoria Köln, 3. Liga 22-23)",88.7581647569185
+"J. Vergés (31, Gualaceo, Ecuador Liga Pro 2023)",88.65285588448816
+"J. Nsang (24, UE Santa Coloma, Andorra Primera Divisió 22-23)",88.6058883686274
+"Andreas Pereira (27, Fulham, Premier League 22-23)",88.41049660146105
+"Evander (24, Portland Timbers, MLS 2023)",88.36278824818955
+"E. Agyiri (25, Levadia, Estonian Meistriliiga 2023)",88.35482455721049
+"A. Roman (29, CSMS Iaşi, Romanian Liga II 22-23)",88.27776542660051
+"W. Mimbela (31, ADT, Peruvian Liga 1 2023)",88.2221122741505
+"A.  Lőrinczy (29, Diósgyőr, NB II 22-23)",88.19400553179516
+"O. Velanas (24, NAC Breda, Eerste Divisie 22-23)",88.04807209331436
+"E. Eze (24, Crystal Palace, Premier League 22-23)",87.99060419724435
+"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)",87.94234419205509

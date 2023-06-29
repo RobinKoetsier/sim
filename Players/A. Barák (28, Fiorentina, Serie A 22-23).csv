@@ -1,199 +1,26 @@
-Player 1,Player 2,Similarity
-"A. Barák (28, Fiorentina, Serie A 22-23)","N. Bajrami (24, Sassuolo, Serie A 22-23)",36.540399272663365
-"A. Barák (28, Fiorentina, Serie A 22-23)","T. Baldanzi (20, Empoli, Serie A 22-23)",70.2302503231385
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Pašalić (28, Atalanta, Serie A 22-23)",49.078178516288624
-"A. Barák (28, Fiorentina, Serie A 22-23)","N. Radonjić (27, Torino, Serie A 22-23)",24.40497659842985
-"A. Barák (28, Fiorentina, Serie A 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",56.93885582952335
-"A. Barák (28, Fiorentina, Serie A 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",6.533966771621152
-"A. Barák (28, Fiorentina, Serie A 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",15.4131990234077
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. Colpani (24, Monza, Serie A 22-23)",50.21442316719321
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",47.52547918995824
-"A. Barák (28, Fiorentina, Serie A 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",8.628842255786225
-"A. Barák (28, Fiorentina, Serie A 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",11.586160779940926
-"A. Barák (28, Fiorentina, Serie A 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",41.518618449192935
-"A. Barák (28, Fiorentina, Serie A 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",6.505830370006244
-"A. Barák (28, Fiorentina, Serie A 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",33.92946911870243
-"A. Barák (28, Fiorentina, Serie A 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",5.139040052570783
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",14.251277027742582
-"A. Barák (28, Fiorentina, Serie A 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",-6.16988709998066
-"A. Barák (28, Fiorentina, Serie A 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",43.5118800853046
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",3.261868994431489
-"A. Barák (28, Fiorentina, Serie A 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",-6.517290047664432
-"A. Barák (28, Fiorentina, Serie A 22-23)","R. Botta (33, Bari, Serie B 22-23)",15.08199426307239
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",35.02995288195216
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",-16.783378419071553
-"A. Barák (28, Fiorentina, Serie A 22-23)","V. Parigini (27, Como, Serie B 22-23)",-8.719608711256955
-"A. Barák (28, Fiorentina, Serie A 22-23)","Álex Blanco (24, Como, Serie B 22-23)",45.02622100747282
-"A. Barák (28, Fiorentina, Serie A 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",-15.330940828660466
-"A. Barák (28, Fiorentina, Serie A 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",21.52940378546361
-"A. Barák (28, Fiorentina, Serie A 22-23)","D. Camara (21, Parma, Serie B 22-23)",29.98711037503124
-"A. Barák (28, Fiorentina, Serie A 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",17.902264399775618
-"A. Barák (28, Fiorentina, Serie A 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",19.745404643630422
-"A. Barák (28, Fiorentina, Serie A 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",1.8605511395835803
-"A. Barák (28, Fiorentina, Serie A 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",-11.792780826427496
-"A. Barák (28, Fiorentina, Serie A 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",10.550353945980463
-"A. Barák (28, Fiorentina, Serie A 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",33.35367864633321
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",11.99644106749254
-"A. Barák (28, Fiorentina, Serie A 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",29.556866343591047
-"A. Barák (28, Fiorentina, Serie A 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",44.178745684236006
-"A. Barák (28, Fiorentina, Serie A 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",8.14901039141176
-"A. Barák (28, Fiorentina, Serie A 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",16.52030634702528
-"A. Barák (28, Fiorentina, Serie A 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",13.539930038280184
-"A. Barák (28, Fiorentina, Serie A 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",45.80040033838962
-"A. Barák (28, Fiorentina, Serie A 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",-5.600308305927253
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-21.35162396824241
-"A. Barák (28, Fiorentina, Serie A 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",20.868288166953256
-"A. Barák (28, Fiorentina, Serie A 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",3.4999370933655203
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",5.482836011256362
-"A. Barák (28, Fiorentina, Serie A 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",28.807157953461488
-"A. Barák (28, Fiorentina, Serie A 22-23)","N. Belloni (28, Siena, Serie C 22-23)",-30.178513265810285
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Frediani (29, Siena, Serie C 22-23)",14.800647852475956
-"A. Barák (28, Fiorentina, Serie A 22-23)","F. Urso (28, Torres, Serie C 22-23)",-10.860676253697758
-"A. Barák (28, Fiorentina, Serie A 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",-25.506534363395783
-"A. Barák (28, Fiorentina, Serie A 22-23)","G. Lisai (33, Torres, Serie C 22-23)",-15.058339449376875
-"A. Barák (28, Fiorentina, Serie A 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",5.759203178513371
-"A. Barák (28, Fiorentina, Serie A 22-23)","C. Attys (22, Trento, Serie C 22-23)",10.924913810351397
-"A. Barák (28, Fiorentina, Serie A 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",37.67377322963989
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",44.582728983717686
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",40.990870926793534
-"A. Barák (28, Fiorentina, Serie A 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",19.03471419376691
-"A. Barák (28, Fiorentina, Serie A 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",21.232127317462314
-"A. Barák (28, Fiorentina, Serie A 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",37.58679545644705
-"A. Barák (28, Fiorentina, Serie A 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",12.770612383128013
-"A. Barák (28, Fiorentina, Serie A 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",13.75736142275149
-"A. Barák (28, Fiorentina, Serie A 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",64.4417840418921
-"A. Barák (28, Fiorentina, Serie A 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",12.956127079155838
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",2.1215974431135143
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",23.7508605188542
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",13.204455263034342
-"A. Barák (28, Fiorentina, Serie A 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",22.737146059109516
-"A. Barák (28, Fiorentina, Serie A 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",-6.2190086012424
-"A. Barák (28, Fiorentina, Serie A 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",9.253327911437149
-"A. Barák (28, Fiorentina, Serie A 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",7.72900141842335
-"A. Barák (28, Fiorentina, Serie A 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",16.363736041727112
-"A. Barák (28, Fiorentina, Serie A 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",17.611071389086764
-"A. Barák (28, Fiorentina, Serie A 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",42.57189554645088
-"A. Barák (28, Fiorentina, Serie A 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",52.49014722145808
-"A. Barák (28, Fiorentina, Serie A 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",30.173986015013003
-"A. Barák (28, Fiorentina, Serie A 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",25.461586723661245
-"A. Barák (28, Fiorentina, Serie A 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",63.154329246465565
-"A. Barák (28, Fiorentina, Serie A 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",0.865330922306078
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",18.016609258863436
-"A. Barák (28, Fiorentina, Serie A 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",20.83516643084665
-"A. Barák (28, Fiorentina, Serie A 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",34.65409259120641
-"A. Barák (28, Fiorentina, Serie A 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",28.690252493125147
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",46.53555374173865
-"A. Barák (28, Fiorentina, Serie A 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",23.57301034134731
-"A. Barák (28, Fiorentina, Serie A 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",44.81385424675285
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",30.282563970193245
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",52.84667902479308
-"A. Barák (28, Fiorentina, Serie A 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",29.52773784160766
-"A. Barák (28, Fiorentina, Serie A 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",31.860823969222764
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",60.77071893276521
-"A. Barák (28, Fiorentina, Serie A 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",62.43769613820744
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",23.01377803373007
-"A. Barák (28, Fiorentina, Serie A 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",57.04582614214901
-"A. Barák (28, Fiorentina, Serie A 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",31.712623470093536
-"A. Barák (28, Fiorentina, Serie A 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",74.11954164217882
-"A. Barák (28, Fiorentina, Serie A 22-23)","I. Jebali (31, OB, Superliga 22-23)",30.47105146780021
-"A. Barák (28, Fiorentina, Serie A 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",32.584063708295574
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",36.96992404686235
-"A. Barák (28, Fiorentina, Serie A 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",38.65847743892756
-"A. Barák (28, Fiorentina, Serie A 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",53.91715204245331
-"A. Barák (28, Fiorentina, Serie A 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",26.88340574218049
-"A. Barák (28, Fiorentina, Serie A 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",12.208310017603225
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",8.28475433719368
-"A. Barák (28, Fiorentina, Serie A 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",34.88740098510851
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",36.71483165779303
-"A. Barák (28, Fiorentina, Serie A 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",44.30101859278231
-"A. Barák (28, Fiorentina, Serie A 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",10.907710466742468
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",13.383814204979489
-"A. Barák (28, Fiorentina, Serie A 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",2.0898581084875696
-"A. Barák (28, Fiorentina, Serie A 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",59.40333366083465
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",14.108815827478724
-"A. Barák (28, Fiorentina, Serie A 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",19.91023599410212
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",6.819707395933991
-"A. Barák (28, Fiorentina, Serie A 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",30.67551628821733
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",26.58292703264574
-"A. Barák (28, Fiorentina, Serie A 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",4.899751700449852
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",30.55578962218385
-"A. Barák (28, Fiorentina, Serie A 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",36.01530936559966
-"A. Barák (28, Fiorentina, Serie A 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",25.82924386057117
-"A. Barák (28, Fiorentina, Serie A 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",45.3640180734894
-"A. Barák (28, Fiorentina, Serie A 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",17.939433912355593
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",37.16441023826916
-"A. Barák (28, Fiorentina, Serie A 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",44.77134764185028
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",53.925259979606174
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",18.41576904191569
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",10.490283295661888
-"A. Barák (28, Fiorentina, Serie A 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",26.0851276207555
-"A. Barák (28, Fiorentina, Serie A 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",38.01791637158431
-"A. Barák (28, Fiorentina, Serie A 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",28.09394266956886
-"A. Barák (28, Fiorentina, Serie A 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",67.78020966056769
-"A. Barák (28, Fiorentina, Serie A 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",43.84217386130096
-"A. Barák (28, Fiorentina, Serie A 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",23.664550954010707
-"A. Barák (28, Fiorentina, Serie A 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",30.99266163625628
-"A. Barák (28, Fiorentina, Serie A 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",-7.456478266726793
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",44.43599604791222
-"A. Barák (28, Fiorentina, Serie A 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",57.86098520967127
-"A. Barák (28, Fiorentina, Serie A 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",61.002144313634496
-"A. Barák (28, Fiorentina, Serie A 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",18.773744264226007
-"A. Barák (28, Fiorentina, Serie A 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",28.936367350658028
-"A. Barák (28, Fiorentina, Serie A 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",32.435827908972506
-"A. Barák (28, Fiorentina, Serie A 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",70.10179619834769
-"A. Barák (28, Fiorentina, Serie A 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",40.10671617430492
-"A. Barák (28, Fiorentina, Serie A 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",2.7713595950106056
-"A. Barák (28, Fiorentina, Serie A 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",9.498814626828985
-"A. Barák (28, Fiorentina, Serie A 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",9.438977966499202
-"A. Barák (28, Fiorentina, Serie A 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",45.585183213419874
-"A. Barák (28, Fiorentina, Serie A 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",44.74772927739404
-"A. Barák (28, Fiorentina, Serie A 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",26.402252829270967
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-32.10522794863866
-"A. Barák (28, Fiorentina, Serie A 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",22.17363571445957
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",33.89598921220645
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",-25.353540481852267
-"A. Barák (28, Fiorentina, Serie A 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",14.711792110603383
-"A. Barák (28, Fiorentina, Serie A 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",19.697146826402516
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",18.87206549312087
-"A. Barák (28, Fiorentina, Serie A 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",0.3081159814668089
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",-14.50886852896342
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",30.379598620621127
-"A. Barák (28, Fiorentina, Serie A 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",9.943900107156924
-"A. Barák (28, Fiorentina, Serie A 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",46.83685139476504
-"A. Barák (28, Fiorentina, Serie A 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",76.26685073896394
-"A. Barák (28, Fiorentina, Serie A 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",58.268763127768686
-"A. Barák (28, Fiorentina, Serie A 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",26.66440921240522
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",19.597369771835897
-"A. Barák (28, Fiorentina, Serie A 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",48.0934036206754
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",15.997176611520327
-"A. Barák (28, Fiorentina, Serie A 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",26.19497178759436
-"A. Barák (28, Fiorentina, Serie A 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",39.52531998960007
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",16.102232285454875
-"A. Barák (28, Fiorentina, Serie A 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",18.31195105551367
-"A. Barák (28, Fiorentina, Serie A 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",49.68747235496159
-"A. Barák (28, Fiorentina, Serie A 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",53.27852526034057
-"A. Barák (28, Fiorentina, Serie A 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",24.881232700345425
-"A. Barák (28, Fiorentina, Serie A 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",37.678228835782015
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",23.85328548073312
-"A. Barák (28, Fiorentina, Serie A 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",38.33563100002031
-"A. Barák (28, Fiorentina, Serie A 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",32.19114767372265
-"A. Barák (28, Fiorentina, Serie A 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",-21.919794298826343
-"A. Barák (28, Fiorentina, Serie A 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",52.63410760230567
-"A. Barák (28, Fiorentina, Serie A 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",65.8695975793649
-"A. Barák (28, Fiorentina, Serie A 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",30.69101845646849
-"A. Barák (28, Fiorentina, Serie A 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",45.74784288612732
-"A. Barák (28, Fiorentina, Serie A 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",20.175599921165382
-"A. Barák (28, Fiorentina, Serie A 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",75.48415697943403
-"A. Barák (28, Fiorentina, Serie A 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",9.662639740628086
-"A. Barák (28, Fiorentina, Serie A 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",66.02075234113275
-"A. Barák (28, Fiorentina, Serie A 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",10.371803975641164
-"A. Barák (28, Fiorentina, Serie A 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",18.802509802410704
-"A. Barák (28, Fiorentina, Serie A 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",35.12021862626109
-"A. Barák (28, Fiorentina, Serie A 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",17.0425932395816
-"A. Barák (28, Fiorentina, Serie A 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",5.868606789740194
-"A. Barák (28, Fiorentina, Serie A 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",15.343660557147718
-"A. Barák (28, Fiorentina, Serie A 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",11.724784654038553
-"A. Barák (28, Fiorentina, Serie A 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",6.007933334151725
-"A. Barák (28, Fiorentina, Serie A 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",31.71274059537077
-"A. Barák (28, Fiorentina, Serie A 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",-0.8997199236269935
-"A. Barák (28, Fiorentina, Serie A 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",7.194377979811694
+Player,Similarity
+"Romarinho (32, Al Ittihad, Saudi Professional League 22-23)",76.9439047160705
+"R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",76.26685073896394
+"D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",75.48415697943403
+"A. Llovet (25, Noah, Armenian Premier League 22-23)",75.08989819436992
+"A. Tibidi (19, Rheindorf Altach, Austrian Bundesliga 22-23)",74.29376885114853
+"S. Tengstedt (22, Silkeborg, Superliga 22-23)",74.11954164217882
+"F. De Jong (19, AZ II, Eerste Divisie 22-23)",72.77102542437322
+"L. Cundle (21, Swansea City, Championship 22-23)",72.59386134633988
+"A. Diallo (20, Sunderland, Championship 22-23)",71.3279615861484
+"Arnau Ortiz (21, Real Murcia, Primera División RFEF 22-23)",70.97599511149596
+"T. Baldanzi (20, Empoli, Serie A 22-23)",70.2302503231385
+"S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",70.10179619834769
+"A. Ramsey (20, Middlesbrough, Championship 22-23)",70.00823133762346
+"A. Toungara (28, Arda, Bulgarian First League 22-23)",69.71564648709156
+"P. Pyrdoł (24, SKRA Częstochowa, Polish I Liga 22-23)",69.25714737241309
+"S. Szmodics (27, Blackburn Rovers, Championship 22-23)",69.24942202385333
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)",68.65288329638001
+"A. El Hassouni (28, Wydad Casablanca, Botola Pro 22-23)",68.64148967141155
+"S. Dimech (21, Valletta, Malta Premier League 22-23)",68.49092838801627
+"F. Bartels (36, Holstein Kiel, 2. Bundesliga 22-23)",67.82151003020502
+"E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",67.78020966056769
+"P. Santos (27, Moreirense, Portugal Segunda Liga 22-23)",67.70923731447037
+"Afonso Sousa (23, Lech Poznań, Ekstraklasa 22-23)",66.55394172598893
+"S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",66.02075234113275
+"V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",65.8695975793649

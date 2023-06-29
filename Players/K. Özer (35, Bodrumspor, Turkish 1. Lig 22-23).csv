@@ -1,156 +1,26 @@
-Player 1,Player 2,Similarity
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","I. Olawoyin (25, Rizespor, Turkish 1. Lig 22-23)",60.48416315926524
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","B. Coban (28, Manisa BBSK, Turkish 1. Lig 22-23)",43.321679639225295
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)",63.4718994185456
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","A. Mallé (25, Keçiörengücü, Turkish 1. Lig 22-23)",61.15782912388495
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","A. Özek (35, Altınordu, Turkish 1. Lig 22-23)",59.72073179237584
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","L. Ayçiçek (29, Bandırmaspor, Turkish 1. Lig 22-23)",56.81292042998932
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","D. Diallo (22, Manisa BBSK, Turkish 1. Lig 22-23)",74.04250826401744
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","B. Keser (26, Rizespor, Turkish 1. Lig 22-23)",63.85066795004971
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","K. Nzuzi (29, Tuzlaspor, Turkish 1. Lig 22-23)",55.61608762732555
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","S. Tetteh (26, Bandırmaspor, Turkish 1. Lig 22-23)",11.844803097794044
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)",60.60953181670171
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","D. Bregu (27, Boluspor, Turkish 1. Lig 22-23)",56.152742325808525
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","B. Alıcı (25, Samsunspor, Turkish 1. Lig 22-23)",56.77255974402904
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","R. Muhammed (29, Keçiörengücü, Turkish 1. Lig 22-23)",56.21976607455049
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","A. Yahaya (21, Tuzlaspor, Turkish 1. Lig 22-23)",54.77291496849952
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","R. Babel (36, Eyüpspor, Turkish 1. Lig 22-23)",53.5384264119765
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","M. Gakpa (29, Manisa BBSK, Turkish 1. Lig 22-23)",39.6340839938405
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","E. Gürlük (19, Altınordu, Turkish 1. Lig 22-23)",49.79318889302586
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","M. İnan (24, Keçiörengücü, Turkish 1. Lig 22-23)",50.05259974035975
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","M. Rosheuvel (32, BB Erzurumspor, Turkish 1. Lig 22-23)",41.45058154764826
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","D. Emeksiz (23, Manisa BBSK, Turkish 1. Lig 22-23)",35.62217315606512
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","J. Kayamba (31, Boluspor, Turkish 1. Lig 22-23)",62.544354804388846
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","O. Roshi (32, Sakaryaspor, Turkish 1. Lig 22-23)",49.55904764880816
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","S. Özcan (26, Altınordu, Turkish 1. Lig 22-23)",29.50507237001429
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","H. Akbunar (29, Eyüpspor, Turkish 1. Lig 22-23)",78.02279580070093
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","M. Demir (25, Gençlerbirliği, Turkish 1. Lig 22-23)",52.39677404501239
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","O. Imeri (23, Bodrumspor, Turkish 1. Lig 22-23)",-7.409378922263096
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","C. Akgün (24, Yeni Malatyaspor, Turkish 1. Lig 22-23)",73.17736940904642
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","H. Bağ (32, Bandırmaspor, Turkish 1. Lig 22-23)",25.889711522567374
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","H. Taşcı (32, Sakaryaspor, Turkish 1. Lig 22-23)",39.73820272223574
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","M. Mimaroğlu (28, Altınordu, Turkish 1. Lig 22-23)",81.17587234988373
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","M. Okutan (26, Boluspor, Turkish 1. Lig 22-23)",52.563188210932886
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","S. Sahintürk (27, Bandırmaspor, Turkish 1. Lig 22-23)",64.425041973637
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","S. Yılmaz (33, Rizespor, Turkish 1. Lig 22-23)",17.350649225870125
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","B. Basaçikoglu (28, Tuzlaspor, Turkish 1. Lig 22-23)",74.67372263275038
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Amilton (33, Rizespor, Turkish 1. Lig 22-23)",62.85336993933084
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","C. Soukou (30, Bandırmaspor, Turkish 1. Lig 22-23)",41.45172458631172
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","K. Mayi (30, Denizlispor, Turkish 1. Lig 22-23)",-13.703491478422322
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","A. Özfesli (26, BB Erzurumspor, Turkish 1. Lig 22-23)",25.66241690004064
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)",61.69693833650904
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","M. Özhan (22, BB Erzurumspor, Turkish 1. Lig 22-23)",26.39668973408001
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","M. Rharsalla (29, Gençlerbirliği, Turkish 1. Lig 22-23)",36.36084587409891
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)",34.3349897713831
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","А.Tuzcu (20, Gençlerbirliği, Turkish 1. Lig 22-23)",24.837621035189432
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","F. Ezeh (25, Eyüpspor, Turkish 1. Lig 22-23)",45.78579764924925
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","O. Belyaev (23, Gençlerbirliği, Turkish 1. Lig 22-23)",27.52814597950029
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Ali Saleh (23, Al Wasl, UAE Pro League 22-23)",67.3058712005404
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Fabio de Lima (29, Al Wasl, UAE Pro League 22-23)",49.85176735841387
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Aylton Boa Morte (29, Khorfakkan, UAE Pro League 22-23)",62.24933582751304
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Lourency (27, Al Bataeh, UAE Pro League 22-23)",72.5712437070125
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","S. Rahimi (26, Al Ain, UAE Pro League 22-23)",72.56472636424436
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Ali Madan (27, Ajman, UAE Pro League 22-23)",50.19959773588604
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Ryan Mendes (33, Al Nasr, UAE Pro League 22-23)",60.56029665128174
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Amer Bazuhair (31, Dibba Al Fujairah, UAE Pro League 22-23)",22.508224408878604
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Suhail Ahmed Al Noobi (27, Bani Yas, UAE Pro League 22-23)",45.00245643527056
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","P. Mboungou (22, Ajman, UAE Pro League 22-23)",26.11829250413876
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","A. Bencharki (28, Al Jazira, UAE Pro League 22-23)",64.36332679274756
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","M. Rayhi (28, Al Dhafra, UAE Pro League 22-23)",61.25463425667028
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","O. Traore (20, Al Jazira, UAE Pro League 22-23)",62.48299605054596
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Juninho (23, Khorfakkan, UAE Pro League 22-23)",57.3109675051814
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Jajá (24, Dibba Al Fujairah, UAE Pro League 22-23)",68.87146842558235
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","A. Yarmolenko (33, Al Ain, UAE Pro League 22-23)",68.73904101912646
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Luan Pereira (23, Al Sharjah, UAE Pro League 22-23)",52.952019322948814
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","O. Camara (22, Al Sharjah, UAE Pro League 22-23)",35.5382980231762
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","S. Gassama (22, Al Bataeh, UAE Pro League 22-23)",52.6418093567564
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)",67.32049960022707
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Yahya Al Ghassani (25, Shabab Al Ahli Dubai, UAE Pro League 22-23)",61.23697710190229
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)",74.67459180014086
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Harib Abdalla Suhail (20, Shabab Al Ahli Dubai, UAE Pro League 22-23)",49.29532521635549
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","B. Ramírez (22, Al Ittihad Kalba, UAE Pro League 22-23)",50.80547572561469
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Leandro Spadacio (23, Al Ittihad Kalba, UAE Pro League 22-23)",50.8791345696007
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Mohamed Al Junaibi (24, Al Dhafra, UAE Pro League 22-23)",30.177180460359875
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Ahmed Abunamous (23, Bani Yas, UAE Pro League 22-23)",63.332878931924185
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","A. Diaby (31, Al Ittihad Kalba, UAE Pro League 22-23)",49.82251996723041
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Caio Canedo (32, Al Ain, UAE Pro League 22-23)",29.645890556678975
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","F. Kruspzky (20, Al Wahda, UAE Pro League 22-23)",51.18283588403215
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","T. Seferi (26, Vorskla, Ukrainian Premier Liha 22-23)",58.64315759749115
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","V. Solomon-Otabor (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",51.08060307890317
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","G. Pasich (29, Veres, Ukrainian Premier Liha 22-23)",55.87912717556317
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",39.322693640633865
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","R. Rusyn (27, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",42.43526509196924
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Y. Kartushov (32, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",1.6552247638399766
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","O. Ilyin (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",37.04710660068044
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)",56.48012099634509
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","V. Naumets (24, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",61.733998248222434
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","M. Zaderaka (28, Kryvbas KR, Ukrainian Premier Liha 22-23)",62.76864563924295
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","V. Dakhnovskyi (24, Veres, Ukrainian Premier Liha 22-23)",56.62176911919624
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","N. Voloshyn (19, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",59.10780225932015
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","S. Myakushko (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",50.36659515009284
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Y. Pidlepenets (24, Dnipro-1, Ukrainian Premier Liha 22-23)",37.38280777089019
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","D. Blanco (28, Dnipro-1, Ukrainian Premier Liha 22-23)",20.35854012028136
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","V. Kalitvintsev (30, Oleksandria, Ukrainian Premier Liha 22-23)",68.86462750461946
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","N. Vorobchak (23, Minaj, Ukrainian Premier Liha 22-23)",60.89894335539186
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Z. Badibanga (31, Chornomorets, Ukrainian Premier Liha 22-23)",44.317540244465896
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","V. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",65.68966516057012
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",60.11085207789621
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","V. Kabaev (27, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",54.10451878442828
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","O. Kozak (28, Inhulets, Ukrainian Premier Liha 22-23)",79.90848150404886
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","D. Alefirenko (23, Chornomorets, Ukrainian Premier Liha 22-23)",69.49746497781487
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","B. Boychuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",64.18462533207322
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","V. Tsygankov (25, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",70.28690217424318
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","V. Rogozynskyi (27, Minaj, Ukrainian Premier Liha 22-23)",42.14567943675219
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","E. Kuliev (21, Minaj, Ukrainian Premier Liha 22-23)",36.54857909028006
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","O. Zubkov (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",46.96413852289596
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","V. Odaryuk (29, Inhulets, Ukrainian Premier Liha 22-23)",44.86704151106359
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",65.33821677567362
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","D. Kryskiv (22, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",32.04434813264552
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","A. Bliznichenko (28, Veres, Ukrainian Premier Liha 22-23)",69.87243801176388
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)",67.3340721641856
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",63.86982719650865
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",63.88782513039673
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",42.72790023288003
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",66.01479186798551
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",60.94186122576888
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",45.56160769330653
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",80.12923559143147
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",60.5453842755278
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",41.5104424695194
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",59.582652373234346
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",42.07046580014541
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",42.31435987598888
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",33.53242835944567
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",62.17477458664431
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",61.719496366562
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",47.90568771142026
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",60.91063470709367
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",58.79341984682638
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",50.05319443301923
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",75.50958974344051
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",61.08133298932251
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",31.70985264089185
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",37.412783548384944
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",69.16308342012383
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",34.5389747174784
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",41.45833040681495
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",28.457272147676637
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",56.59253522968747
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",12.598617554530817
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",49.903000727105095
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",73.16472050993063
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",76.0080123646732
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",53.84958415168379
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",55.64814807619951
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",52.686117070405416
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",55.11329062853255
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",40.549884372943374
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",59.39236790021576
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",19.496372954081227
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",63.76996326630165
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",56.76916736964947
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",19.83663785125864
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",55.293805943853336
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",28.01421762729114
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",42.22570091261712
-"K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",69.9480630216121
+Player,Similarity
+"M. Rolando (30, Monopoli, Serie C 22-23)",87.6847557963674
+"J. Pozuelos (25, Mixco, Guatemala Liga Nacional 22-23)",87.01553557422515
+"E. Anastasia (27, Renate, Serie C 22-23)",85.89442654107602
+"Rubén Martínez (33, Lamia, Greek Super League 22-23)",85.63866597638503
+"N. Campbell (23, Javor Ivanjica, Serbian SuperLiga 22-23)",85.46384282192764
+"J. Poldrugač (25, Lafnitz, Austrian 2. Liga 22-23)",85.33241938000631
+"M. Gradel (35, Sivasspor, Süper Lig 22-23)",84.3103130972152
+"D. Soltész (22, Gyirmót, NB II 22-23)",84.30255471669868
+"E. Esposito (32, Picerno, Serie C 22-23)",83.79912631925255
+"F. Del Sole (25, Potenza, Serie C 22-23)",83.79559639009993
+"P. Twumasi (29, Maccabi Netanya, Ligat Ha'al 22-23)",83.79393479732519
+"R. Orsolini (26, Bologna, Serie A 22-23)",83.61939195938702
+"E. Vera (22, Sportivo Ameliano, Paraguay Division Profesional 2023)",83.32297018294558
+"J. Montecinos (27, Club Tijuana, Liga MX 22-23)",83.27040595804044
+"O. Santis (24, Antigua GFC, Guatemala Liga Nacional 22-23)",82.96766030973869
+"A. Amador (22, Pérez Zeledón, Costa Rica Primera División 22-23)",82.95665765998659
+"Dani Sandoval (25, Mérida AD, Primera División RFEF 22-23)",82.92827273007181
+"K. Lovrić (27, Osijek, 1. HNL 22-23)",82.81517342516959
+"W. Sahli (26, Sutjeska, Montenegro First League 22-23)",82.52190768633419
+"Gabriel Honório (26, Ansan Greeners, K League 2 2023)",82.51738859188194
+"Nacho Abeledo (27, Linares Deportivo, Primera División RFEF 22-23)",82.50797740579843
+"S. Gavriel (21, Akritas, Cyprus 1. Division 22-23)",82.50757399417472
+"L. Rosas (23, Mixco, Guatemala Liga Nacional 22-23)",82.4604645731736
+"A. van der Heide (21, Roda JC, Eerste Divisie 22-23)",82.43056381317689
+"L. García (23, Comunicaciones, Guatemala Liga Nacional 22-23)",82.35251601906059

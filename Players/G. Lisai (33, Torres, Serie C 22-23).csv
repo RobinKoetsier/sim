@@ -1,147 +1,26 @@
-Player 1,Player 2,Similarity
-"G. Lisai (33, Torres, Serie C 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",52.484655632258246
-"G. Lisai (33, Torres, Serie C 22-23)","C. Attys (22, Trento, Serie C 22-23)",47.20661875016351
-"G. Lisai (33, Torres, Serie C 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",46.075068680267634
-"G. Lisai (33, Torres, Serie C 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",10.490449566624124
-"G. Lisai (33, Torres, Serie C 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",32.66409399023199
-"G. Lisai (33, Torres, Serie C 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",35.71801496408905
-"G. Lisai (33, Torres, Serie C 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",57.87746036257159
-"G. Lisai (33, Torres, Serie C 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",41.37256205428162
-"G. Lisai (33, Torres, Serie C 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",10.409223759076044
-"G. Lisai (33, Torres, Serie C 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",74.99350600621842
-"G. Lisai (33, Torres, Serie C 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",29.567810973801663
-"G. Lisai (33, Torres, Serie C 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",46.86100332433675
-"G. Lisai (33, Torres, Serie C 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",63.56620075716367
-"G. Lisai (33, Torres, Serie C 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",54.04742554541532
-"G. Lisai (33, Torres, Serie C 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",59.17511858450638
-"G. Lisai (33, Torres, Serie C 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",55.61422749283062
-"G. Lisai (33, Torres, Serie C 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",48.81266732580926
-"G. Lisai (33, Torres, Serie C 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",59.00601130425104
-"G. Lisai (33, Torres, Serie C 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",64.10324804292361
-"G. Lisai (33, Torres, Serie C 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",34.800599574189675
-"G. Lisai (33, Torres, Serie C 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",42.243526260271054
-"G. Lisai (33, Torres, Serie C 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",30.72273986719339
-"G. Lisai (33, Torres, Serie C 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",-3.734821808877788
-"G. Lisai (33, Torres, Serie C 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",36.97265445378397
-"G. Lisai (33, Torres, Serie C 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",34.41929773372625
-"G. Lisai (33, Torres, Serie C 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",35.95281739452833
-"G. Lisai (33, Torres, Serie C 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",41.527252986618834
-"G. Lisai (33, Torres, Serie C 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",58.2927988646445
-"G. Lisai (33, Torres, Serie C 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",43.08035500321865
-"G. Lisai (33, Torres, Serie C 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",18.520349112041256
-"G. Lisai (33, Torres, Serie C 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",69.90172595312832
-"G. Lisai (33, Torres, Serie C 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",20.03293819169013
-"G. Lisai (33, Torres, Serie C 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",19.99585380672097
-"G. Lisai (33, Torres, Serie C 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",13.7036059615797
-"G. Lisai (33, Torres, Serie C 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",46.87916145560237
-"G. Lisai (33, Torres, Serie C 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",22.737303817816723
-"G. Lisai (33, Torres, Serie C 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",27.32553846855847
-"G. Lisai (33, Torres, Serie C 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",29.298365682641485
-"G. Lisai (33, Torres, Serie C 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-30.936651292042207
-"G. Lisai (33, Torres, Serie C 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-37.4746669645965
-"G. Lisai (33, Torres, Serie C 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",55.94402553396285
-"G. Lisai (33, Torres, Serie C 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",26.234981136345887
-"G. Lisai (33, Torres, Serie C 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",61.57473222354473
-"G. Lisai (33, Torres, Serie C 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",-42.60438520715289
-"G. Lisai (33, Torres, Serie C 22-23)","I. Jebali (31, OB, Superliga 22-23)",52.79236695707519
-"G. Lisai (33, Torres, Serie C 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",22.45227941738001
-"G. Lisai (33, Torres, Serie C 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",32.03233150172679
-"G. Lisai (33, Torres, Serie C 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",21.394077232646588
-"G. Lisai (33, Torres, Serie C 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",50.52294684774263
-"G. Lisai (33, Torres, Serie C 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",61.85457063433382
-"G. Lisai (33, Torres, Serie C 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",71.48155844157012
-"G. Lisai (33, Torres, Serie C 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",56.48396063505041
-"G. Lisai (33, Torres, Serie C 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",47.27748458344891
-"G. Lisai (33, Torres, Serie C 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",44.77103478218436
-"G. Lisai (33, Torres, Serie C 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",32.855192932803874
-"G. Lisai (33, Torres, Serie C 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",25.4346654730864
-"G. Lisai (33, Torres, Serie C 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",46.64237860783562
-"G. Lisai (33, Torres, Serie C 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",41.13430163704269
-"G. Lisai (33, Torres, Serie C 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",-13.465621590505538
-"G. Lisai (33, Torres, Serie C 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",66.63842929180667
-"G. Lisai (33, Torres, Serie C 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",44.77177810817874
-"G. Lisai (33, Torres, Serie C 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",57.66889258584229
-"G. Lisai (33, Torres, Serie C 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",57.44854205761146
-"G. Lisai (33, Torres, Serie C 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",38.03286974146084
-"G. Lisai (33, Torres, Serie C 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",51.63149301903224
-"G. Lisai (33, Torres, Serie C 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",27.13297507328213
-"G. Lisai (33, Torres, Serie C 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",51.10273671883554
-"G. Lisai (33, Torres, Serie C 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",43.95453972390244
-"G. Lisai (33, Torres, Serie C 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",28.935105437822383
-"G. Lisai (33, Torres, Serie C 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",56.59693464045952
-"G. Lisai (33, Torres, Serie C 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",63.67652195713461
-"G. Lisai (33, Torres, Serie C 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",29.994256580844137
-"G. Lisai (33, Torres, Serie C 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",9.446251833431116
-"G. Lisai (33, Torres, Serie C 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",13.728090104608636
-"G. Lisai (33, Torres, Serie C 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",47.58059018204602
-"G. Lisai (33, Torres, Serie C 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",59.36891135414599
-"G. Lisai (33, Torres, Serie C 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",51.7142638824712
-"G. Lisai (33, Torres, Serie C 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",26.27680154819688
-"G. Lisai (33, Torres, Serie C 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",25.84208720148466
-"G. Lisai (33, Torres, Serie C 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",22.18250618690877
-"G. Lisai (33, Torres, Serie C 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",37.18867879750133
-"G. Lisai (33, Torres, Serie C 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",39.85667485075668
-"G. Lisai (33, Torres, Serie C 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",72.32937117481751
-"G. Lisai (33, Torres, Serie C 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",18.270340194122472
-"G. Lisai (33, Torres, Serie C 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",-25.34975849329515
-"G. Lisai (33, Torres, Serie C 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",32.39835293706385
-"G. Lisai (33, Torres, Serie C 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",72.36730264863542
-"G. Lisai (33, Torres, Serie C 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",63.89780762760745
-"G. Lisai (33, Torres, Serie C 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",40.07599049219699
-"G. Lisai (33, Torres, Serie C 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",26.14256807367923
-"G. Lisai (33, Torres, Serie C 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",28.39641128451295
-"G. Lisai (33, Torres, Serie C 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",62.38590242444088
-"G. Lisai (33, Torres, Serie C 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",64.03860969036673
-"G. Lisai (33, Torres, Serie C 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",32.45040515368555
-"G. Lisai (33, Torres, Serie C 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",35.4198365133051
-"G. Lisai (33, Torres, Serie C 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",-26.11164695945493
-"G. Lisai (33, Torres, Serie C 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",29.69801107469775
-"G. Lisai (33, Torres, Serie C 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",32.00846440573819
-"G. Lisai (33, Torres, Serie C 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-34.308594757933704
-"G. Lisai (33, Torres, Serie C 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",8.39032757466755
-"G. Lisai (33, Torres, Serie C 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",40.3875538608904
-"G. Lisai (33, Torres, Serie C 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",57.5568892004296
-"G. Lisai (33, Torres, Serie C 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",56.764180755295946
-"G. Lisai (33, Torres, Serie C 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",0.3013237500920702
-"G. Lisai (33, Torres, Serie C 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",31.107991867572
-"G. Lisai (33, Torres, Serie C 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",23.73299507569176
-"G. Lisai (33, Torres, Serie C 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",56.02053476130769
-"G. Lisai (33, Torres, Serie C 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",40.576455909760696
-"G. Lisai (33, Torres, Serie C 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-37.43332202135111
-"G. Lisai (33, Torres, Serie C 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",-13.858044414218698
-"G. Lisai (33, Torres, Serie C 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",-8.126446661906721
-"G. Lisai (33, Torres, Serie C 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",55.05609243200878
-"G. Lisai (33, Torres, Serie C 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-42.14416541567304
-"G. Lisai (33, Torres, Serie C 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",-15.558692560587843
-"G. Lisai (33, Torres, Serie C 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",48.5333302403898
-"G. Lisai (33, Torres, Serie C 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-44.57089101111119
-"G. Lisai (33, Torres, Serie C 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",-3.908993691012545
-"G. Lisai (33, Torres, Serie C 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",5.046057799066081
-"G. Lisai (33, Torres, Serie C 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",41.09512356216839
-"G. Lisai (33, Torres, Serie C 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",3.688118453374995
-"G. Lisai (33, Torres, Serie C 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",50.08223302071325
-"G. Lisai (33, Torres, Serie C 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",42.6528006796902
-"G. Lisai (33, Torres, Serie C 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",16.478642457354894
-"G. Lisai (33, Torres, Serie C 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",15.685560621945967
-"G. Lisai (33, Torres, Serie C 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-29.584461160428443
-"G. Lisai (33, Torres, Serie C 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",47.9913391587471
-"G. Lisai (33, Torres, Serie C 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",44.551573616470144
-"G. Lisai (33, Torres, Serie C 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",21.44127964481012
-"G. Lisai (33, Torres, Serie C 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",29.75052159918541
-"G. Lisai (33, Torres, Serie C 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",51.85895085874338
-"G. Lisai (33, Torres, Serie C 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",23.510165573197707
-"G. Lisai (33, Torres, Serie C 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",64.56390425347446
-"G. Lisai (33, Torres, Serie C 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",11.527099107610248
-"G. Lisai (33, Torres, Serie C 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",39.67401499158413
-"G. Lisai (33, Torres, Serie C 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",17.462176273669204
-"G. Lisai (33, Torres, Serie C 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-10.964071245400586
-"G. Lisai (33, Torres, Serie C 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",40.98237172571383
-"G. Lisai (33, Torres, Serie C 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",36.2738875467054
-"G. Lisai (33, Torres, Serie C 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",34.88201714184437
-"G. Lisai (33, Torres, Serie C 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",11.217159997190908
-"G. Lisai (33, Torres, Serie C 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",58.05733929842203
-"G. Lisai (33, Torres, Serie C 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",42.98287491164024
-"G. Lisai (33, Torres, Serie C 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",61.85126948192071
-"G. Lisai (33, Torres, Serie C 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",28.330198506071724
-"G. Lisai (33, Torres, Serie C 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",72.94936703777692
-"G. Lisai (33, Torres, Serie C 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",47.52990009015328
+Player,Similarity
+"J. Vélez (28, César Vallejo, Peruvian Liga 1 2023)",82.5105465040208
+"K. Stojkoski (31, Rabotnički, North Macedonia First League 22-23)",79.59368745619298
+"O. Moruţan (24, Pisa, Serie B 22-23)",78.39572939484138
+"R. Wolski (30, Wisła Płock, Ekstraklasa 22-23)",78.08433440835837
+"Ahmed Madbouli (28, Ismaily, Egyptian Premier League 22-23)",77.79839269782411
+"H. Duljević (29, Hansa Rostock, 2. Bundesliga 22-23)",76.22676990793171
+"M. Burgess (28, Sydney, A-League Men 22-23)",75.61258511174259
+"V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",74.99350600621842
+"M. Moutaouali (37, Ittihad Tanger, Botola Pro 22-23)",74.30084700167794
+"A. Lucero (24, Budućnost, Montenegro First League 22-23)",73.11989912031119
+"J. Laine (22, Haka, Veikkausliiga 2023)",72.94936703777692
+"A. Hunter (27, Morecambe, League One 22-23)",72.94922549792639
+"Kaku (28, Al Taawon, Saudi Professional League 22-23)",72.86337086608118
+"B. Fernandes (28, Goa, Indian Super League 22-23)",72.76287058629867
+"L. González (32, Junior, Colombian Primera Division 22-23)",72.63309800137208
+"Álex Arias (33, CD Calahorra, Primera División RFEF 22-23)",72.4977775543459
+"D. Saba (30, Sivasspor, Süper Lig 22-23)",72.36730264863542
+"V. Savićević (29, Giresunspor, Süper Lig 22-23)",72.32937117481751
+"M. Pinnock (28, Northampton Town, League Two 22-23)",72.29702009393888
+"Sergio Moyita (30, Alcoyano, Primera División RFEF 22-23)",72.26212217228074
+"K. Arshid (28, Hapoel Acre, Liga Leumit 22-23)",71.92251832306353
+"C. Frýdek (24, Slovan Liberec, Czech Fortuna Liga 22-23)",71.51598399058969
+"D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",71.48155844157012
+"A. Băluță (29, Puskás FC, NB I 22-23)",71.3604191650486
+"R. Messika (33, Hapoel Umm al-Fahm, Liga Leumit 22-23)",71.32764114842406

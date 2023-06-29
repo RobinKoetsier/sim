@@ -1,202 +1,26 @@
-Player 1,Player 2,Similarity
-"L. Ferguson (23, Bologna, Serie A 22-23)","Al. Miranchuk (27, Torino, Serie A 22-23)",-1.7467948913000284
-"L. Ferguson (23, Bologna, Serie A 22-23)","Brahim Diaz (23, Milan, Serie A 22-23)",3.542323820954784
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Barák (28, Fiorentina, Serie A 22-23)",51.39761846679871
-"L. Ferguson (23, Bologna, Serie A 22-23)","N. Bajrami (24, Sassuolo, Serie A 22-23)",4.991622369920031
-"L. Ferguson (23, Bologna, Serie A 22-23)","T. Baldanzi (20, Empoli, Serie A 22-23)",35.49082872476358
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Pašalić (28, Atalanta, Serie A 22-23)",59.56022085161354
-"L. Ferguson (23, Bologna, Serie A 22-23)","N. Radonjić (27, Torino, Serie A 22-23)",-8.46599955802974
-"L. Ferguson (23, Bologna, Serie A 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",24.44048007856101
-"L. Ferguson (23, Bologna, Serie A 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",-29.160304935020847
-"L. Ferguson (23, Bologna, Serie A 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",-12.150151238173738
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Colpani (24, Monza, Serie A 22-23)",10.760744923982992
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",9.764171740713552
-"L. Ferguson (23, Bologna, Serie A 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",12.334703375855936
-"L. Ferguson (23, Bologna, Serie A 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",-37.60572620763736
-"L. Ferguson (23, Bologna, Serie A 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",46.58869096566448
-"L. Ferguson (23, Bologna, Serie A 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",-40.18460278039886
-"L. Ferguson (23, Bologna, Serie A 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",-1.366255625806909
-"L. Ferguson (23, Bologna, Serie A 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",-24.071367600541148
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",-29.35399683229875
-"L. Ferguson (23, Bologna, Serie A 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",1.3781822412124194
-"L. Ferguson (23, Bologna, Serie A 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",-14.29401323127117
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",-16.634061416342032
-"L. Ferguson (23, Bologna, Serie A 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",-34.88079747557404
-"L. Ferguson (23, Bologna, Serie A 22-23)","R. Botta (33, Bari, Serie B 22-23)",-22.837280804431
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",21.502168963286504
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",-21.39009454106061
-"L. Ferguson (23, Bologna, Serie A 22-23)","V. Parigini (27, Como, Serie B 22-23)",-30.937202388247577
-"L. Ferguson (23, Bologna, Serie A 22-23)","Álex Blanco (24, Como, Serie B 22-23)",16.93200972534785
-"L. Ferguson (23, Bologna, Serie A 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",-37.08936207435974
-"L. Ferguson (23, Bologna, Serie A 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",-13.555282503771425
-"L. Ferguson (23, Bologna, Serie A 22-23)","D. Camara (21, Parma, Serie B 22-23)",20.7426739903961
-"L. Ferguson (23, Bologna, Serie A 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",2.407698234652732
-"L. Ferguson (23, Bologna, Serie A 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",47.85287249072952
-"L. Ferguson (23, Bologna, Serie A 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",9.214043269282582
-"L. Ferguson (23, Bologna, Serie A 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",9.071545588732665
-"L. Ferguson (23, Bologna, Serie A 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",-9.210095907530986
-"L. Ferguson (23, Bologna, Serie A 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",44.61570817951707
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",-21.539180898402105
-"L. Ferguson (23, Bologna, Serie A 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",11.28140218250817
-"L. Ferguson (23, Bologna, Serie A 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",17.42283052768266
-"L. Ferguson (23, Bologna, Serie A 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",6.270754098503827
-"L. Ferguson (23, Bologna, Serie A 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",-3.5416704889248494
-"L. Ferguson (23, Bologna, Serie A 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",-20.36662360619876
-"L. Ferguson (23, Bologna, Serie A 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",43.26249510699768
-"L. Ferguson (23, Bologna, Serie A 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",-33.605255019367334
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",10.864110147942386
-"L. Ferguson (23, Bologna, Serie A 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",16.125273523720335
-"L. Ferguson (23, Bologna, Serie A 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",5.892804175193703
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",-7.343651369205509
-"L. Ferguson (23, Bologna, Serie A 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",-18.437276744800155
-"L. Ferguson (23, Bologna, Serie A 22-23)","N. Belloni (28, Siena, Serie C 22-23)",-1.853548670405943
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Frediani (29, Siena, Serie C 22-23)",-8.68928338210273
-"L. Ferguson (23, Bologna, Serie A 22-23)","F. Urso (28, Torres, Serie C 22-23)",-29.478605228448203
-"L. Ferguson (23, Bologna, Serie A 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",-39.44540908577412
-"L. Ferguson (23, Bologna, Serie A 22-23)","G. Lisai (33, Torres, Serie C 22-23)",-44.60346261161409
-"L. Ferguson (23, Bologna, Serie A 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",-27.18962648466863
-"L. Ferguson (23, Bologna, Serie A 22-23)","C. Attys (22, Trento, Serie C 22-23)",-3.5369175906450194
-"L. Ferguson (23, Bologna, Serie A 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",0.6186833283065095
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",23.873663262759056
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",-2.97412385303698
-"L. Ferguson (23, Bologna, Serie A 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",-2.175335890947898
-"L. Ferguson (23, Bologna, Serie A 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",-28.10141638094229
-"L. Ferguson (23, Bologna, Serie A 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",-4.903378715370705
-"L. Ferguson (23, Bologna, Serie A 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",6.809432552375128
-"L. Ferguson (23, Bologna, Serie A 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",-34.575997822218426
-"L. Ferguson (23, Bologna, Serie A 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",9.20594113730219
-"L. Ferguson (23, Bologna, Serie A 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",-1.628993255527313
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",-29.490760507437606
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",-8.589493238075525
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",-20.426325898961167
-"L. Ferguson (23, Bologna, Serie A 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",-19.56992833947917
-"L. Ferguson (23, Bologna, Serie A 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",-26.27067497059905
-"L. Ferguson (23, Bologna, Serie A 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",-5.89395785750974
-"L. Ferguson (23, Bologna, Serie A 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",-21.9335172158538
-"L. Ferguson (23, Bologna, Serie A 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",10.844855751693288
-"L. Ferguson (23, Bologna, Serie A 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",-23.593025786708157
-"L. Ferguson (23, Bologna, Serie A 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",14.008670695373471
-"L. Ferguson (23, Bologna, Serie A 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",26.89383963336561
-"L. Ferguson (23, Bologna, Serie A 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",-4.523931884549933
-"L. Ferguson (23, Bologna, Serie A 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",11.263538268440753
-"L. Ferguson (23, Bologna, Serie A 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",22.405420268003954
-"L. Ferguson (23, Bologna, Serie A 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",-27.13551493728501
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",-23.522075302350256
-"L. Ferguson (23, Bologna, Serie A 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",-8.678343914871263
-"L. Ferguson (23, Bologna, Serie A 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",-2.249906658952743
-"L. Ferguson (23, Bologna, Serie A 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",-2.187537565714283
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",16.029359809097716
-"L. Ferguson (23, Bologna, Serie A 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",10.409993540641162
-"L. Ferguson (23, Bologna, Serie A 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",34.39690024023187
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",-14.071232865643108
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",35.31265890504479
-"L. Ferguson (23, Bologna, Serie A 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",7.188719626215004
-"L. Ferguson (23, Bologna, Serie A 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",21.83501964458405
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",29.82231742169368
-"L. Ferguson (23, Bologna, Serie A 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",62.54728075549178
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",-15.791273456922667
-"L. Ferguson (23, Bologna, Serie A 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",16.378549551305767
-"L. Ferguson (23, Bologna, Serie A 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",-18.49547809286619
-"L. Ferguson (23, Bologna, Serie A 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",58.00953875747636
-"L. Ferguson (23, Bologna, Serie A 22-23)","I. Jebali (31, OB, Superliga 22-23)",-4.252810657870811
-"L. Ferguson (23, Bologna, Serie A 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",16.901126646832722
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",0.2858212816592942
-"L. Ferguson (23, Bologna, Serie A 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",2.833551482905928
-"L. Ferguson (23, Bologna, Serie A 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",0.8636113567657535
-"L. Ferguson (23, Bologna, Serie A 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",-12.738589986362651
-"L. Ferguson (23, Bologna, Serie A 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",-31.86337056221874
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",-22.84473496062481
-"L. Ferguson (23, Bologna, Serie A 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",4.169013380112776
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",7.947780536759752
-"L. Ferguson (23, Bologna, Serie A 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",0.6485306880036462
-"L. Ferguson (23, Bologna, Serie A 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",2.397506832324825
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",-12.377597058489306
-"L. Ferguson (23, Bologna, Serie A 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",-23.418098132756032
-"L. Ferguson (23, Bologna, Serie A 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",40.46336616393528
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",-33.274637127956666
-"L. Ferguson (23, Bologna, Serie A 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",-13.079530385735408
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",-27.89465602947176
-"L. Ferguson (23, Bologna, Serie A 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",-7.567158023075966
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",-17.351221562403545
-"L. Ferguson (23, Bologna, Serie A 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",-6.671149090303072
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",8.063014369152345
-"L. Ferguson (23, Bologna, Serie A 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",1.4756800266312635
-"L. Ferguson (23, Bologna, Serie A 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",-11.387869202811014
-"L. Ferguson (23, Bologna, Serie A 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",5.795962425010062
-"L. Ferguson (23, Bologna, Serie A 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",-20.249518409237723
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",-18.005384854795814
-"L. Ferguson (23, Bologna, Serie A 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",19.50826995336704
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",55.27080607675128
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",26.57017862295044
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",-18.17600612055621
-"L. Ferguson (23, Bologna, Serie A 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",-11.152201492691043
-"L. Ferguson (23, Bologna, Serie A 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",-5.937861176131345
-"L. Ferguson (23, Bologna, Serie A 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",20.361266476047312
-"L. Ferguson (23, Bologna, Serie A 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",18.294338822815018
-"L. Ferguson (23, Bologna, Serie A 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",3.116352779754093
-"L. Ferguson (23, Bologna, Serie A 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",14.519449033662148
-"L. Ferguson (23, Bologna, Serie A 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",-5.304431940450826
-"L. Ferguson (23, Bologna, Serie A 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",-35.99282950890908
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",22.83948990555757
-"L. Ferguson (23, Bologna, Serie A 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",44.52308494353953
-"L. Ferguson (23, Bologna, Serie A 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",28.469201336066195
-"L. Ferguson (23, Bologna, Serie A 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",-30.522201592029635
-"L. Ferguson (23, Bologna, Serie A 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",-28.14814045815047
-"L. Ferguson (23, Bologna, Serie A 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",-2.6479760815697686
-"L. Ferguson (23, Bologna, Serie A 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",20.684663499964945
-"L. Ferguson (23, Bologna, Serie A 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",4.432896359079391
-"L. Ferguson (23, Bologna, Serie A 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",-34.024875316337514
-"L. Ferguson (23, Bologna, Serie A 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",-30.4129150778262
-"L. Ferguson (23, Bologna, Serie A 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",-4.795069146761895
-"L. Ferguson (23, Bologna, Serie A 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",19.29628840454524
-"L. Ferguson (23, Bologna, Serie A 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",34.24847719889216
-"L. Ferguson (23, Bologna, Serie A 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",-11.299386408606592
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-24.85006136297721
-"L. Ferguson (23, Bologna, Serie A 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",35.14368929200758
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",25.70417708911512
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",-13.743540896355984
-"L. Ferguson (23, Bologna, Serie A 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",-18.02114951420108
-"L. Ferguson (23, Bologna, Serie A 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",-11.464428975367342
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",29.78506682340962
-"L. Ferguson (23, Bologna, Serie A 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",-18.08623530973202
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",4.600701298823864
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",-5.2827519162726615
-"L. Ferguson (23, Bologna, Serie A 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",-22.67853675211932
-"L. Ferguson (23, Bologna, Serie A 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",44.1687622654387
-"L. Ferguson (23, Bologna, Serie A 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",48.02056954243063
-"L. Ferguson (23, Bologna, Serie A 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",18.738360486569324
-"L. Ferguson (23, Bologna, Serie A 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",-1.319956757529944
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",18.448703938557067
-"L. Ferguson (23, Bologna, Serie A 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",9.083056128952189
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",-20.957093068980367
-"L. Ferguson (23, Bologna, Serie A 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",49.70609157072907
-"L. Ferguson (23, Bologna, Serie A 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",23.14800054162291
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",11.667132776019711
-"L. Ferguson (23, Bologna, Serie A 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",-20.69709605020054
-"L. Ferguson (23, Bologna, Serie A 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",33.12683772503407
-"L. Ferguson (23, Bologna, Serie A 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",-8.69241928904788
-"L. Ferguson (23, Bologna, Serie A 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",-3.8278368566811
-"L. Ferguson (23, Bologna, Serie A 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",33.84179850712673
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",12.351661419136862
-"L. Ferguson (23, Bologna, Serie A 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",54.18217221646305
-"L. Ferguson (23, Bologna, Serie A 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",-15.184845439370331
-"L. Ferguson (23, Bologna, Serie A 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",-43.05925598514249
-"L. Ferguson (23, Bologna, Serie A 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",6.45987130942593
-"L. Ferguson (23, Bologna, Serie A 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",11.115897753038729
-"L. Ferguson (23, Bologna, Serie A 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",-22.53966498428672
-"L. Ferguson (23, Bologna, Serie A 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",13.83930778586539
-"L. Ferguson (23, Bologna, Serie A 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-25.420600711644088
-"L. Ferguson (23, Bologna, Serie A 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",29.41298064222886
-"L. Ferguson (23, Bologna, Serie A 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",-25.19617931283672
-"L. Ferguson (23, Bologna, Serie A 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",15.270264565181188
-"L. Ferguson (23, Bologna, Serie A 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",50.45749140385764
-"L. Ferguson (23, Bologna, Serie A 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",-16.91533062000069
-"L. Ferguson (23, Bologna, Serie A 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",-8.496734704517497
-"L. Ferguson (23, Bologna, Serie A 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",13.004088028320254
-"L. Ferguson (23, Bologna, Serie A 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-2.814014095215412
-"L. Ferguson (23, Bologna, Serie A 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",-33.1481622529089
-"L. Ferguson (23, Bologna, Serie A 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",-21.24062311242877
-"L. Ferguson (23, Bologna, Serie A 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",-28.940450743815628
-"L. Ferguson (23, Bologna, Serie A 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",17.0350395798989
-"L. Ferguson (23, Bologna, Serie A 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",-26.365311672584568
-"L. Ferguson (23, Bologna, Serie A 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",-23.05221483591234
+Player,Similarity
+"L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",62.54728075549178
+"Vasco Sousa (20, Porto II, Portugal Segunda Liga 22-23)",61.32096152044685
+"A. Gnezda Čerin (23, Panathinaikos, Greek Super League 22-23)",61.16031574798172
+"M. Pašalić (28, Atalanta, Serie A 22-23)",59.56022085161354
+"S. Tengstedt (22, Silkeborg, Superliga 22-23)",58.00953875747636
+"Emilio Lozano (27, SD Logroñés, Primera División RFEF 22-23)",57.45869685057007
+"Jon Guridi (28, Deportivo Alavés, La Liga 2 22-23)",56.58570461324975
+"A. Camara (22, Atromitos, Greek Super League 22-23)",55.637410482748265
+"A. Antunes (22, Servette, Swiss Super League 22-23)",55.27080607675128
+"I. Pappoe (19, Agudat Sport Ashdod, Liga Leumit 22-23)",54.69022964269414
+"S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",54.18217221646305
+"A. El Hassouni (28, Wydad Casablanca, Botola Pro 22-23)",53.5362918341188
+"S. Fridjónsson (27, Atromitos, Greek Super League 22-23)",52.73397705414168
+"S. Velásquez (32, Hapoel Umm al-Fahm, Liga Leumit 22-23)",52.417367163162034
+"D. Potoma (23, Sandecja Nowy Sącz, Polish I Liga 22-23)",52.27814711278528
+"A. Barák (28, Fiorentina, Serie A 22-23)",51.39761846679871
+"F. Marchwiński (21, Lech Poznań, Ekstraklasa 22-23)",51.066674561896775
+"K. Berzsenyi (19, Ajka, NB II 22-23)",50.70488009409738
+"Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",50.45749140385764
+"P. Billing (26, Bournemouth, Premier League 22-23)",50.37498097135318
+"D. Heymans (23, Charleroi, Belgian Pro League 22-23)",49.80129536348758
+"J. Allen (28, Coventry City, Championship 22-23)",49.764476473517625
+"D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",49.70609157072907
+"J. Carcela-González (23, Deinze, Belgian First Division B 22-23)",49.51745756984911
+"D. Thomalla (30, Heidenheim, 2. Bundesliga 22-23)",49.44682890810178

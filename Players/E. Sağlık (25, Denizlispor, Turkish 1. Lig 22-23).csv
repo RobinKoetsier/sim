@@ -1,203 +1,26 @@
-Player 1,Player 2,Similarity
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","S. Gönül (25, Samsunspor, Turkish 1. Lig 22-23)",50.16458673248076
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","A. Koç (26, Rizespor, Turkish 1. Lig 22-23)",53.28942336428432
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","E. Özgenc (38, Pendikspor, Turkish 1. Lig 22-23)",-3.066882630658633
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","C. Cavlan (31, Bandırmaspor, Turkish 1. Lig 22-23)",25.755031384145493
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)",43.64496782100403
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",62.31249573760119
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",67.51894476645496
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",49.82738354597567
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",32.83296827084816
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",69.93329140779716
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",36.083022377032
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",5.060880921373472
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",44.40231744452949
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",25.20568272722975
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",2.899488358704173
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",26.421286269598387
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",41.91490892824411
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",23.444252615787185
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",25.06357712497484
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",12.243600416206036
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",49.79873847612586
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",6.592687490168149
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",54.403168046977655
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",4.981085201032355
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",25.34039621083974
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",67.2420057990963
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",40.53461425215712
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",59.60845834464471
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",59.39217675585664
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",51.54155742050746
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",35.99836853434712
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",22.92133401894616
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",-1.4746888543237575
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",-14.596027388552384
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",30.26701154009092
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",9.234337814294015
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",36.23697147311259
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",54.62288023148675
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",41.39433083372178
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",38.49749339828424
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",29.922018044878246
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",31.002307135308317
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",67.9351519124649
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",40.75707365046356
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",63.28151117959083
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",22.92140198424101
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",32.618543913840334
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",35.554354691992344
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",50.118100649220864
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",5.4248231413544135
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",44.070694079742914
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",52.49474158659054
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",59.1998124664608
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",19.759162306021803
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",57.58816029009086
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",-7.044185669986613
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",33.443699113794075
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",55.94097409356336
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",52.20174668481219
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",29.792994278046255
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",71.59222649696146
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",8.8125456460671
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",64.85257540559917
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",71.77693609441565
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",17.8391220626902
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",26.47872939981116
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",34.30033134439113
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",1.855361612315984
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",74.7102353106228
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",-10.330941887564764
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",41.87207371605375
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",69.7407022772132
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",37.62364465180397
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",52.6105743342425
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-28.679248372799705
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",49.09333196163583
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",12.917699586519488
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",41.817391800259536
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",28.15305095687608
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",12.413602562640865
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",42.36586507306298
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",32.604928003625545
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",69.78809280555278
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",68.79102666744016
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",45.02958661476442
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",35.05842425747428
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",65.16790889394137
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",27.654366184934936
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-10.873139215396671
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",60.35063656915211
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",42.410628745456464
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",44.420280121755226
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",-17.473140877029714
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",40.038172048303736
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",30.57346080596811
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",24.72814082081854
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",11.328097806614206
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",35.228685530670575
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",39.8665345712773
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",44.09979727601771
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",44.3404164691888
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",32.39006286361026
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",18.881654714267004
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",35.168497172497474
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",32.84246643365781
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",62.57223649120156
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",30.62937091367297
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",60.350070953556
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",43.01164246204511
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",37.81445378220365
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",50.26942983131183
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",33.951276280975534
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",31.38573680695077
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",51.38041272054779
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",28.884875707413464
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",64.43868787503416
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",3.085039884287822
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",21.38310684955554
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",35.70201879715298
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",49.24442710864675
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",1.0960418722385463
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",40.00074006186523
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",69.58005053729607
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",52.901720026264776
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",67.29164918336224
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",57.31417323192394
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",37.957353935867374
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",46.63851158844218
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",51.28339988276232
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",14.754074275029788
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",23.209311871637063
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",43.44824709494471
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",35.08122963008444
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",68.0192582489662
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",44.86115191585752
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",53.169437768770166
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",52.67517901758042
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",41.62100016079185
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",48.83602460731003
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",20.294636201403403
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",22.567127260933447
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",26.600837997438752
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",71.28051655211365
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",75.40030150503847
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",53.70509507813226
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",32.68089482865238
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",7.163139929465492
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",35.32763973581794
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",47.981226860054086
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",43.92912011874138
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",-5.023736745552639
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",27.74426961336053
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",47.29497195197373
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",22.03376275378474
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",46.69830162119522
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",34.80112047161216
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",39.15024278639683
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",43.70491661908478
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",24.8432877738881
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",43.808568370479534
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",24.4853722934263
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",29.495499811663283
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",36.62408706480792
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",16.74981030883564
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",25.233981547317715
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",20.96007464738613
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",8.651490325462765
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",17.588349979177583
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",40.83981335102214
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",29.674206320328413
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",20.64937409186683
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",25.245479247063194
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",-22.788773789940915
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",7.960705350628168
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",21.509604812570394
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",38.52886816235317
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",4.275044538394647
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",39.54179234908221
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",44.74379727821564
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",20.558996303717745
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",39.2391377718223
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",26.45036060203626
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",53.10606950910562
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",28.21075209397126
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",54.65932294965176
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","P. Mareš (32, RFS, Virsliga 2023)",38.54386611820818
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",10.912254709212016
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",33.49549701750457
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",33.36577847610107
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",54.53112558018305
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",25.362454016962843
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",17.835183386948138
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",33.199179134445885
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",39.83202001287196
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",48.001176331160245
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",46.38460521766633
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",51.14697982929249
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",31.276076961637468
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",55.479138376788896
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",38.719627111954274
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",42.02494514469601
-"E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",29.076675478597995
+Player,Similarity
+"M. Ricciardi (23, Avellino, Serie C 22-23)",85.39928790783588
+"J. Osmić (21, Sloboda Tuzla, Bosnian Premier League 22-23)",84.34371250872442
+"D. Alfonzo (22, Boyacá Chicó, Colombian Primera Division 22-23)",84.27522675252368
+"A. Bosec (25, Slaven Belupo, 1. HNL 22-23)",83.99082267948287
+"K. Freeman (23, Dundee United, Scottish Premiership 22-23)",83.32936597124976
+"A. Girgi (23, Torres, Serie C 22-23)",82.86320580959396
+"Carlos Albarrán (29, Algeciras, Primera División RFEF 22-23)",82.61268192695893
+"L. Ferroni (27, Intercity SJ D' Alacant, Primera División RFEF 22-23)",82.46252477720458
+"B. Ilievski (23, Pelister, North Macedonia First League 22-23)",82.41339452449836
+"Abel Bretones (22, Real Oviedo, La Liga 2 22-23)",82.33663544185917
+"B. Franco (25, Lokomotiv Sofia 1929, Bulgarian First League 22-23)",82.08242285632348
+"L. Nascimento (23, Vilafranquense, Portugal Segunda Liga 22-23)",81.78504848417295
+"M. Ballmert (29, Meppen, 3. Liga 22-23)",81.4639317234632
+"Jon Rojo (26, Unionistas de Salamanca, Primera División RFEF 22-23)",80.78727690984306
+"F. Davi (21, Arzignano Valchiampo, Serie C 22-23)",80.52279015161551
+"N. Morgantini (28, Platense, Argentinian Primera División 2023)",80.51620090538523
+"M. Čavor (23, Arsenal Tivat, Montenegro First League 22-23)",80.45299636196319
+"N. Cifuentes (23, Mixco, Guatemala Liga Nacional 22-23)",80.24242369907884
+"Borja San Emeterio (26, Numancia, Primera División RFEF 22-23)",79.26375093256863
+"Juan Iglesias (24, Getafe, La Liga 22-23)",79.0169173454285
+"I. Lawrence (21, Alajuelense, Costa Rica Primera División 22-23)",79.00667083626394
+"Aitor Aldalur (31, Rayo Majadahonda, Primera División RFEF 22-23)",78.59390351309102
+"Ángel López (20, CD Calahorra, Primera División RFEF 22-23)",78.5211736550691
+"Š. Harazim (22, Hradec Králové, Czech Fortuna Liga 22-23)",78.46606249334924
+"H. Banda (30, Jedinstvo, Montenegro First League 22-23)",78.24335209589852

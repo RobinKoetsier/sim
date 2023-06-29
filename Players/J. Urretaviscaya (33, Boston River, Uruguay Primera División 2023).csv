@@ -1,28 +1,26 @@
-Player 1,Player 2,Similarity
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",42.917492846324215
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",33.541692871372256
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",13.796670621073012
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",-2.4609303340683404
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",65.58379383295406
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",26.902856845494448
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",8.870069828468031
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",-9.621260004584837
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",68.376272043033
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",-40.07680480206502
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","T. Keskinen (20, HJK, Veikkausliiga 2023)",43.6578471709604
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","S. Haarala (23, Ilves, Veikkausliiga 2023)",42.46570242636971
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",40.58507526888669
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","L. Rogerson (25, Haka, Veikkausliiga 2023)",14.561823668334943
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",29.80214734908833
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",51.23800563022682
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",25.313807233811275
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","M. Correa (21, FK Metta, Virsliga 2023)",16.7135027547771
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",50.45425133185395
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",-7.306518559979369
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","Emerson Deocleciano (23, RFS, Virsliga 2023)",68.58253909550996
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",22.0940172888525
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",-38.24334525673698
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",61.21200878502449
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","M. Diop (20, Valmiera FC, Virsliga 2023)",-8.214870885933351
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",41.49806018202409
-"J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)","O. Niang (21, Riga FC, Virsliga 2023)",47.76619610547164
+Player,Similarity
+"D. Verbeek (32, Den Bosch, Eerste Divisie 22-23)",94.00725750312708
+"Manu Fuster (25, Albacete, La Liga 2 22-23)",93.61636617364604
+"Iñigo Vicente (25, Racing Santander, La Liga 2 22-23)",92.18797127031164
+"L. Giannone (33, Turris, Serie C 22-23)",92.12887495298004
+"I. Stasevich (37, Atyrau, Kazakh Premier League 2023)",91.97113313264744
+"K. Dolly (30, Kaizer Chiefs, South Africa PSL 22-23)",91.16369319473344
+"J. Mera (29, RoundGlass Punjab FC, I-League 22-23)",90.7724705314848
+"B. Boutobba (24, Niort, Ligue 2 22-23)",89.93341819866954
+"M. Marín (23, O'Higgins, Chilean Primera División 2023)",89.81656990147337
+"C. Aquino (31, Cerro Porteño, Paraguay Division Profesional 2023)",89.65584180059794
+"P. McMullan (27, Dundee, Scottish Championship 22-23)",89.20334689681594
+"E. Frederiksen (22, SønderjyskE, Danish 1. Division 22-23)",89.19988080391141
+"M. Trésor (24, Genk, Belgian Pro League 22-23)",88.97128161235707
+"Rômulo (27, Chengdu Rongcheng, Chinese Super League 2023)",88.93091416523116
+"I. Kebbal (24, Paris, Ligue 2 22-23)",88.83323249385762
+"A. Estacio (25, Deportivo Pasto, Colombian Primera Division 22-23)",88.35662359599812
+"D. Mancini (26, Panathinaikos, Greek Super League 22-23)",88.12305513836391
+"Y. Shua (23, Beitar Jerusalem, Ligat Ha'al 22-23)",88.06555406268984
+"Álex Gallar (31, Málaga, La Liga 2 22-23)",87.92270211155628
+"N. Gaitán (35, Paços de Ferreira, Primeira Liga 22-23)",87.5893483543444
+"Andrigo (28, Anyang, K League 2 2023)",87.39524844451826
+"N. Mihajlović (27, Sloga Doboj, Bosnian Premier League 22-23)",87.27176300476492
+"N. Lang (23, Club Brugge, Belgian Pro League 22-23)",87.09495434798826
+"L. Suárez (27, América, Liga MX 22-23)",86.82950017060989
+"V. Grifo (30, Freiburg, Bundesliga 22-23)",86.79296625344625

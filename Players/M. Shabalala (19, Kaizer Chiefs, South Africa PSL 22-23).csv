@@ -1,112 +1,26 @@
-Player 1,Player 2,Similarity
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",55.48866595371638
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",39.12194948856098
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",40.53159164202425
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",13.09347185300031
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",6.714110277694781
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",49.11392566287736
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",65.32064713537787
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",62.26088299183195
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",16.475849011308192
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","I. Jebali (31, OB, Superliga 22-23)",66.14270634513728
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",38.20664615268715
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",43.39493841858174
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",65.76517504566363
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",64.6839838648651
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",62.81849194447299
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",54.83181671613588
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",59.23489508089892
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",49.57393479277548
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",64.33577409789288
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",47.67344047925241
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",39.93458652536005
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",60.293307971914544
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",59.31797119491152
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",25.9882115981388
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",59.46128753270944
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",29.469880204787746
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",63.115383744475736
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",56.67978092180108
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",80.64410916866741
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",49.72724625373194
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",59.111204537625085
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",27.031562779943748
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",60.85607863623107
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",54.300658541117606
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",67.39412466298873
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",61.01429774663726
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",36.18273138181973
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",13.612543126715057
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",18.494077352360065
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",58.49640158263568
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",70.9888463778703
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",73.18233705973523
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",14.722513286205793
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",49.65302727198147
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",59.5960352780078
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",60.82538930786626
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",59.52804265286075
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",57.55298154395747
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",16.26866922261462
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",1.1702536201452802
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",46.443248769631765
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",61.0114011108324
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",61.302909215393065
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",61.27461389348285
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",63.48745869475966
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",60.20810895111062
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",55.99926465185581
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",64.94764119271524
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",43.37751370942819
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",41.82427182614439
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",29.0896601358586
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",46.49058321057253
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",17.248757913085107
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-18.91327934137249
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",35.04502579282864
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",13.77178596378464
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",61.04317998157934
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",58.41157400707513
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",36.36177112626701
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",39.83997973748217
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",25.278288960620344
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",60.68222229586332
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",43.89511893247241
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",15.019547610280616
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",22.99159300368485
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",39.736425854063
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",32.23501269720731
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-7.8080562373144815
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",18.402147933261915
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",37.5334328722771
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-11.048326862853289
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",25.451461510452194
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",16.904822076113152
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",57.35510230587551
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",32.56651381879518
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",60.6779444894081
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",62.57483415338064
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",21.605363897989943
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",27.65751794845053
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-27.44509499272207
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",55.25543930498933
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",56.17135483035115
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",43.50860152498039
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",59.22475621619342
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",72.87902448952838
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",63.85484245985376
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",70.26075744794579
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",61.89739092787772
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",16.164671040187894
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",52.69664045550011
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-27.519211298039693
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",59.99338156850864
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",47.058696570022185
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",56.53869839527235
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",30.899419730938828
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",68.93095718562672
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",60.80206303060771
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",43.36438584286794
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",43.82874069099507
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",37.949951493868575
-"M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",59.0945517052002
+Player,Similarity
+"C. Falletti (30, Ternana, Serie B 22-23)",83.33477572621565
+"M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",80.64410916866741
+"A. Vlkanova (28, Viktoria Plzeň, Czech Fortuna Liga 22-23)",78.04118885763101
+"C. Ünder (25, Olympique Marseille, Ligue 1 22-23)",77.38678553674254
+"T. Horvat (24, Sturm Graz, Austrian Bundesliga 22-23)",77.29427399172654
+"Tae-seong Song (22, Seoul Jungnang, K4 League 2023)",76.61587991844476
+"K. Fortounis (30, Olympiacos Piraeus, Greek Super League 22-23)",76.4337577027087
+"A. Lugasi (18, Maccabi Petah Tikva, Liga Leumit 22-23)",76.09080001173109
+"L. Garritano (29, Frosinone, Serie B 22-23)",75.84387450243948
+"N. Shaw (22, Inverness CT, Scottish Championship 22-23)",75.64427524970631
+"D. Cheryshev (32, Venezia, Serie B 22-23)",75.24773956505324
+"S. Szymański (24, Feyenoord, Eredivisie 22-23)",75.20210744871746
+"A. Suárez (20, Alajuelense, Costa Rica Primera División 22-23)",75.18658207563911
+"C. Guanca (30, Al Shabab, Saudi Professional League 22-23)",74.85999321210444
+"Jesús Carrillo (24, Numancia, Primera División RFEF 22-23)",74.38439640421957
+"S. Ouaissa (18, Roda JC, Eerste Divisie 22-23)",73.6572776069858
+"J. Busuttil (24, Floriana, Malta Premier League 22-23)",73.35203094547566
+"T. Chery (34, Maccabi Haifa, Ligat Ha'al 22-23)",73.27828322010109
+"E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",73.18233705973523
+"D. Duarte (35, UD Oliveirense, Portugal Segunda Liga 22-23)",73.09577778459581
+"Z. Clough (28, Adelaide United, A-League Men 22-23)",73.04342559032506
+"I. Chair (25, Queens Park Rangers, Championship 22-23)",72.99953440410887
+"S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",72.87902448952838
+"Pascu (23, Almere City, Eerste Divisie 22-23)",72.8779750411783
+"C. Tavernelli (23, Triestina, Serie C 22-23)",72.685032994259

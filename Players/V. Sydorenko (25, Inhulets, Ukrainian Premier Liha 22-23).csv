@@ -1,81 +1,26 @@
-Player 1,Player 2,Similarity
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",28.5576779319818
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",21.570732479519837
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",21.453752676167326
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",48.50109687777483
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",10.301848726859305
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",11.38958002936102
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",73.10699188633679
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",-12.146158845723749
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",21.890338266999255
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",-21.49276155951405
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",23.6078809433528
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",28.664641949469196
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",28.540263589438357
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",36.14244778488645
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",28.2621035709255
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",-0.5200118210134197
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",63.80488692515171
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",-16.694636767779738
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",3.7724691519777886
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",0.2957156179524898
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",-2.035808192420609
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",29.392465347397074
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",20.71528034547013
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",-11.1764464155058
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",5.442397109806807
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",38.02099817737468
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",10.021631934947814
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",28.84082290925036
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",-12.556850574110436
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",21.22143957017726
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",33.92083951673187
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",41.45520009870427
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",29.112219238028658
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",53.183515355364506
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",26.71348084975029
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",49.25328956008274
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",10.455121776705823
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",10.55642832414879
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",22.97957498149604
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",-23.82201996641678
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",20.84732811861442
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",-8.248351288700096
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",-14.055719129916708
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",-10.78578719346608
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",21.91691603887792
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",-12.42558377892414
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",30.823616698437085
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",21.635742385864187
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",-17.48840212093681
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",-27.616746306132026
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",22.35907220838953
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",-12.8901159900999
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",16.026216530272027
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",26.2874843006006
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",18.160929469037036
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",52.81300189130612
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",42.79328369409048
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",30.048080534980205
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",7.296040241180564
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",13.433656609836987
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",62.463241440646186
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",-1.2101324725389606
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",47.73131292779296
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","P. Mareš (32, RFS, Virsliga 2023)",0.4798326551884332
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-0.0885733539800228
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",35.77450959320245
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",2.801623180867251
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",18.199396281255044
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",-7.687768242353236
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",58.23324087256275
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",43.405306808370256
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",0.1196654145551404
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",39.92442133823773
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",21.64970195010192
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",20.82713367905685
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",7.773081839977005
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",63.594268972255975
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",4.201460129939464
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",47.72110258829025
-"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",46.65411102347958
+Player,Similarity
+"E. Tchato (20, Montpellier, Ligue 1 22-23)",85.86672206487843
+"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)",81.87542280494972
+"Pedro Pereira (25, Alanyaspor, Süper Lig 22-23)",79.0821659828983
+"N. Patterson (21, Everton, Premier League 22-23)",78.91550971448099
+"Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",78.23721945957101
+"F. Borowski (19, Zagłębie Sosnowiec, Polish I Liga 22-23)",77.86671794862744
+"A. Jaber (30, Maccabi Bnei Raina, Ligat Ha'al 22-23)",77.16197433259937
+"G. Nesta (23, Viterbese, Serie C 22-23)",77.11272559957737
+"L. Burnet (32, Emmen, Eredivisie 22-23)",76.74646539901491
+"D. Petronijević (21, Kolubara, Serbian SuperLiga 22-23)",76.06597649391047
+"J. Kruiver (22, Telstar, Eerste Divisie 22-23)",75.92529917669833
+"Felipe Alfonso (30, Mérida AD, Primera División RFEF 22-23)",75.71914182873599
+"J. Dempsey (18, UCD, League of Ireland PL 2023)",75.1768204487669
+"H. Mendes (25, Almería, La Liga 22-23)",74.97524931835913
+"J. Gallagher (27, Austin FC, MLS 2023)",74.62121666298287
+"Raúl Carnero (34, Deportivo La Coruña, Primera División RFEF 22-23)",74.42755042250093
+"Saifeldeen Fadlalla (20, Al Gharafa, Qatari Stars League 22-23)",74.13892692694573
+"G. Camargo (32, Wanderers, Uruguay Primera División 2023)",73.10699188633679
+"M. Promsawat (27, Chiangrai United, Thai League 1 22-23)",72.8612140051546
+"L. Pleidrup (41, Nykøbing, Danish 1. Division 22-23)",72.77637282188249
+"E. Maurizii (22, Pro Sesto, Serie C 22-23)",72.20853680877482
+"H. Beganović (21, Sloboda Tuzla, Bosnian Premier League 22-23)",71.89342429092129
+"J. van Aken (20, AZ II, Eerste Divisie 22-23)",71.86592393116426
+"M. Nikolov (29, Septemvri Sofia, Bulgarian First League 22-23)",71.82477637051244
+"S. Walsh (28, Mechelen, Belgian Pro League 22-23)",71.78580899276886

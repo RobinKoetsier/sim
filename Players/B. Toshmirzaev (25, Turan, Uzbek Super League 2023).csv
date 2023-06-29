@@ -1,21 +1,26 @@
-Player 1,Player 2,Similarity
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",21.779671990688737
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",42.715679676397
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",13.190417176250207
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","T. Keskinen (20, HJK, Veikkausliiga 2023)",55.39309044314371
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","S. Haarala (23, Ilves, Veikkausliiga 2023)",39.96010778027538
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",45.46813224869338
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","L. Rogerson (25, Haka, Veikkausliiga 2023)",43.32646334807676
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",54.311070494273736
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",53.03249553406686
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",16.007618402739755
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","M. Correa (21, FK Metta, Virsliga 2023)",35.17237050491174
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",54.77510823899782
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",41.07965660946429
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","Emerson Deocleciano (23, RFS, Virsliga 2023)",35.14595272444716
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",56.58150743356985
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",17.936449029692348
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",57.09011257250144
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","M. Diop (20, Valmiera FC, Virsliga 2023)",57.06518721130767
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",64.87002063963759
-"B. Toshmirzaev (25, Turan, Uzbek Super League 2023)","O. Niang (21, Riga FC, Virsliga 2023)",52.95012207413561
+Player,Similarity
+"C. Kpan (25, Široki Brijeg, Bosnian Premier League 22-23)",84.41924222178446
+"C. Canak (18, Standard Liège, Belgian Pro League 22-23)",84.33196871957999
+"S. Zogaj (25, Kastrioti Krujë, Albanian Premier League 22-23)",83.97531045760854
+"Gabri Martínez (20, San Fernando, Primera División RFEF 22-23)",81.54967027624532
+"I. Moseychuk (23, Kuban Krasnodar, Russian FNL 2 22-23)",79.11637540325917
+"Conrado (26, Lechia Gdańsk, Ekstraklasa 22-23)",77.64125856091651
+"K. Daněk (20, Sparta Praha, Czech Fortuna Liga 22-23)",77.52521919983049
+"O. Dale (24, Portsmouth, League One 22-23)",77.47949123782118
+"A. Gordon (22, Newcastle United, Premier League 22-23)",77.15843068833506
+"R. Lenis (30, Al Adalah, Saudi Professional League 22-23)",77.04897095638606
+"Mauro Rodrigues (22, Yverdon Sport, Swiss Challenge League 22-23)",76.93852253222293
+"J. Mitrović (22, Gorica, 1. HNL 22-23)",76.93050531911331
+"C. Lang (24, Wigan Athletic, Championship 22-23)",76.86891184808388
+"M. Minicucci (27, Recanatese, Serie C 22-23)",76.58307616392051
+"L. Zanimacchia (24, Parma, Serie B 22-23)",76.22436222272823
+"P. De la Vega (22, Lanús, Argentinian Primera División 2023)",76.1797096960625
+"Z. Davitashvili (22, Bordeaux, Ligue 2 22-23)",76.03234452295524
+"S. Krykun (26, Górnik Łęczna, Polish I Liga 22-23)",75.8757311682072
+"Borja Sainz (22, Giresunspor, Süper Lig 22-23)",75.77510382261603
+"D. Kocsis (20, Honvéd, NB I 22-23)",75.52088086921418
+"Sergio (26, CD Calahorra, Primera División RFEF 22-23)",75.35939972253468
+"B. Mamona (20, Imolese, Serie C 22-23)",75.3119685270458
+"A. Yahaya (21, Tuzlaspor, Turkish 1. Lig 22-23)",75.0625426558747
+"M. Kuzmanović (27, Tuzla City, Bosnian Premier League 22-23)",74.70854072400454
+"Sito (26, Asteras Tripolis, Greek Super League 22-23)",74.69029756588526

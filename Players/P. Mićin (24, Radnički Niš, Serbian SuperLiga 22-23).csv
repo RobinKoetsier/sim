@@ -1,217 +1,26 @@
-Player 1,Player 2,Similarity
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Nešković (23, Voždovac, Serbian SuperLiga 22-23)",64.10632232998054
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)",16.075521077743346
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)",34.455200008116186
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","U. Nikolić (29, Vojvodina, Serbian SuperLiga 22-23)",33.90530024623076
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)",55.199435654453886
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","P. Đuričković (31, Novi Pazar, Serbian SuperLiga 22-23)",11.51120804884337
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Đ. Gordić (18, Mladost Lučani, Serbian SuperLiga 22-23)",32.47348851506569
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)",46.78443563455533
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Dimić (30, Radnički Niš, Serbian SuperLiga 22-23)",42.26704432061722
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Babić (32, Radnik Surdulica, Serbian SuperLiga 22-23)",-17.648415042013475
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",57.66099930351374
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","N. Vlašić (25, Torino, Serie A 22-23)",41.49539445318668
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","L. Pellegrini (26, Roma, Serie A 22-23)",17.808112145033476
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","G. Caprari (29, Monza, Serie A 22-23)",51.27345572568378
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","L. Ferguson (23, Bologna, Serie A 22-23)",29.358959273061824
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Al. Miranchuk (27, Torino, Serie A 22-23)",33.68734313343649
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Brahim Diaz (23, Milan, Serie A 22-23)",65.4413722524815
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Barák (28, Fiorentina, Serie A 22-23)",42.961408616984855
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","N. Bajrami (24, Sassuolo, Serie A 22-23)",40.24424657223798
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","T. Baldanzi (20, Empoli, Serie A 22-23)",46.32385168048418
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Pašalić (28, Atalanta, Serie A 22-23)",20.077775262677257
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","N. Radonjić (27, Torino, Serie A 22-23)",63.52297116979004
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",30.502203325043823
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",38.28049980919154
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",39.97183360131684
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Colpani (24, Monza, Serie A 22-23)",45.71524138961527
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",55.3854877052345
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",28.306345290067576
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",39.63075919441925
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",48.45277309240392
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",27.680043150015194
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",19.411042489157737
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",22.231127381117787
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",36.85293506812008
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",38.18332925951676
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",40.2670007735678
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",27.97152342902193
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",20.32817402244109
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","R. Botta (33, Bari, Serie B 22-23)",43.17737311156276
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",71.26023616356098
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",31.153918373451937
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","V. Parigini (27, Como, Serie B 22-23)",37.836858802668914
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Álex Blanco (24, Como, Serie B 22-23)",38.72447238269741
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",13.388521704739986
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",34.25992692344935
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","D. Camara (21, Parma, Serie B 22-23)",49.44762412435137
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",57.68272345507981
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",16.370885775496383
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",50.67309408619891
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",29.41642489804848
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",9.66596958269663
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",39.34911555679454
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",37.25962163273206
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",74.11532737034231
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",62.22800206193233
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",57.21263479222397
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",52.52505875729076
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",19.50407731273977
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",66.3201119261823
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",48.37885046741608
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",20.319934085870734
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",57.03743568589596
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",48.26100052643885
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",63.035374917677466
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",68.68808525172997
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","N. Belloni (28, Siena, Serie C 22-23)",15.339069714177803
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Frediani (29, Siena, Serie C 22-23)",36.88962919368044
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","F. Urso (28, Torres, Serie C 22-23)",12.126229789750134
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",21.522563016708627
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","G. Lisai (33, Torres, Serie C 22-23)",29.76538337140186
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",16.83506770422047
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","C. Attys (22, Trento, Serie C 22-23)",42.20911213344386
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",64.00851476781682
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",26.448575335094294
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",31.77162372698745
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",9.857402012314434
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",35.82040216377895
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",28.02513846628904
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",31.70343328524031
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",54.64038411117447
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",52.78244090057409
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",11.624392170254628
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",28.02776936986937
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",41.74459194619726
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",47.68894311003959
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",43.13811901718371
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",-3.8645799747173344
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",45.06422723720884
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",34.28114360750797
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",12.691615536979027
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",39.09348645560109
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",38.63099523663494
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",25.10711628894311
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",38.36843653305324
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",26.68913213215885
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",53.14761994949394
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",-1.5886463624855849
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",39.33542336494117
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",4.4504732960789255
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",-8.344975388147075
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",62.98328952897939
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",39.610384587509294
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",44.75225715129878
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",50.48499791911581
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",42.55392723602312
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",56.72058117367165
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",54.47730691432911
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",53.911499702493806
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",2.202555261943066
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",21.30928932057762
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",53.865190408289166
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",45.97442056265198
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",61.8425392543328
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",17.75280835512443
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","I. Jebali (31, OB, Superliga 22-23)",59.26748100777955
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",46.69646791672955
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",50.70310200171141
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",45.25994490879663
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",64.53982662039266
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",38.4765735599641
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",35.78287144439534
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",53.18188431717675
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",69.10426739112386
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",50.53960057555019
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",71.94560951613947
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",40.93260746440163
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",32.392215983798216
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",7.2710254427597345
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",53.185670010365726
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",30.64850322752673
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",49.0810233222368
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",31.84849831121597
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",73.78454150071258
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",31.820468387337392
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",24.3736882768273
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",21.36905116677752
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",55.03032588147227
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",27.34188705604785
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",72.23736036410942
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",36.27104079077135
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",39.85905054338011
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",36.18125728920241
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",53.76731378144134
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",55.39235248027082
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",22.37422120212369
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",37.66864284974491
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",56.89096101614092
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",69.63957055195245
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",39.76915713717957
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",16.64655172804494
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",32.05208435583127
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",38.88310526251901
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",18.57518567842991
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",17.963152712430862
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",29.79354426141087
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",68.22626903707922
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",36.46536979586232
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",38.43423035400991
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",41.13277979060748
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",54.69749123662319
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",47.74424054205741
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",19.29321626084216
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",24.5072314307958
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",20.141738211050107
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",27.668541110405386
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",23.39133233038084
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",5.572290433093305
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-6.234432165502406
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",13.754506708339164
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",57.84704753472691
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",28.604162719206727
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",12.32871045748568
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",48.195758453973326
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",17.641042354220932
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",8.061692685575748
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",16.451082049401393
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",25.37681292193728
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",38.426513279908754
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",33.7871528679796
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",23.05622817990917
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",23.5970586131658
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",23.197666877243265
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",1.8264786356649816
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",31.315922568000143
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",36.258622510839935
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",25.121865845448504
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",6.315106403701962
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",-10.538594976292432
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",23.999068426066437
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",61.51539260730835
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",50.62320006545807
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",41.255713370440496
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",55.61955756216636
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",-19.54787970191581
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-11.553832860191898
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",35.19199286675793
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",1.5549892288530642
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",21.817174439410607
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",41.363845037254585
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",31.37783797218429
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",22.83176889656567
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",48.64016776779147
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",46.83838865918538
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",12.698228054515006
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",45.94696143254311
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",37.90146206941093
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",40.06976417924014
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",54.8725269378694
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",37.975658051781394
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-10.6424632305698
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",42.8934252877409
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",10.839612164157948
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",39.286160318582745
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",62.255984988361625
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",37.07767768628166
-"P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",17.157432232775815
+Player,Similarity
+"U. Dávila (32, Macarthur, A-League Men 22-23)",79.80376877900207
+"K. Froese (27, Wehen Wiesbaden, 3. Liga 22-23)",78.92495994347118
+"I. Shkolik (22, Neftekhimik, Russian FNL 2 22-23)",77.91804454101927
+"R. Gînsari (31, Milsami, Moldovan Super Liga 22-23)",77.81432371414515
+"D. Butterworth (23, Port Vale, League One 22-23)",77.54521739559101
+"Oihan Sancet (23, Athletic Bilbao, La Liga 22-23)",77.01782933191251
+"Ž. Popović (23, Iskra, Montenegro First League 22-23)",76.44390551325641
+"R. Matsumura (28, Persis Solo, BRI Liga 1 22-23)",75.97629059986666
+"I. Oleynikov (24, Akhmat Grozny, Russian Premier League 22-23)",75.81468444963959
+"A. Ouahim (25, Heracles, Eerste Divisie 22-23)",75.53606032499715
+"C. Boniface (21, Van, Armenian Premier League 22-23)",74.55855421281542
+"G. Ivanov (35, Slavia Sofia, Bulgarian First League 22-23)",74.51362855510601
+"L. Cuppone (25, Pescara, Serie C 22-23)",74.11532737034231
+"G. Marcussen (24, Fremad Amager, Danish 1. Division 22-23)",74.08747488809355
+"H. Chapman (25, Bradford City, League Two 22-23)",74.08067863016078
+"D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",73.78454150071258
+"M. Harness (27, Ipswich Town, League One 22-23)",73.02219562772375
+"D. Kutesa (25, Servette, Swiss Super League 22-23)",72.23736036410942
+"C. Zabou (26, Botoşani, SuperLiga României 22-23)",71.94560951613947
+"M. Tramoni (23, Pisa, Serie B 22-23)",71.26023616356098
+"K. Doumbia (20, Reims, Ligue 1 22-23)",70.96960530649756
+"Rober González (22, Deportivo Alavés, La Liga 2 22-23)",70.81387094660533
+"Mostafa Ziko (26, Haras El Hodood, Egyptian Premier League 22-23)",70.57763046145303
+"Joan Román (30, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",69.91650122317566
+"O. Kiteishvili (27, Sturm Graz, Austrian Bundesliga 22-23)",69.81699411233787

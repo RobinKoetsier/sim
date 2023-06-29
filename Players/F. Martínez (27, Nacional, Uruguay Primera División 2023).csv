@@ -1,29 +1,26 @@
-Player 1,Player 2,Similarity
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",27.68388339393568
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",65.26452161177735
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",45.80726972572207
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",48.5025643424846
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",39.12766902980045
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",38.765037642889645
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",35.66654638121952
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",54.0853417215763
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",18.6904809757984
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",48.05176114320264
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",11.61874533375234
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","T. Keskinen (20, HJK, Veikkausliiga 2023)",69.31515716385485
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","S. Haarala (23, Ilves, Veikkausliiga 2023)",59.24824825059378
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",51.69418833328183
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","L. Rogerson (25, Haka, Veikkausliiga 2023)",58.96971530185687
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",71.6661215107526
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",66.9280130444518
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",32.036659663999416
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","M. Correa (21, FK Metta, Virsliga 2023)",34.154492287185015
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",61.4737143875618
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",34.6559002760621
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","Emerson Deocleciano (23, RFS, Virsliga 2023)",56.40104637368693
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",79.4674505680575
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",41.3936260487479
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",53.78512669476952
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","M. Diop (20, Valmiera FC, Virsliga 2023)",58.70926251033107
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",61.83847152380279
-"F. Martínez (27, Nacional, Uruguay Primera División 2023)","O. Niang (21, Riga FC, Virsliga 2023)",69.69173869560255
+Player,Similarity
+"S. Godwin (26, Casa Pia AC, Primeira Liga 22-23)",85.00677890264193
+"H. Balić (27, Rheindorf Altach, Austrian Bundesliga 22-23)",83.55404957955365
+"B. Diabaté (23, Lechia Gdańsk, Ekstraklasa 22-23)",83.52121787434068
+"J. Adedeji (23, HB Køge, Danish 1. Division 22-23)",82.5908789742195
+"Pedro Vieira (21, Resovia Rzeszów, Polish I Liga 22-23)",82.4667308898444
+"J. Leko (24, Milton Keynes Dons, League One 22-23)",82.19631624217372
+"O. Afolayan (25, St. Pauli, 2. Bundesliga 22-23)",81.51046001162699
+"Mozino (26, Trofense, Portugal Segunda Liga 22-23)",81.45155299942705
+"A. Baldé (20, Dordrecht, Eerste Divisie 22-23)",81.23816803822955
+"L. Banda (22, Lecce, Serie A 22-23)",81.2145082360077
+"R. Sosa (23, Talleres Córdoba, Argentinian Primera División 2023)",81.0298561005597
+"G. Caso (24, Frosinone, Serie B 22-23)",80.94450409621015
+"Borja Sainz (22, Giresunspor, Süper Lig 22-23)",80.83419617520435
+"Chico Banza (24, Nea Salamis, Cyprus 1. Division 22-23)",80.37628576313429
+"N. Tella (23, Burnley, Championship 22-23)",80.31005612484674
+"Adilson (26, CD Badajoz, Primera División RFEF 22-23)",80.01067784193926
+"S. Tabekou (26, Lierse Kempenzonen, Belgian First Division B 22-23)",79.96570269523298
+"A. Nollenberger (25, Bayreuth, 3. Liga 22-23)",79.89310776821338
+"G. Ríos (24, Audax Italiano, Chilean Primera División 2023)",79.48046793937964
+"F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",79.4674505680575
+"Sang-Ho Na (26, Seoul, K League 1 2023)",79.42376448213994
+"João Camacho (28, Moreirense, Portugal Segunda Liga 22-23)",79.32744353087313
+"D. Ndoye (22, Basel, Swiss Super League 22-23)",79.04896609082874
+"J. Kluivert (24, Valencia, La Liga 22-23)",79.03864907041964
+"E. Omondi (28, Muang Thong United, Thai League 1 22-23)",79.03172417484605

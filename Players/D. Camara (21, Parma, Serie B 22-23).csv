@@ -1,171 +1,26 @@
-Player 1,Player 2,Similarity
-"D. Camara (21, Parma, Serie B 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",53.636761777292286
-"D. Camara (21, Parma, Serie B 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",38.15630016970299
-"D. Camara (21, Parma, Serie B 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",42.30245680423329
-"D. Camara (21, Parma, Serie B 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",57.05492783853296
-"D. Camara (21, Parma, Serie B 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",14.15984740782526
-"D. Camara (21, Parma, Serie B 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",41.608994926781705
-"D. Camara (21, Parma, Serie B 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",49.65703374345743
-"D. Camara (21, Parma, Serie B 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",51.04836047262682
-"D. Camara (21, Parma, Serie B 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",61.17894947794075
-"D. Camara (21, Parma, Serie B 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",64.74089354799067
-"D. Camara (21, Parma, Serie B 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",52.75087154682559
-"D. Camara (21, Parma, Serie B 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",25.97313128157908
-"D. Camara (21, Parma, Serie B 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",60.68537552949046
-"D. Camara (21, Parma, Serie B 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",22.522245619534495
-"D. Camara (21, Parma, Serie B 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",34.993115211841555
-"D. Camara (21, Parma, Serie B 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",69.30125904877593
-"D. Camara (21, Parma, Serie B 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",25.871535514595827
-"D. Camara (21, Parma, Serie B 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",61.16403975839164
-"D. Camara (21, Parma, Serie B 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",48.81538047949117
-"D. Camara (21, Parma, Serie B 22-23)","N. Belloni (28, Siena, Serie C 22-23)",40.98030451436703
-"D. Camara (21, Parma, Serie B 22-23)","M. Frediani (29, Siena, Serie C 22-23)",37.32939745829584
-"D. Camara (21, Parma, Serie B 22-23)","F. Urso (28, Torres, Serie C 22-23)",27.68583598215843
-"D. Camara (21, Parma, Serie B 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",25.02394363896949
-"D. Camara (21, Parma, Serie B 22-23)","G. Lisai (33, Torres, Serie C 22-23)",31.7789411510797
-"D. Camara (21, Parma, Serie B 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",18.06823755754291
-"D. Camara (21, Parma, Serie B 22-23)","C. Attys (22, Trento, Serie C 22-23)",62.26585251523387
-"D. Camara (21, Parma, Serie B 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",45.849675912732266
-"D. Camara (21, Parma, Serie B 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",11.092032210292498
-"D. Camara (21, Parma, Serie B 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",35.69125598981586
-"D. Camara (21, Parma, Serie B 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",47.931679610341135
-"D. Camara (21, Parma, Serie B 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",50.90879692711204
-"D. Camara (21, Parma, Serie B 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",30.423876433864628
-"D. Camara (21, Parma, Serie B 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",68.61145859845846
-"D. Camara (21, Parma, Serie B 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",36.99777672359931
-"D. Camara (21, Parma, Serie B 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",32.489911473770746
-"D. Camara (21, Parma, Serie B 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",32.08296173074883
-"D. Camara (21, Parma, Serie B 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",19.8863992218765
-"D. Camara (21, Parma, Serie B 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",35.77918385023051
-"D. Camara (21, Parma, Serie B 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",39.82135760396609
-"D. Camara (21, Parma, Serie B 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",35.97109737908651
-"D. Camara (21, Parma, Serie B 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",14.849613327375376
-"D. Camara (21, Parma, Serie B 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",45.62434284393568
-"D. Camara (21, Parma, Serie B 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",38.04977585803972
-"D. Camara (21, Parma, Serie B 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",44.76543261692461
-"D. Camara (21, Parma, Serie B 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",49.811361694302455
-"D. Camara (21, Parma, Serie B 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",16.703856673541424
-"D. Camara (21, Parma, Serie B 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",8.751069620745715
-"D. Camara (21, Parma, Serie B 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",2.2647956997060725
-"D. Camara (21, Parma, Serie B 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",27.90932557347671
-"D. Camara (21, Parma, Serie B 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",42.23387067602249
-"D. Camara (21, Parma, Serie B 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",4.325203149192271
-"D. Camara (21, Parma, Serie B 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",25.60496539186411
-"D. Camara (21, Parma, Serie B 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",19.65208149314552
-"D. Camara (21, Parma, Serie B 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",19.18027977985597
-"D. Camara (21, Parma, Serie B 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",43.27181156722584
-"D. Camara (21, Parma, Serie B 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",9.696234536611762
-"D. Camara (21, Parma, Serie B 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",-3.22858282239065
-"D. Camara (21, Parma, Serie B 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",54.94087050423072
-"D. Camara (21, Parma, Serie B 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",25.56061154463932
-"D. Camara (21, Parma, Serie B 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",33.312357470177936
-"D. Camara (21, Parma, Serie B 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",-6.90675371376542
-"D. Camara (21, Parma, Serie B 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",50.73838153789411
-"D. Camara (21, Parma, Serie B 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-1.1138764594085633
-"D. Camara (21, Parma, Serie B 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",26.463591643229144
-"D. Camara (21, Parma, Serie B 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",30.308859265944875
-"D. Camara (21, Parma, Serie B 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",29.604541361717416
-"D. Camara (21, Parma, Serie B 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",41.12275800232792
-"D. Camara (21, Parma, Serie B 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",25.504168255359644
-"D. Camara (21, Parma, Serie B 22-23)","I. Jebali (31, OB, Superliga 22-23)",32.21729711673281
-"D. Camara (21, Parma, Serie B 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",21.296694002262203
-"D. Camara (21, Parma, Serie B 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",41.13163443129054
-"D. Camara (21, Parma, Serie B 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",43.81269316351272
-"D. Camara (21, Parma, Serie B 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",45.37340143458178
-"D. Camara (21, Parma, Serie B 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",38.27207181930877
-"D. Camara (21, Parma, Serie B 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",24.45860919809156
-"D. Camara (21, Parma, Serie B 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",49.03511928912168
-"D. Camara (21, Parma, Serie B 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",65.75959502186383
-"D. Camara (21, Parma, Serie B 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",49.929822051994414
-"D. Camara (21, Parma, Serie B 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",29.37119741703867
-"D. Camara (21, Parma, Serie B 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",28.83581379730612
-"D. Camara (21, Parma, Serie B 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",37.7006088118714
-"D. Camara (21, Parma, Serie B 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",19.135674738244504
-"D. Camara (21, Parma, Serie B 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",40.38704504401998
-"D. Camara (21, Parma, Serie B 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",28.88099456299881
-"D. Camara (21, Parma, Serie B 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",63.84019700290817
-"D. Camara (21, Parma, Serie B 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",23.106595860775236
-"D. Camara (21, Parma, Serie B 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",54.18266380814863
-"D. Camara (21, Parma, Serie B 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",27.55948456209547
-"D. Camara (21, Parma, Serie B 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",41.58608124920653
-"D. Camara (21, Parma, Serie B 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",29.35414773955684
-"D. Camara (21, Parma, Serie B 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",53.06133608230152
-"D. Camara (21, Parma, Serie B 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",42.62533814923158
-"D. Camara (21, Parma, Serie B 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",54.6796179116851
-"D. Camara (21, Parma, Serie B 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",40.58816048533232
-"D. Camara (21, Parma, Serie B 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",36.44730199019886
-"D. Camara (21, Parma, Serie B 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",39.18125680102431
-"D. Camara (21, Parma, Serie B 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",50.75494991010368
-"D. Camara (21, Parma, Serie B 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",63.70860189897829
-"D. Camara (21, Parma, Serie B 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",29.155828168489645
-"D. Camara (21, Parma, Serie B 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",46.10301504328076
-"D. Camara (21, Parma, Serie B 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",35.73190253601915
-"D. Camara (21, Parma, Serie B 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",73.58863544017072
-"D. Camara (21, Parma, Serie B 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",24.396229173365203
-"D. Camara (21, Parma, Serie B 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",21.62583028025449
-"D. Camara (21, Parma, Serie B 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",31.701137168985195
-"D. Camara (21, Parma, Serie B 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",43.23504264819421
-"D. Camara (21, Parma, Serie B 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",29.264321710954977
-"D. Camara (21, Parma, Serie B 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",22.720336522415572
-"D. Camara (21, Parma, Serie B 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",14.992248961136095
-"D. Camara (21, Parma, Serie B 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",48.50862743970764
-"D. Camara (21, Parma, Serie B 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",27.502666074056613
-"D. Camara (21, Parma, Serie B 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",32.67367249946888
-"D. Camara (21, Parma, Serie B 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",27.600580340495178
-"D. Camara (21, Parma, Serie B 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",30.130839451343128
-"D. Camara (21, Parma, Serie B 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",32.49678252745175
-"D. Camara (21, Parma, Serie B 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",17.808721059474102
-"D. Camara (21, Parma, Serie B 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",18.58230436425007
-"D. Camara (21, Parma, Serie B 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",12.60567786923068
-"D. Camara (21, Parma, Serie B 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",40.359699416222654
-"D. Camara (21, Parma, Serie B 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",-5.184426910774662
-"D. Camara (21, Parma, Serie B 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",12.287723935342926
-"D. Camara (21, Parma, Serie B 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",12.062662796577069
-"D. Camara (21, Parma, Serie B 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",13.779872743641192
-"D. Camara (21, Parma, Serie B 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",13.628403450383116
-"D. Camara (21, Parma, Serie B 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",33.970012070249
-"D. Camara (21, Parma, Serie B 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",21.769513927124205
-"D. Camara (21, Parma, Serie B 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",45.24650313131269
-"D. Camara (21, Parma, Serie B 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",-10.1812834425459
-"D. Camara (21, Parma, Serie B 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",-7.333849685920292
-"D. Camara (21, Parma, Serie B 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",26.661162148863905
-"D. Camara (21, Parma, Serie B 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",34.874145607600035
-"D. Camara (21, Parma, Serie B 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",26.564396930152828
-"D. Camara (21, Parma, Serie B 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-24.124902308253997
-"D. Camara (21, Parma, Serie B 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",29.29998583485404
-"D. Camara (21, Parma, Serie B 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",-11.505044051741526
-"D. Camara (21, Parma, Serie B 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",24.650368364143084
-"D. Camara (21, Parma, Serie B 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-5.846830499456952
-"D. Camara (21, Parma, Serie B 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",18.61481110831652
-"D. Camara (21, Parma, Serie B 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",14.617186047660036
-"D. Camara (21, Parma, Serie B 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-3.795555956941295
-"D. Camara (21, Parma, Serie B 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",38.11926508430078
-"D. Camara (21, Parma, Serie B 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",39.45224648138942
-"D. Camara (21, Parma, Serie B 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",4.856213442699604
-"D. Camara (21, Parma, Serie B 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",22.84774300091116
-"D. Camara (21, Parma, Serie B 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",39.1292956796412
-"D. Camara (21, Parma, Serie B 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",43.28298275562389
-"D. Camara (21, Parma, Serie B 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",47.21434191245026
-"D. Camara (21, Parma, Serie B 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",-7.322862626557872
-"D. Camara (21, Parma, Serie B 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",38.70886147740038
-"D. Camara (21, Parma, Serie B 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",11.640151116760704
-"D. Camara (21, Parma, Serie B 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",10.78948870645114
-"D. Camara (21, Parma, Serie B 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",3.512881321405638
-"D. Camara (21, Parma, Serie B 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",33.99444584932719
-"D. Camara (21, Parma, Serie B 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",24.770065467190143
-"D. Camara (21, Parma, Serie B 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",27.75446639180112
-"D. Camara (21, Parma, Serie B 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",37.44977612348572
-"D. Camara (21, Parma, Serie B 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",30.950916372292117
-"D. Camara (21, Parma, Serie B 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",4.083255593074387
-"D. Camara (21, Parma, Serie B 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",51.26836712981036
-"D. Camara (21, Parma, Serie B 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",46.68054444079372
-"D. Camara (21, Parma, Serie B 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",20.84659534351512
-"D. Camara (21, Parma, Serie B 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",29.514543895463945
-"D. Camara (21, Parma, Serie B 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",60.12477667034265
-"D. Camara (21, Parma, Serie B 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-2.11745109207278
-"D. Camara (21, Parma, Serie B 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",26.24091719817367
-"D. Camara (21, Parma, Serie B 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",7.821598636423752
-"D. Camara (21, Parma, Serie B 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",29.42946199244037
-"D. Camara (21, Parma, Serie B 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",59.10125428147246
-"D. Camara (21, Parma, Serie B 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",46.55003477754084
-"D. Camara (21, Parma, Serie B 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",28.095996592817755
+Player,Similarity
+"D. Varešanović (22, Sarajevo, Bosnian Premier League 22-23)",76.0928525377678
+"Fredy (33, Antalyaspor, Süper Lig 22-23)",73.58863544017072
+"Z. Machach (27, Ionikos, Greek Super League 22-23)",73.16080193190466
+"S. Shoretire (19, Bolton Wanderers, League One 22-23)",72.00079887268603
+"A. Ouahim (25, Heracles, Eerste Divisie 22-23)",71.47665164958781
+"C. Gallagher (23, Chelsea, Premier League 22-23)",71.42879328572855
+"N. Abdokov (22, Kuban Krasnodar, Russian FNL 2 22-23)",71.02953484430375
+"J. Paradela (24, River Plate, Argentinian Primera División 2023)",70.15395340098505
+"F. D'Amico (22, Pro Sesto, Serie C 22-23)",69.30125904877593
+"S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",69.1454249477546
+"Ó. Trejo (35, Rayo Vallecano, La Liga 22-23)",68.96800936779755
+"K. Toporkiewicz (21, Sandecja Nowy Sącz, Polish I Liga 22-23)",68.8161744001398
+"S. D'Uffizi (18, Viterbese, Serie C 22-23)",68.61145859845846
+"L. Nonikashvili (28, Saburtalo, Erovnuli Liga 2023)",68.36113666060635
+"A. Mogoș (20, CSMS Iaşi, Romanian Liga II 22-23)",68.08897101359733
+"M. Browne (25, Oxford United, League One 22-23)",67.28136162456919
+"B. Dejaegere (32, Toulouse, Ligue 1 22-23)",67.13219689595556
+"M. Mehlem (25, Darmstadt 98, 2. Bundesliga 22-23)",67.02641876539691
+"Marquinhos (23, Ferencváros, NB I 22-23)",66.63297052080922
+"Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",65.75959502186383
+"M. Sitek (22, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",64.9014749068942
+"C. Watts (21, Morecambe, League One 22-23)",64.79989783282943
+"R. Kouda (20, Picerno, Serie C 22-23)",64.74089354799067
+"T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",63.84019700290817
+"M. Shabani (24, Grasshopper, Swiss Super League 22-23)",63.70860189897829

@@ -1,219 +1,26 @@
-Player 1,Player 2,Similarity
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Mijić (33, Novi Pazar, Serbian SuperLiga 22-23)",26.871141580708542
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)",61.20850658198268
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Nešković (23, Voždovac, Serbian SuperLiga 22-23)",50.87812147596809
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)",11.373740598682204
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)",21.41319318882809
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","U. Nikolić (29, Vojvodina, Serbian SuperLiga 22-23)",36.09955854513423
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)",58.48590205794408
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","P. Đuričković (31, Novi Pazar, Serbian SuperLiga 22-23)",-25.32035995858191
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Đ. Gordić (18, Mladost Lučani, Serbian SuperLiga 22-23)",29.987625063177497
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)",27.13634294164131
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Dimić (30, Radnički Niš, Serbian SuperLiga 22-23)",74.91830294377635
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Babić (32, Radnik Surdulica, Serbian SuperLiga 22-23)",1.5109423908044357
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",58.55940215330225
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","N. Vlašić (25, Torino, Serie A 22-23)",81.72525161231658
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","L. Pellegrini (26, Roma, Serie A 22-23)",25.639441581967308
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","G. Caprari (29, Monza, Serie A 22-23)",62.07899635313745
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","L. Ferguson (23, Bologna, Serie A 22-23)",22.448310970628967
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Al. Miranchuk (27, Torino, Serie A 22-23)",45.91176471687631
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Brahim Diaz (23, Milan, Serie A 22-23)",70.39391979144584
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Barák (28, Fiorentina, Serie A 22-23)",50.41515143091131
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","N. Bajrami (24, Sassuolo, Serie A 22-23)",55.7252880518853
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","T. Baldanzi (20, Empoli, Serie A 22-23)",68.60370688488433
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Pašalić (28, Atalanta, Serie A 22-23)",39.136193510615705
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","N. Radonjić (27, Torino, Serie A 22-23)",76.3437237450833
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",69.96693155250475
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",31.61324953845909
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",39.29569516088968
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Colpani (24, Monza, Serie A 22-23)",59.290516639715065
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",75.2398999597663
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",9.191264424087423
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",55.66076967835911
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",56.11933211176423
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",14.09238371661563
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",49.8613468193921
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",37.64103620062673
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",46.07885830639992
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",1.6047263922260833
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",50.4077891524062
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",17.276984124483448
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",30.909684803701488
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","R. Botta (33, Bari, Serie B 22-23)",44.00207465106261
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",56.79532688995501
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",20.021567079982777
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","V. Parigini (27, Como, Serie B 22-23)",57.8265315187621
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Álex Blanco (24, Como, Serie B 22-23)",68.7948643375324
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",17.1184952361739
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",42.74863594288558
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","D. Camara (21, Parma, Serie B 22-23)",52.49610998285944
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",18.343264519193248
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",17.029684125790293
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",53.33064096594921
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",11.09954964881938
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",31.306426689300785
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",25.9046393286166
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",42.44698958425223
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",74.06928990249203
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",78.19372496848884
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",31.44073018876172
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",50.396819415608974
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",48.04540873304383
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",52.1263715189464
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",23.34264465712732
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",1.2139672579511775
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",37.3836388766789
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",28.900798883700663
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",45.75673006520272
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",70.59651882095976
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","N. Belloni (28, Siena, Serie C 22-23)",5.7591007970485295
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Frediani (29, Siena, Serie C 22-23)",51.08220789317882
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","F. Urso (28, Torres, Serie C 22-23)",6.60780965814707
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",14.092195747496802
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","G. Lisai (33, Torres, Serie C 22-23)",21.76891674017151
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",21.272663742498118
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","C. Attys (22, Trento, Serie C 22-23)",51.42397470442924
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",74.2281064481899
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",41.87707914357953
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",63.21913210335304
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",26.504513399617025
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",47.08795434708512
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",45.82807292553657
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",40.98512872623744
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",47.21537241085306
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",57.63440690190569
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",25.99201129496324
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",18.13866636852812
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",53.14261743955269
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",44.96209907446544
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",67.63974872273832
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",12.2575958151608
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",22.93616423049601
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",39.23723501802621
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",14.913353857753556
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",59.66548281704276
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",10.238466028862527
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",18.030858709093906
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",6.723943939481117
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",26.714810728131884
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",56.67184753171605
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",14.70944551503766
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",24.72216519938634
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",15.67519070290713
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",16.65412881294172
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",44.17986106664563
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",39.53120252146888
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",-14.493994290467146
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",62.102502976316906
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",45.3796978298416
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",36.081248551227965
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",23.636099289245657
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",49.08259130308077
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",1.3810994026233177
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",28.62398089968249
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",24.315163064909367
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",71.09227697123922
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",64.8916797336153
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",50.06622780220218
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","I. Jebali (31, OB, Superliga 22-23)",44.22133114271463
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",53.26040378722209
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",49.95955385572581
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",59.9466443522284
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",61.85733756670994
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",47.64736616327603
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",13.599170221253642
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",50.62450954859526
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",72.104607313294
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",50.25532654667823
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",55.390981067651325
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",9.145812781776442
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",29.124205073530607
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",21.958717921267503
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",60.99418915110352
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",27.47710475076496
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",44.22386732138362
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",5.812446980466509
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",62.6546008368521
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",41.62757706915075
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",18.91548867847632
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",38.912950725056646
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",39.11753324563732
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",50.560416794569086
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",81.99071361554611
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",45.21362380678087
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",61.69179518383158
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",38.19532992627991
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",58.48884939146236
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",49.86533974083287
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",38.13467007125718
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",42.07551353077425
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",39.4711273308714
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",42.00942562704813
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",48.17749532125525
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",37.815690520995794
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",26.981689468364483
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",57.866384875747215
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",6.540400956951572
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",38.37683838555081
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",34.37054065833358
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",62.48508706258299
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",30.451952520977947
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",59.07080671429039
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",38.98275781757847
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",46.49779430173297
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",34.277324946713215
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",9.1416205638043
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",23.576158157151912
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",5.439026526695259
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",50.321551804469486
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",34.95303682764505
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",21.881401397751088
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-25.9132395065118
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",6.7183145661444135
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",45.94042044812867
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",-19.113309966214707
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",40.74783688790804
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",39.70771548214075
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",-11.923257345657936
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",-16.399513475609755
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",6.909997922614053
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",60.238793918885
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",19.48958936114575
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",1.032098217488394
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",50.27964451537209
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",14.78935321505388
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",17.20346930503835
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-14.591706826347062
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",28.14588723509444
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",10.41186232370467
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",14.644887257140752
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",33.820083093078416
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",8.609555176680669
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",11.808035761904396
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",49.493660896744885
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",59.93603528393968
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",58.06747373262338
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",58.76793057231258
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",-5.071113359497765
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",7.733316612851786
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",8.663876612989837
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",1.2166028553240948
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",24.56043775530009
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",61.295769419732274
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",47.37367187597103
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",43.557187214993576
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",41.29850982554225
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",64.20377071528438
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",3.445367472884847
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",75.40045835686014
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",14.206708363565024
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",38.5707836940591
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",58.47068924888723
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",49.23175226084367
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-10.284207472812202
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",44.92747288673909
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",11.2186558519072
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",24.98744889297664
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",54.56603307348745
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",22.961456203082715
-"V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",17.58752960050228
+Player,Similarity
+"Rafa Silva (30, Benfica, Primeira Liga 22-23)",83.24882598270416
+"Xavi Simons (20, PSV, Eredivisie 22-23)",82.25512698544549
+"D. Kutesa (25, Servette, Swiss Super League 22-23)",81.99071361554611
+"K. Froese (27, Wehen Wiesbaden, 3. Liga 22-23)",81.76071151185185
+"J. Musiala (20, Bayern München, Bundesliga 22-23)",81.75863301137493
+"N. Vlašić (25, Torino, Serie A 22-23)",81.72525161231658
+"Y. Taha El Idrissi (20, PEC Zwolle, Eerste Divisie 22-23)",81.71890612009491
+"Mike Ott (28, Barito Putera, BRI Liga 1 22-23)",81.39885598775764
+"D. Varešanović (22, Sarajevo, Bosnian Premier League 22-23)",81.26615853801208
+"M. Sitek (22, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",80.62183549288517
+"O. Lingr (24, Slavia Praha, Czech Fortuna Liga 22-23)",80.04944350420953
+"T. Pieńko (19, Zagłębie Lubin, Ekstraklasa 22-23)",78.93117184549864
+"M. Marzec (28, Katowice, Polish I Liga 22-23)",78.43971320510535
+"J. Desogus (20, Pescara, Serie C 22-23)",78.19372496848884
+"J. Walker (29, Bradford City, League Two 22-23)",77.57891740510495
+"A. Ramsey (20, Middlesbrough, Championship 22-23)",77.03866388174512
+"N. Radonjić (27, Torino, Serie A 22-23)",76.3437237450833
+"D. Olejarka (21, Stal Rzeszów, Polish I Liga 22-23)",76.31167544741021
+"T. Hedl (20, Rapid Wien II, Austrian 2. Liga 22-23)",76.02749579722861
+"A. Diallo (20, Sunderland, Championship 22-23)",75.41966494561369
+"S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",75.40045835686014
+"M. Antonucci (24, Cittadella, Serie B 22-23)",75.2398999597663
+"S. Dimić (30, Radnički Niš, Serbian SuperLiga 22-23)",74.91830294377635
+"L. Schaub (28, Hannover 96, 2. Bundesliga 22-23)",74.53415923326855
+"J. Gallegos (21, SønderjyskE, Danish 1. Division 22-23)",74.5104755296072

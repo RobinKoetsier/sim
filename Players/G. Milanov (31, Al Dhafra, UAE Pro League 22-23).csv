@@ -1,20 +1,26 @@
-Player 1,Player 2,Similarity
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",0.8880319726588272
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",11.35486383118404
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",55.79802782104258
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",53.62082035354272
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",54.38007390696161
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",15.80407834769586
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",7.713080201109395
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",13.59630050155756
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-29.171093065728314
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",34.10029066934992
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",42.29885776375489
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",45.46246610435457
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",57.68374740204981
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",62.80378063441852
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",73.8873212667255
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",52.29522541826736
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",17.984935048711602
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",36.80111489875307
-"G. Milanov (31, Al Dhafra, UAE Pro League 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",71.17167685007144
+Player,Similarity
+"K. Turner (25, Partick Thistle, Scottish Championship 22-23)",90.12958453766778
+"S. Laht (31, Kuressaare, Estonian Meistriliiga 2023)",85.78588947228731
+"M. Mijić (33, Novi Pazar, Serbian SuperLiga 22-23)",85.4593969732863
+"R. Zalazar (23, Schalke 04, Bundesliga 22-23)",83.51967384520961
+"J. Nsang (24, UE Santa Coloma, Andorra Primera Divisió 22-23)",83.41655199471573
+"D. Hotič (27, Cercle Brugge, Belgian Pro League 22-23)",83.19955226556726
+"V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",82.96228021660805
+"W. Mimbela (31, ADT, Peruvian Liga 1 2023)",82.7955555164774
+"C. Pasquato (33, Trento, Serie C 22-23)",82.4900003636836
+"Andreas Pereira (27, Fulham, Premier League 22-23)",82.45725007841838
+"Agüero (27, Alcoyano, Primera División RFEF 22-23)",82.44751085704003
+"M. Pinnock (28, Northampton Town, League Two 22-23)",82.02967724208678
+"O. Velanas (24, NAC Breda, Eerste Divisie 22-23)",81.8755715866157
+"Higor Vidal (26, Persebaya Surabaya, BRI Liga 1 22-23)",81.62142378714225
+"N. Chilvers (22, Colchester United, League Two 22-23)",81.48443558990745
+"Ł. Janoszka (36, Ruch Chorzów, Polish I Liga 22-23)",81.42784312179865
+"U. Nikolić (29, Vojvodina, Serbian SuperLiga 22-23)",81.12967450356466
+"D. Illés (29, Mosonmagyaróvári TE, NB II 22-23)",81.10839512109229
+"K. Barlow (19, Sligo Rovers, League of Ireland PL 2023)",81.01555970895589
+"N. Galazzi (22, Brescia, Serie B 22-23)",80.61493764778496
+"A. Roman (29, CSMS Iaşi, Romanian Liga II 22-23)",80.29311345123892
+"A. Guseynov (23, Turan-T, Premyer Liqa 22-23)",80.05657852171245
+"P. De Blasis (35, Cartagena, La Liga 2 22-23)",79.97612732833245
+"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)",79.7244217324739
+"T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",79.5636094012265

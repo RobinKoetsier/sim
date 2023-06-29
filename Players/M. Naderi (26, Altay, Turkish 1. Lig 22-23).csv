@@ -1,210 +1,26 @@
-Player 1,Player 2,Similarity
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","G. Kaya (27, Pendikspor, Turkish 1. Lig 22-23)",-28.66878515692574
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)",-20.710007159276188
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Uçar (31, Eyüpspor, Turkish 1. Lig 22-23)",2.213635188719149
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Pala (22, Rizespor, Turkish 1. Lig 22-23)",27.91629712485278
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)",49.90421872586283
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","A. Şengül (24, Bandırmaspor, Turkish 1. Lig 22-23)",11.779516316487232
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)",28.353838258005958
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","S. Gönül (25, Samsunspor, Turkish 1. Lig 22-23)",43.71016072786086
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","A. Koç (26, Rizespor, Turkish 1. Lig 22-23)",9.624324068864064
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","E. Özgenc (38, Pendikspor, Turkish 1. Lig 22-23)",-46.13105643269233
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","C. Cavlan (31, Bandırmaspor, Turkish 1. Lig 22-23)",-6.910816048777265
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)",1.688949294105089
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",51.01241517118689
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",-1.273728392061484
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",45.35710384428242
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",-22.624964239727905
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",33.19153258123032
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",40.07010319867826
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",14.78094673513482
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",4.312818590007271
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",-28.216887754783997
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",-0.4894584216946425
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",25.53546376544987
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",29.32285837620786
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",62.05336140839588
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",-0.4306800044430781
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",9.563354561944015
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",63.43802014021603
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",20.050287498307835
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",24.8883526540171
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",7.284055943063976
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",26.42485485346709
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",34.29934532241014
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",48.01480898830143
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",32.94819582348501
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",-0.2908538995494966
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",-3.019223554341024
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",0.3120799155498795
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",30.147591148120167
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",-13.644794667866748
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",23.31736697540301
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",-11.735344538143597
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",-25.25689858989827
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",-9.408654264509671
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",25.225408436281384
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",3.956667746630746
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",38.79087302721744
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",-18.051205883941364
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",20.22261881921156
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",19.44324447332107
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",6.664221069834602
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",13.602418502431574
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",-14.932081624545726
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",19.282849019206463
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",-18.14978959070917
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",7.269215144437538
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",-21.111027266541072
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",0.1702012943408984
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",0.3951316579364139
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",42.01663412012535
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",-10.59806577168133
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",2.3159796431300577
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",0.0244040576375541
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",-14.922728551866394
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",18.27354194344837
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",48.65140336714174
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",-16.51192982681132
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",14.283041625822989
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",7.290338554731868
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",8.894093322480133
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",18.668306698580757
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",49.89277718943946
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",63.71212974175865
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",32.391935107161714
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",-15.513089610696316
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",28.103961978476796
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",15.350443849288157
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",23.85951735814206
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",21.384733377262457
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",32.74980958660944
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",3.845691499795092
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",1.3959833377810182
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",-0.7198332693997209
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",-9.132814112049733
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",12.91251671252121
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",21.00369091044274
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",-11.214784650749316
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",4.567100289310274
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",8.978326493687074
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",34.86340109989193
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",26.520010341265422
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",43.57948780306209
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",39.05585973617208
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",18.186444342161625
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",5.29764527245256
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-18.79900571335403
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",57.420385161394506
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",40.042416100950966
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",35.02423006916347
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",-14.28469297287362
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",-11.926358757783728
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-31.987266860747425
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",-34.37155872712079
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",23.01602266243065
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",7.5908027860428895
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",54.65258118750532
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",11.118211336770887
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",-13.06976699563839
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",6.28377407387336
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",5.644768328312517
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",-9.545352792803536
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-23.96930645592898
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",33.8082464744315
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-5.519353421890703
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",9.552930374553588
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-3.966312056370585
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",17.969480163282082
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",10.498832756433403
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",26.985954576900077
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",19.345905780407456
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",1.4952337947925312
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",4.142689386844349
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",30.7279220743481
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",40.11437199371775
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",33.78046895180388
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",32.957557333012005
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",47.61261309427504
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",-16.120348040482302
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",63.34342923895092
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",15.378834719629667
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",7.865650768852232
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",5.357449811233626
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",25.824867666660214
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",3.045220707713671
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",9.281193580447429
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",39.52048621257944
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",6.731575290139884
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",-10.403238835127546
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",-18.62162918134868
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",14.027688102728868
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",17.645913303645788
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",44.26289431635367
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",35.08540499184453
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",49.204996995542
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",-9.416015376055585
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",37.219582671575566
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",-21.949402787438405
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",-19.196451399603266
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",10.355851463286612
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",8.807503614682396
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",20.75300780367336
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",8.020526740434244
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",-24.266387109166114
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",-2.259742471593521
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",49.57307009645992
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",-13.555764729573315
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",21.45045563665109
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",-34.816318408646644
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",30.819474056375352
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",23.83803577978149
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",24.919899439767946
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",10.042321595356238
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",59.41561258818776
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",16.560485936781607
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",31.518935765024725
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",-2.619480139627365
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",-10.856215750762566
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",20.991405389908238
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",-33.410213934160936
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",6.558836067909805
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",-11.01429876642916
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",-30.52822149876424
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",-18.794536175788917
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",13.388459190047522
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",-27.910478676143494
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",20.10773355438324
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",14.998929643382857
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",-16.101743740454726
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",-40.40957868001979
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",4.267110599563496
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",-25.92969613909127
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",17.145098852095757
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",4.661190099223251
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",18.062154313832004
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",34.95994704884784
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",43.41413152450335
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",35.94294802991169
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",-2.371090168400765
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",40.820175324471705
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",82.32491720560579
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",7.558494647093228
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",45.25739888428368
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","P. Mareš (32, RFS, Virsliga 2023)",-22.09646712448193
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-3.833563950898664
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",17.777222637439625
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",-0.9509782434435672
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",18.214942009923927
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",-23.27353159708316
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",60.21557604301878
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",31.961861174389
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",-20.560878155639823
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",18.363243637202217
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",17.332586643035093
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",15.369523387722058
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",-14.339128572512202
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",36.01079116867026
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",-19.7450954030288
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",45.521383489185766
-"M. Naderi (26, Altay, Turkish 1. Lig 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",4.477951792022509
+Player,Similarity
+"A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",82.32491720560579
+"H. Mendes (25, Almería, La Liga 22-23)",78.4254990722786
+"Iván Tato (25, Sant Julià, Andorra Primera Divisió 22-23)",77.49171531616088
+"M. Stylianou (29, Doxa, Cyprus 1. Division 22-23)",76.93722992787262
+"N. Tenaglia (27, Deportivo Alavés, La Liga 2 22-23)",76.71090456045683
+"Loren Fernández (24, Real Balompédica Linense, Primera División RFEF 22-23)",74.7597544875948
+"A. Kazeem (21, Colchester United, League Two 22-23)",74.40893333057093
+"A. Di Renzo (22, Monterosi, Serie C 22-23)",74.38606151307421
+"Bader Nasser (21, Al Batin, Saudi Professional League 22-23)",73.79104054555702
+"M. Stijepović (23, Jezero, Montenegro First League 22-23)",72.45704852336216
+"Felipe Alfonso (30, Mérida AD, Primera División RFEF 22-23)",72.35302187373063
+"A. Koiki (23, Northampton Town, League Two 22-23)",72.29468141806335
+"N. Kölle (23, MSV Duisburg, 3. Liga 22-23)",72.27464781060307
+"T. Shige (30, Oita Trinita, J2 2023)",71.96631668587574
+"D. Semeniv (24, OFK Pirin, Bulgarian First League 22-23)",71.5153784256451
+"F. Boshkovski (22, Pelister, North Macedonia First League 22-23)",71.36436091244896
+"J. Dempsey (18, UCD, League of Ireland PL 2023)",70.1007654884098
+"E. Ceballos (22, Árabe Unido, Panama LPF 2023)",70.03970999203266
+"B. Norton-Cuffy (19, Coventry City, Championship 22-23)",69.76991228207471
+"K. Kállai (21, Mezőkövesd-Zsóry, NB I 22-23)",69.66053855143227
+"C. Inga (21, ADT, Peruvian Liga 1 2023)",69.218134195086
+"E. Laird (21, Queens Park Rangers, Championship 22-23)",69.09421866375601
+"G. Nedelea (22, Oţelul, Romanian Liga II 22-23)",69.03020657779432
+"N. Patterson (21, Everton, Premier League 22-23)",68.8410930942868
+"Binu Bairam (22, Santa Lucia, Malta Premier League 22-23)",68.75752566512976

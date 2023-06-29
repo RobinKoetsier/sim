@@ -1,27 +1,26 @@
-Player 1,Player 2,Similarity
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","F. Noccioli (23, San Donato Tavarnelle, Serie C 22-23)",66.50222476229776
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","Bruno Mota (27, Cheonan City, K League 2 2023)",91.91242077148743
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)",64.63113793972853
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","I. Ugbo (24, Troyes, Ligue 1 22-23)",63.78914827290891
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","K. Kouassi (19, Sutton United, League Two 22-23)",81.51964436821135
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)",82.52707203115341
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","C. Monschein (30, Ried, Austrian Bundesliga 22-23)",63.20470630587736
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","A. Sitalo (33, Inhulets, Ukrainian Premier Liha 22-23)",86.45524239841349
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","A. Williams (36, Walsall, League Two 22-23)",84.86339548631672
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","R. Nemoto (23, Tochigi, J2 2023)",80.62865932376346
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","A. Yakubu (24, Rio Ave, Primeira Liga 22-23)",71.15571042287033
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)",83.63876940454568
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","G. Cooper (25, Chindia Târgovişte, SuperLiga României 22-23)",73.8346346348052
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","Antoñín Cortés (23, Anorthosis, Cyprus 1. Division 22-23)",60.01644287284561
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","G. Leyes (33, Academia Cantolao, Peruvian Liga 1 2023)",83.88989658915892
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","D. Hylton (34, Northampton Town, League Two 22-23)",65.32061017839183
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","F. Bohman (26, Trelleborg, Superettan 2023)",67.76770755810513
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","K. Connell (21, Raith Rovers, Scottish Championship 22-23)",64.9931236035703
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","J. Zuñiga (29, Xinabajul, Guatemala Liga Nacional 22-23)",58.83325649543738
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","T. Hopper (29, Colchester United, League Two 22-23)",84.58589574951218
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","M. Egho (29, Randers, Superliga 22-23)",81.65726813684381
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","M. Hornyák (29, Csákvári TK, NB II 22-23)",69.55495827836806
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","M. van Duinen (31, Excelsior, Eredivisie 22-23)",79.0122051444463
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","L. Bekui (28, Al Sahel, Saudi First Division 22-23)",68.2972623111152
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","Vitor (25, Najran, Saudi First Division 22-23)",67.4791483954593
-"M. Đurić (33, Hellas Verona, Serie A 22-23)","M. Jurina (29, Al Faisaly, Saudi First Division 22-23)",68.55857075098535
+Player,Similarity
+"T. Hopper (29, Lincoln City, League One 22-23)",93.0472546998049
+"Bruno Mota (27, Cheonan City, K League 2 2023)",91.91242077148743
+"N. Komazec (35, Sloboda Tuzla, Bosnian Premier League 22-23)",91.09009038810652
+"J. Barrales (36, Asteras Tripolis, Greek Super League 22-23)",90.55799063912944
+"K. Appiah (32, Colchester United, League Two 22-23)",90.5305379259301
+"M. Smith (33, Salford City, League Two 22-23)",89.14015182606805
+"Manu Barreiro (36, Lugo, La Liga 2 22-23)",88.9922274249596
+"R. Taylor (35, Grimsby Town, League Two 22-23)",88.76973149990474
+"K. Podliński (25, Górnik Łęczna, Polish I Liga 22-23)",88.58107435894576
+"J. White (31, Ross County, Scottish Premiership 22-23)",88.1994789747733
+"C. Doidge (30, Kilmarnock, Scottish Premiership 22-23)",87.67264774914067
+"V. Muriqi (29, Mallorca, La Liga 22-23)",87.63457948092946
+"Toni Gabarre (33, San Fernando, Primera División RFEF 22-23)",87.50171541053349
+"K. Renton (32, Cowdenbeath, Scottish League Two 22-23)",87.44533359554516
+"Y. Minagawa (31, Renofa Yamaguchi, J2 2023)",87.27363053640485
+"G. Cirjan (34, Oţelul, Romanian Liga II 22-23)",87.01018443000497
+"J. Magennis (32, Wigan Athletic, Championship 22-23)",86.90116665821203
+"R. Bowman (31, Shrewsbury Town, League One 22-23)",86.88294709316192
+"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)",86.57893178416852
+"A. Sitalo (33, Inhulets, Ukrainian Premier Liha 22-23)",86.45524239841349
+"Oufa (26, ENPPI, Egyptian Premier League 22-23)",86.41868512853901
+"E. Marzierli (29, San Donato Tavarnelle, Serie C 22-23)",86.24284339147336
+"K. Laukžemis (31, Banga, Lithuanian A Lyga 2023)",86.02953661037871
+"B. Matić (31, Napredak Kruševac, Serbian SuperLiga 22-23)",86.02268024077304
+"G. Blanco Leschuk (31, Eibar, La Liga 2 22-23)",85.99632782131764

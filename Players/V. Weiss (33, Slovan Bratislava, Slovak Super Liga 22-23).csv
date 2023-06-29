@@ -1,128 +1,26 @@
-Player 1,Player 2,Similarity
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",70.87019465403077
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",73.51646360153296
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",28.23451149264506
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",-16.72194901347329
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",34.75461151421957
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",63.21717325891705
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",53.694198659375424
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",62.35928732671461
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",70.52637866037146
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",61.86747687828643
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",47.89824649935417
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",51.15863683624452
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",2.80471711119144
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",-0.3465797883869296
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",29.917620293919985
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",47.88139826884631
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",30.62609900269576
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",7.587618548997474
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",21.6662344596974
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-21.29202583502343
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-10.736257965109727
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",62.74686376316105
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",55.19635207620782
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",74.38078111362677
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",1.5683428211591153
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","I. Jebali (31, OB, Superliga 22-23)",76.23326792578281
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",21.87200021046773
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",24.97256630729121
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",46.52806842768937
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",71.66150820950797
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",82.88610619496104
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",73.46352389799416
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",61.89439555021874
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",68.76940092589327
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",43.86474804985524
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",21.74960824041551
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",55.43738966566573
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",67.4293187418349
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",62.77814021202516
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",-0.8454089417269051
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",76.33482484693197
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",36.10267583847963
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",61.20271715484865
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",51.88797397711008
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",51.564875191125424
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",76.70409902227951
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",59.522745326728014
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",35.18806289430346
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",66.30140916593967
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",43.4172810783111
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",68.34423876938064
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",55.27186228373077
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",29.201859891012194
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",15.984730107328971
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",24.50057815486561
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",81.81328212805647
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",71.2383603760833
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",55.68330656002571
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",24.175309498631623
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",49.76832007537087
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",57.12132444427762
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",60.97534485159829
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",64.51153341681719
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",72.1361357165916
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",54.212326547221735
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",-23.24999817511731
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",54.809899430769285
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",75.96068117016475
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",71.32198514017193
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",78.56377898701166
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",49.565671830929
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",55.162821563037504
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",72.5571942982277
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",69.15449983184351
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",49.398836231538574
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",56.69788500768941
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",-24.611750443225297
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",51.62336098565565
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",43.39722052000193
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-52.83184986942817
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",0.0920251048492474
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",29.11968958266032
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",65.81400859592301
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",71.05483883463367
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",7.525243086959546
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",35.48127730369296
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",28.77181841693516
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",58.64268121226306
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",52.45807914956531
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-27.848529503661982
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",21.08643559372309
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",10.101099548567555
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",54.31845643754137
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-39.561343037592266
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",-15.8804119795506
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",66.66233583267466
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-37.81935299678907
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",32.86937000106869
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",30.422779030155397
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",74.95828953240769
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",21.77599290941084
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",58.44924387049439
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",87.78052739073227
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",17.354554239451282
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",42.42849349388374
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-9.521324281139291
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",52.551788319178186
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",59.43259389177263
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",16.162690682981932
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",44.1780052117134
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",67.27970416289457
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",58.235757955433066
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",61.5791750340412
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",35.80704336163325
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",3.208544297686902
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",21.464374182545583
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-24.67001669691052
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",19.35007055833737
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",59.39376923266637
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",48.32055939230669
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",53.559663959308736
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",77.16070845846043
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",71.31303563724396
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",81.91779083959405
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",38.34225427790168
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",62.55290162906609
-"V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",75.3793425352334
+Player,Similarity
+"F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",87.78052739073227
+"O. Tannane (29, NEC, Eredivisie 22-23)",86.9047133565053
+"Álex Arias (33, CD Calahorra, Primera División RFEF 22-23)",86.32400335680056
+"A. Messidoro (25, Persis Solo, BRI Liga 1 22-23)",85.53897741363149
+"L. Zelarayán (30, Columbus Crew, MLS 2023)",85.32753317941045
+"F. Sambueza (34, Santa Fe, Colombian Primera Division 22-23)",85.18626840500828
+"B. Cohen (22, Beitar Jerusalem, Ligat Ha'al 22-23)",84.78998224993383
+"An. Miranchuk (27, Lokomotiv Moskva, Russian Premier League 22-23)",84.75604375860338
+"A. Arena (22, Gubbio, Serie C 22-23)",84.49279348556794
+"A. Torres (23, Balzan, Malta Premier League 22-23)",84.25121922420091
+"Y. Kikui (23, Matsumoto Yamaga, J3 2023)",84.19727973470748
+"L. Fernández (24, Toluca, Liga MX 22-23)",84.1194534164936
+"R. Cabella (33, Lille, Ligue 1 22-23)",84.06663912752485
+"Bashar Rasan (26, Qatar SC, Qatari Stars League 22-23)",83.89154782538098
+"Renan Silva (34, Persik Kediri, BRI Liga 1 22-23)",83.60185180910771
+"A. Fábry (26, Skalica, Slovak Super Liga 22-23)",83.52833891127193
+"K. Velasco (26, Deportivo Cali, Colombian Primera Division 22-23)",83.4801719184149
+"Kady (27, Qarabag, Premyer Liqa 22-23)",82.98728757947505
+"J. Bustos (28, Borneo FC, BRI Liga 1 22-23)",82.9788001983553
+"I. Chair (25, Queens Park Rangers, Championship 22-23)",82.95588292840331
+"Sergio Moyita (30, Alcoyano, Primera División RFEF 22-23)",82.95384219667918
+"C. Matei (31, Sepsi, SuperLiga României 22-23)",82.88610619496104
+"V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",82.85305551567157
+"M. Mier (32, Bhayangkara F.C., BRI Liga 1 22-23)",82.82833233973
+"K. Stojkoski (31, Rabotnički, North Macedonia First League 22-23)",82.56162579902468

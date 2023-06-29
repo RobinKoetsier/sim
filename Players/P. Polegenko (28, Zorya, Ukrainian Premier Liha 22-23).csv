@@ -1,84 +1,26 @@
-Player 1,Player 2,Similarity
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",42.09677386806334
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",33.143405394396844
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",42.52192378262584
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",61.639889082335685
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",46.33827943991529
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",40.044010469947466
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",5.891762332850215
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",46.09546107688986
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",34.02173799199863
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",38.90644682493033
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",1.5590381264377031
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",52.36663843052406
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",19.553226542841227
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",32.182596653014464
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",33.18396432739756
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",7.834976060574069
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",33.04302598660004
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",9.885265753502694
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",35.36174421263567
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",33.070210872659175
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",7.09302215282695
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",28.35441656449004
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",15.172550510943005
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",8.327408726737804
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",41.26298606862672
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",37.75653959492796
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",23.457206994007212
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",34.75473855721419
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",48.31896227790531
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",41.01778464909318
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",60.631361731112335
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",11.111087114057296
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",26.02088199714389
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",60.816977373369326
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",-4.306977911367585
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",71.58755003933818
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",11.756368171357654
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",42.46963358228143
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",55.55748516280951
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",46.33146362558367
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",57.54414114118565
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",16.959184345540482
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",18.736750785026924
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",58.4546436166559
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",14.88747595862682
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",29.809819901449448
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",45.88995758818996
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",33.88531421194983
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",14.031264097047677
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",56.987806084067735
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",36.9776372682406
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",-9.55429368986644
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",25.24224799126405
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",35.11900525063853
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",-7.755938457478255
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",31.12534407710332
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",50.71460598528077
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",45.74994702272278
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",29.118629419573505
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",29.60093505981523
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",38.81707376316189
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",39.1876734414008
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",21.888876295514105
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",37.38334817076674
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",12.434785970533712
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",10.578556179894964
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","P. Mareš (32, RFS, Virsliga 2023)",48.43780368874848
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",46.96302358493942
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",36.58787336170548
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",35.441603441647395
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",8.062260004065909
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",29.77853820986135
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",12.327930147366652
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",31.80768691566133
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",24.91766635762245
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",24.385789551083693
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",44.37039113844766
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",25.26222676579734
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",20.29448896234954
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",54.05342946129959
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",57.75387475376997
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",-11.07830205720908
-"P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",43.42741641723329
+Player,Similarity
+"M. Anzolin (22, Wolfsberger AC, Austrian Bundesliga 22-23)",81.61610001662042
+"Saúl García (28, Racing Santander, La Liga 2 22-23)",77.85724898336825
+"Yeon-Wang Kim (29, Nowon United, K4 League 2023)",77.29224410738156
+"E. Más (34, Estudiantes, Argentinian Primera División 2023)",77.21584026051644
+"Mohamed Reda (31, Haras El Hodood, Egyptian Premier League 22-23)",77.03886011086082
+"D. Maftei (18, Unirea Dej, Romanian Liga II 22-23)",74.23570735419618
+"Jorge Valín (23, Numancia, Primera División RFEF 22-23)",74.14517517420413
+"M. Morello (28, Van, Armenian Premier League 22-23)",74.02419507397788
+"J. Ngwem (31, Future, Egyptian Premier League 22-23)",73.58784871235588
+"Abdullah Al Ammar (29, Dhamk, Saudi Professional League 22-23)",73.41986153148
+"G. Rojas (25, Querétaro, Liga MX 22-23)",73.3092115835497
+"Moi Delgado (29, Ponferradina, La Liga 2 22-23)",73.2795891386419
+"G. Nicolao (29, Gubbio, Serie C 22-23)",73.10638440511683
+"J. Bidwell (30, Coventry City, Championship 22-23)",72.88275803923159
+"Ignasi Vilarrasa (23, Huesca, La Liga 2 22-23)",72.82381580114344
+"A. Dagarchaoui (0, Al Ain, Saudi First Division 22-23)",72.78240124691972
+"E. Silye (26, Vasas, NB I 22-23)",71.93762870197854
+"S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",71.58755003933818
+"T. Čelůstka (31, Karmiotissa, Cyprus 1. Division 22-23)",71.32249430875255
+"D. Inazumi (26, Vanraure Hachinohe, J3 2023)",71.29684435217798
+"B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)",71.19111181844633
+"M. Schjonning-Larsen (22, Levadia, Estonian Meistriliiga 2023)",71.10708622922324
+"Y. Takagi (25, Fagiano Okayama, J2 2023)",71.07431991537294
+"David Morillas (36, Alcorcón, Primera División RFEF 22-23)",70.8868214188626
+"Ş. Vlădoiu (24, Universitatea Craiova, SuperLiga României 22-23)",70.72929664810921

@@ -1,138 +1,26 @@
-Player 1,Player 2,Similarity
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",34.8311587592772
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",43.58646500619199
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",21.558046439574003
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",9.464217653489031
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",36.46698675529228
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",18.51942093947568
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",37.23458070371305
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",19.433869360841857
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",7.724220529004816
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-14.24441962420512
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",-10.79942979326606
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",-25.051781201394352
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",7.134694093239055
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",30.815193950355287
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",-8.597385885097147
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",-2.436585919618578
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",5.915128968793792
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",41.34686285770369
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",34.44534148862374
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",35.22012218850156
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",41.94554254188755
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",23.74381765059244
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",29.294973381709585
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-18.012882962144865
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",28.91439802530615
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",24.8334905940261
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",26.37249094353684
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",9.526961688084096
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",-15.4332940499014
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-21.76858042085925
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",-9.493094100438322
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",38.4086490180412
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",15.002900360828836
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",48.50573910719896
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",10.627741026505086
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",8.511472532892801
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",10.581508872405244
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-1.2219153822248858
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",-25.4686321285646
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-16.20286875548666
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",34.28815743868252
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-7.685212081292511
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",15.451431258864268
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-11.63749478285274
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",-10.445484595758662
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",9.99117754513916
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",20.640402190679563
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",11.344017282920747
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",24.762795165117037
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",13.133433292498006
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",29.33273031049536
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",45.46250956400338
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",5.77892903308069
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",31.18640368243656
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",53.604584952914976
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",-30.589168980588195
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",46.72036910559224
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",22.155170146192297
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",17.44107341185727
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",-13.979633705666553
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",15.818767940622442
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",-14.089019830649155
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",-16.888751524312035
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",48.88181922003902
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",21.118833279986227
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",4.486026402796671
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",-34.87068554663515
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",-6.279273407729235
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",17.275364112721086
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",21.93380537206309
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",20.150974941378596
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",20.6814253810831
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",17.873829204954184
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",31.01382923036004
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",0.7522134202535575
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",22.25239947660644
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",-11.579154313494044
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",-4.681255154603408
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",-1.4000292346589327
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",31.37855587711602
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",-2.499926458338733
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",28.63370558152443
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",38.54637626545891
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",-4.596262904956988
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",33.76343679013197
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",16.880586501721965
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",12.514821725457564
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",9.51435375313591
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",39.86209653096204
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",2.703303777103073
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",49.47959143023476
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",-15.65084532150101
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",10.91472177785189
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",-6.499980342515778
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",0.366440874304028
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",-5.411568942988952
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",-3.3313998523240365
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",18.811869324551417
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",-21.56005888103836
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",-9.62999677046406
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",-3.3368060948629723
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",31.94393729545797
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",11.50051147479638
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",22.210916178302597
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",-1.5748597928861183
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",-7.771626036339442
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",-33.95202636740677
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",31.12356217768105
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",-27.714062656230052
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",-6.690654175752028
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",-10.646319743981085
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",18.20183039535721
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",33.11680045031767
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",28.80394660056456
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",8.927014879126576
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",-19.131336054361338
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",9.177411325487236
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",40.17610949275381
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",-23.356410873309898
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",30.551483808645504
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","P. Mareš (32, RFS, Virsliga 2023)",-22.375517018737693
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-16.718110423712464
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",14.179485621938278
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",-21.477319384779538
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",9.948765349597355
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",-18.55195188748233
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",44.30332052392946
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",21.215298235090845
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",22.260896800338276
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",19.47391013140457
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",-13.420334567933976
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",13.390312294826945
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",-14.17432012960996
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",29.012895001945463
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",-12.843152463594066
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",34.72607467225895
-"Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",29.51906744516012
+Player,Similarity
+"Abdulmajeed Al-Dossari (28, Najran, Saudi First Division 22-23)",84.60486703513364
+"Mohammed Abdulla Al-Ishaq (20, Al Ahli, Qatari Stars League 22-23)",79.61278368400315
+"U. García (22, Atlético de San Luis, Liga MX 22-23)",70.610750880841
+"I. Urata (26, Varaždin, 1. HNL 22-23)",69.90462670488944
+"R. Trif (25, Mioveni, SuperLiga României 22-23)",69.68563450264199
+"U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",69.49548074460338
+"Mohammed Ali Al Shanqiti (24, Al Jabalain, Saudi First Division 22-23)",69.42642623314306
+"A. Onda (22, Gelbison, Serie C 22-23)",68.84948422592386
+"Jefferson Encada (25, Pharco, Egyptian Premier League 22-23)",68.22543305743929
+"Chumi (24, Almería, La Liga 22-23)",68.20917012950154
+"H. Toffolo (27, Nottingham Forest, Premier League 22-23)",68.03498560461227
+"G. Nedelea (22, Oţelul, Romanian Liga II 22-23)",67.72593004997866
+"C. Inga (21, ADT, Peruvian Liga 1 2023)",67.4717107710624
+"Z. Drouich (22, Chabab Mohammédia, Botola Pro 22-23)",67.38079752511338
+"J. Honohan (22, Cork City, League of Ireland PL 2023)",66.99030802965328
+"M. Kałahur (23, Resovia Rzeszów, Polish I Liga 22-23)",66.9108472682397
+"César Rodríguez (29, Sant Julià, Andorra Primera Divisió 22-23)",66.86996313183336
+"K. Ngwenya (20, Raith Rovers, Scottish Championship 22-23)",66.3590118765433
+"Abdulla Mahmoud Mahmoud (21, Al Sailiya, Qatari Stars League 22-23)",66.21617477816476
+"Y. Nagatomo (36, Tokyo, J1 2023)",66.20912874649278
+"Rafa Navarro (29, UD Sanse, Primera División RFEF 22-23)",66.13781496797736
+"O. Berber (31, İstanbulspor, Süper Lig 22-23)",65.77210511845296
+"T. Schumacher (25, Austria Klagenfurt, Austrian Bundesliga 22-23)",65.48577417966011
+"Mohamed El Maghraby (22, Smouha, Egyptian Premier League 22-23)",65.2971167268275
+"S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)",64.92318635298045

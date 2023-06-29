@@ -1,177 +1,26 @@
-Player 1,Player 2,Similarity
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",18.08407202936005
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",69.18750267988668
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",61.17234860668496
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",39.98672629195582
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",-3.5824270761604167
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",56.76857803982549
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",-32.03088945927314
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",12.532406387025103
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",-4.422769067006245
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",34.3502754543554
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",55.00951458327104
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",40.33080394595686
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",-0.6491638991860659
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",0.6139057054926704
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",55.07551821955106
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",-7.375649067574182
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",60.15065773956712
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",39.08581474810758
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",32.501820734776054
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",11.353286816686904
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",-6.237333788858892
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",37.04674580803043
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",29.90480122023309
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",-23.13881191994373
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",6.978624179170634
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",39.54315997095102
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",31.458512842339097
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",-9.314300916049952
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",44.476144115239904
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",-21.32565884426196
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",2.854127932847002
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",29.63114480961953
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",22.113391837898018
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",-2.16078617397593
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",64.26311728596778
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",-22.306322085903638
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",33.902870017301865
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",73.96481956488637
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",18.39406851070626
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",14.741343442845862
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",24.40888809500756
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",-34.156396630190414
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",61.92897396999506
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",-31.859060214682973
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",23.38924249042404
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",30.3696399837781
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",3.96525453106839
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",45.93892563650648
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-23.29200232981507
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",37.92310422774395
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",9.508990441764409
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",40.96205409419228
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",6.726927937903193
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",-2.2208330761556896
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",46.09882792692025
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",26.402851702829967
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",52.12559434978926
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",39.56736448739235
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",23.984292300120167
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",23.495963539013367
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",29.433736816210203
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-11.84384840832006
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-14.764374103934236
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",45.44912236389183
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",40.09156772649676
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",19.19077130670992
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",-40.29737918485812
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",52.2463886476497
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",38.82668816309792
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",-4.818492568495319
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",-9.454115639960325
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",16.57370904276793
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",21.407089582715464
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",44.11761643631296
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",16.821151381822038
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",-11.08021973390793
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",12.278092784330358
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",45.81190401973672
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",41.37237752893216
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",57.88824884253434
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",49.57263197224138
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",60.075766920619
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",46.02924857680995
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",20.108283992930456
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",59.2326196097169
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",23.693595318503032
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",58.39356264495064
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",48.73432069330465
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",5.508512699926023
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",52.38958267334483
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-8.808666895078119
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",29.05262135600706
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",50.1911467527396
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",60.39638558484335
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",42.50566029281694
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",37.5116255771587
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",55.65304353046744
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",21.84081110344364
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",54.353315063966775
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",8.828551921976779
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",45.8381761132825
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",39.11885466198341
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",30.86091726694798
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",-3.826640241517496
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",28.235303449442707
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",31.584054245326243
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",49.202543554866814
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",36.55191857997016
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",26.043835504880057
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",30.506067368582745
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",21.7987695216412
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",13.02213959847632
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",23.266104048636365
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",11.060848029152138
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",-6.749295267009205
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",-5.697437882151089
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",48.94751915878224
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",56.345441128352334
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",52.81624397923476
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",13.68675298951226
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",3.442664397457719
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",31.12848646560836
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",27.435769468383885
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",63.113475126871954
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",-43.5034618310804
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",10.731269485622288
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",57.74429160046268
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",-20.52662314343053
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",51.066906454068686
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",16.445991459097307
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",47.21728659608353
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",42.33292154540425
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",23.343724067760675
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",53.59798201154409
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",24.564514659201407
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",23.300933853456677
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",40.491781057629
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",8.817094283207611
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",-3.47329485931164
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",32.12470521891519
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",-32.43639567720287
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",-10.810502287736206
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",40.842465223276
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",23.083246249195533
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",8.867652430074418
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",23.109808728663435
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",-30.475943353153795
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",0.1091718928165916
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",24.140202151384333
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",49.027201696021855
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",50.30536319984048
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",39.79828437039947
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",28.844534486199088
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",27.44307636777584
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",61.97641652232991
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",2.9545101881279003
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",49.36036321316951
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",39.86807348560496
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",31.80779974416187
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","P. Mareš (32, RFS, Virsliga 2023)",54.99928949857665
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",34.41595842022181
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",37.95455832808557
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",48.29935102362648
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",38.564015821069546
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",10.192416915664666
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",2.659016028791632
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",10.68393997703259
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",24.36508450465454
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",15.98540243010618
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",48.71653853660353
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",38.01557240337496
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",25.35022881131323
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",44.852346795867824
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",57.14018395738079
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",29.05215256837521
-"E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",7.13034440312081
+Player,Similarity
+"J. Flak (21, SKRA Częstochowa, Polish I Liga 22-23)",81.80581031780973
+"R. Jackson (32, Cheltenham Town, League One 22-23)",80.03310381422094
+"K. Knoyle (26, Stockport County, League Two 22-23)",79.77535085357142
+"J. Shipley (25, Shrewsbury Town, League One 22-23)",79.00407614422676
+"A. Tentardini (26, Catanzaro, Serie C 22-23)",78.71450533962769
+"J. Graham (28, Birmingham City, Championship 22-23)",78.19241805861866
+"S. Obonde (22, Lernayin Artsakh, Armenian Premier League 22-23)",78.03824995595848
+"O. Darwish (24, Bnei Sakhnin, Ligat Ha'al 22-23)",77.78436135164017
+"Lucas Rosa (23, Real Valladolid, La Liga 22-23)",77.75372969738574
+"Ł. Moneta (29, Ruch Chorzów, Polish I Liga 22-23)",77.23799851676694
+"R. Rydel (22, Stockport County, League Two 22-23)",76.55979337264222
+"A. Gilyazetdinov (28, Volgar Astrakhan, Russian FNL 2 22-23)",76.29759955263066
+"K. Michalski (23, Ruch Chorzów, Polish I Liga 22-23)",76.16739416026472
+"S. Sjøkvist (24, Start, OBOS Ligaen 2023)",75.55865772093895
+"F. Moufi (27, Portimonense, Primeira Liga 22-23)",75.42623043160148
+"João Oliveira (24, Feirense, Portugal Segunda Liga 22-23)",75.24587196440297
+"M. Wasielewski (28, Katowice, Polish I Liga 22-23)",74.8970977998769
+"J. Meier (23, Dynamo Dresden, 3. Liga 22-23)",74.45605328433328
+"M. Benning (29, Port Vale, League One 22-23)",74.37814650081056
+"J. McClean (34, Wigan Athletic, Championship 22-23)",74.09319090443282
+"T. Tawatha (30, Bnei Sakhnin, Ligat Ha'al 22-23)",74.00315147141625
+"Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",73.96481956488637
+"G. Simenstad (24, Raufoss, OBOS Ligaen 2023)",73.94155249782185
+"Jójó (22, Belenenses, Portugal Segunda Liga 22-23)",73.92296301480415
+"M. Ballmert (29, Meppen, 3. Liga 22-23)",73.86679262663705

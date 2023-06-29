@@ -1,99 +1,26 @@
-Player 1,Player 2,Similarity
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",55.02799641530619
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",51.49476725454581
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",81.35020246468525
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",54.43679044726345
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",79.409705218802
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",35.851704446442504
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",56.07076889723628
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",2.9852766924692653
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",53.32332403873943
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",49.11360199945569
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",7.06559576930923
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",19.21699885219985
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-58.41199782160649
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",-3.843330598706304
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",43.3529589805309
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",8.464803067064363
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",60.7853502008624
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",-4.264387023507003
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",54.993638204200856
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",29.211097536894087
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",61.22093094048893
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",10.705208570077694
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",62.9336710518223
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",79.81295364206811
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",-3.859629113932298
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",-26.479837955345808
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",53.64469905338037
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",62.530478715724826
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",72.81268468350392
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",33.90914310430581
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",-2.517963078822748
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",-9.454950741890205
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",0.1123930822637375
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",38.86404354283389
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",-17.00813899221049
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",34.1200172307142
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",22.138375053107584
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",29.490148498561165
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",35.31200042319411
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",67.74823549172103
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",15.648985755201531
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",44.61518056996665
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",25.235910989189804
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",33.82785783097065
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",44.649228553452126
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",34.68761161998121
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",-10.813589475154496
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",15.371673899019653
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",63.12669325996323
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",-47.743509387629565
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",72.64941515991464
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",-34.855801892255386
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",80.98952532460054
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",47.9306395233219
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",70.23354943624712
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",80.60754144913157
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",20.203184513960203
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",31.754383019127197
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",21.606030677205226
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",45.76829268463617
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",53.33017228281452
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",69.5944159095235
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",-4.932199985523607
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",10.198747384547096
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",55.57949384289896
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",53.21424444313002
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",20.01632966308448
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",78.73045551372697
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",-1.5214626889115024
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",39.3814640304968
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",70.64178070494421
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",74.20681584593655
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",38.270994249591936
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",33.91839094768967
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",24.044246828707276
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",58.453265442559776
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",87.07474056253857
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",30.377492231385794
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",16.942202388801217
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",74.14847748995047
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",13.492859511069236
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","P. Mareš (32, RFS, Virsliga 2023)",81.23610536034892
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",54.08772872586896
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",42.66265447052143
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",82.64828574733323
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",-7.509426482592365
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",54.87629348202147
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",-14.005207210025688
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",14.073854903494018
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",11.106833580474094
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",9.893294804658016
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",82.12249011964981
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",47.50880244719365
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",43.2682075369474
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",29.599290264746088
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",78.97125552216549
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",-33.894966656628895
-"O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",24.147148565227035
+Player,Similarity
+"A. Terzić (23, Fiorentina, Serie A 22-23)",91.12701983168948
+"R.  Calcagni (28, Novara, Serie C 22-23)",90.97393868276578
+"T. Parisi (27, Piacenza, Serie C 22-23)",90.42922776890524
+"E. Dasa (30, Dinamo Moskva, Russian Premier League 22-23)",89.68735814178369
+"S. Medgyes (29, Diósgyőr, NB II 22-23)",89.63028488994382
+"D. Ulrich (25, Vaduz, Swiss Challenge League 22-23)",89.35050646343342
+"A. Candreva (36, Salernitana, Serie A 22-23)",89.30389911328072
+"Joel Pereira (26, Lech Poznań, Ekstraklasa 22-23)",89.28498764528227
+"E. Hakaj (26, Vllaznia Shkodër, Albanian Premier League 22-23)",89.18579762454334
+"Won-Jae Park (29, Dangjin Citizen, K4 League 2023)",89.09221389058109
+"N. Serdal (30, Hapoel Umm al-Fahm, Liga Leumit 22-23)",88.71791237593432
+"D. Zappella (25, Virtus Entella, Serie C 22-23)",88.33466559200772
+"J. Tutuarima (30, PEC Zwolle, Eerste Divisie 22-23)",87.94883067352487
+"G. Smal (25, Twente, Eredivisie 22-23)",87.94244565692863
+"Ricard Sánchez (23, Granada, La Liga 2 22-23)",87.70185499937602
+"T. Goppel (26, Wehen Wiesbaden, 3. Liga 22-23)",87.65717926063748
+"S. Zúñiga (26, Alajuelense, Costa Rica Primera División 22-23)",87.31074358432188
+"Min-Seo Park (22, Gyeongnam, K League 2 2023)",87.28017347072097
+"E. Andersson (27, Djurgården, Allsvenskan 2023)",87.13183930466958
+"J. Juroška (30, Baník Ostrava, Czech Fortuna Liga 22-23)",87.08804399657544
+"B. Cipetić (28, Lokomotiva Zagreb, 1. HNL 22-23)",87.08738047883134
+"A. Jaunzems (23, Valmiera FC, Virsliga 2023)",87.07474056253857
+"F. Zampano (29, Venezia, Serie B 22-23)",86.81811844875293
+"M. Tuychibaev (30, Alay, Kyrgyz Premier League 2023)",86.72467116443617
+"J. Tymon (23, Stoke City, Championship 22-23)",86.69601111353312

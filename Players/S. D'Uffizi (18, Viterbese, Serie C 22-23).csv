@@ -1,138 +1,26 @@
-Player 1,Player 2,Similarity
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",9.564671875786953
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",-0.1758604031734723
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",-3.814480873739543
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",3.3697463531053
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",34.50079395737536
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",17.061062448708803
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",9.637773381594476
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",5.435616519432194
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",33.259950751915675
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",5.435800303415549
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",0.9038608814111236
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",35.49307436377029
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",0.3866003981666221
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",18.411244591607986
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",-28.783499663229183
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",12.674349506442558
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",-1.24290614293998
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",-2.7738603191580453
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",8.183410461448576
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",-5.77320851529329
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",2.93338849859054
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",14.36770782899582
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",20.60331314215997
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",-16.035566348311526
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",28.594851684734884
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",10.019359423050576
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",11.636407987321054
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",-5.066146341628336
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",57.67017483773286
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",19.53926942910739
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",14.973818658512991
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",9.636340936198092
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",7.964230792864389
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",13.80889649784796
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",14.29719332729364
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","I. Jebali (31, OB, Superliga 22-23)",11.014057347353004
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",7.123759768184831
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",53.59529694715417
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",29.730219337325536
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",10.178652477612706
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",2.7305203630274573
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",-1.320512645966463
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",43.91923742605639
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",33.665776639256386
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",23.98753652657448
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",21.58947616458902
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",3.1779910876857103
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",13.75561718681428
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",10.931755637569507
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",43.783669415993465
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",6.1982311090919495
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",50.4085890725274
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",-0.8852998133579284
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",37.43425038332705
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",21.114270170324456
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",4.254049034796057
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",4.104504043815203
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",29.33143669300274
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",22.379354373695836
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",46.09359299837129
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",19.021721590360784
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",11.86569110398782
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",21.71283968338169
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",23.94828484968127
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",55.65656574507136
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",4.50272913629805
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",14.850151955750782
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",15.081301140106213
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",60.10460673278209
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",-3.0776588538539897
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",-6.666665882150931
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",-0.484852675188428
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",29.725926696776312
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",3.470967226336048
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",-10.845463145153742
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",23.658226916609653
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",19.664838132347292
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",0.5821823958451742
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",6.025268072779533
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",1.4656494324805802
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",1.9956558499788828
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",19.80881538822437
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",-8.962370329600962
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",-0.3579338724287778
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",-0.4322128375437675
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",6.148242701175962
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",-3.601812965998748
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",19.5592386142384
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",2.499475734933815
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",45.60692975009356
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",24.089567434694874
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",22.615604950968795
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",4.300055055924414
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",23.13010377427675
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",-27.259239877089264
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",-4.8976949781666725
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",23.5620509081561
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",14.800948346241045
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",20.99425060594498
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-15.9367310385879
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",3.1208202824811555
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",-17.276120292324325
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",-13.562949554690713
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",28.55182341377887
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",40.45808669066157
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",-10.64658129289151
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",11.11222508275304
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",35.63638203111632
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",28.394998371546954
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",-13.19141411579468
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",2.8812060232438736
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",11.541396864574567
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",13.053224658592349
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",37.34957336829651
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",-39.48958457678708
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",12.138014482415748
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",-16.526130063023228
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",11.952684245657156
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",-9.045324831459087
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",11.733541270579948
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",3.4238050029573386
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",7.262702168883356
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",14.045415354970617
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",4.877051595265868
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",4.056137682472902
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",47.28889614266313
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",47.40991654565093
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",23.013527458610543
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",21.027604146119675
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",38.53182837207152
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",-27.799218012779757
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",3.95895904510841
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",-7.618623787471525
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",0.3620317005494395
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",42.47659909683997
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",21.45617926669171
-"S. D'Uffizi (18, Viterbese, Serie C 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",2.236166107368219
+Player,Similarity
+"S. Subašić (22, Tuzla City, Bosnian Premier League 22-23)",74.71514839195882
+"D. Falcinelli (31, Modena, Serie B 22-23)",73.83177170859156
+"R. Sotiriou (22, Leyton Orient, League Two 22-23)",72.15294054451488
+"C. Watts (21, Morecambe, League One 22-23)",69.05841092006348
+"D. Camara (21, Parma, Serie B 22-23)",68.61145859845846
+"D. Hanslik (26, Kaiserslautern, 2. Bundesliga 22-23)",66.86402676516977
+"G. Dodoi (24, Viitorul P. Targu Jiu, Romanian Liga II 22-23)",66.02181988843134
+"L. Anderson (25, Carrick Rangers, Northern Ireland Premiership 22-23)",63.97115445224767
+"C. Attys (22, Trento, Serie C 22-23)",63.89155348506497
+"Đ. Ivanović (27, Čukarički, Serbian SuperLiga 22-23)",60.52501233671303
+"R. Broom (26, Cheltenham Town, League One 22-23)",60.32535173567596
+"D. Varešanović (22, Sarajevo, Bosnian Premier League 22-23)",60.13216089568816
+"Fredy (33, Antalyaspor, Süper Lig 22-23)",60.10460673278209
+"R. Kouda (20, Picerno, Serie C 22-23)",60.03071769808459
+"H. Knibbs (24, Cambridge United, League One 22-23)",59.79882954446054
+"D. Bakalov (34, Lokomotiv Sofia 1929, Bulgarian First League 22-23)",59.57433671104667
+"T. Pieńko (19, Zagłębie Lubin, Ekstraklasa 22-23)",59.49398792613033
+"M. Sitek (22, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",58.84612234290716
+"N. Abdokov (22, Kuban Krasnodar, Russian FNL 2 22-23)",58.60185644839482
+"F. D'Amico (22, Pro Sesto, Serie C 22-23)",58.38632668427484
+"Z. Machach (27, Ionikos, Greek Super League 22-23)",58.008836602429824
+"J. Rhodes (20, Cape Town, South Africa PSL 22-23)",57.67017483773286
+"Borja Díaz (32, Unionistas de Salamanca, Primera División RFEF 22-23)",57.61810105412075
+"S. Ingelsson (24, Hansa Rostock, 2. Bundesliga 22-23)",57.35971406491763
+"J. Lindstrøm (23, Eintracht Frankfurt, Bundesliga 22-23)",57.31420877430645

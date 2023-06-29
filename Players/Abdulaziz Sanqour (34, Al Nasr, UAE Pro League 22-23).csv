@@ -1,135 +1,26 @@
-Player 1,Player 2,Similarity
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",-23.00936283058851
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",55.68183354347891
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",12.348271346609124
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",27.73754603175835
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",11.341893035496474
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",13.822299519637596
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-11.166277278808026
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",21.670894395545417
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",4.269360421572304
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",4.71827996460116
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",43.90293605206835
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",21.279104573514857
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",-1.301787998536257
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",34.91970681592844
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",19.78215947576727
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",17.05627215410985
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",37.73009984204319
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",9.38376287451503
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",8.302667403907046
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",67.29777006340018
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",43.088574330450456
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",-18.42601119043581
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",1.0021156028234324
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",12.112410511526516
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",61.80751981140631
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",-16.894946033384507
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",2.156343730781161
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",55.96511581447502
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",30.59673536632694
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",28.95665749727993
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",21.04901335364407
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",4.395555424144736
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",28.53408521618511
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",57.08368812726656
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",21.366808436043726
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",-5.834145062966593
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",7.732239000124966
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-1.510819987663118
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-16.423716871825178
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",-15.692055016584533
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",2.194677636524452
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",-7.818786901748999
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",-20.532436426675385
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-16.414883793067073
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-54.239025938067165
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",5.086210833663593
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",44.895157608581584
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",15.59062401553017
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",11.313079849222746
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",-36.51569585020348
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",16.782403546539665
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",-22.12872346301305
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",-38.569344498875054
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",-12.55807575036154
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",19.509366277764823
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",64.97252842425168
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",-8.296002117038842
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",12.51094749209661
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",-17.16838437677284
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",-5.986967700512988
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",9.179077464626682
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",64.2797538445996
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",27.244684244937638
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",21.93232465661473
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",-34.86391657756652
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",26.04781888761452
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",-21.57579727169495
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",12.051166510931472
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",20.827230383185185
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",35.201819066755505
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",-1.4657076118199337
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",48.48877080913455
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",50.89645515884701
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",12.856389515059243
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",6.606691545529314
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",8.232017361358759
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",25.46671989489373
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",24.497354436248298
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",46.89441660498654
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",-0.0719273921020841
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",36.25519708175425
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",-11.978857275069103
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",80.5017852710633
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",6.734409078210608
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",7.109925592915067
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",34.49151343515656
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",1.9519489045721028
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",24.57709189217232
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",-21.18953947617572
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",5.29838521355496
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",30.777131303784284
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",11.533382684472109
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",-1.1784763680930033
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",21.74959737506714
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",27.70978850415588
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",23.20632790162776
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",54.2504566028405
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",22.892625636773715
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",66.08765578008409
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",58.20661317734821
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",8.085991964443647
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",35.64811081210777
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",26.279966682357458
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",25.100300709097077
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",61.93561219461464
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",11.875638600372223
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",5.197477945291186
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",-11.47525897037516
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",-37.72365992122916
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",-13.743310933410177
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",21.94280002338601
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",-2.318134037751056
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",-21.87758854492388
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",33.18542875160314
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",-6.782442652634134
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",-26.082471917606973
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",-7.491241421988095
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","P. Mareš (32, RFS, Virsliga 2023)",-16.508406011218472
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-25.31290867775625
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",-20.98952223403025
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",-15.423866775666356
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",9.146587846354857
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",23.014386843942304
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",17.347067708399894
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",6.935776874314002
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",30.057840444607336
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",16.114481056438454
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",2.2214037771437845
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",7.724027281924337
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",28.358189674347827
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",6.195325463055156
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",-7.598054969795287
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",-10.951917077022095
-"Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",41.60532133438975
+Player,Similarity
+"D. Abels (25, Sparta Rotterdam, Eredivisie 22-23)",82.12624618339568
+"A. Cruz (25, Atlético de San Luis, Liga MX 22-23)",81.76250642443641
+"B. Shamsiev (21, Olympic, Uzbek Super League 2023)",80.5017852710633
+"M. De Sciglio (30, Juventus, Serie A 22-23)",80.0740088449284
+"T. Mabua (28, Richards Bay, South Africa PSL 22-23)",79.60006430723453
+"M. Hrabina (30, Zbrojovka Brno, Czech Fortuna Liga 22-23)",79.10568319255476
+"J. Lowe (31, Salford City, League Two 22-23)",77.80657227872275
+"J. Geria (30, Melbourne Victory, A-League Men 22-23)",77.43899840519714
+"V. Manceau (33, Guingamp, Ligue 2 22-23)",75.89258469093639
+"E. Soto (33, Municipal, Guatemala Liga Nacional 22-23)",75.48879053141107
+"Juninho (27, Pafos, Cyprus 1. Division 22-23)",75.32363343618253
+"N. Tofanari (25, Rimini, Serie C 22-23)",74.76285396059058
+"Mário Camora (36, CFR Cluj, SuperLiga României 22-23)",74.58896077778968
+"A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)",74.35161927779386
+"A. Oliveros (24, Necaxa, Liga MX 22-23)",74.02065743165996
+"C. Guzmán (28, Querétaro, Liga MX 22-23)",73.70024249155236
+"Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",72.57575624423545
+"C. Coll (31, Derry City, League of Ireland PL 2023)",72.47143851392927
+"Y. Aguerdoum (33, Maghreb Fès, Botola Pro 22-23)",71.6985248241577
+"Sung-Hyun Park (21, Yangju Citizen, K3 League 2023)",71.65699244088734
+"J. Veltman (31, Brighton, Premier League 22-23)",71.23267792030633
+"S. Pongsuwan (26, Prachuap, Thai League 1 22-23)",70.81368764894565
+"E. Boakye (23, Aris, Cyprus 1. Division 22-23)",70.32867831330975
+"D. Gosling (33, Watford, Championship 22-23)",70.18187833874786
+"K. Maphathe (30, Richards Bay, South Africa PSL 22-23)",69.87745313826149

@@ -1,191 +1,26 @@
-Player 1,Player 2,Similarity
-"A. Colpani (24, Monza, Serie A 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",41.71805099567104
-"A. Colpani (24, Monza, Serie A 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",-11.633040225788427
-"A. Colpani (24, Monza, Serie A 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",59.06909312591067
-"A. Colpani (24, Monza, Serie A 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",29.067998425990808
-"A. Colpani (24, Monza, Serie A 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",49.344628544654086
-"A. Colpani (24, Monza, Serie A 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",57.51887651569471
-"A. Colpani (24, Monza, Serie A 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",54.79132941434357
-"A. Colpani (24, Monza, Serie A 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",63.90247020063202
-"A. Colpani (24, Monza, Serie A 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",-12.751056093052338
-"A. Colpani (24, Monza, Serie A 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",66.21993797584655
-"A. Colpani (24, Monza, Serie A 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",41.31220309927863
-"A. Colpani (24, Monza, Serie A 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",40.80446183174175
-"A. Colpani (24, Monza, Serie A 22-23)","R. Botta (33, Bari, Serie B 22-23)",64.4843140705871
-"A. Colpani (24, Monza, Serie A 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",63.50555232835965
-"A. Colpani (24, Monza, Serie A 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",-1.5067330565598631
-"A. Colpani (24, Monza, Serie A 22-23)","V. Parigini (27, Como, Serie B 22-23)",28.793807879434937
-"A. Colpani (24, Monza, Serie A 22-23)","Álex Blanco (24, Como, Serie B 22-23)",71.32849557398924
-"A. Colpani (24, Monza, Serie A 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",38.94616744629575
-"A. Colpani (24, Monza, Serie A 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",60.10922100257184
-"A. Colpani (24, Monza, Serie A 22-23)","D. Camara (21, Parma, Serie B 22-23)",51.52131989521476
-"A. Colpani (24, Monza, Serie A 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",36.71486254968044
-"A. Colpani (24, Monza, Serie A 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",32.47726031296155
-"A. Colpani (24, Monza, Serie A 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",37.67182529074759
-"A. Colpani (24, Monza, Serie A 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",26.45613270380513
-"A. Colpani (24, Monza, Serie A 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",46.74488762786167
-"A. Colpani (24, Monza, Serie A 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",41.99603794608916
-"A. Colpani (24, Monza, Serie A 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",68.92769805896275
-"A. Colpani (24, Monza, Serie A 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",32.77784845024404
-"A. Colpani (24, Monza, Serie A 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",58.01449811166464
-"A. Colpani (24, Monza, Serie A 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",18.02431096155629
-"A. Colpani (24, Monza, Serie A 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",69.97930929954526
-"A. Colpani (24, Monza, Serie A 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",41.873359997090176
-"A. Colpani (24, Monza, Serie A 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",37.61203766439966
-"A. Colpani (24, Monza, Serie A 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",35.42346408500009
-"A. Colpani (24, Monza, Serie A 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-16.09646112713469
-"A. Colpani (24, Monza, Serie A 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",51.039427085763336
-"A. Colpani (24, Monza, Serie A 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",-14.040029138911414
-"A. Colpani (24, Monza, Serie A 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",37.70054388559557
-"A. Colpani (24, Monza, Serie A 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",66.22111828073173
-"A. Colpani (24, Monza, Serie A 22-23)","N. Belloni (28, Siena, Serie C 22-23)",22.16861477868225
-"A. Colpani (24, Monza, Serie A 22-23)","M. Frediani (29, Siena, Serie C 22-23)",37.44006976644737
-"A. Colpani (24, Monza, Serie A 22-23)","F. Urso (28, Torres, Serie C 22-23)",50.503728165193415
-"A. Colpani (24, Monza, Serie A 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",25.958884238577305
-"A. Colpani (24, Monza, Serie A 22-23)","G. Lisai (33, Torres, Serie C 22-23)",30.814364687664764
-"A. Colpani (24, Monza, Serie A 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",46.38566167774806
-"A. Colpani (24, Monza, Serie A 22-23)","C. Attys (22, Trento, Serie C 22-23)",24.555383626368624
-"A. Colpani (24, Monza, Serie A 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",67.69836226445442
-"A. Colpani (24, Monza, Serie A 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",29.54734578627077
-"A. Colpani (24, Monza, Serie A 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",72.04309041205586
-"A. Colpani (24, Monza, Serie A 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",61.996479149669405
-"A. Colpani (24, Monza, Serie A 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",67.60525735144655
-"A. Colpani (24, Monza, Serie A 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",55.63091160078718
-"A. Colpani (24, Monza, Serie A 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",22.4330102013283
-"A. Colpani (24, Monza, Serie A 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",61.53338832646983
-"A. Colpani (24, Monza, Serie A 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",77.05189588237033
-"A. Colpani (24, Monza, Serie A 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",62.06666395760211
-"A. Colpani (24, Monza, Serie A 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",48.63538357762883
-"A. Colpani (24, Monza, Serie A 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",53.16589735833711
-"A. Colpani (24, Monza, Serie A 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",69.22659203359368
-"A. Colpani (24, Monza, Serie A 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",67.8489747086756
-"A. Colpani (24, Monza, Serie A 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",43.43521143387756
-"A. Colpani (24, Monza, Serie A 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",48.32425066474653
-"A. Colpani (24, Monza, Serie A 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",58.53105039192265
-"A. Colpani (24, Monza, Serie A 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",51.52221944654539
-"A. Colpani (24, Monza, Serie A 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",61.51587288411244
-"A. Colpani (24, Monza, Serie A 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",44.72056346019595
-"A. Colpani (24, Monza, Serie A 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",22.512776571211653
-"A. Colpani (24, Monza, Serie A 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",29.05631189007344
-"A. Colpani (24, Monza, Serie A 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",54.816936141192585
-"A. Colpani (24, Monza, Serie A 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",74.83001339821065
-"A. Colpani (24, Monza, Serie A 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",42.43408974475533
-"A. Colpani (24, Monza, Serie A 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",57.3329818887858
-"A. Colpani (24, Monza, Serie A 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",60.01414035044319
-"A. Colpani (24, Monza, Serie A 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",60.3498029336288
-"A. Colpani (24, Monza, Serie A 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",55.198190542712986
-"A. Colpani (24, Monza, Serie A 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",36.51108630014387
-"A. Colpani (24, Monza, Serie A 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",5.1832435325306
-"A. Colpani (24, Monza, Serie A 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",45.38844048047774
-"A. Colpani (24, Monza, Serie A 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",53.16901646181894
-"A. Colpani (24, Monza, Serie A 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",56.52646978241276
-"A. Colpani (24, Monza, Serie A 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",24.70651529346333
-"A. Colpani (24, Monza, Serie A 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",61.68700454038611
-"A. Colpani (24, Monza, Serie A 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",22.66020489998837
-"A. Colpani (24, Monza, Serie A 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",36.20928787836888
-"A. Colpani (24, Monza, Serie A 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",62.49170088115815
-"A. Colpani (24, Monza, Serie A 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",64.8822128640169
-"A. Colpani (24, Monza, Serie A 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",71.8164675545105
-"A. Colpani (24, Monza, Serie A 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",53.12740646900994
-"A. Colpani (24, Monza, Serie A 22-23)","I. Jebali (31, OB, Superliga 22-23)",61.28015656263407
-"A. Colpani (24, Monza, Serie A 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",50.30340817867432
-"A. Colpani (24, Monza, Serie A 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",47.88606056713983
-"A. Colpani (24, Monza, Serie A 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",69.15198686930745
-"A. Colpani (24, Monza, Serie A 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",71.8967313017621
-"A. Colpani (24, Monza, Serie A 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",75.69840473123084
-"A. Colpani (24, Monza, Serie A 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",53.45342994499664
-"A. Colpani (24, Monza, Serie A 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",45.47897521045432
-"A. Colpani (24, Monza, Serie A 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",63.99826589315766
-"A. Colpani (24, Monza, Serie A 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",71.42961145290236
-"A. Colpani (24, Monza, Serie A 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",42.29406025511626
-"A. Colpani (24, Monza, Serie A 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",49.36296395722039
-"A. Colpani (24, Monza, Serie A 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",66.85030696771138
-"A. Colpani (24, Monza, Serie A 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",42.19858415757353
-"A. Colpani (24, Monza, Serie A 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",43.024294947552015
-"A. Colpani (24, Monza, Serie A 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",63.80147150803756
-"A. Colpani (24, Monza, Serie A 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",38.20990913918649
-"A. Colpani (24, Monza, Serie A 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",47.69481186077762
-"A. Colpani (24, Monza, Serie A 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",64.51760725018431
-"A. Colpani (24, Monza, Serie A 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",61.710008530384094
-"A. Colpani (24, Monza, Serie A 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",54.972814253884486
-"A. Colpani (24, Monza, Serie A 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",51.605601734622816
-"A. Colpani (24, Monza, Serie A 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",44.43409914915123
-"A. Colpani (24, Monza, Serie A 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",68.52033989848404
-"A. Colpani (24, Monza, Serie A 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",53.63009486985605
-"A. Colpani (24, Monza, Serie A 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",72.07082438017008
-"A. Colpani (24, Monza, Serie A 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",65.6094518541234
-"A. Colpani (24, Monza, Serie A 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",50.95001410061
-"A. Colpani (24, Monza, Serie A 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",51.58906947767108
-"A. Colpani (24, Monza, Serie A 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",16.24728875024187
-"A. Colpani (24, Monza, Serie A 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",66.65057331202667
-"A. Colpani (24, Monza, Serie A 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",65.54599174040003
-"A. Colpani (24, Monza, Serie A 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",70.88692881745405
-"A. Colpani (24, Monza, Serie A 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",33.49217452122261
-"A. Colpani (24, Monza, Serie A 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",75.41768857200726
-"A. Colpani (24, Monza, Serie A 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",74.43458426208583
-"A. Colpani (24, Monza, Serie A 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",65.41309507875287
-"A. Colpani (24, Monza, Serie A 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",72.04213171823667
-"A. Colpani (24, Monza, Serie A 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",35.32461915376207
-"A. Colpani (24, Monza, Serie A 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",62.24047766521432
-"A. Colpani (24, Monza, Serie A 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",20.910178893634264
-"A. Colpani (24, Monza, Serie A 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",67.82962410971084
-"A. Colpani (24, Monza, Serie A 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",60.058661355662494
-"A. Colpani (24, Monza, Serie A 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",70.4860791378689
-"A. Colpani (24, Monza, Serie A 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",66.53929539812663
-"A. Colpani (24, Monza, Serie A 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",69.44600247724118
-"A. Colpani (24, Monza, Serie A 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",65.3413659366259
-"A. Colpani (24, Monza, Serie A 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",53.32803195966369
-"A. Colpani (24, Monza, Serie A 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",53.663448550456295
-"A. Colpani (24, Monza, Serie A 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",47.52086028489194
-"A. Colpani (24, Monza, Serie A 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",78.06261915257761
-"A. Colpani (24, Monza, Serie A 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",13.617432969793544
-"A. Colpani (24, Monza, Serie A 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",44.310685513638695
-"A. Colpani (24, Monza, Serie A 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",8.640567911262705
-"A. Colpani (24, Monza, Serie A 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-5.580101843729164
-"A. Colpani (24, Monza, Serie A 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",33.965777503834275
-"A. Colpani (24, Monza, Serie A 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",11.437059211599248
-"A. Colpani (24, Monza, Serie A 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",47.975629466457335
-"A. Colpani (24, Monza, Serie A 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",55.213147522034674
-"A. Colpani (24, Monza, Serie A 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",5.689599895700187
-"A. Colpani (24, Monza, Serie A 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",24.756695327481303
-"A. Colpani (24, Monza, Serie A 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",30.550038706282105
-"A. Colpani (24, Monza, Serie A 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",59.81913987668417
-"A. Colpani (24, Monza, Serie A 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",40.22346227086867
-"A. Colpani (24, Monza, Serie A 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-2.986543793560455
-"A. Colpani (24, Monza, Serie A 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",56.44697257762186
-"A. Colpani (24, Monza, Serie A 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",30.800309060019377
-"A. Colpani (24, Monza, Serie A 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",57.83106514529975
-"A. Colpani (24, Monza, Serie A 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-7.594571375913119
-"A. Colpani (24, Monza, Serie A 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",18.932644712583585
-"A. Colpani (24, Monza, Serie A 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",59.94308417438001
-"A. Colpani (24, Monza, Serie A 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-0.0581537933889368
-"A. Colpani (24, Monza, Serie A 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",51.03247866443665
-"A. Colpani (24, Monza, Serie A 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",31.8595252363769
-"A. Colpani (24, Monza, Serie A 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",51.445900547504245
-"A. Colpani (24, Monza, Serie A 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",42.56994829081912
-"A. Colpani (24, Monza, Serie A 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",75.60922094638066
-"A. Colpani (24, Monza, Serie A 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",68.5005010207865
-"A. Colpani (24, Monza, Serie A 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",29.597092217639847
-"A. Colpani (24, Monza, Serie A 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",45.80599096273061
-"A. Colpani (24, Monza, Serie A 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",28.337185704253383
-"A. Colpani (24, Monza, Serie A 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",56.55094958957966
-"A. Colpani (24, Monza, Serie A 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",24.04756465026863
-"A. Colpani (24, Monza, Serie A 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",52.6158428331234
-"A. Colpani (24, Monza, Serie A 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",62.309820968847305
-"A. Colpani (24, Monza, Serie A 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",77.06121431946998
-"A. Colpani (24, Monza, Serie A 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",65.36670457710477
-"A. Colpani (24, Monza, Serie A 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",69.10550158702323
-"A. Colpani (24, Monza, Serie A 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",65.00996623681324
-"A. Colpani (24, Monza, Serie A 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",4.844870095243085
-"A. Colpani (24, Monza, Serie A 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",65.47786046918091
-"A. Colpani (24, Monza, Serie A 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-8.342255539998837
-"A. Colpani (24, Monza, Serie A 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",39.62272474060337
-"A. Colpani (24, Monza, Serie A 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",55.54951453954929
-"A. Colpani (24, Monza, Serie A 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",40.32732603661231
-"A. Colpani (24, Monza, Serie A 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",37.46834139744489
-"A. Colpani (24, Monza, Serie A 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",69.87346961265945
-"A. Colpani (24, Monza, Serie A 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",50.96472558099583
-"A. Colpani (24, Monza, Serie A 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",59.65224418964519
-"A. Colpani (24, Monza, Serie A 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",53.40183211299172
-"A. Colpani (24, Monza, Serie A 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",39.45666121335569
-"A. Colpani (24, Monza, Serie A 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",56.97105183133559
+Player,Similarity
+"G. Konstantelias (20, PAOK, Greek Super League 22-23)",84.19259092838792
+"E. López (28, Pachuca, Liga MX 22-23)",83.15041692843225
+"M. Tolić (26, Maribor, 1. SNL 22-23)",82.88507109974171
+"T. Nguen (29, Ferencváros, NB I 22-23)",81.96795789123719
+"Brahim Diaz (23, Milan, Serie A 22-23)",81.96776710954026
+"S. Rodríguez (23, New York City, MLS 2023)",81.79815026042156
+"G. Caprari (29, Monza, Serie A 22-23)",81.54089239966402
+"Benny Dias (26, Doxa, Cyprus 1. Division 22-23)",81.45597290650407
+"M. Mount (24, Chelsea, Premier League 22-23)",80.04571520030267
+"N. Eraković (23, Sutjeska, Montenegro First League 22-23)",79.92892397014087
+"M. Sardalishvili (30, Shukura, Erovnuli Liga 2023)",79.31335683870928
+"K. Musona (32, Al Ta'ee, Saudi Professional League 22-23)",78.86604594104962
+"M. Pronichev (25, Horn, Austrian 2. Liga 22-23)",78.64271124198761
+"Y. Asprilla (19, Watford, Championship 22-23)",78.19922770456766
+"E. Panya (23, Muang Thong United, Thai League 1 22-23)",78.06261915257761
+"C. Neira (22, Unión Comercio, Peruvian Liga 1 2023)",78.0180412984529
+"L. Cabral (28, Coquimbo Unido, Chilean Primera División 2023)",77.713756371601
+"D. Barbona (28, Defensa y Justicia, Argentinian Primera División 2023)",77.69321211646884
+"S. El Morsli (25, Olympic Safi, Botola Pro 22-23)",77.67481036036129
+"P. Altán (25, Municipal, Guatemala Liga Nacional 22-23)",77.47198944966594
+"S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",77.06121431946998
+"Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",77.05189588237033
+"L. Rodríguez (26, Club Tijuana, Liga MX 22-23)",76.47556221430128
+"A. Ramsey (20, Middlesbrough, Championship 22-23)",76.39216876651393
+"C. Matei (31, Sepsi, SuperLiga României 22-23)",75.69840473123084

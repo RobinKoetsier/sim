@@ -1,192 +1,26 @@
-Player 1,Player 2,Similarity
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. Colpani (24, Monza, Serie A 22-23)",52.91377311381558
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",51.94703388068896
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",-0.4857600503122151
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",77.90832968784616
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",32.322175556080026
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",69.71613821656194
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",57.03228372379251
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",83.42323412277564
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",76.68778366100017
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",11.057196161162176
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",70.2408983806259
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",85.85438741582844
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",81.20123668178168
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","R. Botta (33, Bari, Serie B 22-23)",59.038298180623
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",65.14024574390156
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",23.689832000935496
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","V. Parigini (27, Como, Serie B 22-23)",44.82994768868356
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Álex Blanco (24, Como, Serie B 22-23)",40.880161197933376
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",77.4914143011427
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",87.79121728329608
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","D. Camara (21, Parma, Serie B 22-23)",51.03990186636073
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",65.0441350840393
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",-0.0495779054872667
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",46.87124585265482
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",22.96164335214077
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",73.35249791327462
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",10.344099158786111
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",85.07011411551136
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",43.47712911362615
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",51.94629097739492
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",19.814688371860235
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",78.68397363565133
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",35.197324968498215
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",45.39847580092431
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",70.99538592330951
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-8.06468152508434
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",65.43531124046808
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",23.189013203184917
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",37.57098015995884
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",69.22161888414516
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","N. Belloni (28, Siena, Serie C 22-23)",39.523676907462
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Frediani (29, Siena, Serie C 22-23)",69.61927745918545
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","F. Urso (28, Torres, Serie C 22-23)",63.31773402775696
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",68.3478098943932
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","G. Lisai (33, Torres, Serie C 22-23)",56.200745992049626
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",82.27572757110421
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","C. Attys (22, Trento, Serie C 22-23)",41.04743079659504
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",70.5135056973327
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",36.80716328202332
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",74.830080235949
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",51.97904845781602
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",78.94814996261042
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",78.25949028032305
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",31.187597493930085
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",69.4397259159389
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",46.20440435639787
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",77.1929718534244
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",80.21271443239367
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",38.50210653613824
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",80.9154381517355
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",53.8488800196938
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",73.73034208337081
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",76.58490059846031
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",71.95138125641758
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",68.34907341476533
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",75.80711108646483
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",27.875447889115755
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",3.6507138764428513
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",5.388686110712125
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",67.02281108104378
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",39.16383787446745
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",67.21889333504421
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",77.16220616370235
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",69.05413337988998
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",40.43354365416916
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",48.29971985592994
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",30.956219197906805
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",7.39865777759999
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",17.708407871914737
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",66.29642116941567
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",47.0255499989226
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",24.482366275436203
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",33.53984630031539
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-1.8565411099190632
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-11.603246051315717
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",60.99402534981174
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",58.36876519386636
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",57.711836011663294
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",11.509866604470732
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","I. Jebali (31, OB, Superliga 22-23)",79.64161673690548
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",28.67856048273184
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",49.18643951540489
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",61.75735111514328
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",65.66225205571074
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",74.28517624890969
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",73.09124004616655
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",81.24830880524492
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",64.16638932967204
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",63.38310710898322
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",36.27393315735124
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",57.70680932584389
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",81.284641515848
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",81.89153111041752
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",19.788298946704145
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",68.81251209887806
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",50.62862169487505
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",74.70363690564444
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",59.85993895964866
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",81.12370384982421
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",78.91219581556473
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",75.00483232406471
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",42.87162419763983
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",77.02969399895017
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",48.56132155615416
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",78.71170907229825
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",51.59016400386547
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",34.84722940195444
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",25.83603439882664
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",38.89984033136443
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",75.4493128108453
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",86.57225839362005
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",74.38743834185615
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",41.16471200984634
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",35.07892113088007
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",56.89172696425684
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",78.08209832179409
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",68.69322222437283
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",76.62750061052208
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",21.125543214841656
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",-0.8856818162515236
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",60.503411843281306
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",74.05266850752926
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",59.038001201062606
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",76.9227537235758
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",52.23528032220813
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",72.92800491967594
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",67.33666575509267
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",72.22381358557818
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",57.19902281500683
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",50.99741238324339
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",3.079100632787019
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",66.11988088960995
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",55.24607427272831
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-19.55544402189655
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",15.894395104838557
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",37.18635929829783
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",77.80751161431495
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",89.0408144273453
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",13.400844578178988
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",52.94984480306327
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",50.60005906324714
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",59.36779321327557
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",70.05060451733644
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-14.160158043042747
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",19.18758439724636
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",23.567409331459103
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",36.48126290835186
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-18.968073626165868
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",6.239190706155052
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",52.62777354514202
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-14.881276271670242
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",59.69129041048369
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",43.42363279782659
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",69.85106896965286
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",26.436356423474358
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",58.17960357994029
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",76.84115990093959
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",29.101506114023028
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",27.818664468788384
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-9.99688270010072
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",53.94665233839111
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",69.95638600509092
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",27.49772131833398
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",53.417802665573575
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",70.40133063985179
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",72.70564943852771
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",64.04976446173482
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",55.46392315163349
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",7.6609277681365215
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",45.26146432107836
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-11.604479796940003
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",52.58176065156376
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",47.36554640170855
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",70.07963561125311
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",45.39847445601547
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",71.22366703890359
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",74.85861575540932
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",65.79375825350341
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",51.457243647841146
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",54.630096013296445
-"C. Buonaiuto (30, Cremonese, Serie A 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",79.51700581002686
+Player,Similarity
+"E. Vidal (27, Persita, BRI Liga 1 22-23)",90.5032432408582
+"J. Busuttil (24, Floriana, Malta Premier League 22-23)",89.52273615835183
+"S. Córdova (25, Tigres UANL, Liga MX 22-23)",89.20875764367806
+"Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",89.0408144273453
+"N. Janković (21, Zrinjski, Bosnian Premier League 22-23)",88.47418501124655
+"D. Cheryshev (32, Venezia, Serie B 22-23)",87.79121728329608
+"S. Szymański (24, Feyenoord, Eredivisie 22-23)",86.77365589392123
+"D. Mertens (36, Galatasaray, Süper Lig 22-23)",86.57225839362005
+"S. McCartan (28, Glentoran, Northern Ireland Premiership 22-23)",86.53899298408197
+"A. Dabbur (32, Maccabi Ahi Nazareth, Liga Leumit 22-23)",86.4821711294264
+"O. Velanas (24, NAC Breda, Eerste Divisie 22-23)",85.89191075294382
+"M. Aramu (28, Genoa, Serie B 22-23)",85.85438741582844
+"L. Zelarayán (30, Columbus Crew, MLS 2023)",85.82641643206075
+"A.  Lőrinczy (29, Diósgyőr, NB II 22-23)",85.32844794992528
+"A. Arena (22, Gubbio, Serie C 22-23)",85.07011411551136
+"S. Verdi (30, Hellas Verona, Serie A 22-23)",84.95645552947047
+"P. Mišić (28, Tuzla City, Bosnian Premier League 22-23)",84.93413874922678
+"E. Hoti (26, Partizani Tirana, Albanian Premier League 22-23)",84.75115089450323
+"K. Ouarkhane (23, JS Soualem, Botola Pro 22-23)",84.47414452383363
+"Álex Arias (33, CD Calahorra, Primera División RFEF 22-23)",84.36152527393142
+"A. Roman (29, CSMS Iaşi, Romanian Liga II 22-23)",84.32271680394393
+"U. Nikolić (29, Vojvodina, Serbian SuperLiga 22-23)",84.15658555199437
+"N. Pantović (29, Nyíregyháza Spartacus, NB II 22-23)",83.92092115508515
+"D. Hotič (27, Cercle Brugge, Belgian Pro League 22-23)",83.89053801818058
+"R. Safouri (27, Hapoel Be'er Sheva, Ligat Ha'al 22-23)",83.86374488584846

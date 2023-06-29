@@ -1,24 +1,26 @@
-Player 1,Player 2,Similarity
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","P. Soiri (28, HJK, Veikkausliiga 2023)",22.447582445899585
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",21.231673529952705
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",31.99469176214422
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",64.57017927241634
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","M. Gaye (24, Riga FC, Virsliga 2023)",12.442044750313595
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",54.967075620615816
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","P. Mareš (32, RFS, Virsliga 2023)",9.655598866792738
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",8.091705453068231
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",24.792832290377937
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",6.523950175616901
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",51.630234221364034
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","N. Bretschneider (23, FK Auda, Virsliga 2023)",14.85786507925716
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",32.07490443017328
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",21.97713653288519
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",20.454907548253587
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",35.30903680791715
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","P. Fall (22, Valmiera FC, Virsliga 2023)",25.29084544237994
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",51.64674477268822
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","R. Skrebels (23, FK Auda, Virsliga 2023)",22.50364655491815
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","E. Birka (23, Valmiera FC, Virsliga 2023)",50.40273098109569
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","R. Savaļnieks (30, RFS, Virsliga 2023)",6.899454984431517
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",35.81925656659584
-"J. Tauriainen (22, Lahti, Veikkausliiga 2023)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",14.448070785318995
+Player,Similarity
+"C. Essers (26, MVV, Eerste Divisie 22-23)",72.11636302880272
+"M. Götz (26, Bayreuth, 3. Liga 22-23)",71.59577238997072
+"D. Ndure (23, VfB Oldenburg, 3. Liga 22-23)",71.53915422087564
+"L. Nunzella (30, Alessandria, Serie C 22-23)",71.46601606971062
+"F. Donati (22, Ascoli, Serie B 22-23)",70.57435167366636
+"A. Nagirnyi (19, Gyirmót, NB II 22-23)",70.50197145205776
+"S. Diaby (23, Winterthur, Swiss Super League 22-23)",70.4937365279904
+"R. Yem (25, Trenčín, Slovak Super Liga 22-23)",69.84710921615483
+"S. Ottesen (22, Stabæk, Eliteserien 2023)",69.53755542198704
+"A. Jaber (30, Maccabi Bnei Raina, Ligat Ha'al 22-23)",69.28115614247461
+"T. Darikwa (31, Wigan Athletic, Championship 22-23)",69.13378312247842
+"I. Mitran (21, Slatina, Romanian Liga II 22-23)",68.88806479165328
+"M. Ilić (23, Javor Ivanjica, Serbian SuperLiga 22-23)",68.67764164632895
+"E. Tapalov (29, Kyzyl-Zhar, Kazakh Premier League 2023)",68.55097373483716
+"A. Savinov (21, Shinnik, Russian FNL 2 22-23)",67.80476234973857
+"Iván Martos (26, Cartagena, La Liga 2 22-23)",67.53769674443542
+"Aitor Buñuel (25, Tenerife, La Liga 2 22-23)",67.43283602978478
+"D. McNamara (24, Millwall, Championship 22-23)",67.15655801096361
+"Iago (26, Augsburg, Bundesliga 22-23)",67.12759771704442
+"M. Čonka (32, Zlaté Moravce, Slovak Super Liga 22-23)",67.11103474840932
+"Josema (26, Leganés, La Liga 2 22-23)",66.90474269156351
+"J. Saborido (25, General Caballero JLM, Paraguay Division Profesional 2023)",66.74517329652708
+"L. Heeney (24, Drogheda United, League of Ireland PL 2023)",66.6998287175843
+"K. Székely (24, Kazincbarcika, NB II 22-23)",66.24740685140175
+"J. Brannefalk (25, Sligo Rovers, League of Ireland PL 2023)",66.1210063337257

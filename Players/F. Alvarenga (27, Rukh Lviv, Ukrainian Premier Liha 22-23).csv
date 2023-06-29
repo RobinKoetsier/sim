@@ -1,50 +1,26 @@
-Player 1,Player 2,Similarity
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","D. Kryskiv (22, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",9.665812068224334
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","A. Bliznichenko (28, Veres, Ukrainian Premier Liha 22-23)",53.42735758134955
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)",65.39606964644929
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",21.39599199132136
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",38.319811130717845
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",29.827485874158597
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",78.21824688669918
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",53.25585931636765
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",28.05929566037651
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",40.8029163623382
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",52.96609916314696
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",28.32397555802183
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",61.73781627051014
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",11.5214236307984
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",14.692343820698497
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",7.757982757500205
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",64.34988169768326
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",50.76223101303526
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",39.54663886903326
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",37.52792652744116
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",45.52976673957931
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",47.51507565865592
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",47.20421710064048
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",17.319223157972587
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",39.13599982715317
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",25.52961223121863
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",56.85532818497353
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",8.15147717430631
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",41.097454316073545
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",40.90647305539222
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",31.79804234132588
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",9.062358808564165
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",39.90431437593103
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",76.94675077577641
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",50.691074961915774
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",33.51612708173558
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",37.26613530984619
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",27.949348623622427
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",38.8588181641086
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",-1.1648161968576525
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",50.7706194067136
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",10.613594725952662
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",23.25815484889478
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",44.4964354966213
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",20.18799588486741
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",55.18511287280935
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",34.25000061646905
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",33.78724416971806
-"F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",34.562092647720974
+Player,Similarity
+"D. Chmiel (36, Sandecja Nowy Sącz, Polish I Liga 22-23)",87.78144350954288
+"A. Gadzhiev (19, Dynamo Makhachkala, Russian FNL 2 22-23)",87.17565220597326
+"Y. Soma (26, Casa Pia AC, Primeira Liga 22-23)",84.0000443526096
+"Q. Cornette (29, Le Havre, Ligue 2 22-23)",83.20234028397651
+"D. Lloyd (31, Rochdale, League Two 22-23)",82.9634782487778
+"Oriol Soldevila (22, Intercity SJ D' Alacant, Primera División RFEF 22-23)",82.89571841630806
+"Álex Berenguer (27, Athletic Bilbao, La Liga 22-23)",82.8708750705078
+"А. Tučný (21, Ružomberok, Slovak Super Liga 22-23)",82.24953528789133
+"Josué Dorrio (29, Amorebieta, Primera División RFEF 22-23)",82.01121167258356
+"M. Rayhi (28, Al Dhafra, UAE Pro League 22-23)",81.620495183526
+"M. Rolando (30, Monopoli, Serie C 22-23)",81.54926697794615
+"Pol Roigé (29, Intercity SJ D' Alacant, Primera División RFEF 22-23)",81.2027243769673
+"G. Gianniotas (30, Levadiakos, Greek Super League 22-23)",81.10891050675694
+"M. Camargo (29, Tauro, Panama LPF 2023)",80.11092606541173
+"S. Kaikai (27, Milton Keynes Dons, League One 22-23)",80.07519399917715
+"N. Srećković (27, Spartak Subotica, Serbian SuperLiga 22-23)",79.8187795549685
+"N. Gavrić (31, Novi Pazar, Serbian SuperLiga 22-23)",79.6709847648142
+"C. Makridis (26, Jahn Regensburg, 2. Bundesliga 22-23)",79.56400290730765
+"A. Sefer (23, Rapid Bucureşti, SuperLiga României 22-23)",79.48339619606898
+"D. Genov (34, Botev Vratsa, Bulgarian First League 22-23)",79.22975935510037
+"Toni García (31, Real Balompédica Linense, Primera División RFEF 22-23)",79.20109297494187
+"V. Ilić (24, Kolubara, Serbian SuperLiga 22-23)",79.1249055572639
+"Francisco Teixeira (25, Belenenses, Portugal Segunda Liga 22-23)",79.10472000859869
+"T. Patjie (32, Moroka Swallows, South Africa PSL 22-23)",78.94721800698467
+"B. Brahmi (30, EO Sidi Bouzid, Tunisian Ligue 1 22-23)",78.8795644808334

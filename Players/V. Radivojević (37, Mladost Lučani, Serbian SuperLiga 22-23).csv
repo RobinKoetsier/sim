@@ -1,215 +1,26 @@
-Player 1,Player 2,Similarity
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)",72.92024880278265
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","U. Nikolić (29, Vojvodina, Serbian SuperLiga 22-23)",37.68149139178343
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)",63.63501071412051
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","P. Đuričković (31, Novi Pazar, Serbian SuperLiga 22-23)",4.7298357501323895
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Đ. Gordić (18, Mladost Lučani, Serbian SuperLiga 22-23)",-16.675398309917416
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)",17.938088390996768
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Dimić (30, Radnički Niš, Serbian SuperLiga 22-23)",12.251612728351672
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Babić (32, Radnik Surdulica, Serbian SuperLiga 22-23)",39.84107669566685
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",24.758329790752125
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","N. Vlašić (25, Torino, Serie A 22-23)",19.67601064271088
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","L. Pellegrini (26, Roma, Serie A 22-23)",22.257855577279688
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","G. Caprari (29, Monza, Serie A 22-23)",33.94812313228408
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","L. Ferguson (23, Bologna, Serie A 22-23)",-31.58832644120467
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Al. Miranchuk (27, Torino, Serie A 22-23)",53.98320439390919
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Brahim Diaz (23, Milan, Serie A 22-23)",46.73493021196072
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Barák (28, Fiorentina, Serie A 22-23)",19.092109528059897
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","N. Bajrami (24, Sassuolo, Serie A 22-23)",8.292938059191316
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","T. Baldanzi (20, Empoli, Serie A 22-23)",5.6528110235536015
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Pašalić (28, Atalanta, Serie A 22-23)",-3.070993850970518
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","N. Radonjić (27, Torino, Serie A 22-23)",15.756357676414618
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",19.783017929617856
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",31.92192098680038
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",36.85515620347174
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Colpani (24, Monza, Serie A 22-23)",35.662583344896085
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",10.185654100112393
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",-10.276785958044698
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",50.72724492239124
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",-12.409961117822526
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",69.01092575616393
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",34.47461762579337
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",45.97123651479491
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",52.69532669863292
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",-2.8790207157727083
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",49.933043182787344
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",38.5394308467402
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",41.14795254317871
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","R. Botta (33, Bari, Serie B 22-23)",51.71403723304756
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",15.566520365531105
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",9.87124272381316
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","V. Parigini (27, Como, Serie B 22-23)",22.00567872049655
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Álex Blanco (24, Como, Serie B 22-23)",8.45384816867847
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",39.26222442780233
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",45.56007604723634
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","D. Camara (21, Parma, Serie B 22-23)",13.185622570058522
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",23.47649218447538
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",-5.086007249748821
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",1.35934125344457
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",26.621899522866187
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",21.70843888522209
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",4.694668805284032
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",39.95090039712521
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",-6.10452752010055
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",6.339518914147951
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",-8.0824322549844
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",43.74592488377141
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",54.31017885550609
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",14.745016294864651
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",33.82416388556992
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-20.302772985285195
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",24.99124518476974
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",-10.376765557608476
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",16.761932959794237
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",24.044068454415346
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","N. Belloni (28, Siena, Serie C 22-23)",17.228500125012708
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Frediani (29, Siena, Serie C 22-23)",48.39045276953187
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","F. Urso (28, Torres, Serie C 22-23)",38.17162065569596
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",41.509502151160746
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","G. Lisai (33, Torres, Serie C 22-23)",60.85539653794112
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",35.78908759559735
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","C. Attys (22, Trento, Serie C 22-23)",8.245308564338675
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",25.523876673637403
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",21.09907591086028
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",27.61273366245557
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",31.822287205111373
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",55.37055359321892
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",44.475217142228445
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",1.026343395608479
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",58.86406764188056
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",56.00019827088785
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",38.7553486566958
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",61.38391709232226
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",56.749745910804016
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",47.10657737977392
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",31.40048356546172
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",36.7531531654411
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",49.61723343185152
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",33.462759587018525
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",18.57941006158569
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",11.229419021024558
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",65.84154126392298
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",44.73256355817581
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",55.19357645266477
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",29.53078705867922
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",54.703850449301626
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",42.14870828409587
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",64.58498747644465
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",52.37039374769776
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",50.32360274618392
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",59.19153274559504
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",59.359316379480255
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",43.53937489994088
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",18.404696494077378
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",40.25074670689448
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",43.62761010568778
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",52.41774559376492
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",26.06189862923325
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",15.108412710076736
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-10.852873692998646
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",58.27862954630151
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",40.52989078757347
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",50.91843036543533
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",-16.92343303526212
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","I. Jebali (31, OB, Superliga 22-23)",48.612708256732525
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",25.3239867865508
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",27.47753225080117
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",19.418699371485975
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",47.808118817330254
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",54.29678787992955
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",64.10919625339085
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",32.5508776321572
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",11.613143911741592
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",31.57914990025657
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",28.88500688031224
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",22.926328536707487
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",37.92037357058592
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",28.305578655635767
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",-8.992511278712904
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",67.8958867461274
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",20.19330195853023
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",59.77997173260702
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",40.81908841866446
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",37.46451360339142
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",30.595281078714898
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",25.28778838333348
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",30.87676807483109
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",25.64416634267588
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",11.014888373859849
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",50.04345605497398
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",61.7157023746612
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",62.124044700886685
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",1.675152124564243
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",-16.461020238245137
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",29.41493167478413
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",58.44779487916463
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",59.59705368065814
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",16.16741464923755
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",49.32337176746435
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",40.05125651477257
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",31.02405508855597
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",19.19341314851755
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",56.126605809459896
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",25.722513957294307
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",-2.611588796084216
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",30.726983334102137
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",69.26534092882689
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",60.00356384812324
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",37.71180561984705
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",50.95058842006714
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",25.766055968975294
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",65.52440371153469
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",69.18308923181307
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",25.053300822614155
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",39.71282487530877
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",-7.278766869470292
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",41.1382802654407
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",2.8131073490739724
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-33.39562279238463
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",7.571770343661287
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",14.768518778212323
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",43.393425433190544
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",33.7933244937075
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",-3.5386871462570744
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",35.850241347408954
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",4.461628542441408
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",48.823160551415725
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",29.15437007586893
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-7.238335305105046
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",18.804242003680606
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",23.39531761152561
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",66.58416958721975
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-5.082411412182224
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",-12.553169219393304
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",58.30794192901592
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-40.04374597925848
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",10.484552980472824
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",22.30254338165859
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",35.02622601431951
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",-0.3057354546767419
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",65.0975711864999
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",19.48221342308954
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",7.799772995494283
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",26.71857945594901
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-10.62636603374678
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",70.75801253962864
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",24.87448811940944
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",65.86567902281595
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",54.91641966577804
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",56.13855969799416
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",23.421016486026684
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",51.65377564018168
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",31.30922677793236
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",41.04150750845979
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",35.76879530740323
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-33.06833301496066
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",39.48228897943491
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",11.446274068564534
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",-5.465961342193921
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",21.373047234197053
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",50.0787356237749
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",48.65429127409924
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",35.053752834733295
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",-4.322613625339739
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",44.80092381430317
-"V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",45.495782443779085
+Player,Similarity
+"M. Götze (31, Eintracht Frankfurt, Bundesliga 22-23)",80.66744198968408
+"Kaku (28, Al Taawon, Saudi Professional League 22-23)",80.32388159653142
+"D. Micha (31, Hapoel Be'er Sheva, Ligat Ha'al 22-23)",80.06525422117853
+"Afsha (27, Al Ahly, Egyptian Premier League 22-23)",78.49526136885365
+"Y. Cohen (31, Hapoel Afula, Liga Leumit 22-23)",75.99966405189379
+"M. Moutaouali (37, Ittihad Tanger, Botola Pro 22-23)",75.7332328464423
+"Bruno Fernandes (28, Manchester United, Premier League 22-23)",74.9827040807593
+"N. Nomura (32, Oita Trinita, J2 2023)",74.36068706405015
+"D. Romanovskij (26, Šiauliai, Lithuanian A Lyga 2023)",74.30902038248183
+"Óliver Torres (28, Sevilla, La Liga 22-23)",73.92541567079282
+"I. Bognár (32, MTK, NB II 22-23)",73.76062420682969
+"A. Bonnet (36, Quevilly Rouen, Ligue 2 22-23)",73.68597507095905
+"N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)",72.92024880278265
+"Manu García (25, Aris, Greek Super League 22-23)",72.75455935473192
+"N. Lodeiro (34, Seattle Sounders, MLS 2023)",72.42316288689979
+"Kaká (30, Al Akhdoud, Saudi First Division 22-23)",72.34161993752122
+"B. El Khannous (19, Genk, Belgian Pro League 22-23)",72.22632222178422
+"D. Silva (36, Millonarios, Colombian Primera Division 22-23)",71.74910810765476
+"L. Sučić (20, Salzburg, Austrian Bundesliga 22-23)",71.34356719970117
+"J. Kim (26, Gimcheon Sangmu, K League 2 2023)",71.19146946944618
+"M. Barshazky (26, Maccabi Petah Tikva, Liga Leumit 22-23)",71.05101249691893
+"M. Chrapek (31, Piast Gliwice, Ekstraklasa 22-23)",70.83248414019742
+"Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",70.75801253962864
+"Muralha (30, Al Riyadh, Saudi First Division 22-23)",70.52737549853283
+"R. Messika (33, Hapoel Umm al-Fahm, Liga Leumit 22-23)",70.49081498569566

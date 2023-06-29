@@ -1,237 +1,26 @@
-Player 1,Player 2,Similarity
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)",35.908467529276045
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Y. Kchok (22, CA Bizertin, Tunisian Ligue 1 22-23)",48.6486620027156
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. Sioud (31, Rejiche, Tunisian Ligue 1 22-23)",24.25947903697841
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","H. Helal (30, EO Sidi Bouzid, Tunisian Ligue 1 22-23)",-18.86127995065432
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Houssem Teka (22, Monastir, Tunisian Ligue 1 22-23)",-5.550519673643168
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","R. Derbali (20, Olympique Béja, Tunisian Ligue 1 22-23)",-8.912870108279142
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","R. Bouchniba (19, ES Tunis, Tunisian Ligue 1 22-23)",-28.60227271003109
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)",64.7225903975301
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)",1.4911342985378049
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Y. Mechergui (23, CA Bizertin, Tunisian Ligue 1 22-23)",13.31018284399969
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","S. Harrabi (24, Monastir, Tunisian Ligue 1 22-23)",50.93831340740908
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","W. Sahli (35, Chebba, Tunisian Ligue 1 22-23)",46.90887437316339
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)",55.20155861271695
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Ü. Ergün (30, Bodrumspor, Turkish 1. Lig 22-23)",-33.31837505925811
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","O. Ovacıklı (34, BB Erzurumspor, Turkish 1. Lig 22-23)",-25.992544929910448
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. Dere (30, Altınordu, Turkish 1. Lig 22-23)",-42.72347201205884
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","S. Sarıkaya (25, Altay, Turkish 1. Lig 22-23)",49.852670860352006
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","H. Bilgiç (30, Boluspor, Turkish 1. Lig 22-23)",-16.84436872253559
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","G. Süzen (35, Denizlispor, Turkish 1. Lig 22-23)",-21.235368475777687
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)",-52.34842339499618
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)",-7.521582102568517
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)",0.1424692880472851
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","İ. Köybaşı (33, Göztepe, Turkish 1. Lig 22-23)",-37.11158816703325
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Şahin (22, Manisa BBSK, Turkish 1. Lig 22-23)",-4.666274753910376
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)",-11.014203671091286
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","O. Bayrak (24, Tuzlaspor, Turkish 1. Lig 22-23)",-10.184456147959413
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Naderi (26, Altay, Turkish 1. Lig 22-23)",42.39172736938041
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","G. Kaya (27, Pendikspor, Turkish 1. Lig 22-23)",-48.87726295592765
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)",-1.0919556645349533
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Uçar (31, Eyüpspor, Turkish 1. Lig 22-23)",-48.70110737739813
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Pala (22, Rizespor, Turkish 1. Lig 22-23)",-29.12934543958896
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)",18.53561443992359
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. Şengül (24, Bandırmaspor, Turkish 1. Lig 22-23)",28.055857201552957
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)",24.701090604153848
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","S. Gönül (25, Samsunspor, Turkish 1. Lig 22-23)",18.330787795941493
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. Koç (26, Rizespor, Turkish 1. Lig 22-23)",-16.521287787935023
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","E. Özgenc (38, Pendikspor, Turkish 1. Lig 22-23)",-53.64186890379714
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","C. Cavlan (31, Bandırmaspor, Turkish 1. Lig 22-23)",-24.58060108656107
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)",-45.78697432934701
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",44.28207092825551
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",-0.730367193443763
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",35.73647434045438
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",12.34796147481199
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",-4.749459904221266
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",35.90520620809864
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",5.2389180787273695
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",36.50706109250071
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",-29.95467993694361
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",27.19284759592965
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",-12.282534905600366
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",47.9990802313039
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",46.132982022201965
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",38.7009177246765
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",12.10086060945079
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",33.295384291302064
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",-34.09285728562183
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",-1.6516125293540944
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",-24.4654392610739
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",50.66979347742653
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",-2.357069407417454
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",32.83196482264067
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",-4.55750296786175
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",-15.853057038197752
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",-9.784477130530028
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",27.16032838387084
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",-0.493230515097645
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",5.961501924968963
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",-0.3976392023171387
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",-2.4565440571321835
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",-47.43671186546706
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",-59.99343460829108
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",-16.683135091921713
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",26.88603533494701
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",57.47716429683404
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",-50.32349756215102
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",14.99922656378506
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",23.02875239681143
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",-44.80138504360787
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",45.837940864734186
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",-43.56643946522213
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",46.93698321817576
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",-24.06066272861514
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",-5.216753349994212
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",10.25645907828094
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",24.739991055890915
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",-29.60681089607545
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",61.76070695362024
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",20.43927874218672
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",-26.791591780093142
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",21.074130552565773
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",-0.1060633730966361
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",7.855992546796759
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",50.52146689873963
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",13.049716876898978
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",-24.56512835833686
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",28.79120470337444
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",-5.245181678749534
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",16.794771316228974
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",38.54182946096754
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",33.18892341575864
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",22.105425796310165
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",11.5282549121743
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",10.560828679332232
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",4.353198294780969
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",18.83207467245945
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",33.17283366643866
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",59.53320005848243
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",-0.0280175980067905
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-37.58682574154659
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",-35.95421287612648
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",-64.85804086718318
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",-44.01770612210788
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",24.065846815495508
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",-42.9554707885117
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",-31.864480399424927
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",-36.62541883045323
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",3.638388414358493
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",21.77190942816948
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",19.930363452076403
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",2.143869825071837
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",38.07714286930157
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",34.10537299110993
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-42.03406468561615
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",46.86405410258232
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",-12.741014646757955
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",17.657943722073846
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",-24.73902327646848
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",-35.56366948999858
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-62.07296188921762
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",-13.791041695441292
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",27.400052789555478
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",-33.31909641762635
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",54.11547022149647
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-39.18883544180553
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",-33.02362975967284
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",49.19047725116818
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-45.45117498475904
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",-53.75082915661579
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-40.02035640018625
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-10.34914636306834
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-56.60480497759144
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",-10.079748409017585
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-51.147318343569246
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",-21.44892974022189
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",-12.262312060157669
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",8.258082641759284
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-21.954473443960477
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-17.592774982628885
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",3.95822240317543
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",26.04736749432816
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",62.422641183801616
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",-8.529305229932545
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",-2.722062662503286
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",15.113867022464394
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",-54.415003443497454
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",37.56079388333367
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",8.195756746254604
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",16.411599663765305
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",-12.74280354449068
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",25.331268629253078
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",-30.65726625499749
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",-40.38339213366213
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",36.50476080713845
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",41.094252163157584
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",-26.38088814159899
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",-41.60234514480546
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",-39.47240262027093
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",-8.31457297525332
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",27.892371202024417
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",56.023290762106335
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",34.615997622302345
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",-11.53354325537497
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",49.197653979052106
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",-27.94102219037009
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",-7.625347629538054
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",-8.946038485099066
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",4.1035650691716254
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",-16.228390126662777
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",18.63722606104626
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",-35.936942454516654
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",-34.73238884358803
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",-3.208425767901886
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",-11.822432444333897
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",9.41981633264728
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",6.463986999361193
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",14.120218007277527
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",-16.772470363355403
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",70.5331940249102
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",-35.18618567772515
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",63.10145907686374
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",-44.84530105933051
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",-5.264605099382082
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",-39.63051699901241
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",-51.81570080114465
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",16.24349551177346
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",-8.38613321029686
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",10.792195470317523
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",-21.255072848271624
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",-19.929611476662703
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",-49.53503126804936
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",27.90290016730308
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",4.009472120101944
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",-17.63418760474372
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",-22.974826044071577
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",-12.777787113859802
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",-60.645557340317154
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",-2.715528609306815
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",-30.697805780796035
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",-52.754716084678456
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",-42.2196148152351
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",-28.924960682650163
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",-3.711319944671693
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",35.27821029275788
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",-40.13284172407953
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",-53.34089386340122
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",-6.4592715063773065
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",30.86553235106861
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",-58.1967614451144
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",15.012563529723463
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","P. Mareš (32, RFS, Virsliga 2023)",-49.56871723282492
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-27.55433230194245
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",-13.77307653261958
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",-61.387328259785335
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",51.23601661345533
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",-44.4313720891999
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",25.338129819118382
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",-5.6775231184026245
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",-10.108070403485458
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",5.731827257419434
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",-43.3577405731636
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",-16.079746105937755
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",-24.385771786818093
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",9.353112125590451
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",-46.86782871784094
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",48.0837541108499
-"M. Badreddine (24, EO Sidi Bouzid, Tunisian Ligue 1 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",-0.935667539686881
+Player,Similarity
+"A. Tamariz (25, Academia Cantolao, Peruvian Liga 1 2023)",78.8840339391642
+"R. Gumny (24, Augsburg, Bundesliga 22-23)",77.40199982454209
+"N. Sperotto (31, Olbia, Serie C 22-23)",75.35654974193517
+"F. Berra (28, Südtirol, Serie B 22-23)",74.79867337374677
+"J. Cuero (22, Delfin, Ecuador Liga Pro 2023)",73.19775814475761
+"M. Pearson (29, Huddersfield Town, Championship 22-23)",72.98734305689484
+"G. Lončar (21, Kolubara, Serbian SuperLiga 22-23)",72.6095577522404
+"Min-jun Kim (20, Pyeongtaek Citizen, K4 League 2023)",72.27388128570537
+"Z. Milic (25, Leotar, Bosnian Premier League 22-23)",71.80451631196914
+"B. Barr (22, UCD, League of Ireland PL 2023)",71.28266776397561
+"M. Singh (24, Sudeva, I-League 22-23)",71.16303610418193
+"C. Bangura (25, Pietà Hotspurs, Malta Premier League 22-23)",70.62790867984545
+"S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",70.5331940249102
+"I. Burnea (30, Mioveni, SuperLiga României 22-23)",69.49964133323259
+"G. Álvarez (23, Getafe, La Liga 22-23)",69.39434466231643
+"M. Mihaylov (23, Hebar 1918, Bulgarian First League 22-23)",69.16756770186035
+"S. Sulev (33, Belasica, North Macedonia First League 22-23)",68.24606597079679
+"César Rodríguez (29, Sant Julià, Andorra Primera Divisió 22-23)",67.33163331905898
+"O.  Šaula (24, Sloga Doboj, Bosnian Premier League 22-23)",67.31428128444618
+"A. Godja (18, Viitorul P. Targu Jiu, Romanian Liga II 22-23)",66.84716389159705
+"Z. Leonardi (20, Pietà Hotspurs, Malta Premier League 22-23)",66.80672588639274
+"S. Mrsulja (23, Arsenal Tivat, Montenegro First League 22-23)",66.4616045623437
+"Z. Ashworth (20, Burton Albion, League One 22-23)",66.20161204573586
+"P. Phanitchakul (35, Nong Bua Pitchaya FC, Thai League 1 22-23)",65.96736850669593
+"L. Rakesh (20, Neroca, I-League 22-23)",65.87419546026287

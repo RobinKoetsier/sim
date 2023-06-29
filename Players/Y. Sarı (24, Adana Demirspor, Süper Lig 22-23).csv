@@ -1,239 +1,26 @@
-Player 1,Player 2,Similarity
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","N. Redmond (29, Beşiktaş, Süper Lig 22-23)",82.19773244168275
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","G. Beridze (26, Ankaragücü, Süper Lig 22-23)",60.12700501637003
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","K. Michalak (25, Konyaspor, Süper Lig 22-23)",62.16213263908901
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","I. Kahveci (27, Fenerbahçe, Süper Lig 22-23)",75.3460881838336
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","C. N'Jie (29, Sivasspor, Süper Lig 22-23)",67.89288043647902
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","E. Colley (23, Fatih Karagümrük, Süper Lig 22-23)",71.89827152342832
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","O. Ayık (33, Ümranıyespor, Süper Lig 22-23)",42.49025779285808
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Carlos Mané (29, Kayserispor, Süper Lig 22-23)",74.10021970707209
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Z. Bytyqi (26, Konyaspor, Süper Lig 22-23)",75.5898446587074
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","L. Marković (29, Trabzonspor, Süper Lig 22-23)",63.84091808561227
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","O. Aydın (22, Alanyaspor, Süper Lig 22-23)",85.95377653100033
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","E. Başsan (31, Kayserispor, Süper Lig 22-23)",80.01406615469928
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","H. Ghacha (27, Antalyaspor, Süper Lig 22-23)",56.80879112145877
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","R. Çivelek (27, Kayserispor, Süper Lig 22-23)",74.31486854442845
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","E. Mor (25, Fenerbahçe, Süper Lig 22-23)",83.86113172057735
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Ndao (26, Antalyaspor, Süper Lig 22-23)",35.40701616198803
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","J. Muleka (23, Beşiktaş, Süper Lig 22-23)",58.434170936322296
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Ivan Cavaleiro (29, Alanyaspor, Süper Lig 22-23)",82.56281948702804
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","G. N'Koudou (28, Beşiktaş, Süper Lig 22-23)",79.90856973239549
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Eskihellaç (25, Kasımpaşa, Süper Lig 22-23)",58.81531175463497
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Y. Akgün (22, Galatasaray, Süper Lig 22-23)",82.33049955123859
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","J. Lokilo (24, İstanbulspor, Süper Lig 22-23)",82.81264684398381
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","V. Gheorghe (26, Ümranıyespor, Süper Lig 22-23)",26.198809355534703
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","B. Celina (26, Kasımpaşa, Süper Lig 22-23)",78.9396179667303
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","P. Szysz (25, İstanbul Başakşehir, Süper Lig 22-23)",77.93457155533967
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Güler (18, Fenerbahçe, Süper Lig 22-23)",82.2614467119105
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","B. Yılmaz (23, Galatasaray, Süper Lig 22-23)",57.04047836479273
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Jean Evrard  Kouassi (28, Fatih Karagümrük, Süper Lig 22-23)",62.125207346003066
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","R. Murić (27, Konyaspor, Süper Lig 22-23)",73.59169232826122
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Chatzigiovanis (26, Ankaragücü, Süper Lig 22-23)",79.21273258410272
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","J. Sekidika (26, Ümranıyespor, Süper Lig 22-23)",71.98884810794368
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Djaniny (32, Trabzonspor, Süper Lig 22-23)",61.25900061264291
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Engin (26, Kasımpaşa, Süper Lig 22-23)",48.7966847939459
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Fortes (29, Nong Bua Pitchaya FC, Thai League 1 22-23)",80.88456048436198
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","S. Mueanta (20, Buriram United, Thai League 1 22-23)",72.6486283735124
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","P. Wokiang (28, Khon Kaen United, Thai League 1 22-23)",51.42441736443064
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","B. Phala (28, Port FC, Thai League 1 22-23)",80.41277708347921
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","S. Kannoo (26, Ratchaburi, Thai League 1 22-23)",30.4311047042799
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Mahmoud Eid (29, Bangkok United, Thai League 1 22-23)",57.61417253636877
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","J. Phasukihan (29, Nong Bua Pitchaya FC, Thai League 1 22-23)",73.99208146826567
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","S. Chatthong (30, Nakhon Ratchasima, Thai League 1 22-23)",44.20055578827749
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","S. Suvannaseat (21, Chiangrai United, Thai League 1 22-23)",-13.353681995989364
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Ouattara (32, Chonburi, Thai League 1 22-23)",59.48573878208164
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","P. Parmpak (30, Port FC, Thai League 1 22-23)",61.55589994111757
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","C. Promsrikaew (22, Chonburi, Thai League 1 22-23)",55.9535510667703
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","C. Laptrakul (28, Prachuap, Thai League 1 22-23)",78.6614942363466
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Ferrier (28, Nakhon Ratchasima, Thai League 1 22-23)",60.73816878503617
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Maung (27, Lamphun Warrior, Thai League 1 22-23)",59.779439822067104
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","E. Omondi (28, Muang Thong United, Thai League 1 22-23)",78.12433841763922
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","P. Charoenrattanapirom (29, Port FC, Thai League 1 22-23)",77.08800749357067
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","W. Srivichai (35, Lampang, Thai League 1 22-23)",31.47171576451113
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","J. Palapon (23, Khon Kaen United, Thai League 1 22-23)",24.853163476655315
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","T. Siriphala (27, Prachuap, Thai League 1 22-23)",68.33571428107489
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","J. Wonggorn (26, Muang Thong United, Thai League 1 22-23)",70.67813434473173
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Beraheng (27, Nakhon Ratchasima, Thai League 1 22-23)",58.85614476850039
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Islam Batran (28, Nong Bua Pitchaya FC, Thai League 1 22-23)",63.65265374034588
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","J. Baggio (31, Sukhothai, Thai League 1 22-23)",74.00733556595243
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Willian Popp (29, Muang Thong United, Thai League 1 22-23)",71.30943468116996
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","T. Butsombat (35, Khon Kaen United, Thai League 1 22-23)",24.190591538276315
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Y. Chaowana (27, Police Tero, Thai League 1 22-23)",14.78351176452487
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","J. Songma (27, Lampang, Thai League 1 22-23)",19.380603975595868
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","S. Thorarit (24, Sukhothai, Thai League 1 22-23)",62.23723523625935
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","C. Srinawong (30, Bangkok United, Thai League 1 22-23)",68.06500717002005
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","R. Poomchantuek (31, Bangkok United, Thai League 1 22-23)",81.16265419488535
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Stenio Junior (31, BG Pathum United FC, Thai League 1 22-23)",51.53169410597238
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","P. Reichelt (34, Prachuap, Thai League 1 22-23)",23.480973738236347
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","J. Ivančić (32, Lampang, Thai League 1 22-23)",-17.011391734342173
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","O. Bouguerra (24, Olympique Béja, Tunisian Ligue 1 22-23)",68.02350936664592
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","H. Khadraoui (24, Stade Tunisien, Tunisian Ligue 1 22-23)",72.84549289050638
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Hamdou Al Masry (29, ES Tunis, Tunisian Ligue 1 22-23)",86.41463917761652
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","W. Zaidi (24, Ben Guerdane, Tunisian Ligue 1 22-23)",62.17291507682872
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","L. Ben Hassine (23, Etoile du Sahel, Tunisian Ligue 1 22-23)",17.61993657191484
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Bouziane (27, Monastir, Tunisian Ligue 1 22-23)",59.28785799001892
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Mohmmed Juma (25, Ben Guerdane, Tunisian Ligue 1 22-23)",29.68609770330432
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Nasr Hamed (19, Ben Guerdane, Tunisian Ligue 1 22-23)",17.93888386938195
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","B. Brahmi (30, EO Sidi Bouzid, Tunisian Ligue 1 22-23)",34.64812623180944
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","B. Kabala (18, Métlaoui, Tunisian Ligue 1 22-23)",31.05410252486907
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","H. Chikhaoui (26, Monastir, Tunisian Ligue 1 22-23)",62.847392011442125
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","B. Mejri (27, Stade Tunisien, Tunisian Ligue 1 22-23)",48.60322781303962
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Habbassi (21, CS Sfaxien, Tunisian Ligue 1 22-23)",60.46355308461534
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Badri (32, ES Tunis, Tunisian Ligue 1 22-23)",61.17901369781104
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","K. Koffi (22, AS Soliman, Tunisian Ligue 1 22-23)",67.76512944029832
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","K. Özer (35, Bodrumspor, Turkish 1. Lig 22-23)",72.1408701254972
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","I. Olawoyin (25, Rizespor, Turkish 1. Lig 22-23)",76.21153366217925
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","B. Coban (28, Manisa BBSK, Turkish 1. Lig 22-23)",61.08715204728904
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)",46.639019825494735
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Mallé (25, Keçiörengücü, Turkish 1. Lig 22-23)",71.06808024372387
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Özek (35, Altınordu, Turkish 1. Lig 22-23)",28.814295445072336
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","L. Ayçiçek (29, Bandırmaspor, Turkish 1. Lig 22-23)",60.51935753962707
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","D. Diallo (22, Manisa BBSK, Turkish 1. Lig 22-23)",67.783234828004
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","B. Keser (26, Rizespor, Turkish 1. Lig 22-23)",75.11561417441074
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","K. Nzuzi (29, Tuzlaspor, Turkish 1. Lig 22-23)",51.61186088829503
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","S. Tetteh (26, Bandırmaspor, Turkish 1. Lig 22-23)",36.83238912141863
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)",79.3148985660163
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","D. Bregu (27, Boluspor, Turkish 1. Lig 22-23)",69.31563813278018
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","B. Alıcı (25, Samsunspor, Turkish 1. Lig 22-23)",71.22666545013986
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","R. Muhammed (29, Keçiörengücü, Turkish 1. Lig 22-23)",42.51744297177502
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Yahaya (21, Tuzlaspor, Turkish 1. Lig 22-23)",68.26692780524358
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","R. Babel (36, Eyüpspor, Turkish 1. Lig 22-23)",73.02979135313997
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Gakpa (29, Manisa BBSK, Turkish 1. Lig 22-23)",65.26784189938935
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","E. Gürlük (19, Altınordu, Turkish 1. Lig 22-23)",81.99979268389185
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. İnan (24, Keçiörengücü, Turkish 1. Lig 22-23)",35.873810595464214
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Rosheuvel (32, BB Erzurumspor, Turkish 1. Lig 22-23)",35.58208554907413
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","D. Emeksiz (23, Manisa BBSK, Turkish 1. Lig 22-23)",17.9194062717454
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","J. Kayamba (31, Boluspor, Turkish 1. Lig 22-23)",75.70752361476633
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","O. Roshi (32, Sakaryaspor, Turkish 1. Lig 22-23)",40.62741476346986
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","S. Özcan (26, Altınordu, Turkish 1. Lig 22-23)",44.45853628730151
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","H. Akbunar (29, Eyüpspor, Turkish 1. Lig 22-23)",71.84717569026617
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Demir (25, Gençlerbirliği, Turkish 1. Lig 22-23)",63.132013527109685
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","O. Imeri (23, Bodrumspor, Turkish 1. Lig 22-23)",13.52448252802978
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","C. Akgün (24, Yeni Malatyaspor, Turkish 1. Lig 22-23)",57.89927974838002
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","H. Bağ (32, Bandırmaspor, Turkish 1. Lig 22-23)",41.39158731142867
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","H. Taşcı (32, Sakaryaspor, Turkish 1. Lig 22-23)",16.89202302648905
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Mimaroğlu (28, Altınordu, Turkish 1. Lig 22-23)",80.47584946052673
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Okutan (26, Boluspor, Turkish 1. Lig 22-23)",54.78329207614115
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","S. Sahintürk (27, Bandırmaspor, Turkish 1. Lig 22-23)",48.96110978419401
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","S. Yılmaz (33, Rizespor, Turkish 1. Lig 22-23)",9.1450657620755
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","B. Basaçikoglu (28, Tuzlaspor, Turkish 1. Lig 22-23)",79.76500940487745
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Amilton (33, Rizespor, Turkish 1. Lig 22-23)",73.70619766266871
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","C. Soukou (30, Bandırmaspor, Turkish 1. Lig 22-23)",58.22762828592343
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","K. Mayi (30, Denizlispor, Turkish 1. Lig 22-23)",-25.215094173662436
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Özfesli (26, BB Erzurumspor, Turkish 1. Lig 22-23)",23.317233851859417
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)",41.46088291733203
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Özhan (22, BB Erzurumspor, Turkish 1. Lig 22-23)",-3.061832201927562
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Rharsalla (29, Gençlerbirliği, Turkish 1. Lig 22-23)",60.244573502837525
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)",31.234376905273376
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","А.Tuzcu (20, Gençlerbirliği, Turkish 1. Lig 22-23)",11.17018040380992
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","F. Ezeh (25, Eyüpspor, Turkish 1. Lig 22-23)",62.99423771586837
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","O. Belyaev (23, Gençlerbirliği, Turkish 1. Lig 22-23)",24.50118989458224
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Ali Saleh (23, Al Wasl, UAE Pro League 22-23)",86.2155434980292
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Fabio de Lima (29, Al Wasl, UAE Pro League 22-23)",74.9845326493053
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Aylton Boa Morte (29, Khorfakkan, UAE Pro League 22-23)",69.04206547401716
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Lourency (27, Al Bataeh, UAE Pro League 22-23)",74.13949766300576
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","S. Rahimi (26, Al Ain, UAE Pro League 22-23)",79.12910310247871
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Ali Madan (27, Ajman, UAE Pro League 22-23)",72.09764070189146
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Ryan Mendes (33, Al Nasr, UAE Pro League 22-23)",82.58263198599082
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Amer Bazuhair (31, Dibba Al Fujairah, UAE Pro League 22-23)",20.39820446060563
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Suhail Ahmed Al Noobi (27, Bani Yas, UAE Pro League 22-23)",40.16359278975767
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","P. Mboungou (22, Ajman, UAE Pro League 22-23)",47.65007499504264
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Bencharki (28, Al Jazira, UAE Pro League 22-23)",91.38914678027882
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Rayhi (28, Al Dhafra, UAE Pro League 22-23)",62.69616881420566
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","O. Traore (20, Al Jazira, UAE Pro League 22-23)",63.179772847025006
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Juninho (23, Khorfakkan, UAE Pro League 22-23)",75.16964919435651
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Jajá (24, Dibba Al Fujairah, UAE Pro League 22-23)",56.34588034730896
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Yarmolenko (33, Al Ain, UAE Pro League 22-23)",80.1965842919245
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Luan Pereira (23, Al Sharjah, UAE Pro League 22-23)",55.599413773385
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","O. Camara (22, Al Sharjah, UAE Pro League 22-23)",53.397939983990895
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","S. Gassama (22, Al Bataeh, UAE Pro League 22-23)",70.9897102469996
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)",79.11268719126812
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Yahya Al Ghassani (25, Shabab Al Ahli Dubai, UAE Pro League 22-23)",46.15080032246829
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)",81.7278099136707
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Harib Abdalla Suhail (20, Shabab Al Ahli Dubai, UAE Pro League 22-23)",76.50273059311019
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","B. Ramírez (22, Al Ittihad Kalba, UAE Pro League 22-23)",51.33042446430404
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Leandro Spadacio (23, Al Ittihad Kalba, UAE Pro League 22-23)",63.92234475363626
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Mohamed Al Junaibi (24, Al Dhafra, UAE Pro League 22-23)",12.352841860469708
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Ahmed Abunamous (23, Bani Yas, UAE Pro League 22-23)",67.6487567151442
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Diaby (31, Al Ittihad Kalba, UAE Pro League 22-23)",72.3965477554008
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Caio Canedo (32, Al Ain, UAE Pro League 22-23)",37.0061901176119
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","F. Kruspzky (20, Al Wahda, UAE Pro League 22-23)",31.367600301420488
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","T. Seferi (26, Vorskla, Ukrainian Premier Liha 22-23)",50.01289835981034
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","V. Solomon-Otabor (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",77.47514428195869
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","G. Pasich (29, Veres, Ukrainian Premier Liha 22-23)",56.361891395769895
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",37.67551109304276
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","R. Rusyn (27, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",54.18068621625408
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Y. Kartushov (32, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",12.485966519740137
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","O. Ilyin (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",33.63317706950664
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)",62.05041180403479
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","V. Naumets (24, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",74.40090121094788
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Zaderaka (28, Kryvbas KR, Ukrainian Premier Liha 22-23)",50.807626551462384
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","V. Dakhnovskyi (24, Veres, Ukrainian Premier Liha 22-23)",54.0327964877477
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","N. Voloshyn (19, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",41.8598137519972
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","S. Myakushko (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",70.31392134430962
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Y. Pidlepenets (24, Dnipro-1, Ukrainian Premier Liha 22-23)",49.515282970149
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","D. Blanco (28, Dnipro-1, Ukrainian Premier Liha 22-23)",54.92530904554948
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","V. Kalitvintsev (30, Oleksandria, Ukrainian Premier Liha 22-23)",71.38725293576131
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","N. Vorobchak (23, Minaj, Ukrainian Premier Liha 22-23)",60.95395775943408
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Z. Badibanga (31, Chornomorets, Ukrainian Premier Liha 22-23)",50.625494159312126
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","V. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",74.7568881090459
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",74.16863076839303
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","V. Kabaev (27, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",80.53429267554948
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","O. Kozak (28, Inhulets, Ukrainian Premier Liha 22-23)",69.83434766831927
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","D. Alefirenko (23, Chornomorets, Ukrainian Premier Liha 22-23)",74.21773097419207
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","B. Boychuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",71.5947336219668
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","V. Tsygankov (25, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",78.21845837168595
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","V. Rogozynskyi (27, Minaj, Ukrainian Premier Liha 22-23)",17.452955305791424
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","E. Kuliev (21, Minaj, Ukrainian Premier Liha 22-23)",29.09128457462392
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","O. Zubkov (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",57.73591024022178
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","V. Odaryuk (29, Inhulets, Ukrainian Premier Liha 22-23)",5.123810353765634
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",51.43995787275449
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","D. Kryskiv (22, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",63.03197146818248
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Bliznichenko (28, Veres, Ukrainian Premier Liha 22-23)",57.57460360405082
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)",80.10699191348726
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",61.26822564618516
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",67.22190020478625
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",36.62500873384294
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",56.10760215936557
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",73.08178454314205
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",69.4010445511799
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",80.43380739508996
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",84.59886541951697
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",36.66253212813021
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",75.3363297384609
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",36.58991665891429
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",77.37261571299845
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",19.38019847422238
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",64.44947476720867
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",64.79078646573709
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",45.00151225257258
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",74.50067313138933
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",61.17915133686324
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",64.04809920963032
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",78.50164029848958
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",67.37540524582785
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",43.08664965327317
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",35.415436493459005
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",75.99084837560682
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",62.78016821035243
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",53.286780024052405
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",1.9134406315718155
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",66.346704722461
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",-14.635670650457511
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",81.39632891337469
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",59.08388638701977
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",65.33017258712852
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",42.717230249053536
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",73.60303406770295
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",78.68301085923602
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",42.344320107786864
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",54.95857508552998
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",67.17977333041377
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",20.647115401270923
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",81.61131694923974
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",64.30353443565305
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",-8.4978994093161
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",68.3084718475222
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",28.58886804919764
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",66.90123788894813
-"Y. Sarı (24, Adana Demirspor, Süper Lig 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",82.04602712181972
+Player,Similarity
+"A. Laurienté (24, Sassuolo, Serie A 22-23)",94.59012325279346
+"E. Zhegrova (24, Lille, Ligue 1 22-23)",93.17140759564278
+"M. Edwards (24, Sporting CP, Primeira Liga 22-23)",92.75227318803368
+"A. Bencharki (28, Al Jazira, UAE Pro League 22-23)",91.38914678027882
+"F. Coman (25, FCS Bucureşti, SuperLiga României 22-23)",91.0542855957407
+"F. Chiesa (25, Juventus, Serie A 22-23)",90.84953213738456
+"A. Silipo (22, Juve Stabia, Serie C 22-23)",90.73974562061308
+"N. Grigoryan (21, Urartu, Armenian Premier League 22-23)",90.55316938401528
+"Gabriel Martinelli (21, Arsenal, Premier League 22-23)",90.48591054144136
+"Abdelrahman Magdi (25, Ismaily, Egyptian Premier League 22-23)",90.38292388085732
+"Fred Saraiva (26, Fram, Iceland Besta-Deild Karla 2023)",90.26555685196148
+"A. Fathier (27, Persis Solo, BRI Liga 1 22-23)",89.88095464112548
+"Serginho (22, UD Oliveirense, Portugal Segunda Liga 22-23)",89.82239389074797
+"David Neres (26, Benfica, Primeira Liga 22-23)",89.81762695876165
+"A. Doumbia (23, Karmiotissa, Cyprus 1. Division 22-23)",89.66938357994465
+"E. Fati (29, Mafra, Portugal Segunda Liga 22-23)",89.55515428434327
+"D. Sanches Fernandes (21, Utrecht II, Eerste Divisie 22-23)",89.39056546747707
+"M. Diaby (23, Bayer Leverkusen, Bundesliga 22-23)",89.17774852416946
+"C. Ikonomidis (28, Melbourne Victory, A-League Men 22-23)",89.12442022117962
+"R. Mahrez (32, Manchester City, Premier League 22-23)",89.02086812966257
+"R. Insigne (29, Frosinone, Serie B 22-23)",89.01377979553241
+"J. Trenskow (22, HB Køge, Danish 1. Division 22-23)",88.90540239446139
+"G. Rusev (24, CSKA 1948 Sofia, Bulgarian First League 22-23)",88.74024691304726
+"J. Karlsson (24, AZ, Eredivisie 22-23)",88.66309726354564
+"J. Duarte (26, Ararat-Armenia, Armenian Premier League 22-23)",88.56824332803984

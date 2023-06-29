@@ -1,40 +1,26 @@
-Player 1,Player 2,Similarity
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",72.0860993996737
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",38.21583491235545
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","J. Rivero (23, Racing, Uruguay Primera División 2023)",57.19513268238781
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",48.37557078335343
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",70.47509743723013
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","L. País (28, Wanderers, Uruguay Primera División 2023)",10.416588517091428
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",53.21931411775945
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",64.66481340247024
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",45.31328122984418
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","P. García (24, River Plate, Uruguay Primera División 2023)",78.7867243674073
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",44.64689810431944
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",58.392790576034784
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",61.563236915990295
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",73.64214328913323
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",27.816004524140965
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",41.424654411144665
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",63.25775707146661
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",55.928428629611794
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",41.12116544140735
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",1.6723736636405655
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",69.7371673496848
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",-15.329971568300188
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","T. Keskinen (20, HJK, Veikkausliiga 2023)",59.276163848214935
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","S. Haarala (23, Ilves, Veikkausliiga 2023)",43.89513345441903
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",71.732671848789
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","L. Rogerson (25, Haka, Veikkausliiga 2023)",31.26375682479816
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",59.67869158365098
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",64.81679227701952
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",34.09506672625033
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","M. Correa (21, FK Metta, Virsliga 2023)",58.90507366811182
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",64.54494876423959
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",15.380563198222063
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","Emerson Deocleciano (23, RFS, Virsliga 2023)",80.53064488489284
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",39.65732421614313
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",-9.910873799125737
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",49.21043974834403
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","M. Diop (20, Valmiera FC, Virsliga 2023)",12.027720740173017
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",49.320407708686446
-"A. Medina (25, Liverpool, Uruguay Primera División 2023)","O. Niang (21, Riga FC, Virsliga 2023)",74.37347149093918
+Player,Similarity
+"Y. Belaïli (31, Ajaccio, Ligue 1 22-23)",87.62974724156763
+"L. D'Orazio (23, Mantova, Serie C 22-23)",85.67237067634575
+"H. Ojamaa (32, Flora, Estonian Meistriliiga 2023)",85.53396019169793
+"S. Rahimi (26, Al Ain, UAE Pro League 22-23)",85.52111068408911
+"D. Berardi (28, Sassuolo, Serie A 22-23)",85.0369356055832
+"F. Maciel (29, Torreense, Portugal Segunda Liga 22-23)",84.50065897268404
+"E. Fati (29, Mafra, Portugal Segunda Liga 22-23)",84.42789750842152
+"Telmo Arcanjo (21, Tondela, Portugal Segunda Liga 22-23)",84.39347984016007
+"D. Soltész (22, Gyirmót, NB II 22-23)",84.34000535274063
+"S. March (28, Brighton, Premier League 22-23)",84.26261251038295
+"B. Tekpetey (25, Ludogorets, Bulgarian First League 22-23)",84.2130566016608
+"Samu Castillejo (28, Valencia, La Liga 22-23)",84.07845648130689
+"Jota (24, Celtic, Scottish Premiership 22-23)",83.76120549609716
+"Willian Popp (29, Muang Thong United, Thai League 1 22-23)",83.72896462705025
+"J. Karlsson (24, AZ, Eredivisie 22-23)",83.61165969132918
+"F. Chiesa (25, Juventus, Serie A 22-23)",83.56207614379863
+"A. Yarmolenko (33, Al Ain, UAE Pro League 22-23)",83.53867252439467
+"B. Palacios (25, Binacional, Peruvian Liga 1 2023)",83.43068699654151
+"L. Abada (21, Celtic, Scottish Premiership 22-23)",83.2202162733769
+"M. Rashica (26, Galatasaray, Süper Lig 22-23)",83.20214742935792
+"M. Skóraś (23, Lech Poznań, Ekstraklasa 22-23)",83.07714336786172
+"A. Warda (29, Apollon, Cyprus 1. Division 22-23)",83.0523388825917
+"S. Silvera (22, Central Coast Mariners, A-League Men 22-23)",83.0331037787404
+"C. Conteh (23, Dynamo Dresden, 3. Liga 22-23)",82.89292798528277
+"M. Diaby (23, Bayer Leverkusen, Bundesliga 22-23)",82.86933978449706

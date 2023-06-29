@@ -1,123 +1,26 @@
-Player 1,Player 2,Similarity
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",23.487862174749736
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",61.81618378072707
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",11.62785848376979
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",42.66496663192324
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",24.740587328627072
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",24.00802397439024
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",46.34501296832602
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",13.639717144389708
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",60.99974342293245
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",36.01940404151412
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",23.910869510555564
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",28.35252431895076
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",35.36902377680901
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",19.840757870887337
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",4.854232744336616
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",24.40949444484397
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",59.9039398974026
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",27.996457237946878
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",59.83293806263759
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",-6.767909137040262
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","I. Jebali (31, OB, Superliga 22-23)",34.7692192153755
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",27.792864077146227
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",-0.766178563404676
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",-3.497783700431863
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",53.220443042781184
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",43.81249608593736
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",53.20431840998051
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",8.727118386122893
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",23.83907821668099
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",9.545745402763536
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",31.00992572605177
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",22.65435122897222
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",15.57146525352508
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",-10.407002786727643
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",-5.925314716080461
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",45.36639328605162
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",12.141971070624615
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",41.9771773723457
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",38.42568440969741
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",5.85036181597058
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",23.62649906829963
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",6.902165253975763
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",35.2074024303998
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",4.4155931176080205
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",11.863473477617552
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",28.81960755786582
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",38.99868537969786
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",49.6814776258442
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",0.6517646986412061
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",-8.978579824627257
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",21.910025066662296
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",23.4516256235106
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",41.78118934934106
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",21.42468050764092
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",58.572685968906654
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",26.064958603384703
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",13.730334868521677
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",9.53061326540648
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",30.044034532943257
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",48.86729902540554
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",-9.637936029788422
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",27.000105178574863
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",50.97635925173303
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",40.90809241896939
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",30.112973623674197
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",46.23092060955184
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",16.175927605303688
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",44.95397481725549
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",39.49293785550233
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",12.134588896060508
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",32.28998960242325
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",-15.924023979434892
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",2.917432809247802
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-12.95193074671118
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-36.57456225253526
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",-5.691928813237842
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",15.267008343266022
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",4.166191579393852
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",11.512276514894818
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",11.348174326049335
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",9.686055435669038
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",-22.98786793996493
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",18.19138766320445
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",14.625291386349604
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",15.50540448972634
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",27.477172649306485
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",17.20853704731877
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",64.00519145657043
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-15.1731739127292
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",-14.159113531529789
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",59.61031236400822
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-41.78871784977865
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",-14.086404732642196
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",-2.165990725484023
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",36.56646421697673
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",19.855244348247677
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",49.51289830148624
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",19.69919204898333
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",7.454050872741225
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",29.014052528693068
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-2.5984126407234576
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",65.69513328598636
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",-2.0504226463656376
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",40.403143878939815
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",27.7909607317982
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",26.121250906615884
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",3.024605031362117
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",36.117911019593
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",14.964773486003672
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",4.587385482889302
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",13.44754414918244
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-16.782396315935998
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",2.309364626173398
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",30.51059494570086
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",-22.19188126695236
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",19.992640093108434
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",43.84830391478127
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",23.52831070122794
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",49.12629085823996
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",-2.768642599227972
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",41.95487927921579
-"B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",30.67846912713107
+Player,Similarity
+"B. El Khannous (19, Genk, Belgian Pro League 22-23)",76.12601656718127
+"Bicho (27, San Fernando, Primera División RFEF 22-23)",75.17323026429251
+"Manu García (25, Aris, Greek Super League 22-23)",74.82679344235385
+"Mohamed Reda (22, Future, Egyptian Premier League 22-23)",74.71521868234417
+"S. Bendebka (30, Al Fateh, Saudi Professional League 22-23)",72.09514728785965
+"O. Pineda (27, AEK Athens, Greek Super League 22-23)",70.81666406762791
+"M. Bakić (29, OFI, Greek Super League 22-23)",70.14820407223785
+"F. Sassi (31, Al Duhail, Qatari Stars League 22-23)",67.25886655944069
+"A. Gholizadeh (26, Charleroi, Belgian Pro League 22-23)",66.29101973943263
+"Alberto Noguera (33, Mumbai City, Indian Super League 22-23)",65.93991390472051
+"K. Cerdas (27, Cartaginés, Costa Rica Primera División 22-23)",65.91692955358785
+"M. Moutaouali (37, Ittihad Tanger, Botola Pro 22-23)",65.79265620883254
+"E. Sylvestre (23, Pau, Ligue 2 22-23)",65.74122743223614
+"Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",65.69513328598636
+"O. El Kaddouri (32, PAOK, Greek Super League 22-23)",65.51891874983285
+"R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",64.16491196011998
+"S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",64.00519145657043
+"A. Thapa (25, Chennaiyin FC, Indian Super League 22-23)",63.46542257986077
+"Lucas Paquetà (25, West Ham United, Premier League 22-23)",63.38548536079143
+"Afsha (27, Al Ahly, Egyptian Premier League 22-23)",63.19968165034887
+"E. Galbraith (22, Salford City, League Two 22-23)",63.08122555022781
+"F. Boulaya (30, Al Gharafa, Qatari Stars League 22-23)",62.48500189168868
+"F. Neuhaus (26, Borussia M'gladbach, Bundesliga 22-23)",62.48394431490623
+"Yelko Pino (26, Pontevedra, Primera División RFEF 22-23)",62.27748350759386
+"A. Lucero (24, Budućnost, Montenegro First League 22-23)",62.22722755567529

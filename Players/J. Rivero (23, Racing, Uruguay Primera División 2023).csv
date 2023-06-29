@@ -1,37 +1,26 @@
-Player 1,Player 2,Similarity
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",24.166006369707883
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",55.83359293266316
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","L. País (28, Wanderers, Uruguay Primera División 2023)",21.61872190294309
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",80.94143023069051
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",78.07233074466843
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",35.79726519356938
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","P. García (24, River Plate, Uruguay Primera División 2023)",62.84014434896174
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",61.01380761219693
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",52.56242722667215
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",58.350191753456215
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",52.72319382644592
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",62.36895114336437
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",34.080210138100576
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",76.57168505071868
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",39.881907425478
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",58.77985335121581
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",32.44346723848018
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",48.25440596628845
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",-4.306253909338502
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","T. Keskinen (20, HJK, Veikkausliiga 2023)",74.7836815698774
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","S. Haarala (23, Ilves, Veikkausliiga 2023)",56.08167243191154
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",62.20129364847612
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","L. Rogerson (25, Haka, Veikkausliiga 2023)",53.6017288050512
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",63.610755244509534
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",65.23553703309717
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",47.195957464155335
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","M. Correa (21, FK Metta, Virsliga 2023)",23.897137747381432
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",61.46536953085134
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",35.69827910786298
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","Emerson Deocleciano (23, RFS, Virsliga 2023)",52.67061069040128
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",54.61963875059197
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",-4.709901962030235
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",69.35895863930716
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","M. Diop (20, Valmiera FC, Virsliga 2023)",26.34759324415583
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",67.49687038442661
-"J. Rivero (23, Racing, Uruguay Primera División 2023)","O. Niang (21, Riga FC, Virsliga 2023)",59.797829391289184
+Player,Similarity
+"Nahuel Arroyo (28, Cornellà, Primera División RFEF 22-23)",86.61958515902961
+"M. Simon (27, Nantes, Ligue 1 22-23)",86.54436938059715
+"L. Maina (23, Köln, Bundesliga 22-23)",86.31011052957123
+"L. Kastrati (24, Fehérvár, NB I 22-23)",85.73238323621852
+"S. Shamal (27, Annecy, Ligue 2 22-23)",85.15140085987264
+"M. Petržela (39, Slovácko, Czech Fortuna Liga 22-23)",84.79828479912284
+"G. Ott (21, Academico Viseu, Portugal Segunda Liga 22-23)",83.91026232364695
+"E. Hansson (24, Heracles, Eerste Divisie 22-23)",83.61069681998168
+"Luis Rioja (29, Deportivo Alavés, La Liga 2 22-23)",83.58479195878442
+"C. Gómez (20, Real Salt Lake, MLS 2023)",82.16905071143549
+"S. Lobjanidze (28, Fatih Karagümrük, Süper Lig 22-23)",82.05535776816781
+"Liberto Beltrán (26, Alcoyano, Primera División RFEF 22-23)",82.01746283851487
+"D. Moreno (28, Deportivo Pasto, Colombian Primera Division 22-23)",81.99578427424876
+"A. Dagrou (22, Ararat, Armenian Premier League 22-23)",81.99485899765871
+"B. Guzmán (23, Arsenal de Srandí, Argentinian Primera División 2023)",81.8510909639555
+"M. Yasir (24, Hyderabad FC, Indian Super League 22-23)",81.53844420286653
+"J. Wallace (29, West Bromwich Albion, Championship 22-23)",81.50813543545623
+"N. P.N (22, Gokulam Kerala, I-League 22-23)",81.26544393254778
+"B. Vogyicska (20, Kozármisleny, NB II 22-23)",81.2178400903457
+"C. Johansson (24, VVV Venlo, Eerste Divisie 22-23)",81.15807253776211
+"Y. Bárcenas (29, Mazatlán, Liga MX 22-23)",81.05662329359504
+"P. Bertaccini (25, Floridsdorfer AC, Austrian 2. Liga 22-23)",80.98064934123589
+"C. Zavala (23, Curicó Unido, Chilean Primera División 2023)",80.95882403510736
+"A. Alaniz (21, Racing, Uruguay Primera División 2023)",80.94143023069051
+"A. Drljo (20, Željezničar, Bosnian Premier League 22-23)",80.89032958890886

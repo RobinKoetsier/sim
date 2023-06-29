@@ -1,157 +1,26 @@
-Player 1,Player 2,Similarity
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",13.676276027329864
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",52.76583951910462
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",39.81717005726669
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",39.18137676767942
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",62.67005637114417
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","N. Belloni (28, Siena, Serie C 22-23)",41.25948355975947
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Frediani (29, Siena, Serie C 22-23)",60.036251576824974
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","F. Urso (28, Torres, Serie C 22-23)",48.01826407417472
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",79.59763044748242
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","G. Lisai (33, Torres, Serie C 22-23)",50.24841064630068
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",63.078103452247205
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","C. Attys (22, Trento, Serie C 22-23)",30.023014071404617
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",59.46097432957895
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",31.872133472098284
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",43.40469426547985
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",9.495622176149125
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",57.23170336261549
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",57.13080881827322
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",26.55868804147253
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",60.841786937492
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",31.76072439398017
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",40.073911795860255
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",69.75134779268983
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",29.36168590087696
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",68.80941849156925
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",28.005239325161867
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",58.81410847092896
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",71.07690292791689
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",53.10071965594402
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",32.0147923398709
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",52.94911170829797
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",26.908161810493908
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",14.67346351228411
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",13.14283269445751
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",37.40850741688991
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",13.280430545812614
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",55.050666258667526
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",74.1086772099757
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",32.78419358539024
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",7.035529747785551
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",39.575010434941206
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",39.86663548526301
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",29.074377365142457
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",-11.275245691395652
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",52.07658772595498
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",37.58677077068673
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",50.79645889703615
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",27.510051681534524
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-10.941811081774146
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-42.84970046528087
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",67.56634352104828
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",26.975330079437736
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",44.55965143367137
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",-15.913025384820097
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","I. Jebali (31, OB, Superliga 22-23)",75.35590677399946
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",34.09419458926991
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",49.77359537061366
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",56.50315222833731
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",41.98958388171476
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",48.55694378501182
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",63.504069575561694
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",79.54873576688746
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",45.90877835294373
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",52.07874210048114
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",49.766358617490056
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",55.425868297678285
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",70.65926415847461
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",67.6828247861399
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",30.40922853226111
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",57.9259588112273
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",46.21808129161529
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",69.49624291376335
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",62.00787362597997
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",59.32987899568617
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",48.530660233014046
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",41.341498967427015
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",47.47109837247668
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",58.7297978926332
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",37.3351724026102
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",63.32997859635599
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",24.010475060288314
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",21.74256379678773
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",10.032505574006333
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",21.30159201026672
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",56.25484435079515
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",60.04438201229559
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",72.32503586486314
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",37.212490158907066
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",18.39126885736928
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",24.68188180732782
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",52.03832488376195
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",43.94153869103203
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",63.82020320036291
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",-1.2628103298384323
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",10.0078145218506
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",35.969515929784336
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",60.35824742509017
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",44.91785197773201
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",63.4647349814037
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",34.28938760209196
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",64.97096474962053
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",57.43467351573882
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",63.56647093440849
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",59.64423078791037
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",7.582732311005004
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",2.913130360888563
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",47.35347437209273
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",50.807460933808265
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-5.582612584651803
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",36.02682405951485
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",55.45014341252777
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",40.89067607616567
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",67.97692171588743
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",4.323533316305607
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",59.94816365956014
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",52.41134220415699
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",24.98237404974596
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",82.85746247352111
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-3.3774658775259745
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",-17.1225152073218
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",5.270873844090591
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",11.76622677525864
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-2.7150160798082243
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",16.099747610341737
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",53.71706567505852
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",2.98273893322669
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",34.41254276690701
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",6.702854277762356
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",59.96542868541555
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",17.842668741551147
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",43.591071332398826
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",50.095293438184
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",19.13534377395449
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",-13.615573006713836
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-49.58940491613147
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",51.844272637252296
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",61.21403266804618
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",7.671152919103383
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",32.49617306858584
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",55.00712439948055
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",40.10572032152063
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",61.82895983488434
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",25.339306419181955
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",26.233614840111503
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",24.69833997418574
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",4.267064220523055
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",66.57551506731026
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",41.81006222237038
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",44.81582579778676
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",15.399801662086654
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",60.3145898732387
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",62.02305425927901
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",60.76161372578639
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",48.7887864093081
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",56.93893192727387
-"N. Bruschi (24, Pro Sesto, Serie C 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",62.173428389382856
+Player,Similarity
+"C. Halper (25, Lafnitz, Austrian 2. Liga 22-23)",87.99825886886671
+"N. Chilvers (22, Colchester United, League Two 22-23)",83.85237489214542
+"Isael (35, Al Jabalain, Saudi First Division 22-23)",83.62638181750523
+"M. Beit-Ya''akov (26, Maccabi Kabilio Jaffa, Liga Leumit 22-23)",83.49775574931988
+"K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",82.85746247352111
+"M. Ševčík (20, Zbrojovka Brno, Czech Fortuna Liga 22-23)",80.92862955865947
+"S. Verdi (30, Hellas Verona, Serie A 22-23)",80.12424939837352
+"E. Saporiti (21, Torres, Serie C 22-23)",79.59763044748242
+"A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",79.54873576688746
+"J. Lankester (23, Cambridge United, League One 22-23)",78.635628918647
+"A.  Lőrinczy (29, Diósgyőr, NB II 22-23)",77.7799728814627
+"S. Khaoui (28, Clermont, Ligue 1 22-23)",77.74174489914239
+"D. Hotič (27, Cercle Brugge, Belgian Pro League 22-23)",77.68674137607104
+"Álvaro Romero (26, Algeciras, Primera División RFEF 22-23)",77.64240710209543
+"Z. Jánó (18, Liefering, Austrian 2. Liga 22-23)",77.3898325774267
+"Abdelrahman Khaled (27, Al Mokawloon, Egyptian Premier League 22-23)",77.28818758496271
+"I. Pherai (22, Eintracht Braunschweig, 2. Bundesliga 22-23)",77.2872344652894
+"P. Mišić (28, Tuzla City, Bosnian Premier League 22-23)",77.27864950593168
+"J. Velásquez (29, Xelajú, Guatemala Liga Nacional 22-23)",77.26718556680396
+"R. Safouri (27, Hapoel Be'er Sheva, Ligat Ha'al 22-23)",76.72922373091502
+"A. Hunter (27, Morecambe, League One 22-23)",76.68550290073934
+"A. Lugasi (18, Maccabi Petah Tikva, Liga Leumit 22-23)",76.65670115556881
+"O. Aydin (28, Hartberg, Austrian Bundesliga 22-23)",76.28584313532488
+"E. Henderson (23, Hibernian, Scottish Premiership 22-23)",75.92625017189071
+"R. Lakhmidi (23, Difaâ El Jadida, Botola Pro 22-23)",75.6287629578117

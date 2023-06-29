@@ -1,182 +1,26 @@
-Player 1,Player 2,Similarity
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",14.799216294570286
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",57.19801633387419
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",7.702011907412534
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",25.517609519812613
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",37.26410982630843
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",65.41676274125489
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",29.977997603647395
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",7.788540634342151
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",-8.977348699986871
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",48.23363921573349
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",18.233074314031672
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",10.90440733428511
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",43.912819182368935
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",26.197653799662618
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",-13.860264423519958
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",11.743098528922092
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",25.8894653316039
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",46.15036877398364
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",59.65949280625609
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",1.6481657612198537
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",16.372106081206766
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",36.36942435256302
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",25.309258094956338
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",42.66522415732064
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",17.635304039145254
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",22.606663947416795
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",18.25155985277933
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",21.95151781004605
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",0.2408715828867926
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",12.01299012449787
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",24.69205458363509
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",49.98748594753914
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",-0.7458645467277821
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",36.9040577924712
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",34.50260643998926
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",13.595329485565962
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",54.02516982226179
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",71.27413753656782
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",5.055464441399073
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",35.7971720308769
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",18.97996945836192
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",29.020653326787095
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",35.3273272171948
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",60.40758140749812
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",70.19092133040063
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",45.856100416542816
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",-7.5344624005456176
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",50.43841483565814
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",27.06276854892624
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",57.94719993256028
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",48.09853903256264
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",55.52862086780823
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",12.487284619486571
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-1.4414357152348622
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",12.518330968020203
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",-0.2145710313297987
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",37.0940010778536
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",35.038806004706345
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",-0.9018677217315736
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",15.348444608541012
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",22.735382222921665
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",40.90666472757096
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",55.71760379057198
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",42.95027120615024
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",69.27615328940934
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",42.8763392390859
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",14.46493341876009
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-19.44833787194336
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",63.253097328446586
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",70.17657008420616
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",61.41865296796405
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",-0.9553365021558482
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",15.0624218219824
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-5.491068170070286
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",-15.975977570986547
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",34.96988256266466
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",22.117725421928466
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",63.45021515419976
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",31.16596521995516
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",30.428140222705657
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",15.594091941281546
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",13.054448260829998
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",-3.0588556345860622
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",13.241719955344996
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",58.39147077599584
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",3.995895126573509
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",41.37588158479919
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",20.09392091617723
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",31.656688766436243
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",39.782318942751296
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",37.56821974304847
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",36.45336759777332
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",43.371090997831296
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",-0.4925053491228178
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",62.69238788358867
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",42.14419733807605
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",40.32707378797944
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",23.61627258065018
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",67.39943978248483
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",-7.108432004510921
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",69.9334720936443
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",36.94188471663802
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",18.356289979393424
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",27.34605922912326
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",63.52988927908236
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",13.700859965593809
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",25.97604467700926
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",73.86951997438335
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",-1.271766900591862
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",-0.5107116713073777
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",-19.19336011093016
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",36.2843238556403
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",46.95096836588729
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",53.85530699450797
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",40.13424451424494
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",55.3939897947528
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",25.003116538119137
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",48.93530919188384
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",-7.129646369767534
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",18.376452783798666
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",17.211486585299188
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",24.764849693517927
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",37.06356091848465
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",31.591120076544023
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",0.9955650530094424
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",17.872717381274327
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",45.28765970586889
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",-2.647891799693144
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",35.11470924108454
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",-7.088577535873221
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",25.586881892721923
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",27.420695710903715
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",39.1534290305364
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",27.857917361229934
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",58.96155008578331
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",27.537074694813352
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",36.42319701985798
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",5.253932636527005
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",16.679091091030482
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",12.681432538224882
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",-13.916071821589007
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",18.005077107541158
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",-7.799831198249507
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",-9.782821184881966
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",1.9798526776909
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",9.881074543892414
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",1.3563550338038732
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",21.71910506545492
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",22.48064778467706
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",-17.910678176908377
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",-24.45452800092836
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",5.809141304928798
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",-9.05244622631534
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",18.692461366088963
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",28.13710009018346
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",25.789714266115592
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",53.78002313132159
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",43.6875590611392
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",33.30954961586362
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",12.465847675611055
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",29.136587066428927
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",70.0444936737146
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",20.549826614504727
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",71.51862602598075
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","P. Mareš (32, RFS, Virsliga 2023)",3.8944491052400303
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-2.7249141904032856
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",50.91231610024474
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",13.385201193039556
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",27.30198526278048
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",6.618395426942997
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",63.21696236580853
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",61.172986183193615
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",19.53838602798357
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",61.83124852077947
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",16.98083440691133
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",58.2216489295583
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",-16.20910027602032
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",58.26443720367194
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",3.132222759500386
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",49.90088782042964
-"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",42.953659574377134
+Player,Similarity
+"Zhen'ao Wang (23, Dalian Pro, Chinese Super League 2023)",87.02562719014504
+"P. Ternován (25, Soroksár SC, NB II 22-23)",86.84344755252127
+"F. Novotný (27, Hradec Králové, Czech Fortuna Liga 22-23)",85.39265312526243
+"K. Ehizibue (27, Udinese, Serie A 22-23)",83.11014789813336
+"N. Pierozzi (21, Reggina, Serie B 22-23)",81.24337415294491
+"F. Dadić (22, Sloga Doboj, Bosnian Premier League 22-23)",80.4126710654683
+"K. Kállai (21, Mezőkövesd-Zsóry, NB I 22-23)",80.35721467489938
+"J. Kuzdra (25, Chrobry Głogów, Polish I Liga 22-23)",80.21110594501084
+"P. Pešukić (25, Novi Pazar, Serbian SuperLiga 22-23)",80.05383227684952
+"O. Sych (22, Kortrijk, Belgian Pro League 22-23)",79.06974390822127
+"E. Alić (23, Domžale, 1. SNL 22-23)",78.93026387765728
+"A. Yordanov (21, OFK Pirin, Bulgarian First League 22-23)",78.87987891496628
+"Alejandro Benítez (23, Algeciras, Primera División RFEF 22-23)",78.73274089551157
+"A. Rami (25, Kastrioti Krujë, Albanian Premier League 22-23)",78.20300787684289
+"Z. Grech (22, Hibernians, Malta Premier League 22-23)",78.08626230923113
+"Y. Mechergui (23, CA Bizertin, Tunisian Ligue 1 22-23)",78.04893828499306
+"D. Ndure (23, VfB Oldenburg, 3. Liga 22-23)",77.67159029575718
+"J. Guevara (0, CD Universitario, Panama LPF 2023)",77.53683904520983
+"Víctor Parada (21, Real Unión, Primera División RFEF 22-23)",77.47670615699796
+"D. Petronijević (21, Kolubara, Serbian SuperLiga 22-23)",77.38383706040923
+"M. Antoniou (29, Anorthosis, Cyprus 1. Division 22-23)",76.85634462122403
+"Álvaro Ramón (23, Mérida AD, Primera División RFEF 22-23)",76.80020355855869
+"M. Promsawat (27, Chiangrai United, Thai League 1 22-23)",76.42208951520398
+"T. Kapetanović (19, Sloboda Tuzla, Bosnian Premier League 22-23)",75.92450281670418
+"M. Hellal (21, Hammam-Sousse, Tunisian Ligue 1 22-23)",75.73781882806358

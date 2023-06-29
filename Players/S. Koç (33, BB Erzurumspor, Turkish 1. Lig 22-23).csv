@@ -1,116 +1,26 @@
-Player 1,Player 2,Similarity
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Özhan (22, BB Erzurumspor, Turkish 1. Lig 22-23)",2.956818524459245
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Rharsalla (29, Gençlerbirliği, Turkish 1. Lig 22-23)",27.057721207013707
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)",2.2448839362200013
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","А.Tuzcu (20, Gençlerbirliği, Turkish 1. Lig 22-23)",7.960492235213441
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","F. Ezeh (25, Eyüpspor, Turkish 1. Lig 22-23)",7.682875109583702
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Belyaev (23, Gençlerbirliği, Turkish 1. Lig 22-23)",30.21415350253549
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Ali Saleh (23, Al Wasl, UAE Pro League 22-23)",55.51745314162295
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Fabio de Lima (29, Al Wasl, UAE Pro League 22-23)",10.293660634838677
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Aylton Boa Morte (29, Khorfakkan, UAE Pro League 22-23)",45.37138133962207
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Lourency (27, Al Bataeh, UAE Pro League 22-23)",50.11972705423848
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","S. Rahimi (26, Al Ain, UAE Pro League 22-23)",46.93649579028393
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Ali Madan (27, Ajman, UAE Pro League 22-23)",41.090923468274376
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Ryan Mendes (33, Al Nasr, UAE Pro League 22-23)",50.275424992867976
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Amer Bazuhair (31, Dibba Al Fujairah, UAE Pro League 22-23)",34.63247648940513
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Suhail Ahmed Al Noobi (27, Bani Yas, UAE Pro League 22-23)",23.140977763350048
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","P. Mboungou (22, Ajman, UAE Pro League 22-23)",15.664487217829498
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Bencharki (28, Al Jazira, UAE Pro League 22-23)",37.422024169132726
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Rayhi (28, Al Dhafra, UAE Pro League 22-23)",41.89373452826617
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Traore (20, Al Jazira, UAE Pro League 22-23)",61.19391036170442
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Juninho (23, Khorfakkan, UAE Pro League 22-23)",48.790074644439386
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Jajá (24, Dibba Al Fujairah, UAE Pro League 22-23)",38.01523830267737
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Yarmolenko (33, Al Ain, UAE Pro League 22-23)",52.92666736652771
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Luan Pereira (23, Al Sharjah, UAE Pro League 22-23)",25.476369257404563
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Camara (22, Al Sharjah, UAE Pro League 22-23)",6.992853122033569
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","S. Gassama (22, Al Bataeh, UAE Pro League 22-23)",28.93279844159922
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)",49.73181453219624
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Yahya Al Ghassani (25, Shabab Al Ahli Dubai, UAE Pro League 22-23)",44.21841761935861
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)",47.65229077298687
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Harib Abdalla Suhail (20, Shabab Al Ahli Dubai, UAE Pro League 22-23)",35.70149173879526
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","B. Ramírez (22, Al Ittihad Kalba, UAE Pro League 22-23)",14.027375938247795
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Leandro Spadacio (23, Al Ittihad Kalba, UAE Pro League 22-23)",56.781640229717965
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Mohamed Al Junaibi (24, Al Dhafra, UAE Pro League 22-23)",49.68878739322867
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Ahmed Abunamous (23, Bani Yas, UAE Pro League 22-23)",59.91135844711909
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Diaby (31, Al Ittihad Kalba, UAE Pro League 22-23)",24.80816446225478
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Caio Canedo (32, Al Ain, UAE Pro League 22-23)",-7.830623033408608
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","F. Kruspzky (20, Al Wahda, UAE Pro League 22-23)",17.94443710385663
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","T. Seferi (26, Vorskla, Ukrainian Premier Liha 22-23)",32.50780755824413
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Solomon-Otabor (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",41.37039556644258
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","G. Pasich (29, Veres, Ukrainian Premier Liha 22-23)",19.287956992489367
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",49.02311487629071
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","R. Rusyn (27, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",37.51450291790886
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Y. Kartushov (32, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",43.81216631192844
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Ilyin (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",29.78340224324296
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)",14.634251949613006
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Naumets (24, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",55.543535989124685
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Zaderaka (28, Kryvbas KR, Ukrainian Premier Liha 22-23)",65.33777988550071
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Dakhnovskyi (24, Veres, Ukrainian Premier Liha 22-23)",25.275148665068915
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","N. Voloshyn (19, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",35.67201334636601
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","S. Myakushko (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",34.91788976134193
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Y. Pidlepenets (24, Dnipro-1, Ukrainian Premier Liha 22-23)",9.494608231469831
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","D. Blanco (28, Dnipro-1, Ukrainian Premier Liha 22-23)",-20.25848237868392
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Kalitvintsev (30, Oleksandria, Ukrainian Premier Liha 22-23)",62.11796100527296
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","N. Vorobchak (23, Minaj, Ukrainian Premier Liha 22-23)",59.34127971419326
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Z. Badibanga (31, Chornomorets, Ukrainian Premier Liha 22-23)",50.27581870890414
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",38.63705994711443
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",45.67891204408866
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Kabaev (27, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",23.49812611612212
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Kozak (28, Inhulets, Ukrainian Premier Liha 22-23)",63.646778046779474
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","D. Alefirenko (23, Chornomorets, Ukrainian Premier Liha 22-23)",43.65560076108508
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","B. Boychuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",55.95706255462056
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Tsygankov (25, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",57.6016053729979
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Rogozynskyi (27, Minaj, Ukrainian Premier Liha 22-23)",39.15632274155846
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","E. Kuliev (21, Minaj, Ukrainian Premier Liha 22-23)",35.21654796401544
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Zubkov (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",32.91193045216398
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","V. Odaryuk (29, Inhulets, Ukrainian Premier Liha 22-23)",25.72606234471566
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",55.179307800525415
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","D. Kryskiv (22, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",14.363403623609072
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Bliznichenko (28, Veres, Ukrainian Premier Liha 22-23)",52.43178380562993
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)",45.519578902863664
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",44.13544952195987
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",59.8740717224038
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",33.369727281387135
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",60.02879222884945
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",56.59076346505088
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",21.698912730135245
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",46.2205453035815
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",58.53479120628031
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",26.33721210299323
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",61.633552470659104
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",25.074228135593827
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",28.49743600028192
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",25.765897626940564
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",60.09704990667439
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",65.09115118255667
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",58.60761226583381
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",57.72164408256005
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",24.08006048502789
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",51.02213562482254
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",40.20419893269687
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",44.60292383488473
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",22.56728966059756
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",29.45771581058412
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",64.70879067320114
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",16.845790224552733
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",33.979465431698344
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",51.205305251987895
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",44.40574450978973
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",24.162342767846184
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",30.587435630423908
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",55.12090560312094
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",67.0278736649394
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",57.2376142203828
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",31.00200839315404
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",28.61684157736257
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",63.65264249651288
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",10.751975598293242
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",45.630833794323
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",25.649083958891826
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",34.86536334634034
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",26.85080085964001
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",-4.758997734578792
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",59.18215671511482
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",16.1143150036894
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",20.489307118385653
-"S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",36.25754944899271
+Player,Similarity
+"R. Brand (28, VfB Oldenburg, 3. Liga 22-23)",86.48848879425036
+"J. Hawkes (24, Tranmere Rovers, League Two 22-23)",82.9622490344345
+"M. Filipović (32, Novi Pazar, Serbian SuperLiga 22-23)",82.05115945956024
+"B. Guzmán (23, Arsenal de Srandí, Argentinian Primera División 2023)",81.36126574276119
+"T. Tasev (29, Slavia Sofia, Bulgarian First League 22-23)",81.25279166077604
+"S. Jovanović (29, Radnički Niš, Serbian SuperLiga 22-23)",79.57667731990603
+"Borja Giner (29, UD Sanse, Primera División RFEF 22-23)",79.31414767127262
+"L. Longstaff (22, Cove Rangers, Scottish Championship 22-23)",79.29159383986112
+"K. Sadlier (28, Leyton Orient, League Two 22-23)",78.98167497045372
+"K. Zenón (21, Unión Santa Fe, Argentinian Primera División 2023)",78.77501668935136
+"P. Campbell (25, Glenavon, Northern Ireland Premiership 22-23)",78.75242886118568
+"B. Došljak (34, Arsenal Tivat, Montenegro First League 22-23)",78.45079413357713
+"C. McCloskey (31, Glenavon, Northern Ireland Premiership 22-23)",78.27622858821184
+"N. Navarrete (27, Gudja United, Malta Premier League 22-23)",78.04016312795983
+"Jason (28, Deportivo Alavés, La Liga 2 22-23)",77.99783702823505
+"A. Antoniuc (34, Milsami, Moldovan Super Liga 22-23)",77.64092298645856
+"G. De Feo (28, Imolese, Serie C 22-23)",77.27057822443112
+"Ahmed El Sheikh (32, Ghazl El Mehalla, Egyptian Premier League 22-23)",77.15318025030948
+"L. Antal (33, Mioveni, SuperLiga României 22-23)",76.97255941818023
+"S. Thomas (24, Blackburn Rovers, Championship 22-23)",76.94992055072413
+"C. Armiento (23, Brisbane Roar, A-League Men 22-23)",76.93543056233246
+"S. van der Water (26, Cambuur, Eredivisie 22-23)",76.8363325019709
+"D. Rooney (25, Drogheda United, League of Ireland PL 2023)",76.7658553221332
+"M. Çeçenoğlu (29, Denizlispor, Turkish 1. Lig 22-23)",76.55267913921209
+"C. Kirk (25, Burton Albion, League One 22-23)",76.29823039886203

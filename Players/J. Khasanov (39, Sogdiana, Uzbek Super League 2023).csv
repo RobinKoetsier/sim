@@ -1,23 +1,26 @@
-Player 1,Player 2,Similarity
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",32.36063397895594
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",34.03136840385517
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",28.86272492345513
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",38.89775185560157
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",3.217176718765165
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","T. Keskinen (20, HJK, Veikkausliiga 2023)",60.40362078310972
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","S. Haarala (23, Ilves, Veikkausliiga 2023)",58.19690153607551
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",67.8892394899593
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","L. Rogerson (25, Haka, Veikkausliiga 2023)",48.08274388574606
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",46.47265893585407
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",53.69788440877565
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",52.74851051224025
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","M. Correa (21, FK Metta, Virsliga 2023)",18.012508028196425
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",50.94818173356008
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",-5.34018289851683
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","Emerson Deocleciano (23, RFS, Virsliga 2023)",59.66168918508823
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",37.528075093408766
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",-25.409794567100143
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",58.64725253673848
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","M. Diop (20, Valmiera FC, Virsliga 2023)",12.527616763440053
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",45.818898421641975
-"J. Khasanov (39, Sogdiana, Uzbek Super League 2023)","O. Niang (21, Riga FC, Virsliga 2023)",61.74087860930393
+Player,Similarity
+"P. Barrera (35, Querétaro, Liga MX 22-23)",92.31637085587494
+"N. Eliasson (27, AEK Athens, Greek Super League 22-23)",91.99664708675093
+"P. Patterson (22, Fleetwood Town, League One 22-23)",91.6018957308204
+"V. Kalitvintsev (30, Oleksandria, Ukrainian Premier Liha 22-23)",91.42390998534664
+"J. Jones (28, Kilmarnock, Scottish Premiership 22-23)",90.8007774590004
+"M. Kmet (22, Trenčín, Slovak Super Liga 22-23)",90.65949329092462
+"A. Galoyan (23, Alaniya Vladikavkaz, Russian FNL 2 22-23)",90.53104570894268
+"F. Knežević (31, Budućnost, Montenegro First League 22-23)",90.52500454999164
+"N. McGinn (35, Glentoran, Northern Ireland Premiership 22-23)",90.2981309384608
+"C. Souza (27, Bellinzona, Swiss Challenge League 22-23)",89.94457170982295
+"S. Turiel (22, Hapoel Kfar Saba, Liga Leumit 22-23)",89.94199389841515
+"G. Ott (21, Academico Viseu, Portugal Segunda Liga 22-23)",89.86652762679759
+"J. Gauto (19, Huracán, Argentinian Primera División 2023)",89.7830596935405
+"J. Beste (24, Heidenheim, 2. Bundesliga 22-23)",89.34653317525549
+"K. Vargas (21, Charlotte FC, MLS 2023)",89.30915828814906
+"L. Hannant (29, Dundee, Scottish Championship 22-23)",88.84990076027111
+"B. Lemus (29, Xelajú, Guatemala Liga Nacional 22-23)",88.48757216965882
+"A. Polyarus (30, Nieciecza, Polish I Liga 22-23)",88.38565171105863
+"K. Lewis (30, Mohammedan, I-League 22-23)",88.14582242796195
+"Álex Sancris (26, Linares Deportivo, Primera División RFEF 22-23)",87.89558853406807
+"K. Yuruki (27, Vissel Kobe, J1 2023)",87.79875017468687
+"J. Livolant (25, Guingamp, Ligue 2 22-23)",87.76967807766054
+"M. Stoppelkamp (36, MSV Duisburg, 3. Liga 22-23)",87.76037176268964
+"J. Wallace (29, West Bromwich Albion, Championship 22-23)",87.29603671913975
+"Zizo (27, Zamalek, Egyptian Premier League 22-23)",87.23790028204407

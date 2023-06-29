@@ -1,198 +1,26 @@
-Player 1,Player 2,Similarity
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",0.1986139834516382
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",39.495389266946496
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",12.0245413156483
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",-13.40212257862516
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",56.08792178053177
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",-13.03185709101028
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",5.797831878281466
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",-24.708163913918103
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",37.104742761961504
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",-37.06824909688321
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",54.39139516308028
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-9.00910739455572
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",-27.06759017551763
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",-31.900800564547588
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",24.34934845185119
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",8.337607584881637
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",34.18899037959776
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",45.25435018277648
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",24.784677895933772
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",-33.36326183105961
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",56.4112658745335
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",1.8032688060714643
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",57.834065750669225
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",65.52410807830047
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",36.853355699526205
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",1.5432324877557335
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",22.93994878777561
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",-15.32442910417407
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",-13.727715817540243
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",11.514874663950788
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",34.28615378313223
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",82.98584009498907
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",46.05848182502958
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",14.949124518327828
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",-36.06276293230177
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",68.95776985836073
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",18.28268355978107
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",27.159305825178564
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",83.82071365222059
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",2.189080217870341
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",46.94239337930523
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",-30.77207270487703
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",41.024703976781815
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",64.22606585749733
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",1.853472066580788
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",-1.9223137161908677
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",64.62286238117552
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",-20.60461101791209
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",-25.055006470852536
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",73.80796941093315
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",-3.94758220788136
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",15.965153443426631
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",23.76242900739572
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",3.481648262373218
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",1.6216892186439724
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",72.34652855147907
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",-15.60851429695208
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",38.79183552108875
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",34.302050812117905
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",-15.049220617434466
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",10.609114665293138
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",6.130558963290118
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",-1.1688482108483216
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",40.2198261093163
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",-17.597474147262062
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",19.364113564437805
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",4.3332942554640566
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",-21.645842723426505
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",36.08195316782778
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",21.185891051415357
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",68.48742897938423
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",68.29217951777673
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",65.5332672033078
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",0.0572257563257299
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",39.85989485965698
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",51.598528616478966
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",60.25564284106355
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",57.51479036602117
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",26.91905195831178
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",29.887774419009165
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",38.331142384635406
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",13.139560019254516
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-2.782393110788781
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",11.893416782318855
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",4.35132888651835
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",45.5992161850937
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",23.11357408282016
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",6.245895626476461
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",60.57001713919761
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",80.23131709804204
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",12.73064080163431
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",-17.421200716806435
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",50.899673810097966
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-20.82535102642464
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",69.22569627124257
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",53.54512576677743
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",-14.957565481676424
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",39.89329458706447
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",82.71739012138035
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",68.13119750794237
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",51.85374332371132
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",79.21056447083903
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",50.45167297803622
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",78.37217172604713
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",36.54040397551473
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",48.5651634784191
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",12.510912236576347
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",59.67770329386871
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",69.11026798464133
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",8.54501564831079
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",24.8306015308607
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-42.2655001095629
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",19.0584014914404
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",46.65379030486866
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",24.84526751804576
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",47.82460406123352
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",7.641447703747631
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",52.3746038821052
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",29.812467797079755
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",49.12260078516434
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",5.587845698107802
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",35.59615049607007
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",73.82002037093875
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",-2.0699305627006845
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",-14.475378294462462
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",49.69639043961412
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",57.920458607886175
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",59.14184023479175
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",36.19608253931376
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",-9.026204170644837
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",-10.569100212282764
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",-0.9936056299919058
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",23.40624315279846
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",-17.5232305715455
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",39.5168106003199
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",3.1771117599503613
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",9.83038698167413
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",34.37441702882596
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",75.92590326039684
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",26.84870735724098
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",32.09969966522711
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",22.244845195925752
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",35.542054417873935
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",51.447155218624495
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",45.42160729317207
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",-10.128365987910042
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",-2.5785087819443704
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",67.15335233247731
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",-44.34383265322452
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",76.78620491832231
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",-25.17149304973372
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",81.2000195972213
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",55.40053147665264
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",52.43823080122653
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",80.59135607706686
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",19.17179327642855
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",20.1139125955434
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",12.840459511880493
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",39.57632963002538
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",33.87423691019193
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",60.88708941074492
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",-17.222829664153934
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",18.178557193069576
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",62.05205158105941
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",52.87919869862361
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",3.395977729203861
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",73.69811851699801
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",-5.180922601311737
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",32.43944521949637
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",68.05620939084626
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",63.63845271717625
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",21.57269032441432
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",50.18108979880741
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",12.904087386806909
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",64.7505415194504
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",77.69196630080802
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",20.79205606802501
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",17.48022151420607
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",70.36580712328862
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",6.065036954051351
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","P. Mareš (32, RFS, Virsliga 2023)",64.98038974495157
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",23.703801344369182
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",24.441397477603516
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",83.40388567893217
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",-8.998777967421248
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",48.32995988573764
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",-13.776540861866568
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",17.378112335037272
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",7.99896604935065
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",18.134687491446208
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",77.5180009865873
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",41.1025840202915
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",44.97793820740711
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",32.218713236384325
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",68.66448246469751
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",-29.82645202780505
-"C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",34.79244455120609
+Player,Similarity
+"V. Jovanov (24, Akademija Pandev, North Macedonia First League 22-23)",88.68322662549356
+"P. Kun (28, Raków Częstochowa, Ekstraklasa 22-23)",88.5931361548519
+"M. Kerkez (19, AZ, Eredivisie 22-23)",88.53572920498182
+"Pastor (23, Farense, Portugal Segunda Liga 22-23)",88.0497828418934
+"F. Zampano (29, Venezia, Serie B 22-23)",87.9971036755003
+"U. Garcia (27, Young Boys, Swiss Super League 22-23)",87.59237084721454
+"P. Gál-Andrezly (33, Csikszereda Miercurea Ciuc, Romanian Liga II 22-23)",87.52390149507674
+"E. Bouzaiene (25, Degerfors, Allsvenskan 2023)",87.31633624847149
+"José Soler (28, Alcoyano, Primera División RFEF 22-23)",87.21961175229357
+"A. Gaaei (20, Viborg, Superliga 22-23)",87.13482305759244
+"R. Oliveira (27, Torreense, Portugal Segunda Liga 22-23)",86.85086155214034
+"D. Ulrich (25, Vaduz, Swiss Challenge League 22-23)",86.6088636754626
+"D. Bariti (31, Pergolettese, Serie C 22-23)",86.36104067767772
+"S. Moharrami (27, Dinamo Zagreb, 1. HNL 22-23)",86.09906152563761
+"M. Braida (26, San Lorenzo, Argentinian Primera División 2023)",86.04511366416362
+"J. Tutuarima (30, PEC Zwolle, Eerste Divisie 22-23)",86.00287525932464
+"João Correia (26, Chaves, Primeira Liga 22-23)",85.95143518754466
+"Ricard Sánchez (23, Granada, La Liga 2 22-23)",85.89770983381473
+"S. Channgom (26, BG Pathum United FC, Thai League 1 22-23)",85.89047193197167
+"M. Gusto (20, Olympique Lyonnais, Ligue 1 22-23)",85.87396893743527
+"A. Sorada (26, BG Pathum United FC, Thai League 1 22-23)",85.83920383308535
+"Jesús Navas (37, Sevilla, La Liga 22-23)",85.77691381592855
+"T. Cosgrove (30, Larne, Northern Ireland Premiership 22-23)",85.72565702017569
+"N. Serdal (30, Hapoel Umm al-Fahm, Liga Leumit 22-23)",85.60423985453178
+"E. Salomonsson (34, IFK Göteborg, Allsvenskan 2023)",85.48140257499838

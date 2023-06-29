@@ -1,72 +1,26 @@
-Player 1,Player 2,Similarity
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",72.77477315929083
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",64.02895443290384
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",12.239954689173912
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",46.84667727585008
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",80.02201331877669
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",76.78797885548641
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",82.87189453169891
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",72.3547882510042
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",47.15351186291542
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",-7.53350787051145
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",44.4006273475631
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",73.23832434568645
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",70.84079198959758
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",84.7086118168781
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",48.640837508320814
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",64.9814208483288
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",75.69465547626793
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",69.3934439838022
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",68.58384241859487
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",62.32536888438447
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",5.312290944411056
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",67.19824537820627
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",60.35139879661562
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-31.65553042680776
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",12.363409596135604
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",30.85099039648622
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",75.17612481683622
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",76.86180397021215
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",22.01754935418517
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",58.96815978831104
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",50.82652805508059
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",52.52291314401499
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",64.92238010638086
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-23.435403148997597
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",31.88264445384124
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",25.2071774816291
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",46.938089707692
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-21.27919697899105
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",-6.622547184336658
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",69.53705209218118
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-26.084143516718434
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",56.99618273068508
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",42.73137506982362
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",81.33652860283443
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",31.31712498112813
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",57.909464754598346
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",87.31208996813984
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",11.55105445352036
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",52.40980460223098
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-3.769256627846143
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",54.82047050443198
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",74.20267848021035
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",22.408303389211675
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",41.79119172056204
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",77.54258584887329
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",78.62029699780629
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",71.89021604570512
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",44.95178458379336
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",-6.4036315761802
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",41.65197872101844
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-25.529054231779803
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",32.74328848481141
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",64.83417322250507
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",54.549933734097614
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",67.35781587649832
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",82.48002449786848
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",82.47794783820169
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",78.80794436195659
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",38.04206311011149
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",53.67370199680504
-"A. Maxim (32, Beşiktaş, Süper Lig 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",84.10916409424188
+Player,Similarity
+"L. Fernández (24, Toluca, Liga MX 22-23)",92.65374879865156
+"L. Pellegrini (26, Roma, Serie A 22-23)",92.37568838009705
+"Márió Németh (28, Budafoki MTE, NB II 22-23)",91.99835842210858
+"M. Mijić (33, Novi Pazar, Serbian SuperLiga 22-23)",90.90306916200925
+"R. Kronaveter (36, Maribor, 1. SNL 22-23)",90.48077332381072
+"K. Sandoval (26, Cienciano, Peruvian Liga 1 2023)",90.43406311807102
+"M. Diemers (29, Emmen, Eredivisie 22-23)",90.19504504590088
+"J. Nsang (24, UE Santa Coloma, Andorra Primera Divisió 22-23)",89.77816921761902
+"Evander (24, Portland Timbers, MLS 2023)",89.77813224743484
+"F. Sambueza (34, Santa Fe, Colombian Primera Division 22-23)",89.64537460799662
+"D. Beširović (29, Mezőkövesd-Zsóry, NB I 22-23)",89.46672577218516
+"J. Swift (27, West Bromwich Albion, Championship 22-23)",89.33461398860288
+"P. Pušić (24, Grasshopper, Swiss Super League 22-23)",89.32480468079824
+"A. Roman (29, CSMS Iaşi, Romanian Liga II 22-23)",89.2130714846798
+"Álex Arias (33, CD Calahorra, Primera División RFEF 22-23)",88.75866792011738
+"J. Maddison (26, Leicester City, Premier League 22-23)",88.63644744398367
+"B. Dzsudzsák (36, Debrecen, NB I 22-23)",88.52161672623153
+"J. Levi (27, Puskás FC, NB I 22-23)",88.30826660373205
+"M. Palienko (28, Akron Togliatti, Russian FNL 2 22-23)",88.30139465348901
+"Y. Kikui (23, Matsumoto Yamaga, J3 2023)",88.20741274882407
+"A. Arena (22, Gubbio, Serie C 22-23)",87.94146731781069
+"U. Nikolić (29, Vojvodina, Serbian SuperLiga 22-23)",87.91609379300786
+"F. Nabiyev (23, Kapaz, Premyer Liqa 22-23)",87.86656828460949
+"N. Pantović (29, Nyíregyháza Spartacus, NB II 22-23)",87.78206733990037
+"O. Velanas (24, NAC Breda, Eerste Divisie 22-23)",87.5803337757083

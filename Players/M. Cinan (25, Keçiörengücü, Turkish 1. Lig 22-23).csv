@@ -1,216 +1,26 @@
-Player 1,Player 2,Similarity
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)",71.78275091906535
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","İ. Köybaşı (33, Göztepe, Turkish 1. Lig 22-23)",-1.6682616578852456
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Şahin (22, Manisa BBSK, Turkish 1. Lig 22-23)",47.60028369635154
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)",31.90247615086382
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","O. Bayrak (24, Tuzlaspor, Turkish 1. Lig 22-23)",15.48580661837784
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Naderi (26, Altay, Turkish 1. Lig 22-23)",-1.0412553119375376
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","G. Kaya (27, Pendikspor, Turkish 1. Lig 22-23)",16.82932360753746
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)",50.68112791279674
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Uçar (31, Eyüpspor, Turkish 1. Lig 22-23)",41.67955297437681
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Pala (22, Rizespor, Turkish 1. Lig 22-23)",23.78508815685076
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)",24.99050418323887
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","A. Şengül (24, Bandırmaspor, Turkish 1. Lig 22-23)",58.43140773754891
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)",52.82045282779829
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","S. Gönül (25, Samsunspor, Turkish 1. Lig 22-23)",29.9305413828827
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","A. Koç (26, Rizespor, Turkish 1. Lig 22-23)",22.02024305765479
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","E. Özgenc (38, Pendikspor, Turkish 1. Lig 22-23)",20.5495243070746
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","C. Cavlan (31, Bandırmaspor, Turkish 1. Lig 22-23)",42.342330373903806
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)",31.76571501897768
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",42.27117732553769
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",64.82091455147648
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",30.29540137855666
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",65.62126404869893
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",63.07757374366205
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",36.90242895780414
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",5.302840760181715
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",45.21244070593974
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",50.641001220335326
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",27.006191737579627
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",7.20201190296583
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",0.7713326430967462
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",8.471781974826001
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",24.988389663115967
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",-1.2705565718143743
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",17.71674569332368
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",31.042764849907336
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",31.4063003066332
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",12.679039574097878
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",41.16530950823946
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",17.480785910269205
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",31.05505261169416
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",23.94496612868743
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",36.40914284196327
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",54.27109656879389
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",41.25228379475082
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",-17.18005383974744
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",23.679406786923355
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",-18.246392693465918
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",30.12261522611893
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",7.9273337351338675
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",29.22568917562603
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",74.6664488472115
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",50.489200157585856
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",30.47945255820072
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",5.032307956567336
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",45.92047606508552
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",57.15437381730555
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",43.95816560437941
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",39.32418077381876
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",53.4768829023356
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",42.59966257496057
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",43.88384538936821
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",62.108210070157725
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",48.2630871619556
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",46.009134661746295
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",56.24785464869573
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",34.69659936506311
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",46.27184007188512
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",46.82803806331814
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",20.566617054239245
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",70.78309929249444
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",41.788760359455125
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",29.09598014855635
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",73.3399584747376
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",52.91013359195608
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",26.388674442713533
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",52.550772117603984
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",48.64409187799089
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",8.185773379467053
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",3.1650827834700928
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",51.079772351323385
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",50.1567438764327
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",24.38650930286692
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",30.25143660789081
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",26.913947811613625
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",57.59825615911151
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",22.24883052421149
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",39.58368924811253
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-12.40694309919527
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",60.33517165407824
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",28.335232817393376
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",46.09161957044975
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",33.26039295189283
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",42.08872061116372
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",45.05034410636421
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",42.00142848092269
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",47.35168703631155
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",51.88284312219462
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",43.508803557053696
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",14.887532210143611
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",51.9084654935267
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",56.09810962141514
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",51.78868164223657
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",26.58140093112853
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",41.232399796378246
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",35.711992600572266
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",30.39525690305453
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",18.184769651526054
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",27.713034806583224
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",71.1411398651369
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",23.64181606856997
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",49.87521141317449
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",33.38269556093755
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",41.92115523889224
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",60.13039221041424
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",44.10981792752728
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",51.294874460899024
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",29.382566233222523
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",34.835547169704995
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",33.02236704813296
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",12.768279940908624
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",22.968528197846695
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",40.34873841721258
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",43.4155089201106
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",7.802106107020407
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",32.400530055624955
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-7.105164634254775
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",39.02380973944253
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",49.009069400718445
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",45.83965228272998
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-3.164755463698769
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",7.499199224279416
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",22.95730288046736
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",7.154485371373555
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",-8.844688129125283
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",13.497283182612293
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",32.29766946840804
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",59.21119880801036
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",43.171668048612
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",56.459933912734215
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",27.387132115337785
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",39.073685878059926
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",34.03052325912614
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",29.03857094394383
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",22.879311505753524
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",56.74952834706751
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",6.380346543790358
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",78.00687677216206
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",-4.44180299622787
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",12.434568188481649
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",32.10224379350592
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",39.47641447098648
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",19.341797810408508
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",64.40463474548648
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",48.247766975468814
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",26.30440724875735
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",45.09625106952138
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",59.25510017928241
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",31.72424720813513
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",51.59156433023774
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",31.171508708658045
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",7.765327553197385
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",63.928695558613526
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",0.1258682801552608
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",42.53152365885158
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",25.04426989488324
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",22.85775558289496
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",13.137805390371796
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",26.776393603382942
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",20.22957778738757
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",11.270716703677728
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",24.80344386887844
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",48.10724632505941
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",45.668524552273546
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",-4.842315457779515
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",50.63100817266684
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",32.903712894199494
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",41.88996665518708
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",47.861359097810606
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",30.06479035717208
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",38.281864164300295
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",28.69981215048649
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",33.832240280290264
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",40.65093466091304
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",59.181741894620274
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",45.73077319149812
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",33.880858260110244
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",40.79094908984255
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",36.18028557007307
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",23.733551636007768
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",-22.544991935262036
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",19.429310420615604
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",28.64662082239356
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",21.08263694657114
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",14.63142761160282
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",29.12499938965389
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",14.259159607074976
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",15.16333232512549
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",34.44946160934788
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","P. Mareš (32, RFS, Virsliga 2023)",17.740681236745008
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-10.116195918343632
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",1.1403652295796924
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",19.79359626282176
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",12.443817513687335
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",32.787140603531164
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",21.95638591064097
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",37.82787870832923
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",42.06053294434509
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",35.154518621406346
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",45.06017317813386
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",41.688842727575725
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",57.76451045423272
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",33.282115357602386
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",18.615272119191893
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",30.95975942867473
-"M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",39.70976090765409
+Player,Similarity
+"R. Darbinyan (27, Shirak, Armenian Premier League 22-23)",87.19498514357072
+"F. Bergonzi (22, FeralpiSalò, Serie C 22-23)",84.00073764829558
+"N. Mobbie (28, Sekhukhune United, South Africa PSL 22-23)",82.897937545267
+"F. Belli (29, Padova, Serie C 22-23)",82.03647271157091
+"M. Peleg (29, Hapoel Petah Tikva, Liga Leumit 22-23)",79.40870879604238
+"T. Cassandro (23, Cittadella, Serie B 22-23)",78.79665676500977
+"D. Banguero (33, Atlético Nacional, Colombian Primera Division 22-23)",78.49999180582766
+"B. Khawaz (31, Kfar Kasem, Liga Leumit 22-23)",78.44947975870186
+"D. Lozev (29, Arda, Bulgarian First League 22-23)",78.44153994461135
+"E. Boakye (23, Aris, Cyprus 1. Division 22-23)",78.19006561277921
+"A. Pereira (22, Racing, Uruguay Primera División 2023)",78.00687677216206
+"M. Coppolaro (26, Modena, Serie B 22-23)",77.11700399087614
+"T. Khiba (26, Marumo Gallants, South Africa PSL 22-23)",76.88994435948628
+"M. Roganović (26, Laçi, Albanian Premier League 22-23)",76.62761570850472
+"J. Salazar (32, Iztapa, Guatemala Liga Nacional 22-23)",76.47113240446409
+"T. Vásquez (29, Malacateco, Guatemala Liga Nacional 22-23)",75.95323333880606
+"S. Horemans (25, Excelsior, Eredivisie 22-23)",75.85602796226485
+"J. Kotula (27, Zemplín Michalovce, Slovak Super Liga 22-23)",75.77185929151746
+"D. McNamara (24, Millwall, Championship 22-23)",75.57784126926808
+"P. Čögley (34, Skalica, Slovak Super Liga 22-23)",75.43956800977266
+"I. Smith (25, Sporting San José, Costa Rica Primera División 22-23)",75.41187276550961
+"L. Guntara (28, Borneo FC, BRI Liga 1 22-23)",75.19326240516723
+"A. Țigănașu (32, Botoşani, SuperLiga României 22-23)",75.01834805259526
+"L. Mabotja (31, Marumo Gallants, South Africa PSL 22-23)",74.9570030245144
+"Jaime Paredes (32, SD Logroñés, Primera División RFEF 22-23)",74.95247279804492

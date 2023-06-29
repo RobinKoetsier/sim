@@ -1,129 +1,26 @@
-Player 1,Player 2,Similarity
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",56.314148761589614
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",58.71415928826087
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",40.37338282687757
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",50.63181033410695
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",21.7395069414537
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",20.16464559581629
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",63.40830666674173
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",40.049279440216026
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",60.78628512939353
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",85.81530047186898
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",67.9702328394625
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",43.23136625533064
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",60.2359149356471
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",40.37947478992863
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",39.025393903274285
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",17.024311705476393
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",50.09273738816823
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",59.19161783358674
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",44.83000827967574
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",42.06837581551803
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",1.7190644043322965
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-9.176046223959682
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",73.42447550661069
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",40.0472842383999
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",47.909124238640416
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",-3.942057678508124
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","I. Jebali (31, OB, Superliga 22-23)",74.72073455788046
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",34.27972566905374
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",44.479589720375714
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",46.23891314305765
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",55.071544841507546
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",70.55120179166411
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",76.14360511225179
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",76.59164678000194
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",46.2415996738914
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",65.69942038626046
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",36.80580675292782
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",60.67094899390927
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",76.5039908375683
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",69.80364264149483
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",12.525389375403028
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",74.73416896967304
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",45.21756796416991
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",81.6472616366207
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",59.06316644649636
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",59.69833716388588
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",70.1804625518578
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",58.74310373523534
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",51.003850838824185
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",67.35656255047704
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",28.6673985158056
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",75.60792727666748
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",35.56570319336448
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",48.50758319139731
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",25.15454514328141
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",29.812750559025687
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",61.24366389504249
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",74.13951319467044
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",75.44675467437966
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",48.45628595146636
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",28.997686000984245
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",49.41320478249925
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",70.38440843558375
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",54.61452607622368
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",75.67824099567954
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",11.705644886240975
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",13.110313700541973
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",42.90850670675805
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",74.43102923095121
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",50.53082762485302
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",66.68690252837321
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",51.14233566430926
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",74.86119145664448
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",75.31191733749236
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",75.20877481279018
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",74.20818752603672
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",43.986284646285455
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",-7.940488696454445
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",67.7266953231204
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",59.707496341195565
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-4.75943976786786
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",32.07299739152542
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",57.17464089778183
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",57.791999886679854
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",79.37290884308887
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",21.670917508117757
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",68.06967886296349
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",55.31371023593054
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",32.574319748127124
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",70.89539876289757
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",1.265032497141522
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",5.44592891640204
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",23.973250468404792
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",43.12949265630227
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-3.6986852110495767
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",1.2434875986100729
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",67.64185738061195
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-9.78929370537728
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",48.94129944028025
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",32.818377425566425
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",59.14385022635427
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",15.498165952317134
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",56.47849629857492
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",53.57970247516472
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",33.03456994144619
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",22.20777826051642
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-16.425907008356035
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",68.70667749669104
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",57.022827803843455
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",31.89448754615649
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",40.10659841998393
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",62.58579664376035
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",56.48782246517272
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",74.38064523978423
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",37.05401785416254
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",24.819331129525168
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",35.70469413813935
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",15.834065729257818
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",53.513469588959104
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",37.511259861260974
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",48.977302419682005
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",38.37311313438417
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",63.65499436912726
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",69.67259456697916
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",57.63853151969137
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",40.35309982129088
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",58.43376124203208
-"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",70.45293136231889
+Player,Similarity
+"B. Rácz (27, Szombathelyi Haladás, NB II 22-23)",87.68670672015959
+"M. Aramu (28, Genoa, Serie B 22-23)",86.70537333512883
+"E. Henderson (23, Hibernian, Scottish Premiership 22-23)",86.25631563890637
+"A. Memela (35, Richards Bay, South Africa PSL 22-23)",85.81530047186898
+"A. Băluță (29, Puskás FC, NB I 22-23)",83.3257172407846
+"Mohamed Helal (27, National Bank of Egypt, Egyptian Premier League 22-23)",82.88157041536434
+"Y. El Jebli (30, Ohod, Saudi First Division 22-23)",82.3832273400105
+"A.  Lőrinczy (29, Diósgyőr, NB II 22-23)",82.35584851113985
+"Tiago Real (34, Hajer, Saudi First Division 22-23)",81.70359313471636
+"M. Castroman (28, Thun, Swiss Challenge League 22-23)",81.6472616366207
+"M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",81.51638546791442
+"Isael (35, Al Jabalain, Saudi First Division 22-23)",81.5087050423603
+"D. Illés (29, Mosonmagyaróvári TE, NB II 22-23)",81.35603366425504
+"M. Ševčík (20, Zbrojovka Brno, Czech Fortuna Liga 22-23)",80.75171359764902
+"M. Şatin (26, Vorwärts Steyr, Austrian 2. Liga 22-23)",80.32028537683223
+"J. Lankester (23, Cambridge United, League One 22-23)",80.2439344959462
+"D. Markey (26, Drogheda United, League of Ireland PL 2023)",80.18135729414495
+"K. Arshid (28, Hapoel Acre, Liga Leumit 22-23)",79.80045478509598
+"Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",79.37290884308887
+"E. Vidal (27, Persita, BRI Liga 1 22-23)",79.31055048650107
+"D. Hotič (27, Cercle Brugge, Belgian Pro League 22-23)",79.09738921720133
+"C. Frýdek (24, Slovan Liberec, Czech Fortuna Liga 22-23)",78.70965357974097
+"V. Jacob (28, Dijon, Ligue 2 22-23)",78.44722453562147
+"A. Roman (29, CSMS Iaşi, Romanian Liga II 22-23)",78.00752227067294
+"N. Janković (21, Zrinjski, Bosnian Premier League 22-23)",77.88597261919

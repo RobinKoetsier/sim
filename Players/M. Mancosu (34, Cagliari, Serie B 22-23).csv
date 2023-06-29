@@ -1,183 +1,26 @@
-Player 1,Player 2,Similarity
-"M. Mancosu (34, Cagliari, Serie B 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",-21.19150810895655
-"M. Mancosu (34, Cagliari, Serie B 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",84.8746238533937
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",74.04032763394386
-"M. Mancosu (34, Cagliari, Serie B 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",76.68168796558163
-"M. Mancosu (34, Cagliari, Serie B 22-23)","R. Botta (33, Bari, Serie B 22-23)",74.39985846075247
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",61.96050289657156
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",15.78335671404569
-"M. Mancosu (34, Cagliari, Serie B 22-23)","V. Parigini (27, Como, Serie B 22-23)",56.61916464532364
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Álex Blanco (24, Como, Serie B 22-23)",37.13616084210081
-"M. Mancosu (34, Cagliari, Serie B 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",71.74031064841417
-"M. Mancosu (34, Cagliari, Serie B 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",87.34971443291963
-"M. Mancosu (34, Cagliari, Serie B 22-23)","D. Camara (21, Parma, Serie B 22-23)",20.206956238554238
-"M. Mancosu (34, Cagliari, Serie B 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",33.739297844844785
-"M. Mancosu (34, Cagliari, Serie B 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",-12.909715971466277
-"M. Mancosu (34, Cagliari, Serie B 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",44.7466406932867
-"M. Mancosu (34, Cagliari, Serie B 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",12.136965520776627
-"M. Mancosu (34, Cagliari, Serie B 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",65.89790873916073
-"M. Mancosu (34, Cagliari, Serie B 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",-2.074480643302627
-"M. Mancosu (34, Cagliari, Serie B 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",85.16833441142548
-"M. Mancosu (34, Cagliari, Serie B 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",31.437664302342768
-"M. Mancosu (34, Cagliari, Serie B 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",45.13424037933616
-"M. Mancosu (34, Cagliari, Serie B 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",0.7090566405890125
-"M. Mancosu (34, Cagliari, Serie B 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",81.02915300059055
-"M. Mancosu (34, Cagliari, Serie B 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",54.81251948944374
-"M. Mancosu (34, Cagliari, Serie B 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",19.47042740751104
-"M. Mancosu (34, Cagliari, Serie B 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",61.80395601638882
-"M. Mancosu (34, Cagliari, Serie B 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-33.92200756851953
-"M. Mancosu (34, Cagliari, Serie B 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",43.63153241636297
-"M. Mancosu (34, Cagliari, Serie B 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",-2.555888736984866
-"M. Mancosu (34, Cagliari, Serie B 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",33.57402865724002
-"M. Mancosu (34, Cagliari, Serie B 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",71.93025309816434
-"M. Mancosu (34, Cagliari, Serie B 22-23)","N. Belloni (28, Siena, Serie C 22-23)",22.0670058124499
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Frediani (29, Siena, Serie C 22-23)",59.4807876403296
-"M. Mancosu (34, Cagliari, Serie B 22-23)","F. Urso (28, Torres, Serie C 22-23)",69.59870611900148
-"M. Mancosu (34, Cagliari, Serie B 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",56.50893892264056
-"M. Mancosu (34, Cagliari, Serie B 22-23)","G. Lisai (33, Torres, Serie C 22-23)",67.79503007432622
-"M. Mancosu (34, Cagliari, Serie B 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",81.78162361473183
-"M. Mancosu (34, Cagliari, Serie B 22-23)","C. Attys (22, Trento, Serie C 22-23)",26.14089808184544
-"M. Mancosu (34, Cagliari, Serie B 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",76.51633927283369
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",37.27012610638932
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",76.54436411120997
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",56.076403366207785
-"M. Mancosu (34, Cagliari, Serie B 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",75.0016633325042
-"M. Mancosu (34, Cagliari, Serie B 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",74.26367887247795
-"M. Mancosu (34, Cagliari, Serie B 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",0.0658211628698298
-"M. Mancosu (34, Cagliari, Serie B 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",87.88919071716357
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",66.17382138531498
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",77.34406227403286
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",81.00414023109698
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",52.709995424650856
-"M. Mancosu (34, Cagliari, Serie B 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",91.34035709370475
-"M. Mancosu (34, Cagliari, Serie B 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",78.91141012530612
-"M. Mancosu (34, Cagliari, Serie B 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",70.13319782999113
-"M. Mancosu (34, Cagliari, Serie B 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",63.21086630654907
-"M. Mancosu (34, Cagliari, Serie B 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",82.54675885964036
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",51.42031225949734
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",72.60981569210212
-"M. Mancosu (34, Cagliari, Serie B 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",42.139759882932445
-"M. Mancosu (34, Cagliari, Serie B 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",2.755396486248588
-"M. Mancosu (34, Cagliari, Serie B 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",38.93958088549975
-"M. Mancosu (34, Cagliari, Serie B 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",70.43924712648047
-"M. Mancosu (34, Cagliari, Serie B 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",55.71266941929125
-"M. Mancosu (34, Cagliari, Serie B 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",76.62671829910924
-"M. Mancosu (34, Cagliari, Serie B 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",82.26772529116639
-"M. Mancosu (34, Cagliari, Serie B 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",72.43850851266329
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",53.990245387452326
-"M. Mancosu (34, Cagliari, Serie B 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",56.97028343726396
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",31.774243195934925
-"M. Mancosu (34, Cagliari, Serie B 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",14.307172085896887
-"M. Mancosu (34, Cagliari, Serie B 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",16.990850384630836
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",72.10859334029186
-"M. Mancosu (34, Cagliari, Serie B 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",42.65955019521112
-"M. Mancosu (34, Cagliari, Serie B 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",32.0089834550355
-"M. Mancosu (34, Cagliari, Serie B 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",31.836605223613414
-"M. Mancosu (34, Cagliari, Serie B 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-6.875377155049724
-"M. Mancosu (34, Cagliari, Serie B 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-7.04789172630985
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",69.83601708457779
-"M. Mancosu (34, Cagliari, Serie B 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",70.03419799508546
-"M. Mancosu (34, Cagliari, Serie B 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",82.62229352410809
-"M. Mancosu (34, Cagliari, Serie B 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",5.919371511566648
-"M. Mancosu (34, Cagliari, Serie B 22-23)","I. Jebali (31, OB, Superliga 22-23)",81.17070913348059
-"M. Mancosu (34, Cagliari, Serie B 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",38.630307785189
-"M. Mancosu (34, Cagliari, Serie B 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",41.24161507885014
-"M. Mancosu (34, Cagliari, Serie B 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",60.19239605709067
-"M. Mancosu (34, Cagliari, Serie B 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",77.58280340769794
-"M. Mancosu (34, Cagliari, Serie B 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",89.65091134067836
-"M. Mancosu (34, Cagliari, Serie B 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",79.07660851530125
-"M. Mancosu (34, Cagliari, Serie B 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",70.24208116182037
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",60.186053026319655
-"M. Mancosu (34, Cagliari, Serie B 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",59.08884987794697
-"M. Mancosu (34, Cagliari, Serie B 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",39.22773260913763
-"M. Mancosu (34, Cagliari, Serie B 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",46.97800387053648
-"M. Mancosu (34, Cagliari, Serie B 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",75.08193034522857
-"M. Mancosu (34, Cagliari, Serie B 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",70.08043173271291
-"M. Mancosu (34, Cagliari, Serie B 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",7.627008082967829
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",85.10423430467392
-"M. Mancosu (34, Cagliari, Serie B 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",36.81906694366694
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",71.52891401858093
-"M. Mancosu (34, Cagliari, Serie B 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",66.21966917913997
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",75.06591971254073
-"M. Mancosu (34, Cagliari, Serie B 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",68.85614718838795
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",65.13851361706956
-"M. Mancosu (34, Cagliari, Serie B 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",32.397786608419985
-"M. Mancosu (34, Cagliari, Serie B 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",72.95024118652992
-"M. Mancosu (34, Cagliari, Serie B 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",49.82077682422493
-"M. Mancosu (34, Cagliari, Serie B 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",84.80748341697965
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",73.80257266337745
-"M. Mancosu (34, Cagliari, Serie B 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",41.087031324724265
-"M. Mancosu (34, Cagliari, Serie B 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",12.111353571544011
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",9.449738389709122
-"M. Mancosu (34, Cagliari, Serie B 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",84.2930602967041
-"M. Mancosu (34, Cagliari, Serie B 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",79.23185533845285
-"M. Mancosu (34, Cagliari, Serie B 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",71.90759920039679
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",14.168181378347397
-"M. Mancosu (34, Cagliari, Serie B 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",56.31950599524777
-"M. Mancosu (34, Cagliari, Serie B 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",70.29157613396129
-"M. Mancosu (34, Cagliari, Serie B 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",67.22392376732724
-"M. Mancosu (34, Cagliari, Serie B 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",72.487127439716
-"M. Mancosu (34, Cagliari, Serie B 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",72.82987653183557
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",38.72558237659635
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",-7.031026214713204
-"M. Mancosu (34, Cagliari, Serie B 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",57.11254503782772
-"M. Mancosu (34, Cagliari, Serie B 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",87.00929877393443
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",83.81093750104772
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",78.4527558280855
-"M. Mancosu (34, Cagliari, Serie B 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",59.453745422160495
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",59.9122381715809
-"M. Mancosu (34, Cagliari, Serie B 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",81.98790940700036
-"M. Mancosu (34, Cagliari, Serie B 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",85.05676916873651
-"M. Mancosu (34, Cagliari, Serie B 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",58.74615707679557
-"M. Mancosu (34, Cagliari, Serie B 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",58.06462306701692
-"M. Mancosu (34, Cagliari, Serie B 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",2.5633882661246576
-"M. Mancosu (34, Cagliari, Serie B 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",62.65864804966886
-"M. Mancosu (34, Cagliari, Serie B 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",34.15276095580663
-"M. Mancosu (34, Cagliari, Serie B 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-38.44142741298687
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",15.825782927215217
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",18.74304853309873
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",78.13426161362088
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",73.16551947776237
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",14.304548309591253
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",47.65413954427632
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",28.650253476001204
-"M. Mancosu (34, Cagliari, Serie B 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",71.14752000469454
-"M. Mancosu (34, Cagliari, Serie B 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",55.5124176431769
-"M. Mancosu (34, Cagliari, Serie B 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-7.949125222467761
-"M. Mancosu (34, Cagliari, Serie B 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",21.57684230351561
-"M. Mancosu (34, Cagliari, Serie B 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",26.2031196755632
-"M. Mancosu (34, Cagliari, Serie B 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",55.794097714798255
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-26.37417594016831
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",-6.94633373041665
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",72.13712180301438
-"M. Mancosu (34, Cagliari, Serie B 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-33.55485317748951
-"M. Mancosu (34, Cagliari, Serie B 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",33.21303857895156
-"M. Mancosu (34, Cagliari, Serie B 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",20.268268580977043
-"M. Mancosu (34, Cagliari, Serie B 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",77.17673379741167
-"M. Mancosu (34, Cagliari, Serie B 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",23.70334479529128
-"M. Mancosu (34, Cagliari, Serie B 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",76.32999778609141
-"M. Mancosu (34, Cagliari, Serie B 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",81.39270628947213
-"M. Mancosu (34, Cagliari, Serie B 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",10.595230227807257
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",44.605668769041536
-"M. Mancosu (34, Cagliari, Serie B 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-29.66688791852521
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",67.12127263108027
-"M. Mancosu (34, Cagliari, Serie B 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",65.16103266789666
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",42.25280467321133
-"M. Mancosu (34, Cagliari, Serie B 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",60.30268446089724
-"M. Mancosu (34, Cagliari, Serie B 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",87.90923546821838
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",68.9454159605972
-"M. Mancosu (34, Cagliari, Serie B 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",76.8836886772158
-"M. Mancosu (34, Cagliari, Serie B 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",52.62107589526398
-"M. Mancosu (34, Cagliari, Serie B 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",14.696489622278836
-"M. Mancosu (34, Cagliari, Serie B 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",44.29887334533888
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-40.04496568512374
-"M. Mancosu (34, Cagliari, Serie B 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",46.16123858530249
-"M. Mancosu (34, Cagliari, Serie B 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",60.72573028456151
-"M. Mancosu (34, Cagliari, Serie B 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",42.90392416473075
-"M. Mancosu (34, Cagliari, Serie B 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",46.86200108620864
-"M. Mancosu (34, Cagliari, Serie B 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",92.59573197927992
-"M. Mancosu (34, Cagliari, Serie B 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",79.09430617375219
-"M. Mancosu (34, Cagliari, Serie B 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",76.23811183702641
-"M. Mancosu (34, Cagliari, Serie B 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",33.522400299041486
-"M. Mancosu (34, Cagliari, Serie B 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",54.514329286144445
-"M. Mancosu (34, Cagliari, Serie B 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",77.962631672917
+Player,Similarity
+"D. Zabala (31, Nacional, Uruguay Primera División 2023)",92.59573197927992
+"K. Stojkoski (31, Rabotnički, North Macedonia First League 22-23)",92.02446323647736
+"R. Boudebouz (33, Al Ahli, Saudi First Division 22-23)",91.9764201626956
+"B. Cohen (22, Beitar Jerusalem, Ligat Ha'al 22-23)",91.82523253539064
+"C. Ünder (25, Olympique Marseille, Ligue 1 22-23)",91.61708573255626
+"I. Chair (25, Queens Park Rangers, Championship 22-23)",91.36000860518917
+"M. Kvesić (31, Olimpija, 1. SNL 22-23)",91.34238159187204
+"A. Fábry (26, Skalica, Slovak Super Liga 22-23)",91.34035709370475
+"K. Velasco (26, Deportivo Cali, Colombian Primera Division 22-23)",90.88999572660576
+"R. Cabella (33, Lille, Ligue 1 22-23)",90.86600679121165
+"J. Busuttil (24, Floriana, Malta Premier League 22-23)",90.4988154988321
+"Sergio Canales (32, Real Betis, La Liga 22-23)",90.43323793985618
+"C. Matei (31, Sepsi, SuperLiga României 22-23)",89.65091134067836
+"A. Lugasi (18, Maccabi Petah Tikva, Liga Leumit 22-23)",88.96608102969998
+"C. Frýdek (24, Slovan Liberec, Czech Fortuna Liga 22-23)",88.95229389262184
+"J. Brandt (27, Borussia Dortmund, Bundesliga 22-23)",88.94760294262245
+"L. Fernández (24, Toluca, Liga MX 22-23)",88.94126830361554
+"L. Zelarayán (30, Columbus Crew, MLS 2023)",88.8781255795718
+"R. Safouri (27, Hapoel Be'er Sheva, Ligat Ha'al 22-23)",88.56405145788018
+"J. Steuckers (21, MVV, Eerste Divisie 22-23)",88.21843091362591
+"D. Payet (36, Olympique Marseille, Ligue 1 22-23)",88.00932945262565
+"J. Rojas (33, Deportivo Garcilaso, Peruvian Liga 1 2023)",87.95459934212458
+"S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",87.90923546821838
+"V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",87.88919071716357
+"K. Hoggas (31, SK Beveren, Belgian First Division B 22-23)",87.58641993381285

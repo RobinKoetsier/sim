@@ -1,193 +1,26 @@
-Player 1,Player 2,Similarity
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",84.95645552947047
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. Colpani (24, Monza, Serie A 22-23)",56.42812882593038
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",43.73530236089253
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",-5.500643555689166
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",78.70031642468763
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",16.375721387870655
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",74.15364171043728
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",53.16133763880331
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",77.19357206421125
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",79.7211897938058
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",3.5022908123655294
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",73.30190636604766
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",82.66494309701994
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",78.67649393633268
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","R. Botta (33, Bari, Serie B 22-23)",60.88924883375037
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",64.91464085048794
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",31.348637080282572
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","V. Parigini (27, Como, Serie B 22-23)",47.66153864397718
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Álex Blanco (24, Como, Serie B 22-23)",38.569247131397134
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",78.02212760703165
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",83.87961076138299
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","D. Camara (21, Parma, Serie B 22-23)",32.536079674566594
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",61.81011007955378
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",-12.622218528608869
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",45.37401232057482
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",15.858874788456328
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",64.73305818983923
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",10.76733382737124
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",83.15244867642382
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",37.359252512552885
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",43.79240760611894
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",18.913787473940715
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",75.98483700485453
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",20.7751117905275
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",32.423529025782905
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",80.12424939837352
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-5.460512467347936
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",54.919124703660685
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",20.179102695582348
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",43.92946108890487
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",73.05259479848512
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","N. Belloni (28, Siena, Serie C 22-23)",36.02674761908513
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Frediani (29, Siena, Serie C 22-23)",55.55082972409694
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","F. Urso (28, Torres, Serie C 22-23)",68.82995825770686
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",68.56420053948831
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","G. Lisai (33, Torres, Serie C 22-23)",61.57513673475463
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",84.66161176384578
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","C. Attys (22, Trento, Serie C 22-23)",33.94671060165814
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",67.90067132236447
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",28.46007527111734
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",67.05207915451228
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",44.92743446327967
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",69.28875267361214
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",70.52054096520101
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",21.46899673574104
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",71.91985083556726
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",41.255517889547846
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",66.05042848120603
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",79.50832396794596
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",31.775525366627782
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",81.29043489720327
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",57.06413961713568
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",73.36433776084412
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",76.18464161103897
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",76.32460042826139
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",61.38186944713209
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",74.37009581392775
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",22.373776182144777
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",-2.91681572789914
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",13.470909236045708
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",67.72560518838709
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",31.57950210425688
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",67.52724974740516
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",78.79276934920219
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",62.70903513129845
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",33.9629086593135
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",46.00510046991909
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",20.1643748642216
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",8.926308147535062
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",6.769416389245928
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",61.10698627127091
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",33.534364179940376
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",27.414138104986343
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",32.66768107587371
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-8.706163051734343
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-20.924088234139045
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",67.16721412503556
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",46.48450863123336
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",59.07474311970196
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",5.026578305717431
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","I. Jebali (31, OB, Superliga 22-23)",76.80057030613577
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",30.608564098041224
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",44.33352832028664
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",60.19132370582189
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",63.00915005791499
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",74.77419176112248
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",77.75074219849596
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",81.76101805421581
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",63.055846649744126
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",66.11446291474505
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",43.39367364621516
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",60.28039672378811
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",80.60605505732751
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",80.36306299717107
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",17.378168897148438
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",70.4987846522149
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",53.60509112516203
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",74.70448922096958
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",57.44585037989401
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",75.32873030310992
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",72.02184173222513
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",65.84085070812668
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",47.3944479748155
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",79.15924304682066
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",45.90065638766413
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",79.07184797531465
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",45.6136874620122
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",22.290996013496247
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",16.484752384479116
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",31.51960012798648
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",79.69283203874683
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",72.4004459549227
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",73.46336540185091
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",25.631806285958348
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",32.772432217228555
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",56.41782926077625
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",74.44332828696658
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",74.78528985218888
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",78.30843888857329
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",24.60973202378173
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",-4.570745228813288
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",52.52079891991982
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",76.4928703387128
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",63.210768073134574
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",77.03278005607731
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",40.86209158749935
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",76.27537118366781
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",69.55451927381253
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",73.86823369889748
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",69.21016733728756
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",42.91296883557728
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",0.0703334914887718
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",63.0538078389942
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",62.283680001881066
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-12.242567089065414
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",20.033083645068807
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",43.63455662885523
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",72.81491051461197
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",87.19997712160348
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",16.480997852720193
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",62.946218487136775
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",46.98452455591229
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",50.45767574761406
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",74.04907787759623
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-11.700205581852432
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",2.609107954741262
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",24.21874563445035
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",36.942163402872914
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-25.844637769777368
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",8.350744783174912
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",63.81069886978615
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-17.83219502063627
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",46.62966482089497
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",24.342056750971636
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",78.20242590362477
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",28.179149552511
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",56.51714095505973
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",74.96433378079416
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",15.32530340298232
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",25.22650582932771
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-26.954778959916727
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",56.42464636756412
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",73.5689808065217
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",17.024080095205964
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",36.38868277895896
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",70.29253428055465
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",67.90111225900414
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",73.70485155034693
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",41.32053665065653
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",10.519649382006708
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",32.831277065168926
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-10.998773932568612
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",49.74297151588029
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",64.37916413197411
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",62.11495844727176
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",45.122708630982
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",78.07061819638514
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",73.8235671548706
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",80.91084909910633
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",57.13331879098281
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",63.65217145586859
-"S. Verdi (30, Hellas Verona, Serie A 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",76.57599132091164
+Player,Similarity
+"M. Ševčík (20, Zbrojovka Brno, Czech Fortuna Liga 22-23)",90.73096335477192
+"A.  Lőrinczy (29, Diósgyőr, NB II 22-23)",90.36352135234604
+"K. Ouarkhane (23, JS Soualem, Botola Pro 22-23)",89.29109234982613
+"M. Beit-Ya''akov (26, Maccabi Kabilio Jaffa, Liga Leumit 22-23)",88.94324114680836
+"T. Teklić (23, Varaždin, 1. HNL 22-23)",88.04295945571936
+"V. Jacob (28, Dijon, Ligue 2 22-23)",87.94960135364163
+"D. Illés (29, Mosonmagyaróvári TE, NB II 22-23)",87.65427969243605
+"R. Zalazar (23, Schalke 04, Bundesliga 22-23)",87.2782339493653
+"P. Mišić (28, Tuzla City, Bosnian Premier League 22-23)",87.20743418395932
+"Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",87.19997712160348
+"J. Busuttil (24, Floriana, Malta Premier League 22-23)",87.12913408030354
+"Renan Silva (34, Persik Kediri, BRI Liga 1 22-23)",86.9162793644337
+"N. Janković (21, Zrinjski, Bosnian Premier League 22-23)",86.87309983005467
+"Álex Arias (33, CD Calahorra, Primera División RFEF 22-23)",86.52386223119858
+"U. Nikolić (29, Vojvodina, Serbian SuperLiga 22-23)",86.38915840233071
+"Abdelrahman Khaled (27, Al Mokawloon, Egyptian Premier League 22-23)",86.2846259091095
+"L. Fernández (24, Toluca, Liga MX 22-23)",86.2265800819437
+"R. Safouri (27, Hapoel Be'er Sheva, Ligat Ha'al 22-23)",86.11567786909787
+"N. Chilvers (22, Colchester United, League Two 22-23)",86.03845118906258
+"Mohamed Helal (27, National Bank of Egypt, Egyptian Premier League 22-23)",86.03731867381728
+"J. Velásquez (29, Xelajú, Guatemala Liga Nacional 22-23)",86.01980550870483
+"E. Zejnullahu (28, Bayreuth, 3. Liga 22-23)",85.83023100537133
+"D. Hotič (27, Cercle Brugge, Belgian Pro League 22-23)",85.44463591840213
+"A. Hunter (27, Morecambe, League One 22-23)",85.36383418353627
+"N. Pantović (29, Nyíregyháza Spartacus, NB II 22-23)",85.07664576623127

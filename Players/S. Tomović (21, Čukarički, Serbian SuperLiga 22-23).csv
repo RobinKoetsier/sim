@@ -1,212 +1,26 @@
-Player 1,Player 2,Similarity
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","P. Đuričković (31, Novi Pazar, Serbian SuperLiga 22-23)",-0.3438004927759851
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Đ. Gordić (18, Mladost Lučani, Serbian SuperLiga 22-23)",10.71545820224514
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)",27.29890284716433
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Dimić (30, Radnički Niš, Serbian SuperLiga 22-23)",60.1884926758384
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Babić (32, Radnik Surdulica, Serbian SuperLiga 22-23)",32.312008175481374
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",56.16739138955775
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","N. Vlašić (25, Torino, Serie A 22-23)",60.64206328623567
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","L. Pellegrini (26, Roma, Serie A 22-23)",43.178085283743926
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","G. Caprari (29, Monza, Serie A 22-23)",80.38299106718276
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","L. Ferguson (23, Bologna, Serie A 22-23)",-3.0493780000528137
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Al. Miranchuk (27, Torino, Serie A 22-23)",78.77275426549099
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Brahim Diaz (23, Milan, Serie A 22-23)",85.9803261230856
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Barák (28, Fiorentina, Serie A 22-23)",57.9739230648093
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","N. Bajrami (24, Sassuolo, Serie A 22-23)",46.27403258604394
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","T. Baldanzi (20, Empoli, Serie A 22-23)",57.51718844235596
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Pašalić (28, Atalanta, Serie A 22-23)",19.990108679855183
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","N. Radonjić (27, Torino, Serie A 22-23)",56.61879374539836
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",52.44175034790168
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",53.872564646930144
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",53.412113463970336
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Colpani (24, Monza, Serie A 22-23)",72.83765228755885
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",47.30385817496165
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",-12.762915509199646
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",66.50175377191265
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",13.813407295585693
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",60.265570335455166
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",61.32154754465158
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",53.58483254370612
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",66.21908216241903
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",-4.45767338275109
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",76.4046726050857
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",47.44060972983915
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",41.44131143348684
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","R. Botta (33, Bari, Serie B 22-23)",67.48838494197263
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",49.34741264662389
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",7.405423990412309
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","V. Parigini (27, Como, Serie B 22-23)",39.09687273810663
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Álex Blanco (24, Como, Serie B 22-23)",51.04208226299348
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",37.41936962126369
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",58.85517993416825
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","D. Camara (21, Parma, Serie B 22-23)",37.89939143143283
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",38.968416281055255
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",0.2715014188527525
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",28.17161125567772
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",17.0184985612245
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",35.95155294896472
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",27.242193161169443
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",61.57330016623619
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",31.623618328166835
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",46.544131659527984
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",10.721884100869197
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",62.268533955655634
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",48.621526403809895
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",45.96004597632909
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",36.41856335741148
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-21.32788749917237
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",36.47302821248643
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",3.053981836853341
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",41.04085868912804
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",66.2645620036705
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","N. Belloni (28, Siena, Serie C 22-23)",2.160443877369258
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Frediani (29, Siena, Serie C 22-23)",43.825817295162985
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","F. Urso (28, Torres, Serie C 22-23)",39.96962805703025
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",25.538237897486503
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","G. Lisai (33, Torres, Serie C 22-23)",52.31975558141628
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",47.0315432080892
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","C. Attys (22, Trento, Serie C 22-23)",21.80095388316992
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",64.71971310402338
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",33.983616621615184
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",62.56336252178669
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",48.70474454566248
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",65.32744337274865
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",59.68099287167197
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",3.892420437212877
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",72.90096652427772
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",85.58046465825586
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",50.33322574608247
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",59.21534805494444
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",56.79350310350998
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",62.93402427235242
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",67.91902464392108
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",33.56729152846323
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",53.34237392779582
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",54.41489092546067
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",40.48275268089963
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",47.14443126304048
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",57.99844178512225
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",28.61023846032125
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",52.10984517284908
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",44.292793013185786
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",87.15576541872312
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",37.24301207463069
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",66.57395026507174
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",57.538722859587295
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",44.687229916730345
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",76.3145312080363
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",48.99487662853336
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",30.03315795030596
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",52.94955062185448
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",55.34674671848724
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",54.10031441395184
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",50.97124763045488
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",38.01020151881552
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",18.179737446397095
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",15.193562918188007
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",67.90433198697545
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",73.77454394558397
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",78.27018148724828
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",26.48322555632477
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","I. Jebali (31, OB, Superliga 22-23)",65.50368674435212
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",54.93922909898028
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",47.878996225057854
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",50.90879205802693
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",87.09007355752783
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",76.1127938225167
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",67.16055242453722
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",54.1701150338843
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",65.0885563882789
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",66.52573481017583
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",67.69595694949501
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",37.09153086302625
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",54.57202667783556
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",36.959667915907744
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",30.82180378535605
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",67.05272642530386
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",43.17160726808855
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",55.684226482350965
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",68.64383191291829
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",57.64277585446747
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",47.58370035616375
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",54.02090667881158
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",60.37013754209713
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",60.54033977594538
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",58.01931618735523
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",66.305020766575
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",78.79420349503346
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",57.64967113937033
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",47.81949465469528
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",17.5614179883527
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",51.8558994226678
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",67.93157150487465
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",74.6896053643389
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",37.138962155657495
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",73.06951696866942
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",66.10656301557715
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",52.78564762573976
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",58.02537287839111
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",46.45288651966718
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",54.710659916361045
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",21.529042453976857
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",72.59034888401472
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",75.5000391407132
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",81.67570162002778
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",64.61523507487327
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",77.47752236764345
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",61.83286089351287
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",55.74002826915583
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",60.64775748884576
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",34.82693049696521
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",72.24115923569997
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",20.801088970401302
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",45.01698602535559
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",-2.725026734928451
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-20.57438881275792
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",33.83072720862282
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",0.0660688454584244
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",57.382080784737965
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",62.58884875451306
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",8.653491084330883
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",24.66756203151313
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",4.211162275155339
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",62.32209760062838
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",42.51140601486824
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",6.616718987541605
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",53.99007240003839
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",49.38904362040761
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",68.64890128350011
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-25.38352304809913
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",18.581575744175492
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",63.08852825372183
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-17.682758768142175
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",32.826073510048666
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",21.561931053787585
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",48.97661676158408
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",52.01871833682454
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",89.1724795860269
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",57.57908235612194
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",43.22177123631476
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",34.68361560960661
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",6.655978553250032
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",70.90590143176627
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",17.917877447687804
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",64.23190803944672
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",72.69934649066828
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",74.38915642382223
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",55.38950994087571
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",71.93667686643734
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",76.04067382525893
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",28.692139787519693
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",67.02852182909218
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-17.476474293955548
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",50.41633530251672
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",58.05233412508736
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",32.55748257649243
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",29.20476350025149
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",69.89489160485351
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",45.45804274811659
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",58.0840052749774
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",36.000240287239514
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",41.3488676308167
-"S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",51.25607939232244
+Player,Similarity
+"A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",89.1724795860269
+"T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",87.15576541872312
+"J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",87.09007355752783
+"T. Nguen (29, Ferencváros, NB I 22-23)",86.78645983519948
+"Brahim Diaz (23, Milan, Serie A 22-23)",85.9803261230856
+"Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",85.58046465825586
+"T. Chery (34, Maccabi Haifa, Ligat Ha'al 22-23)",84.7125038011546
+"Joan Román (30, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",84.39298476921849
+"R. Cherki (19, Olympique Lyonnais, Ligue 1 22-23)",83.77299849988388
+"K. Drzazga (27, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",83.47292992044886
+"H. Boumous (27, ATK Mohun Bagan Football Club, Indian Super League 22-23)",83.27227691805113
+"João Mendes (28, Chaves, Primeira Liga 22-23)",82.34457523481336
+"S. Steblecki (31, Chrobry Głogów, Polish I Liga 22-23)",82.24891563807157
+"E. Sylvestre (23, Pau, Ligue 2 22-23)",82.21018232297004
+"G. Konstantelias (20, PAOK, Greek Super League 22-23)",82.20020964894078
+"Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",81.67570162002778
+"F. Papoulis (38, Omonia Nicosia, Cyprus 1. Division 22-23)",81.61573893106258
+"A. Gholizadeh (26, Charleroi, Belgian Pro League 22-23)",81.28114699059407
+"Xavi Puerto (31, Atlètic Club d'Escaldes, Andorra Primera Divisió 22-23)",81.24477942310604
+"L. González (32, Junior, Colombian Primera Division 22-23)",81.18883287932974
+"P. Altán (25, Municipal, Guatemala Liga Nacional 22-23)",81.13215508169019
+"J. Bustos (28, Borneo FC, BRI Liga 1 22-23)",80.82333477200186
+"R. Matsumura (28, Persis Solo, BRI Liga 1 22-23)",80.71393803086121
+"Cauly (27, Ludogorets, Bulgarian First League 22-23)",80.60168212579147
+"Z. Fati (30, FAR Rabat, Botola Pro 22-23)",80.49896237577607

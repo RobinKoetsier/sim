@@ -1,222 +1,26 @@
-Player 1,Player 2,Similarity
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","B. Natcho (35, Partizan, Serbian SuperLiga 22-23)",76.20341815307398
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Đ. Ivanović (27, Čukarički, Serbian SuperLiga 22-23)",36.877850308906574
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)",39.13360280175311
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Mijić (33, Novi Pazar, Serbian SuperLiga 22-23)",62.51176007050917
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)",39.259944776552906
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Nešković (23, Voždovac, Serbian SuperLiga 22-23)",42.86890238372003
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)",63.735300923975714
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)",81.91412505514396
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","U. Nikolić (29, Vojvodina, Serbian SuperLiga 22-23)",68.84455472383826
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)",75.06330817947787
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","P. Đuričković (31, Novi Pazar, Serbian SuperLiga 22-23)",9.671572905102929
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Đ. Gordić (18, Mladost Lučani, Serbian SuperLiga 22-23)",-12.705428913431144
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)",42.83398625469177
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Dimić (30, Radnički Niš, Serbian SuperLiga 22-23)",48.57278084316153
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Babić (32, Radnik Surdulica, Serbian SuperLiga 22-23)",47.147905703576775
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",50.14074785485158
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","N. Vlašić (25, Torino, Serie A 22-23)",49.13542520171298
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","L. Pellegrini (26, Roma, Serie A 22-23)",64.58482971548828
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","G. Caprari (29, Monza, Serie A 22-23)",66.80217970755415
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","L. Ferguson (23, Bologna, Serie A 22-23)",-20.51473801974338
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Al. Miranchuk (27, Torino, Serie A 22-23)",66.80059163789406
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Brahim Diaz (23, Milan, Serie A 22-23)",77.00693790545114
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Barák (28, Fiorentina, Serie A 22-23)",28.0255837376562
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","N. Bajrami (24, Sassuolo, Serie A 22-23)",41.198754913344494
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","T. Baldanzi (20, Empoli, Serie A 22-23)",28.300907568149363
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Pašalić (28, Atalanta, Serie A 22-23)",2.861123870585455
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","N. Radonjić (27, Torino, Serie A 22-23)",46.92501792704278
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",48.71946718317864
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",74.99239949238927
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",71.59070762546146
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Colpani (24, Monza, Serie A 22-23)",73.70989272758608
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",40.39162981513046
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",-6.873135997571277
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",75.85514009383826
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",10.065860509845304
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",73.72398336403721
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",53.18668248400223
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",63.43349445909227
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",77.8561090214697
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",-4.785312226253128
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",69.42268624838186
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",63.54690746329948
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",60.28871150806422
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","R. Botta (33, Bari, Serie B 22-23)",74.0954709947106
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",56.893805388538674
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",6.653461217168193
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","V. Parigini (27, Como, Serie B 22-23)",43.03568213804496
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Álex Blanco (24, Como, Serie B 22-23)",50.77161630593516
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",51.57640279795061
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",76.56212280504126
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","D. Camara (21, Parma, Serie B 22-23)",38.52433813197256
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",51.7818208822832
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",4.192454872955907
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",30.469130569547616
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",33.59510272973396
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",52.29928584138111
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",28.870147461211488
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",81.8624435805758
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",27.04010258337608
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",44.88885313041646
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",16.23389175439329
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",77.52079273711642
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",51.15968841318955
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",35.537403923226165
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",58.83035816678912
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-20.379472685024776
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",47.8410289042195
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",-7.455805032200153
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",50.52141411566219
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",68.61402479485291
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","N. Belloni (28, Siena, Serie C 22-23)",24.069790202965294
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Frediani (29, Siena, Serie C 22-23)",48.20185546327893
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","F. Urso (28, Torres, Serie C 22-23)",63.59390050750224
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",54.43289919021533
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","G. Lisai (33, Torres, Serie C 22-23)",60.54300314186232
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",60.78895960509012
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","C. Attys (22, Trento, Serie C 22-23)",26.320048152232754
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",63.36404388436727
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",26.79344036746913
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",67.44836766381513
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",53.69966798727328
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",86.01828561899374
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",67.08574958690444
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",20.260489516174847
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",80.34737990828978
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",71.14747142102186
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",60.56245149467635
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",73.65591174086798
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",64.8770822063877
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",77.51806696710119
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",63.23987286891999
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",53.581461176466384
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",67.07058942137898
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",72.56936480220189
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",49.96658371319975
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",62.98259799583003
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",56.94971787219445
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",9.915631273289486
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",39.38858344669176
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",69.3500712218195
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",71.14404341081124
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",60.84083039135
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",81.13278579731238
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",66.1392587434203
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",57.00429010308101
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",69.71701203137731
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",40.9519493183565
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",22.11587076729725
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",29.60295648755904
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",54.08563710449018
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",50.64234513581243
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",35.30836898227145
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",50.07913735266085
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",5.601329813370117
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-1.2792982116402485
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",79.34960241107022
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",56.156085677328015
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",74.62981971441343
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",14.81099028129658
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","I. Jebali (31, OB, Superliga 22-23)",75.41143601673184
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",46.6422442137106
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",47.66926138572292
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",53.14112592529321
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",73.99426408391953
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",83.13621085974826
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",84.99836201333842
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",62.77520983235442
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",59.77362123367836
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",65.5789016672084
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",43.60436673752681
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",54.95335506564635
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",72.99828600534717
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",55.927814119103004
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",19.77350379537563
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",83.00985651437549
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",52.96060564292766
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",68.47233036022983
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",72.30745687220795
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",67.21934956270823
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",69.3564593209956
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",51.29132479414095
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",47.23625033945015
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",67.39315257233295
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",41.48252689231415
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",76.5481619147881
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",69.65768630268259
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",50.79123584700383
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",33.5417827489475
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",17.956877929751762
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",69.27132063991111
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",78.98666300154488
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",78.53228216229708
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",36.63337554045294
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",66.93592460916295
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",63.70403894829207
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",65.40188420028733
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",69.50287588365289
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",67.78518081881202
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",50.57378999813725
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",-2.059869490271946
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",63.73543091509599
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",80.99726402049525
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",77.39188580017793
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",73.08441320519951
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",64.35803545291579
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",67.79137053582305
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",75.18264189499128
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",73.45223226747825
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",54.58069863956525
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",68.6186545730896
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",1.360180034319645
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",60.31080902637868
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",24.271576301215507
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-21.502882850513387
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",19.56586956367265
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",28.0511571344187
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",60.15945002349722
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",70.55902433088757
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",5.858534944492436
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",44.142497415267904
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",31.90328606140769
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",62.82061482106223
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",53.74050276427277
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-10.825381412250474
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",32.63492828482095
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",33.64338737524762
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",69.59277770536954
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-13.833970917053778
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",15.428703188341444
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",77.76963999571356
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-30.137366613403287
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",42.35640460067925
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",31.36774525329757
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",66.25845211593638
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",31.03560088999446
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",75.26508359716415
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",67.2501920298958
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",20.948492493764352
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",40.80587792085687
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",6.729074493183722
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",73.36954666007479
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",45.84758451010483
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",58.392751753244575
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",63.96898860259006
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",76.51135466053532
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",56.46174611228516
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",76.63334514777496
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",55.21946222106724
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",23.65350888231189
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",46.65762083258637
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-29.08018295619337
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",43.0900343902054
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",57.34423740791065
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",34.956633226360374
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",43.62788472646278
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",81.00854494574709
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",69.33445134134324
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",78.39122070209773
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",45.66175575031818
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",66.10158572972729
-"L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",77.96144755949592
+Player,Similarity
+"T. Teklić (23, Varaždin, 1. HNL 22-23)",87.12620388532919
+"L. Meazzi (22, Virtus Entella, Serie C 22-23)",86.01828561899374
+"L. Acosta (29, Cincinnati, MLS 2023)",85.93174165029454
+"R. Cherki (19, Olympique Lyonnais, Ligue 1 22-23)",85.92366689314026
+"D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",84.99836201333842
+"D. Payet (36, Olympique Marseille, Ligue 1 22-23)",84.9310503839887
+"A. Gholizadeh (26, Charleroi, Belgian Pro League 22-23)",84.86923776880407
+"Kady (27, Qarabag, Premyer Liqa 22-23)",84.61722087547986
+"D. Quintero (35, América de Cali, Colombian Primera Division 22-23)",84.59485355971042
+"L. Zelarayán (30, Columbus Crew, MLS 2023)",84.29766392217584
+"Sergio Moyita (30, Alcoyano, Primera División RFEF 22-23)",84.23214088704759
+"B. Cohen (22, Beitar Jerusalem, Ligat Ha'al 22-23)",84.06886913695482
+"F. Wirtz (20, Bayer Leverkusen, Bundesliga 22-23)",83.94425997730201
+"M. Barshazky (26, Maccabi Petah Tikva, Liga Leumit 22-23)",83.8409670250264
+"Carles Gil (30, New England, MLS 2023)",83.83671486639021
+"J. Busuttil (24, Floriana, Malta Premier League 22-23)",83.49723376863227
+"K. Velasco (26, Deportivo Cali, Colombian Primera Division 22-23)",83.24108193326981
+"N. Pantović (29, Nyíregyháza Spartacus, NB II 22-23)",83.15250492784341
+"C. Matei (31, Sepsi, SuperLiga României 22-23)",83.13621085974826
+"M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",83.00985651437549
+"K. Hoggas (31, SK Beveren, Belgian First Division B 22-23)",83.00031376492144
+"T. Almada (22, Atlanta United, MLS 2023)",82.86484165037403
+"A. Lucero (24, Budućnost, Montenegro First League 22-23)",82.33321023374643
+"J. Kim (26, Gimcheon Sangmu, K League 2 2023)",82.20972425181155
+"An. Miranchuk (27, Lokomotiv Moskva, Russian Premier League 22-23)",82.07481252442712

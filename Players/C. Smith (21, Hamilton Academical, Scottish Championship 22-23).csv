@@ -1,241 +1,26 @@
-Player 1,Player 2,Similarity
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","C. Mochrie (20, Dunfermline Athletic, Scottish League One 22-23)",50.44264595738739
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","J. Cardle (36, Kelty Hearts, Scottish League One 22-23)",68.70145928726312
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","C. Murray (26, Queen of the South, Scottish League One 22-23)",69.63660534980019
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","L. Donnelly (27, Alloa Athletic, Scottish League One 22-23)",9.913682488756452
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","L. Connelly (23, Queen of the South, Scottish League One 22-23)",43.83184863690129
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","J. Hodge (22, Stenhousemuir, Scottish League Two 22-23)",24.349170018868417
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","B. Spittal (27, Motherwell, Scottish Premiership 22-23)",55.10384411487117
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","J. Campbell (23, Hibernian, Scottish Premiership 22-23)",-5.946593295978437
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Pittman (30, Livingston, Scottish Premiership 22-23)",-15.620688555008831
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Y. Dhanda (24, Ross County, Scottish Premiership 22-23)",70.86031582068114
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Kelly (23, Livingston, Scottish Premiership 22-23)",80.69725786658222
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Tillman (20, Rangers, Scottish Premiership 22-23)",36.73185984291539
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Shinnie (33, Livingston, Scottish Premiership 22-23)",8.075110379270335
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","R. Callachan (29, Ross County, Scottish Premiership 22-23)",-19.326476153553205
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","J. Grant (28, Hearts, Scottish Premiership 22-23)",48.322943278997634
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","E. Henderson (23, Hibernian, Scottish Premiership 22-23)",59.43185427963341
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Arfield (34, Rangers, Scottish Premiership 22-23)",3.9599925899098167
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","V. Besuijen (21, Aberdeen, Scottish Premiership 22-23)",41.13673539997693
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","L. Gojković (23, Javor Ivanjica, Serbian SuperLiga 22-23)",60.140645923294336
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","B. Natcho (35, Partizan, Serbian SuperLiga 22-23)",58.826783993593615
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Đ. Ivanović (27, Čukarički, Serbian SuperLiga 22-23)",36.8589567519253
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","V. Simić (28, Vojvodina, Serbian SuperLiga 22-23)",33.91748521879458
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Mijić (33, Novi Pazar, Serbian SuperLiga 22-23)",84.81422679751563
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","P. Mićin (24, Radnički Niš, Serbian SuperLiga 22-23)",21.42248284244708
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Nešković (23, Voždovac, Serbian SuperLiga 22-23)",20.024615143409395
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","V. Radivojević (37, Mladost Lučani, Serbian SuperLiga 22-23)",8.568379459537045
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","N. Subotić (31, Radnik Surdulica, Serbian SuperLiga 22-23)",29.74468583081401
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","U. Nikolić (29, Vojvodina, Serbian SuperLiga 22-23)",82.59982319614754
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Tomović (21, Čukarički, Serbian SuperLiga 22-23)",30.270071707229608
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","P. Đuričković (31, Novi Pazar, Serbian SuperLiga 22-23)",35.58921400520772
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Đ. Gordić (18, Mladost Lučani, Serbian SuperLiga 22-23)",4.0544213468942925
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)",51.37176986822463
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Dimić (30, Radnički Niš, Serbian SuperLiga 22-23)",36.22550039363359
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Babić (32, Radnik Surdulica, Serbian SuperLiga 22-23)",60.18795433034606
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",26.38503276542764
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","N. Vlašić (25, Torino, Serie A 22-23)",37.995862512491456
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","L. Pellegrini (26, Roma, Serie A 22-23)",87.94234419205509
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","G. Caprari (29, Monza, Serie A 22-23)",46.5863801448205
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","L. Ferguson (23, Bologna, Serie A 22-23)",-25.831974909488306
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Al. Miranchuk (27, Torino, Serie A 22-23)",31.13084284784951
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Brahim Diaz (23, Milan, Serie A 22-23)",36.48098688482641
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Barák (28, Fiorentina, Serie A 22-23)",-1.9806637380885213
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","N. Bajrami (24, Sassuolo, Serie A 22-23)",64.93769953803469
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","T. Baldanzi (20, Empoli, Serie A 22-23)",17.059204718613508
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Pašalić (28, Atalanta, Serie A 22-23)",-2.230326816577436
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","N. Radonjić (27, Torino, Serie A 22-23)",48.1340090426157
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",23.819748813967013
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",81.41749904743668
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",76.59607427546914
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Colpani (24, Monza, Serie A 22-23)",49.58457076747815
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",41.32331959615853
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",0.9410554249696216
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",63.645841299341335
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",19.20550008468883
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",51.79762607459292
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",52.660204299930335
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",73.84119792877989
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",69.86210188202587
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",0.8753515387388212
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",59.46574010024219
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",69.1450420894735
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",75.39869617213456
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","R. Botta (33, Bari, Serie B 22-23)",47.533431319455794
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",50.62347885052897
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",15.492377393719488
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","V. Parigini (27, Como, Serie B 22-23)",39.60908595075743
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Álex Blanco (24, Como, Serie B 22-23)",45.22337795374288
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",67.41581517148862
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",72.55854061918319
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","D. Camara (21, Parma, Serie B 22-23)",27.796324748061764
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",47.82325434957996
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",-0.1818172108959693
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",44.72272922159651
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",3.4324863391595843
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",76.43929115900133
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",9.105712905036777
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",80.30938543206862
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",38.16289331900688
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",43.76253696839339
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",13.656367244925644
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",61.19757117381233
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",16.964236329897577
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",13.568099405435484
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",68.31191717885238
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",-1.586735681129147
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",44.20672554741172
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",17.874327221961106
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",29.067573850214902
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",64.73384816553474
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","N. Belloni (28, Siena, Serie C 22-23)",35.58400338132993
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Frediani (29, Siena, Serie C 22-23)",43.49645836709669
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","F. Urso (28, Torres, Serie C 22-23)",67.76084893006184
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",63.266460182263714
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","G. Lisai (33, Torres, Serie C 22-23)",36.09471749443262
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",75.2516559448115
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","C. Attys (22, Trento, Serie C 22-23)",28.51562548520904
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",69.26938433754003
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",38.87177214782648
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",72.71892499160654
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",45.067187025634674
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",57.58562597755193
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",69.8153016329077
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",20.998351016198065
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",53.3805069308395
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",30.414408562438407
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",62.18779280731697
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",60.2902482983873
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",19.073499269469583
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",69.99858819967996
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",52.42912589574848
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",73.75103848388916
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",52.14415374078588
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",67.7301708545941
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",60.128001615003846
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",77.37966990963427
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",-1.925790250895083
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",-21.139288562696247
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",-6.477068283479079
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",62.89838684413329
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",17.172610000494437
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",74.46903867782208
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",59.62046609659802
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",52.09776229242515
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",34.97287081413316
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",17.202197991973232
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",8.198161501061643
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",-19.62771466299164
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",-1.0626783951553582
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",55.09815502062501
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",23.205507326700857
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",-0.4763933073279469
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",22.67433413760553
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-2.0572559994677686
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-9.753394777275847
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",46.05282831479397
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",38.59068241829946
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",46.80278807088733
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",17.318158059455698
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","I. Jebali (31, OB, Superliga 22-23)",61.99515826054726
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",30.530581362796216
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",29.85650707360448
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",67.41604097021958
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",49.0418163697186
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",62.86974386280036
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",60.45083678191629
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",71.42120895751779
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",54.85343507158285
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",53.33274000699788
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",27.66568998783791
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",65.64330295628648
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",77.67744193083408
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",82.51605361828148
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",24.665113436119903
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",51.84836963200872
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",44.43514561955909
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",54.54351451292701
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",46.7439936144703
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",75.72019771929885
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",67.85169351923915
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",63.19232429811961
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",26.868994627160564
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",76.09487862462585
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",40.26016598000533
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",76.80421205978483
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",30.81046553397607
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",6.766317426664377
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",10.268170799896373
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",26.15353485058163
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",87.3672857604875
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",60.63234623352609
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",54.28984008802389
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",15.347002909424232
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",23.36538956143465
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",57.31476912658113
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",67.37621287890711
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",81.05109269280072
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",60.16016981790212
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",22.89968108313053
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",-5.722961081735053
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",36.96258927147586
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",53.32309747733045
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",54.17927587233861
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",72.94197453765484
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",28.42496996724569
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",62.04680469375816
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",55.65932243806721
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",52.32815034394086
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",63.33132884651215
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",36.14847061492185
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",14.518930521598108
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",56.49348235290178
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",64.14933394042848
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-9.040152169207143
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",18.839862694706294
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",38.08339901989712
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",63.45759281108722
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",76.88897104367867
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",18.4539130532526
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",58.454041130164654
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",58.2247304386215
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",41.46950478030877
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",68.59533501413856
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-19.823307652673545
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",10.227866306704238
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",18.20892455081245
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",17.15094452807423
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-7.433972930241923
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",14.4345780757929
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",49.23472104008547
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-10.131127795861405
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",53.47017807635683
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",35.94380425931655
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",71.95629036533757
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",31.14226339707631
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",37.29038474472193
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",77.34240087975158
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",8.132198623528112
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",21.648054742244828
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-12.092912530321328
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",32.32664861772193
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",79.7244217324739
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",4.805610837339567
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",28.43294537263837
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",61.77422843155329
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",66.67582114505089
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",63.3325357320946
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",36.5926524135937
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",-3.5487169089748507
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",34.171106813162886
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-18.6195010635674
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",39.4906181276036
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",64.01481389961235
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",60.97454201354346
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",49.12789039686958
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",69.29039310598532
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",71.97335039225133
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",68.64376224349441
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",50.78740394081651
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",50.27669056273864
-"C. Smith (21, Hamilton Academical, Scottish Championship 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",73.39629042194305
+Player,Similarity
+"R. Zalazar (23, Schalke 04, Bundesliga 22-23)",91.33781212725464
+"J. Nsang (24, UE Santa Coloma, Andorra Primera Divisió 22-23)",89.42415199769859
+"L. Pellegrini (26, Roma, Serie A 22-23)",87.94234419205509
+"Agüero (27, Alcoyano, Primera División RFEF 22-23)",87.80407711715539
+"A. Maxim (32, Beşiktaş, Süper Lig 22-23)",87.3672857604875
+"Andreas Pereira (27, Fulham, Premier League 22-23)",86.31294274542098
+"C. Calaidjoglu (22, Sfîntul Gheorghe, Moldovan Super Liga 22-23)",86.06093007348093
+"K. Sandoval (26, Cienciano, Peruvian Liga 1 2023)",85.79996415422443
+"F. Nabiyev (23, Kapaz, Premyer Liqa 22-23)",85.40182446006635
+"N. Chilvers (22, Colchester United, League Two 22-23)",85.31801427923872
+"M. Mijić (33, Novi Pazar, Serbian SuperLiga 22-23)",84.81422679751563
+"D. Beširović (29, Mezőkövesd-Zsóry, NB I 22-23)",84.49314313022217
+"P. Mišić (28, Tuzla City, Bosnian Premier League 22-23)",84.37619506156572
+"J. Levi (27, Puskás FC, NB I 22-23)",84.1066968476572
+"K. Barlow (19, Sligo Rovers, League of Ireland PL 2023)",84.0288513145571
+"Javi Hernández (33, Bengaluru, Indian Super League 22-23)",83.98436563815532
+"K. Turner (25, Partick Thistle, Scottish Championship 22-23)",83.92693377718916
+"Jefinho (34, Samgurali, Erovnuli Liga 2023)",83.55568216920237
+"V. Taborda (21, Platense, Argentinian Primera División 2023)",83.15088024273194
+"A. Guseynov (23, Turan-T, Premyer Liqa 22-23)",82.99490578828669
+"C. Mester (20, Austria Wien II, Austrian 2. Liga 22-23)",82.99154977820314
+"J. Velásquez (29, Xelajú, Guatemala Liga Nacional 22-23)",82.81587597985985
+"A. Ilic (18, Sturm Graz II, Austrian 2. Liga 22-23)",82.78206203407201
+"U. Nikolić (29, Vojvodina, Serbian SuperLiga 22-23)",82.59982319614754
+"V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",82.51605361828148

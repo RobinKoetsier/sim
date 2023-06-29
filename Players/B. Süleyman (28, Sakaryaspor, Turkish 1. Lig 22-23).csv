@@ -1,145 +1,26 @@
-Player 1,Player 2,Similarity
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","D. Bregu (27, Boluspor, Turkish 1. Lig 22-23)",45.779231549809225
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","B. Alıcı (25, Samsunspor, Turkish 1. Lig 22-23)",82.00020689183971
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","R. Muhammed (29, Keçiörengücü, Turkish 1. Lig 22-23)",42.963643996123466
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Yahaya (21, Tuzlaspor, Turkish 1. Lig 22-23)",53.72730830400736
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","R. Babel (36, Eyüpspor, Turkish 1. Lig 22-23)",73.08775716877551
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Gakpa (29, Manisa BBSK, Turkish 1. Lig 22-23)",51.691618384802
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","E. Gürlük (19, Altınordu, Turkish 1. Lig 22-23)",69.62693098507698
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. İnan (24, Keçiörengücü, Turkish 1. Lig 22-23)",26.120583754162556
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Rosheuvel (32, BB Erzurumspor, Turkish 1. Lig 22-23)",33.31346130519257
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","D. Emeksiz (23, Manisa BBSK, Turkish 1. Lig 22-23)",6.595469354982152
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","J. Kayamba (31, Boluspor, Turkish 1. Lig 22-23)",77.73236936606138
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Roshi (32, Sakaryaspor, Turkish 1. Lig 22-23)",35.354371581217706
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","S. Özcan (26, Altınordu, Turkish 1. Lig 22-23)",34.56215248987134
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","H. Akbunar (29, Eyüpspor, Turkish 1. Lig 22-23)",76.35502586913762
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Demir (25, Gençlerbirliği, Turkish 1. Lig 22-23)",58.49467917163368
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Imeri (23, Bodrumspor, Turkish 1. Lig 22-23)",20.790393870856462
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","C. Akgün (24, Yeni Malatyaspor, Turkish 1. Lig 22-23)",54.96195327185834
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","H. Bağ (32, Bandırmaspor, Turkish 1. Lig 22-23)",24.87601058921619
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","H. Taşcı (32, Sakaryaspor, Turkish 1. Lig 22-23)",23.931358355382628
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Mimaroğlu (28, Altınordu, Turkish 1. Lig 22-23)",82.03338758045821
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Okutan (26, Boluspor, Turkish 1. Lig 22-23)",36.20724816018451
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","S. Sahintürk (27, Bandırmaspor, Turkish 1. Lig 22-23)",62.906841325388655
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","S. Yılmaz (33, Rizespor, Turkish 1. Lig 22-23)",16.601720167997748
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","B. Basaçikoglu (28, Tuzlaspor, Turkish 1. Lig 22-23)",66.69138828660748
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Amilton (33, Rizespor, Turkish 1. Lig 22-23)",75.33002193358946
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","C. Soukou (30, Bandırmaspor, Turkish 1. Lig 22-23)",43.35074708869929
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","K. Mayi (30, Denizlispor, Turkish 1. Lig 22-23)",-23.297441966690936
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Özfesli (26, BB Erzurumspor, Turkish 1. Lig 22-23)",28.360197221997453
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)",63.24856892505041
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Özhan (22, BB Erzurumspor, Turkish 1. Lig 22-23)",0.7290232574227568
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Rharsalla (29, Gençlerbirliği, Turkish 1. Lig 22-23)",55.87708367246176
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)",11.840411091803842
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","А.Tuzcu (20, Gençlerbirliği, Turkish 1. Lig 22-23)",-4.384064994185893
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","F. Ezeh (25, Eyüpspor, Turkish 1. Lig 22-23)",40.73297418578724
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Belyaev (23, Gençlerbirliği, Turkish 1. Lig 22-23)",31.130106785655627
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Ali Saleh (23, Al Wasl, UAE Pro League 22-23)",72.99701341576872
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Fabio de Lima (29, Al Wasl, UAE Pro League 22-23)",60.109741122008906
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Aylton Boa Morte (29, Khorfakkan, UAE Pro League 22-23)",64.06995140837839
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Lourency (27, Al Bataeh, UAE Pro League 22-23)",71.83923081037726
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","S. Rahimi (26, Al Ain, UAE Pro League 22-23)",73.79605116367904
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Ali Madan (27, Ajman, UAE Pro League 22-23)",76.00556649598738
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Ryan Mendes (33, Al Nasr, UAE Pro League 22-23)",90.23396429052278
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Amer Bazuhair (31, Dibba Al Fujairah, UAE Pro League 22-23)",24.047985885951555
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Suhail Ahmed Al Noobi (27, Bani Yas, UAE Pro League 22-23)",30.39206126816481
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","P. Mboungou (22, Ajman, UAE Pro League 22-23)",44.29379040334933
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Bencharki (28, Al Jazira, UAE Pro League 22-23)",73.59779100207618
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Rayhi (28, Al Dhafra, UAE Pro League 22-23)",42.64243829000601
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Traore (20, Al Jazira, UAE Pro League 22-23)",71.445675357505
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Juninho (23, Khorfakkan, UAE Pro League 22-23)",59.56106041466188
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Jajá (24, Dibba Al Fujairah, UAE Pro League 22-23)",42.63057961602277
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Yarmolenko (33, Al Ain, UAE Pro League 22-23)",75.61194514215063
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Luan Pereira (23, Al Sharjah, UAE Pro League 22-23)",62.19594940380085
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Camara (22, Al Sharjah, UAE Pro League 22-23)",39.03075890157211
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","S. Gassama (22, Al Bataeh, UAE Pro League 22-23)",65.72257850725303
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)",77.20886761653972
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Yahya Al Ghassani (25, Shabab Al Ahli Dubai, UAE Pro League 22-23)",53.96582218233402
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)",69.79157131186342
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Harib Abdalla Suhail (20, Shabab Al Ahli Dubai, UAE Pro League 22-23)",65.25306307640649
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","B. Ramírez (22, Al Ittihad Kalba, UAE Pro League 22-23)",39.08264794660248
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Leandro Spadacio (23, Al Ittihad Kalba, UAE Pro League 22-23)",62.95969170379298
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Mohamed Al Junaibi (24, Al Dhafra, UAE Pro League 22-23)",28.200989140167028
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Ahmed Abunamous (23, Bani Yas, UAE Pro League 22-23)",78.87468473109249
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Diaby (31, Al Ittihad Kalba, UAE Pro League 22-23)",65.61160996978585
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Caio Canedo (32, Al Ain, UAE Pro League 22-23)",22.20049126248151
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","F. Kruspzky (20, Al Wahda, UAE Pro League 22-23)",13.045113313861192
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","T. Seferi (26, Vorskla, Ukrainian Premier Liha 22-23)",42.51130806381337
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Solomon-Otabor (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",78.94795389679228
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","G. Pasich (29, Veres, Ukrainian Premier Liha 22-23)",51.19155124205004
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",47.01530606538652
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","R. Rusyn (27, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",64.33580104308425
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Y. Kartushov (32, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",34.0136042519159
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Ilyin (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",31.728141227188573
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)",40.84630235275284
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Naumets (24, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",76.63968165067885
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Zaderaka (28, Kryvbas KR, Ukrainian Premier Liha 22-23)",63.4124456508622
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Dakhnovskyi (24, Veres, Ukrainian Premier Liha 22-23)",40.50906145833671
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","N. Voloshyn (19, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",20.09321897145445
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","S. Myakushko (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",64.34659708939363
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Y. Pidlepenets (24, Dnipro-1, Ukrainian Premier Liha 22-23)",30.360492071754443
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","D. Blanco (28, Dnipro-1, Ukrainian Premier Liha 22-23)",38.52286378780963
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Kalitvintsev (30, Oleksandria, Ukrainian Premier Liha 22-23)",73.17312018052826
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","N. Vorobchak (23, Minaj, Ukrainian Premier Liha 22-23)",52.623233378308456
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Z. Badibanga (31, Chornomorets, Ukrainian Premier Liha 22-23)",65.79453492344211
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",64.56296111430837
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",77.27125217682604
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Kabaev (27, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",62.14542100301709
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Kozak (28, Inhulets, Ukrainian Premier Liha 22-23)",65.30027495831202
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","D. Alefirenko (23, Chornomorets, Ukrainian Premier Liha 22-23)",63.49382720543322
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","B. Boychuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",61.889950702898176
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Tsygankov (25, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",63.94012066720005
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Rogozynskyi (27, Minaj, Ukrainian Premier Liha 22-23)",20.079144432392305
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","E. Kuliev (21, Minaj, Ukrainian Premier Liha 22-23)",31.157858442385876
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Zubkov (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",64.58756228338125
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Odaryuk (29, Inhulets, Ukrainian Premier Liha 22-23)",7.91528418180474
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",40.60886356869165
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","D. Kryskiv (22, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",56.64453551880422
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Bliznichenko (28, Veres, Ukrainian Premier Liha 22-23)",44.94262006486874
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)",65.02971309817164
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",60.95031837922872
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",75.5585378615329
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",28.57272938918612
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",45.00349935174981
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",67.00510378782342
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",57.1365206561328
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",82.43989426135401
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",82.1531452461406
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",43.163295269389295
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",76.14671508943157
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",40.9231978302437
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",79.98952304741445
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",10.170554373022425
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",65.64822134143367
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",77.02763406016251
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",55.41247617146748
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",86.80476989337166
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",41.949543049091616
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",70.02989191047705
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",53.00840300661236
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",64.79225520176176
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",31.817684331884312
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",33.39496088270883
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",70.54390019119214
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",54.8461319665162
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",42.949412326334354
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",16.55796051023437
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",74.86227546491942
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",-16.715375486264353
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",68.54730031936084
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",43.46361153560344
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",68.83679104864609
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",43.9577788497614
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",60.87587677634623
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",68.9030416597698
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",44.51130718532432
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",45.06467107797072
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",70.75980863140484
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",21.62443574207541
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",75.33715198594678
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",43.89953986979257
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",-22.37270729065336
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",70.24737178249796
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",16.884986103121534
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",57.06625994696608
-"B. Süleyman (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",67.6052157209151
+Player,Similarity
+"S. Lawless (32, Partick Thistle, Scottish Championship 22-23)",91.45215537670327
+"J. Ito (30, Reims, Ligue 1 22-23)",91.13978116260954
+"Ryan Mendes (33, Al Nasr, UAE Pro League 22-23)",90.23396429052278
+"B. Oyola (26, Delfin, Ecuador Liga Pro 2023)",89.36132778857818
+"A. Bukia (28, Al Batin, Saudi Professional League 22-23)",89.2924568886296
+"Ahmed Al Zaein (31, Al Khaleej, Saudi Professional League 22-23)",89.2580124193397
+"Diogo Salomão (34, Estrela Amadora, Portugal Segunda Liga 22-23)",89.12854208514796
+"M. Diaby (23, Bayer Leverkusen, Bundesliga 22-23)",89.06698596704598
+"M. Azarkan (21, Excelsior, Eredivisie 22-23)",88.94976362995062
+"M. Topuzov (23, CSKA 1948 Sofia, Bulgarian First League 22-23)",88.20122792377238
+"R. Simanjuntak (31, Persija, BRI Liga 1 22-23)",88.14218021084909
+"A. Opoku (24, Kaiserslautern, 2. Bundesliga 22-23)",87.9967288579736
+"Rúben Lameiras (28, Vitória Guimarães, Primeira Liga 22-23)",87.98290173254239
+"Kim Jung-Joo (31, Gyeongju HNP, K3 League 2023)",87.58684515055546
+"B. Bouanani (18, Nice, Ligue 1 22-23)",87.43436792752148
+"O. Boussaid (23, Utrecht, Eredivisie 22-23)",86.84529361772421
+"P. García (24, River Plate, Uruguay Primera División 2023)",86.80476989337166
+"Jota (24, Celtic, Scottish Premiership 22-23)",86.79839187030323
+"M. Rashica (26, Galatasaray, Süper Lig 22-23)",86.6277876900859
+"Aarón Rey (25, Gimnàstic Tarragona, Primera División RFEF 22-23)",86.5870394717971
+"A. Fathier (27, Persis Solo, BRI Liga 1 22-23)",86.45803412727176
+"S. Plavšić (27, Baník Ostrava, Czech Fortuna Liga 22-23)",86.45448700668584
+"E. Fati (29, Mafra, Portugal Segunda Liga 22-23)",86.3038519165795
+"T. Dierckx (28, Westerlo, Belgian Pro League 22-23)",86.27295260540332
+"A. Ibargüen (31, Medellín, Colombian Primera Division 22-23)",85.99932171081123

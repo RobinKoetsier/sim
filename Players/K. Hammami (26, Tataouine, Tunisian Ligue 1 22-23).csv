@@ -1,236 +1,26 @@
-Player 1,Player 2,Similarity
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Y. Kchok (22, CA Bizertin, Tunisian Ligue 1 22-23)",30.561103859822225
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. Sioud (31, Rejiche, Tunisian Ligue 1 22-23)",24.40204384390557
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","H. Helal (30, EO Sidi Bouzid, Tunisian Ligue 1 22-23)",14.084631337572642
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Houssem Teka (22, Monastir, Tunisian Ligue 1 22-23)",-2.440462671983409
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","R. Derbali (20, Olympique Béja, Tunisian Ligue 1 22-23)",25.170914111705702
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","R. Bouchniba (19, ES Tunis, Tunisian Ligue 1 22-23)",21.94540470123866
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","S. Atvati (23, Métlaoui, Tunisian Ligue 1 22-23)",41.32370260227066
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. Tlili (28, Stade Tunisien, Tunisian Ligue 1 22-23)",19.588960798491385
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Y. Mechergui (23, CA Bizertin, Tunisian Ligue 1 22-23)",76.00139900050125
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","S. Harrabi (24, Monastir, Tunisian Ligue 1 22-23)",38.22071016787119
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","W. Sahli (35, Chebba, Tunisian Ligue 1 22-23)",41.253596135927545
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","C. Şen (22, Bodrumspor, Turkish 1. Lig 22-23)",51.54601928760019
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Ü. Ergün (30, Bodrumspor, Turkish 1. Lig 22-23)",7.603582738479886
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","O. Ovacıklı (34, BB Erzurumspor, Turkish 1. Lig 22-23)",17.070489011267536
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. Dere (30, Altınordu, Turkish 1. Lig 22-23)",27.0183163702095
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","S. Sarıkaya (25, Altay, Turkish 1. Lig 22-23)",59.51797478472467
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","H. Bilgiç (30, Boluspor, Turkish 1. Lig 22-23)",35.475872870438
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","G. Süzen (35, Denizlispor, Turkish 1. Lig 22-23)",-23.081880738935556
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Ö. Bayram (31, Eyüpspor, Turkish 1. Lig 22-23)",-4.48950345170536
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Cinan (25, Keçiörengücü, Turkish 1. Lig 22-23)",26.363600653614515
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","E. Kaplan (22, Bandırmaspor, Turkish 1. Lig 22-23)",48.321741072699325
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","İ. Köybaşı (33, Göztepe, Turkish 1. Lig 22-23)",-5.477465278972938
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Şahin (22, Manisa BBSK, Turkish 1. Lig 22-23)",35.59734656189448
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","B. Cevahir (31, Boluspor, Turkish 1. Lig 22-23)",16.737985289390934
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","O. Bayrak (24, Tuzlaspor, Turkish 1. Lig 22-23)",37.33129212918669
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Naderi (26, Altay, Turkish 1. Lig 22-23)",63.69843587937459
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","G. Kaya (27, Pendikspor, Turkish 1. Lig 22-23)",-23.84221858055067
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","F. Öztorun (36, Pendikspor, Turkish 1. Lig 22-23)",22.12235902504598
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Uçar (31, Eyüpspor, Turkish 1. Lig 22-23)",30.406366281864035
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Pala (22, Rizespor, Turkish 1. Lig 22-23)",53.42697005661169
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)",41.48214862090168
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. Şengül (24, Bandırmaspor, Turkish 1. Lig 22-23)",33.13563121751131
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)",45.14578769643532
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","S. Gönül (25, Samsunspor, Turkish 1. Lig 22-23)",8.608029979339445
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. Koç (26, Rizespor, Turkish 1. Lig 22-23)",5.08650655213996
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","E. Özgenc (38, Pendikspor, Turkish 1. Lig 22-23)",-20.555969177644577
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","C. Cavlan (31, Bandırmaspor, Turkish 1. Lig 22-23)",27.856503398820426
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)",9.195627082168391
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",65.42868086523306
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",26.967346242737005
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",41.51774373400909
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",17.53173896235133
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",48.58756278341978
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",72.12739957935233
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",22.47066143841265
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",7.928056617426728
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",7.531876445302499
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",25.59673741047818
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",15.776815732737909
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",38.86284740698286
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",56.5058434924798
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",27.445208566108946
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",39.51928104926393
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",70.98194787797317
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",42.01386629827447
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",48.875097388025154
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",-9.155442781492749
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",29.78054295980988
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",19.98052208724993
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",49.9017302852043
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",7.478362829386491
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",21.84395257968014
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",18.105144732282323
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",42.983057085561946
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",1.902896538510576
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",17.45879320228822
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",16.22226656878087
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",21.167881574927623
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",-23.03687950432155
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",3.713669446159233
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",35.48016390563585
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",33.723397717589506
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",53.5097444816812
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",-13.608813910645525
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",43.86483353473115
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",15.013697736697573
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",15.92043181782179
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",47.29431613752073
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",23.67620547309924
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",30.578059287904864
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",-0.4945560328159067
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",24.13715996385272
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",23.96733486320264
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",18.615107586222383
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",40.86745437027011
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",52.63151798753076
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",12.303561596069484
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",27.44925908221655
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",37.057380977454685
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",21.82318437264252
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",41.317483338257446
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",50.12764859207152
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",7.539276553016435
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",22.26977745710694
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",36.0425556731939
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",35.500194831171214
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",33.17182048053063
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",56.70372639253621
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",56.3219764267798
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",27.547255021261087
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",27.95568639119986
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",26.96663508287308
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",34.30214858362997
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",54.34502448693538
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",43.12797012317991
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",54.36698038106851
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",18.86470155849577
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",13.961728703275153
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",11.174334650829405
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",-1.3491512172978724
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",27.141055483367197
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",43.290241565947504
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",19.73940538503904
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",5.81977714005451
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",23.78704684175636
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",51.48003457563102
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",38.76235456337665
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",36.3212364779729
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",54.9812755976696
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",46.03383849356951
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",36.31845100534259
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-6.906612486376221
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",53.04799858909325
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",45.66436679900598
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",61.40588198817204
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",13.77505674323449
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",-6.481559120134491
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-12.710958734010273
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",7.017705594522846
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",26.07872762257489
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",39.25034634803456
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",57.90952386414367
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",28.7396903306804
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",27.339328204436548
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",40.40684375548514
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",25.1569376497966
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",-5.773649379415046
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-7.74028297389097
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",41.143125042280445
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-6.207157072011412
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",20.627746826153043
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",5.999667120726518
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",26.73604302438581
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",11.42266471803083
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",32.765238731704095
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",9.66061176635089
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",35.68692811858026
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",18.75512735359333
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",44.6632922620262
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",23.961342929767167
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",23.097043558986844
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",26.06820556642621
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",43.55034903707851
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",-38.8039610267343
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",38.6095624915871
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",32.31602512146613
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",33.623834076023954
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",4.397829315996378
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",44.49393204436781
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",-6.710045215829985
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",19.354342198056408
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",46.67878658406266
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",34.73380528491314
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",-10.841905595941505
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",-4.483004999409824
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",-0.9257874045947816
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",36.94650055455083
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",37.08442979283052
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",31.24329214173345
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",69.0488559450411
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",28.038646866488342
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",20.973975211413475
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",6.074077612406834
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",18.357830742163056
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",28.71162356483638
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",32.155400416327616
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",35.60270128539578
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",39.91910700858881
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",2.454050932433669
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",22.288383018926822
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",50.00855294973147
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",7.8389524163996445
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",15.13745514173144
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",17.9390362000486
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",9.210692015408704
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",17.152180059241598
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",27.80968139487569
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",17.784816133826055
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",57.486205150415934
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",7.741019825812448
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",10.593252975294224
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",7.460668186174993
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",9.028776302523452
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",32.75910730345588
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",-8.502578253407764
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",11.19355477840999
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",-7.922307925029597
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",3.9219531239624175
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",-5.343056863415013
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",23.388917663280797
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",8.852576186657178
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",11.241116728479083
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",40.345623686686864
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",0.7231202537159106
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",-7.540586939041946
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",14.691436870762114
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",-13.797214852099488
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",23.0965564968336
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",7.171370629705649
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",2.986065221007351
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",40.198639783364726
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",48.98138205099766
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",27.997708838246943
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",-8.642225258957897
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",53.25380707202678
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",65.48877636841513
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",15.899910691414606
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",50.56662973747913
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","P. Mareš (32, RFS, Virsliga 2023)",-14.509739406210135
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-22.82443389471914
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",27.03887093514729
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",3.814638747613988
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",41.17255941406236
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",18.80975320856045
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",42.50666751845878
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",47.46658760043832
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",25.74120579405521
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",62.87567556999883
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",9.34613317687809
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",48.79455638763817
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",-10.279175869915484
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",25.827209061440843
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",-15.989969959028382
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",37.0787142976577
-"K. Hammami (26, Tataouine, Tunisian Ligue 1 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",31.00202515558827
+Player,Similarity
+"Y. Mechergui (23, CA Bizertin, Tunisian Ligue 1 22-23)",76.00139900050125
+"I. Mitran (21, Slatina, Romanian Liga II 22-23)",75.8011321383604
+"D. Escobar (22, Coquimbo Unido, Chilean Primera División 2023)",74.56495085096154
+"K. Ríos (20, Pérez Zeledón, Costa Rica Primera División 22-23)",74.52771676643047
+"A. Spörle (27, Arsenal de Srandí, Argentinian Primera División 2023)",74.44949787992586
+"C. Amirli (26, Sabail, Premyer Liqa 22-23)",73.98703663064154
+"M. Gusu (26, AlbinoLeffe, Serie C 22-23)",73.6866126303617
+"F. Novotný (27, Hradec Králové, Czech Fortuna Liga 22-23)",72.94882135574528
+"Vitinho (25, Telavi, Erovnuli Liga 2023)",72.92569863753967
+"Ardit Iljazi (22, Erzeni Shijak, Albanian Premier League 22-23)",72.2431559159907
+"H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",72.12739957935233
+"M. Galić (27, Željezničar, Bosnian Premier League 22-23)",72.00129423375776
+"A. Koiki (23, Northampton Town, League Two 22-23)",71.6097042914913
+"F. Vera (25, Unión Santa Fe, Argentinian Primera División 2023)",71.56337456009844
+"D. Ndure (23, VfB Oldenburg, 3. Liga 22-23)",71.47232531787762
+"O. Atasayar (28, Ümranıyespor, Süper Lig 22-23)",71.39832437634266
+"S. Zanon (21, Sangiuliano City, Serie C 22-23)",71.35568456634155
+"K. Abdel Fattah (24, Al Ahly, Egyptian Premier League 22-23)",71.34558682605177
+"M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",70.98194787797317
+"Alejandro Méndez (21, DAC, Slovak Super Liga 22-23)",70.88407607699222
+"D. Rodas (23, Mixco, Guatemala Liga Nacional 22-23)",70.51705482329837
+"S. Diakité (22, Ternana, Serie B 22-23)",69.87822073864106
+"M. Stylianou (29, Doxa, Cyprus 1. Division 22-23)",69.73615345308349
+"K. Gómez (23, Puntarenas, Costa Rica Primera División 22-23)",69.59071107895177
+"Zhen'ao Wang (23, Dalian Pro, Chinese Super League 2023)",69.53446262851497

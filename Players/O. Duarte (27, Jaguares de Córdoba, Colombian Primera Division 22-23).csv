@@ -1,24 +1,26 @@
-Player 1,Player 2,Similarity
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","I. Ugbo (24, Troyes, Ligue 1 22-23)",94.7708210992549
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","K. Kouassi (19, Sutton United, League Two 22-23)",56.3099621096714
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)",74.3795869002728
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","C. Monschein (30, Ried, Austrian Bundesliga 22-23)",74.15447949864746
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","A. Sitalo (33, Inhulets, Ukrainian Premier Liha 22-23)",65.28102379543559
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","A. Williams (36, Walsall, League Two 22-23)",62.77322283317808
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","R. Nemoto (23, Tochigi, J2 2023)",88.95901113882539
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","A. Yakubu (24, Rio Ave, Primeira Liga 22-23)",85.19770519604059
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)",87.56618163575259
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","G. Cooper (25, Chindia Târgovişte, SuperLiga României 22-23)",75.45087278024114
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","Antoñín Cortés (23, Anorthosis, Cyprus 1. Division 22-23)",84.11095451981203
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","G. Leyes (33, Academia Cantolao, Peruvian Liga 1 2023)",68.75856136472461
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","D. Hylton (34, Northampton Town, League Two 22-23)",65.15260286443709
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","F. Bohman (26, Trelleborg, Superettan 2023)",79.80964827374665
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","K. Connell (21, Raith Rovers, Scottish Championship 22-23)",71.08827481261383
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","J. Zuñiga (29, Xinabajul, Guatemala Liga Nacional 22-23)",69.12560283110038
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","T. Hopper (29, Colchester United, League Two 22-23)",78.01823514865762
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","M. Egho (29, Randers, Superliga 22-23)",85.10272010782724
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","M. Hornyák (29, Csákvári TK, NB II 22-23)",85.05313977166324
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","M. van Duinen (31, Excelsior, Eredivisie 22-23)",80.56533439833046
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","L. Bekui (28, Al Sahel, Saudi First Division 22-23)",63.5918683374654
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","Vitor (25, Najran, Saudi First Division 22-23)",62.948324114414575
-"O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)","M. Jurina (29, Al Faisaly, Saudi First Division 22-23)",63.622977449525806
+Player,Similarity
+"I. Ugbo (24, Troyes, Ligue 1 22-23)",94.7708210992549
+"T. Awoniyi (25, Nottingham Forest, Premier League 22-23)",90.45509310866096
+"Eric Balastegui (19, Engordany, Andorra Primera Divisió 22-23)",90.2262227769466
+"R. Nemoto (23, Tochigi, J2 2023)",88.95901113882539
+"Beto (25, Udinese, Serie A 22-23)",88.12885932467483
+"T. Zajíc (26, České Budějovice, Czech Fortuna Liga 22-23)",87.90915644525504
+"Pedro Marques (25, NEC, Eredivisie 22-23)",87.73536167730644
+"L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)",87.56618163575259
+"F. Pierrot (28, Maccabi Haifa, Ligat Ha'al 22-23)",87.25564550526093
+"C. Bălan (28, PAS Giannina, Greek Super League 22-23)",86.58712772700835
+"O. Édouard (25, Crystal Palace, Premier League 22-23)",86.10149864038686
+"S. Hendriks (28, Olympiakos, Cyprus 1. Division 22-23)",85.78313442639404
+"E. Sokler (23, Radomlje, 1. SNL 22-23)",85.58588813958788
+"F. Borsos (22, Győri ETO, NB II 22-23)",85.46616068865913
+"O. Ojetunde (20, Lernayin Artsakh, Armenian Premier League 22-23)",85.45755471038696
+"M. Pucciarelli (31, Vis Pesaro, Serie C 22-23)",85.23996091958416
+"M. Raičević (29, Mornar, Montenegro First League 22-23)",85.23007549895131
+"P. Yordanov (33, OFK Pirin, Bulgarian First League 22-23)",85.2079642584842
+"A. Yakubu (24, Rio Ave, Primeira Liga 22-23)",85.19770519604059
+"M. Egho (29, Randers, Superliga 22-23)",85.10272010782724
+"E. Kachunga (31, Bolton Wanderers, League One 22-23)",85.08811902306628
+"M. Hornyák (29, Csákvári TK, NB II 22-23)",85.05313977166324
+"S. Müller (22, Hallescher FC, 3. Liga 22-23)",84.96982197870308
+"E. Riis (24, Preston North End, Championship 22-23)",84.70688526296115
+"İ. Karakaş (24, Gençlerbirliği, Turkish 1. Lig 22-23)",84.56922168177103

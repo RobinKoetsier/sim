@@ -1,16 +1,26 @@
-Player 1,Player 2,Similarity
-"A. Yakubu (24, Rio Ave, Primeira Liga 22-23)","L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)",82.99092453554279
-"A. Yakubu (24, Rio Ave, Primeira Liga 22-23)","G. Cooper (25, Chindia Târgovişte, SuperLiga României 22-23)",80.67918024037203
-"A. Yakubu (24, Rio Ave, Primeira Liga 22-23)","Antoñín Cortés (23, Anorthosis, Cyprus 1. Division 22-23)",86.64849792487075
-"A. Yakubu (24, Rio Ave, Primeira Liga 22-23)","G. Leyes (33, Academia Cantolao, Peruvian Liga 1 2023)",80.55472820728448
-"A. Yakubu (24, Rio Ave, Primeira Liga 22-23)","D. Hylton (34, Northampton Town, League Two 22-23)",66.05335551612826
-"A. Yakubu (24, Rio Ave, Primeira Liga 22-23)","F. Bohman (26, Trelleborg, Superettan 2023)",89.92952230793796
-"A. Yakubu (24, Rio Ave, Primeira Liga 22-23)","K. Connell (21, Raith Rovers, Scottish Championship 22-23)",79.33740992661316
-"A. Yakubu (24, Rio Ave, Primeira Liga 22-23)","J. Zuñiga (29, Xinabajul, Guatemala Liga Nacional 22-23)",70.70408498804892
-"A. Yakubu (24, Rio Ave, Primeira Liga 22-23)","T. Hopper (29, Colchester United, League Two 22-23)",73.57075078437141
-"A. Yakubu (24, Rio Ave, Primeira Liga 22-23)","M. Egho (29, Randers, Superliga 22-23)",81.47872688680789
-"A. Yakubu (24, Rio Ave, Primeira Liga 22-23)","M. Hornyák (29, Csákvári TK, NB II 22-23)",87.26466085356265
-"A. Yakubu (24, Rio Ave, Primeira Liga 22-23)","M. van Duinen (31, Excelsior, Eredivisie 22-23)",85.34752894262438
-"A. Yakubu (24, Rio Ave, Primeira Liga 22-23)","L. Bekui (28, Al Sahel, Saudi First Division 22-23)",79.53570789534291
-"A. Yakubu (24, Rio Ave, Primeira Liga 22-23)","Vitor (25, Najran, Saudi First Division 22-23)",78.2533425788685
-"A. Yakubu (24, Rio Ave, Primeira Liga 22-23)","M. Jurina (29, Al Faisaly, Saudi First Division 22-23)",79.678985341937
+Player,Similarity
+"C. Washington (30, Rotherham United, Championship 22-23)",91.45297492967372
+"S. Selmani (21, Kastrioti Krujë, Albanian Premier League 22-23)",90.7244902820371
+"Pedro Marques (25, NEC, Eredivisie 22-23)",90.64181564133364
+"F. Bohman (26, Trelleborg, Superettan 2023)",89.92952230793796
+"T. Zajíc (26, České Budějovice, Czech Fortuna Liga 22-23)",89.80814129093072
+"A. Dereli (30, Altınordu, Turkish 1. Lig 22-23)",89.54864601505705
+"R. Nemoto (23, Tochigi, J2 2023)",89.39278433645957
+"H. Halim (29, Hougang United, Singapore Premier League 2023)",89.229566399814
+"R. Berlinski (28, Rot-Weiss Essen, 3. Liga 22-23)",88.83175649459322
+"H. Zraibi (25, Ittihad Tanger, Botola Pro 22-23)",88.45203262525278
+"S. Müller (22, Hallescher FC, 3. Liga 22-23)",88.00348748837176
+"M. Satriano (22, Empoli, Serie A 22-23)",87.8277675028711
+"S. Hendriks (28, Olympiakos, Cyprus 1. Division 22-23)",87.51857933776698
+"J. Wakeling (21, Swindon Town, League Two 22-23)",87.43813788080797
+"M. Hornyák (29, Csákvári TK, NB II 22-23)",87.26466085356265
+"Jassim Ahmad (27, Qatar SC, Qatari Stars League 22-23)",87.2348032464483
+"J. Johansson (24, Fremad Amager, Danish 1. Division 22-23)",86.86475113405422
+"I. Ugbo (24, Troyes, Ligue 1 22-23)",86.80878975485325
+"M. Pryadun (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",86.76666600327077
+"Antoñín Cortés (23, Anorthosis, Cyprus 1. Division 22-23)",86.64849792487075
+"Juan Artola (23, Burgos, La Liga 2 22-23)",86.64348251552298
+"C. Bălan (28, PAS Giannina, Greek Super League 22-23)",86.51799367853019
+"L. Englund (32, Gefle, Superettan 2023)",86.4932785283477
+"Adeeb Al Haizan (22, Al Orubah, Saudi First Division 22-23)",86.06168631084189
+"A. Okladnikov (23, Yenisey, Russian FNL 2 22-23)",85.95169758170746

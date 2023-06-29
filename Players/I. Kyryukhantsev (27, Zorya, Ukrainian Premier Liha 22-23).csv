@@ -1,45 +1,26 @@
-Player 1,Player 2,Similarity
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",56.13145701317528
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",30.92192039165507
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",47.38827019401366
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",54.62993968406583
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",66.07295519338217
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",63.83363290510111
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",46.49716556453017
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",60.108445217775454
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",43.827857808017264
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",48.29182337023423
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",51.27475643576578
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",64.53523922311894
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",82.28289687548515
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",41.21931961631671
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",72.62945439208946
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",56.52678989874472
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",40.84920182157288
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",64.37460569782924
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",59.229164241288345
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",12.74840756812458
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",53.75045107668959
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",65.75707909644535
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",45.2251209462944
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",48.10234663026448
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",42.52547694927446
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",60.28593927625799
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",25.414165469268124
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",64.09222433186623
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",56.85234626693014
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",72.98364871202719
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",71.76969266745394
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",62.29946116378765
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",60.05312976992053
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",64.24182809681943
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",38.27229377131104
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",75.87044443085867
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",24.374506572288016
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",65.08134347782729
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",63.53003987243323
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",6.532622657876195
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",68.73652855987916
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",47.65641082676678
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",48.96344539551995
-"I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",72.61404969571984
+Player,Similarity
+"Q. Menig (27, Partizan, Serbian SuperLiga 22-23)",89.2784510106569
+"Y. Yao (25, Skalica, Slovak Super Liga 22-23)",88.11905778290148
+"S. Biuk (20, Hajduk Split, 1. HNL 22-23)",87.83357980155716
+"O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",87.09930584789328
+"Jorge de Frutos (26, Levante, La Liga 2 22-23)",87.01264543987722
+"M. Bülter (30, Schalke 04, Bundesliga 22-23)",86.82278196308847
+"P. Ampem (25, Rijeka, 1. HNL 22-23)",86.42957278259547
+"E. Colley (23, Fatih Karagümrük, Süper Lig 22-23)",86.40739865055443
+"N. Sadaoui (30, Goa, Indian Super League 22-23)",86.14564750889625
+"J. Murphy (28, Newcastle United, Premier League 22-23)",85.40884867325154
+"X. Severina (22, ADO Den Haag, Eerste Divisie 22-23)",85.17931315769309
+"K. Chodyna (24, Zagłębie Lubin, Ekstraklasa 22-23)",84.84103226161056
+"J. Ankersen (32, Randers, Superliga 22-23)",84.81258914150236
+"M. Ajani (29, MSV Duisburg, 3. Liga 22-23)",84.73409115062857
+"M. Topuzov (23, CSKA 1948 Sofia, Bulgarian First League 22-23)",84.48994643141901
+"N. Mendez-Laing (31, Derby County, League One 22-23)",84.33839518661614
+"Ahmed Abunamous (23, Bani Yas, UAE Pro League 22-23)",84.30846377524523
+"Seong-Jun Jo (32, Anyang, K League 2 2023)",84.27731288686527
+"G. Korte (29, De Graafschap, Eerste Divisie 22-23)",84.24318415055754
+"I. Faraj (24, AEK Larnaca , Cyprus 1. Division 22-23)",84.15717619566485
+"G. McCleary (36, Wycombe Wanderers, League One 22-23)",84.09310967671051
+"R. Rivas (24, Reggina, Serie B 22-23)",84.05585692209328
+"J. Zwarts (24, ADO Den Haag, Eerste Divisie 22-23)",83.99742146021215
+"F. Sartore (27, Fiorenzuola, Serie C 22-23)",83.98071274008315
+"Élber (31, Yokohama F. Marinos, J1 2023)",83.86387942679292

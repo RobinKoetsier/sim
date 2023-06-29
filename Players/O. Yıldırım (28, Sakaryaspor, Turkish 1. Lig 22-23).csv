@@ -1,205 +1,26 @@
-Player 1,Player 2,Similarity
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Şengül (24, Bandırmaspor, Turkish 1. Lig 22-23)",14.202402980223146
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","E. Sağlık (25, Denizlispor, Turkish 1. Lig 22-23)",39.1319517428618
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","S. Gönül (25, Samsunspor, Turkish 1. Lig 22-23)",37.40821322542915
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Koç (26, Rizespor, Turkish 1. Lig 22-23)",21.183439402885632
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","E. Özgenc (38, Pendikspor, Turkish 1. Lig 22-23)",-5.3142526764975
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","C. Cavlan (31, Bandırmaspor, Turkish 1. Lig 22-23)",37.60883966174695
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","C. Alkılıç (35, Eyüpspor, Turkish 1. Lig 22-23)",29.472288712255654
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","C. Bayrak (23, BB Erzurumspor, Turkish 1. Lig 22-23)",57.97146813457581
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","E. Kartal (30, Keçiörengücü, Turkish 1. Lig 22-23)",12.261596342035036
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","T. Çamdal (32, Göztepe, Turkish 1. Lig 22-23)",22.326445359609405
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","L. Schwechlen (33, Denizlispor, Turkish 1. Lig 22-23)",-11.299814544915757
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Ç. Giritlioğlu (26, Manisa BBSK, Turkish 1. Lig 22-23)",53.92156601889811
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","H. Erdoğan (29, Sakaryaspor, Turkish 1. Lig 22-23)",48.426789824147086
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Coskun (24, Tuzlaspor, Turkish 1. Lig 22-23)",50.840756436046064
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Koldaş (25, Bandırmaspor, Turkish 1. Lig 22-23)",3.0424360531156704
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Bayir (34, Tuzlaspor, Turkish 1. Lig 22-23)",0.3314792432780878
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",-3.649623637599509
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","K. Harris (29, Samsunspor, Turkish 1. Lig 22-23)",22.17981775359087
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","C. Hanalp (27, BB Erzurumspor, Turkish 1. Lig 22-23)",43.65635536548893
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","T. Gür (26, Yeni Malatyaspor, Turkish 1. Lig 22-23)",63.797494882312456
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","R. Koçak (34, Altınordu, Turkish 1. Lig 22-23)",25.863320971336616
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","B. Gündem (20, Denizlispor, Turkish 1. Lig 22-23)",31.824659666668023
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Keskin (21, Bandırmaspor, Turkish 1. Lig 22-23)",63.76367410368918
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",23.950987023526725
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Y. Güreler (31, Gençlerbirliği, Turkish 1. Lig 22-23)",57.80336333560684
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","K. Kanak (32, Manisa BBSK, Turkish 1. Lig 22-23)",15.715481671781676
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","H. Tut (32, Sakaryaspor, Turkish 1. Lig 22-23)",29.685350419225788
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","E. Gedik (23, Göztepe, Turkish 1. Lig 22-23)",34.41081345427598
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","U. Akdemir (34, Gençlerbirliği, Turkish 1. Lig 22-23)",52.1307711186826
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Ülgen (23, Samsunspor, Turkish 1. Lig 22-23)",34.10352178603999
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Albayrak (31, Samsunspor, Turkish 1. Lig 22-23)",28.304223023040336
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","K. Alıcı (25, Altınordu, Turkish 1. Lig 22-23)",-7.793707092994547
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","B. Uzun (32, Sakaryaspor, Turkish 1. Lig 22-23)",53.00251293276038
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","E. Altıntaş (27, Rizespor, Turkish 1. Lig 22-23)",12.23965666603162
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Alkan (30, Bandırmaspor, Turkish 1. Lig 22-23)",13.972058179161406
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","E. Eyibil (21, Gençlerbirliği, Turkish 1. Lig 22-23)",18.67164009074116
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","E. Kara (28, Pendikspor, Turkish 1. Lig 22-23)",33.48883112864738
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)",-13.58433431195026
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",27.084955989907776
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",32.44186250929689
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",46.31046048367971
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",31.579015278774
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",11.272786622925398
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",25.535989638198224
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",33.60677373102025
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",45.4053838354511
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",26.15457165427921
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",27.67234350034636
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",30.755367944955857
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",17.924125454531733
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",44.3630908138171
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",20.847659724297227
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",30.97249829268291
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",23.163304918519437
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",18.477106960423587
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",2.0181833056369425
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",53.74330030456341
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",50.960180774054095
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",27.99594330802081
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",36.68799199434245
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",68.71464685843193
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",21.260729723956786
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",44.26735912706957
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",24.3212891241937
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",29.53114503766565
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",38.38921780782182
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",33.656704866157206
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",53.21542924382472
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",51.19888975191608
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",-3.7383817555174663
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",34.50288373814016
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",14.935493840488428
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",42.63918852610361
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",30.541938727634577
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",44.816798696506574
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",26.070557052421563
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",7.952309032675564
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",27.594409693853414
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",20.60687024162668
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",51.11713942312262
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",31.2519654420528
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",20.97376877882009
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",22.544000635844927
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",36.47861159132552
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",32.09578740900659
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",58.020898325516015
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",53.48002059095624
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",57.78973733947672
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",33.650896973515906
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",31.23951034469165
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-2.3764795704325024
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",55.50522350093748
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",70.6205175541727
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",52.90168442807469
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",26.98496301856375
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",23.121026375040856
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",23.74829942640085
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",3.1032686451439733
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",36.52067890092155
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",32.52139179931753
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",45.484870149164266
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",48.68541487411092
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",37.046327069805976
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",3.3191332525627204
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",18.630570660301053
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",10.030170625932609
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",35.96682918213302
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",53.33235172317613
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",11.176213590024728
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",37.74844710957973
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",36.96377668909093
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",55.61242158003098
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",26.305746107430437
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",39.91325621278122
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",41.61866269403011
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",44.28629315918277
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",31.105788954548547
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",54.31604703171949
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",50.43109515058247
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",27.858195983907603
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",29.247242706571782
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",48.63194690235972
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",7.214773625959532
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",81.87542280494972
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",23.78223956035312
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",20.9249009079317
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",21.932474655200004
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",52.5702526534968
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",12.727949872446498
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",26.48254878522081
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",61.70317557898789
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",-11.901946141511528
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",32.01411354901968
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",-4.818205315923818
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",25.770796829146157
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",34.273783435617304
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",17.004062412121673
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",19.251089131148063
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",30.955374954823352
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",2.119145124046015
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",42.28577941453005
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",9.61642897754668
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",7.632197485783661
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",-2.158535314113092
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",12.551988467962891
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",43.43111081995514
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",24.892332293444248
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",6.409620223916951
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",22.972265166145533
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",22.382176036324303
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",19.64751575143985
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",14.609698375809527
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",-4.2246687325421
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",13.461143049130476
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",32.15386310655017
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",27.11774012301514
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",29.34343283910727
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",41.756888047140784
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",40.73110771510315
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",36.36894986479079
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",28.14405227516677
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",26.166752413181776
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",35.68565739655213
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",-19.615265436607928
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",17.271545402155013
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",16.8672583709482
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",-4.545086724834402
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",0.4090803554432269
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",15.485042312659262
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",4.492730581223194
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",39.41699990421551
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",40.19459831088481
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",-5.233110428264454
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",0.4137298629148134
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",25.58609042097762
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",16.71325002565868
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",28.82855874032989
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",34.94313936025491
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",12.014631910888978
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",53.85940779640836
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",37.19717781151654
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",40.74903674402898
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",19.723441194670222
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",21.78766201673533
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",48.23499252245266
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",13.10725304089424
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",39.39883819382648
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","P. Mareš (32, RFS, Virsliga 2023)",9.461787758428343
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-7.729473288707464
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",39.74102692681121
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",21.987536153220432
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",11.0023540531684
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",18.935087341987256
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",52.88846501455957
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",41.317992665059045
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",3.841748159659492
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",53.37644020416228
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",38.48880262262127
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",34.31827069176004
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",22.03820545532778
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",50.91750141033919
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",11.659666746973754
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",36.65299909206006
-"O. Yıldırım (28, Sakaryaspor, Turkish 1. Lig 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",55.48320827663513
+Player,Similarity
+"Pedro Pereira (25, Alanyaspor, Süper Lig 22-23)",81.98148865647804
+"V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",81.87542280494972
+"E. Tchato (20, Montpellier, Ligue 1 22-23)",79.72196587924644
+"Pedro Malheiro (22, Boavista, Primeira Liga 22-23)",77.26000649723433
+"M. Promsawat (27, Chiangrai United, Thai League 1 22-23)",76.35612274616322
+"M. Tzanakakis (31, Karmiotissa, Cyprus 1. Division 22-23)",72.6750733217298
+"F. Al-Jumaiya (28, Abha, Saudi Professional League 22-23)",72.52600659319039
+"L. Burnet (32, Emmen, Eredivisie 22-23)",71.6871868143551
+"O. Reabciuk (25, Olympiacos Piraeus, Greek Super League 22-23)",71.51427244563344
+"S. Hefti (25, Genoa, Serie B 22-23)",70.95184967175861
+"I. Goranov (30, Lamia, Greek Super League 22-23)",70.9371459335601
+"F. Borowski (19, Zagłębie Sosnowiec, Polish I Liga 22-23)",70.93311025256064
+"Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",70.6205175541727
+"L. Pedro de Jesus (28, Zweigen Kanazawa, J2 2023)",70.24059368174991
+"Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",68.71464685843193
+"R. Talarico (20, Virtus Verona, Serie C 22-23)",68.70219869394666
+"Dylan Tavares (26, Bastia, Ligue 2 22-23)",68.53113597557024
+"H. Mendes (25, Almería, La Liga 22-23)",68.25286903417155
+"A. Gantenbein (22, Winterthur, Swiss Super League 22-23)",68.24146426010283
+"Saifeldeen Fadlalla (20, Al Gharafa, Qatari Stars League 22-23)",68.1230216246671
+"M. Nikolov (29, Septemvri Sofia, Bulgarian First League 22-23)",68.03589726062295
+"R. Perraud (25, Southampton, Premier League 22-23)",68.00872012620633
+"A. Fangaj (25, Egnatia Rrogozhinë, Albanian Premier League 22-23)",67.81162838573806
+"E. Tombak (24, Slavia Sofia, Bulgarian First League 22-23)",67.52399149683454
+"J. van Aken (20, AZ II, Eerste Divisie 22-23)",67.47166371948643

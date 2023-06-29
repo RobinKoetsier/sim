@@ -1,120 +1,26 @@
-Player 1,Player 2,Similarity
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","C. Soukou (30, Bandırmaspor, Turkish 1. Lig 22-23)",43.58145587747872
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","K. Mayi (30, Denizlispor, Turkish 1. Lig 22-23)",-30.11390423732485
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","A. Özfesli (26, BB Erzurumspor, Turkish 1. Lig 22-23)",-12.438579630623376
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","S. Koç (33, BB Erzurumspor, Turkish 1. Lig 22-23)",35.32790335160883
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","M. Özhan (22, BB Erzurumspor, Turkish 1. Lig 22-23)",16.92449691077372
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","M. Rharsalla (29, Gençlerbirliği, Turkish 1. Lig 22-23)",48.89898931508914
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","H. Sacko (29, Sakaryaspor, Turkish 1. Lig 22-23)",34.16931343331351
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","А.Tuzcu (20, Gençlerbirliği, Turkish 1. Lig 22-23)",5.968470361514306
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","F. Ezeh (25, Eyüpspor, Turkish 1. Lig 22-23)",60.44805871563772
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","O. Belyaev (23, Gençlerbirliği, Turkish 1. Lig 22-23)",18.835254066315947
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Ali Saleh (23, Al Wasl, UAE Pro League 22-23)",50.661231177889256
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Fabio de Lima (29, Al Wasl, UAE Pro League 22-23)",56.265825611744994
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Aylton Boa Morte (29, Khorfakkan, UAE Pro League 22-23)",65.69598560450252
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Lourency (27, Al Bataeh, UAE Pro League 22-23)",61.687505370578
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","S. Rahimi (26, Al Ain, UAE Pro League 22-23)",71.29659637239851
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Ali Madan (27, Ajman, UAE Pro League 22-23)",50.77834700214142
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Ryan Mendes (33, Al Nasr, UAE Pro League 22-23)",84.89811740263752
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Amer Bazuhair (31, Dibba Al Fujairah, UAE Pro League 22-23)",40.73331247639167
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Suhail Ahmed Al Noobi (27, Bani Yas, UAE Pro League 22-23)",38.487655222209774
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","P. Mboungou (22, Ajman, UAE Pro League 22-23)",53.01212643396848
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","A. Bencharki (28, Al Jazira, UAE Pro League 22-23)",73.59090549126519
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","M. Rayhi (28, Al Dhafra, UAE Pro League 22-23)",37.556609858221805
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","O. Traore (20, Al Jazira, UAE Pro League 22-23)",61.84385297588525
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Juninho (23, Khorfakkan, UAE Pro League 22-23)",60.45292740691801
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Jajá (24, Dibba Al Fujairah, UAE Pro League 22-23)",58.69166876368904
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","A. Yarmolenko (33, Al Ain, UAE Pro League 22-23)",59.34641036501679
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Luan Pereira (23, Al Sharjah, UAE Pro League 22-23)",58.2776616826401
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","O. Camara (22, Al Sharjah, UAE Pro League 22-23)",47.22145741134427
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","S. Gassama (22, Al Bataeh, UAE Pro League 22-23)",79.7603540482978
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Yuri César (23, Shabab Al Ahli Dubai, UAE Pro League 22-23)",59.95258856346665
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Yahya Al Ghassani (25, Shabab Al Ahli Dubai, UAE Pro League 22-23)",50.940783895937415
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Tahnoon Al Zaabi (24, Al Wahda, UAE Pro League 22-23)",73.91387403499824
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Harib Abdalla Suhail (20, Shabab Al Ahli Dubai, UAE Pro League 22-23)",69.97380099855569
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","B. Ramírez (22, Al Ittihad Kalba, UAE Pro League 22-23)",47.10918143232845
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Leandro Spadacio (23, Al Ittihad Kalba, UAE Pro League 22-23)",29.257229373134408
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Mohamed Al Junaibi (24, Al Dhafra, UAE Pro League 22-23)",3.951855163081983
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Ahmed Abunamous (23, Bani Yas, UAE Pro League 22-23)",69.86754553514274
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","A. Diaby (31, Al Ittihad Kalba, UAE Pro League 22-23)",74.20187903420424
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Caio Canedo (32, Al Ain, UAE Pro League 22-23)",34.37202900454977
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","F. Kruspzky (20, Al Wahda, UAE Pro League 22-23)",27.23488485583126
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","T. Seferi (26, Vorskla, Ukrainian Premier Liha 22-23)",32.921167906343214
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","V. Solomon-Otabor (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",82.23598399069446
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","G. Pasich (29, Veres, Ukrainian Premier Liha 22-23)",69.02184662545301
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","A. Remenyuk (24, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",44.12023737014763
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","R. Rusyn (27, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",44.66791622673008
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Y. Kartushov (32, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",24.247645070121376
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","O. Ilyin (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",47.02504504117096
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","O. Gutsulyak (25, Dnipro-1, Ukrainian Premier Liha 22-23)",64.36425836372158
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","V. Naumets (24, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",56.68021862766396
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","M. Zaderaka (28, Kryvbas KR, Ukrainian Premier Liha 22-23)",57.85571743511143
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","V. Dakhnovskyi (24, Veres, Ukrainian Premier Liha 22-23)",56.45955627656939
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","N. Voloshyn (19, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",23.34463961356096
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","S. Myakushko (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",62.17992595413953
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Y. Pidlepenets (24, Dnipro-1, Ukrainian Premier Liha 22-23)",58.26798711607364
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","D. Blanco (28, Dnipro-1, Ukrainian Premier Liha 22-23)",48.111171280841816
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","V. Kalitvintsev (30, Oleksandria, Ukrainian Premier Liha 22-23)",62.80912741095134
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","N. Vorobchak (23, Minaj, Ukrainian Premier Liha 22-23)",44.35906559232563
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Z. Badibanga (31, Chornomorets, Ukrainian Premier Liha 22-23)",70.70373173228369
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","V. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",62.19657955208281
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",86.96783575590182
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","V. Kabaev (27, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",69.007583136723
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","O. Kozak (28, Inhulets, Ukrainian Premier Liha 22-23)",68.14242290024237
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","D. Alefirenko (23, Chornomorets, Ukrainian Premier Liha 22-23)",70.7912588692144
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","B. Boychuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",56.32766494402824
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","V. Tsygankov (25, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",44.31958659270581
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","V. Rogozynskyi (27, Minaj, Ukrainian Premier Liha 22-23)",29.933621073455264
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","E. Kuliev (21, Minaj, Ukrainian Premier Liha 22-23)",39.940344475126885
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","O. Zubkov (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",51.80766000627276
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","V. Odaryuk (29, Inhulets, Ukrainian Premier Liha 22-23)",23.220229087049887
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","F. Alvarenga (27, Rukh Lviv, Ukrainian Premier Liha 22-23)",31.398773900319394
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","D. Kryskiv (22, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",38.58878537995081
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","A. Bliznichenko (28, Veres, Ukrainian Premier Liha 22-23)",17.545807207335205
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","M. Mudryk (22, Lviv, Ukrainian Premier Liha 22-23)",55.60878890657165
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","O. Nazarenko (23, Dnipro-1, Ukrainian Premier Liha 22-23)",62.41876062581186
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","I. Kyryukhantsev (27, Zorya, Ukrainian Premier Liha 22-23)",74.08635469295542
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Y. Bogunov (29, Lviv, Ukrainian Premier Liha 22-23)",37.25153598286761
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","A. Ocampo (25, Fénix, Uruguay Primera División 2023)",20.069274868735853
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Chory Castro (38, River Plate, Uruguay Primera División 2023)",55.04570254270666
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","C. Olivera (21, Boston River, Uruguay Primera División 2023)",74.83433531924433
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","A. Medina (25, Liverpool, Uruguay Primera División 2023)",81.47439055289682
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","A. Cruz (22, Danubio, Uruguay Primera División 2023)",70.37107403111237
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","E. Darias (25, Deportivo Maldonado, Uruguay Primera División 2023)",48.41031468018464
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","J. Rivero (23, Racing, Uruguay Primera División 2023)",61.38487925853694
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","S. Fernández (38, Danubio, Uruguay Primera División 2023)",32.657256330345795
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","L. Rodríguez (26, Torque, Uruguay Primera División 2023)",65.5795149030043
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","L. País (28, Wanderers, Uruguay Primera División 2023)",24.029900434135783
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","A. Alaniz (21, Racing, Uruguay Primera División 2023)",53.86608809668888
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","J. Quintana (23, La Luz, Uruguay Primera División 2023)",76.60425706040982
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","G. Pereiro (27, Nacional, Uruguay Primera División 2023)",18.937597412745507
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","P. García (24, River Plate, Uruguay Primera División 2023)",74.82936579158529
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","F. Martínez (27, Nacional, Uruguay Primera División 2023)",50.12932722798161
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","J. Urretaviscaya (33, Boston River, Uruguay Primera División 2023)",41.92710843900351
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","J. Kakhramonov (27, Sogdiana, Uzbek Super League 2023)",57.459801195731664
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","K. Giyosov (28, AGMK, Uzbek Super League 2023)",61.15847971122502
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","I. Kenzhaboev (23, Qizilqum, Uzbek Super League 2023)",29.227223977190715
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","A. Turgunboev (28, Pakhtakor, Uzbek Super League 2023)",50.67976367447038
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","J. Khasanov (39, Sogdiana, Uzbek Super League 2023)",59.73817255378017
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","O. Bozorov (25, Nasaf, Uzbek Super League 2023)",54.5244926712158
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","B. Toshmirzaev (25, Turan, Uzbek Super League 2023)",58.09371909472569
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Bùi Văn Đức (26, Hồng Lĩnh Hà Tĩnh, V League 1 2023)",9.316049480732042
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","D. Green (25, Hồ Chí Minh City, V League 1 2023)",63.65537919029685
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Bùi Vĩ Hào (20, Binh Duong, V League 1 2023)",-2.0303412971572863
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","T. Keskinen (20, HJK, Veikkausliiga 2023)",70.81665113440593
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","S. Haarala (23, Ilves, Veikkausliiga 2023)",36.77666866482658
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","E. Arko-Mensah (21, Honka, Veikkausliiga 2023)",69.02924161002598
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","L. Rogerson (25, Haka, Veikkausliiga 2023)",42.125080438583815
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","J. Tuominen (27, KuPS, Veikkausliiga 2023)",72.39509564627029
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","A. Ogunniyi (21, FK Auda, Virsliga 2023)",68.5100857304978
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","D. Rakels (30, SK Super Nova Salaspils, Virsliga 2023)",25.133701475879217
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","M. Correa (21, FK Metta, Virsliga 2023)",43.77735689802836
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","G. Mankenda (25, FK Liepāja, Virsliga 2023)",73.1155884454738
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","R. Meļķis (20, FK Tukums 2000/Telms, Virsliga 2023)",15.992270857912857
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","Emerson Deocleciano (23, RFS, Virsliga 2023)",75.43665939552214
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","F. Steponavičius (19, FK Tukums 2000/Telms, Virsliga 2023)",48.3897816376116
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","R. Ķiršs (23, FK Tukums 2000/Telms, Virsliga 2023)",-25.075480979919725
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","R. Nasirli (20, BFC Daugavpils, Virsliga 2023)",55.036137183943744
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","M. Diop (20, Valmiera FC, Virsliga 2023)",30.553863401410368
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","O. Rubenis (24, FS Jelgava, Virsliga 2023)",68.81283745181302
-"Amilton (33, Rizespor, Turkish 1. Lig 22-23)","O. Niang (21, Riga FC, Virsliga 2023)",83.99009856574075
+Player,Similarity
+"Adama Traoré (27, Wolverhampton Wanderers, Premier League 22-23)",90.7216556932943
+"H. Lozano (27, Napoli, Serie A 22-23)",89.43449093385816
+"E. Mahmoud (22, Le Havre, Ligue 2 22-23)",88.80712011385869
+"Rafael Leão (23, Milan, Serie A 22-23)",87.89337441868824
+"J. Dompé (27, Hamburger SV, 2. Bundesliga 22-23)",87.88992760310333
+"I. Faraj (24, AEK Larnaca , Cyprus 1. Division 22-23)",87.51909202264737
+"C. Conteh (23, Dynamo Dresden, 3. Liga 22-23)",87.03259196617655
+"O. Kozhushko (25, Oleksandria, Ukrainian Premier Liha 22-23)",86.96783575590182
+"J. Benítez (31, Palestino, Chilean Primera División 2023)",86.84372324485908
+"D. Chuc (25, Comunicaciones, Guatemala Liga Nacional 22-23)",86.51105716793592
+"G. N'Koudou (28, Beşiktaş, Süper Lig 22-23)",86.4949892653934
+"M. Araújo (23, Toluca, Liga MX 22-23)",86.24972991784641
+"M. Rashica (26, Galatasaray, Süper Lig 22-23)",86.14821742175245
+"A. Gashi (26, Horn, Austrian 2. Liga 22-23)",86.00195198695214
+"F. Chiesa (25, Juventus, Serie A 22-23)",85.8959262264548
+"B. Berisha (31, Akhmat Grozny, Russian Premier League 22-23)",85.87762595439497
+"D. O''Connor (26, Ayr United, Scottish Championship 22-23)",85.87434677530548
+"T. Okou (25, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",85.7142595979746
+"T. Verlinden (23, Beerschot-Wilrijk, Belgian First Division B 22-23)",85.52682255755076
+"L. Quiñónes (31, Tigres UANL, Liga MX 22-23)",85.40722995299717
+"G. Morachioli (23, Renate, Serie C 22-23)",85.28939555317014
+"M. Topuzov (23, CSKA 1948 Sofia, Bulgarian First League 22-23)",85.22686925161138
+"R. Graydon (24, Derry City, League of Ireland PL 2023)",85.18564745456175
+"Eynel Soares (24, Trenčín, Slovak Super Liga 22-23)",85.06928090995628
+"C. Mejía (31, Antigua GFC, Guatemala Liga Nacional 22-23)",85.06169277466608

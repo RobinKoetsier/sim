@@ -1,34 +1,26 @@
-Player 1,Player 2,Similarity
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","A. Vigh (35, Dorogi FC, NB II 22-23)",83.11326206116551
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)",82.06941514952291
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","S. Selmani (21, Kastrioti Krujë, Albanian Premier League 22-23)",76.35240051970226
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","C. Wilkinson (28, Walsall, League Two 22-23)",79.7261689494139
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","José Ángel Carrillo (29, Huesca, La Liga 2 22-23)",78.79705885282833
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","D. Johnson (30, Mansfield Town, League Two 22-23)",74.38561040554588
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","M. Đurić (33, Hellas Verona, Serie A 22-23)",86.41868512853901
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","F. Noccioli (23, San Donato Tavarnelle, Serie C 22-23)",76.05486560940065
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","Bruno Mota (27, Cheonan City, K League 2 2023)",89.04994930549333
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)",71.93094341497027
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","I. Ugbo (24, Troyes, Ligue 1 22-23)",65.08757751435323
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","K. Kouassi (19, Sutton United, League Two 22-23)",86.5098965633239
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)",84.0461232253026
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","C. Monschein (30, Ried, Austrian Bundesliga 22-23)",71.21913901657405
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","A. Sitalo (33, Inhulets, Ukrainian Premier Liha 22-23)",88.27581973355576
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","A. Williams (36, Walsall, League Two 22-23)",82.85249060903423
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","R. Nemoto (23, Tochigi, J2 2023)",85.79000164397289
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","A. Yakubu (24, Rio Ave, Primeira Liga 22-23)",70.94040513081144
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)",89.43827578106628
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","G. Cooper (25, Chindia Târgovişte, SuperLiga României 22-23)",80.46640544763173
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","Antoñín Cortés (23, Anorthosis, Cyprus 1. Division 22-23)",67.33261872308685
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","G. Leyes (33, Academia Cantolao, Peruvian Liga 1 2023)",91.63370795897237
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","D. Hylton (34, Northampton Town, League Two 22-23)",82.9761434172917
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","F. Bohman (26, Trelleborg, Superettan 2023)",77.10065605808096
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","K. Connell (21, Raith Rovers, Scottish Championship 22-23)",80.21686953217427
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","J. Zuñiga (29, Xinabajul, Guatemala Liga Nacional 22-23)",80.99545198541958
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","T. Hopper (29, Colchester United, League Two 22-23)",90.46976215692018
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","M. Egho (29, Randers, Superliga 22-23)",89.21234892413852
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","M. Hornyák (29, Csákvári TK, NB II 22-23)",79.28722818049256
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","M. van Duinen (31, Excelsior, Eredivisie 22-23)",80.41994576163486
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","L. Bekui (28, Al Sahel, Saudi First Division 22-23)",57.37920983255875
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","Vitor (25, Najran, Saudi First Division 22-23)",57.717088300658325
-"Oufa (26, ENPPI, Egyptian Premier League 22-23)","M. Jurina (29, Al Faisaly, Saudi First Division 22-23)",57.9909650375192
+Player,Similarity
+"B. Tóth (28, Kecskeméti TE, NB I 22-23)",93.98621673170518
+"Pablo Fernández (26, Gimnàstic Tarragona, Primera División RFEF 22-23)",93.73922616240915
+"B. Matić (31, Napredak Kruševac, Serbian SuperLiga 22-23)",93.16003505717578
+"R. Street (21, Shrewsbury Town, League One 22-23)",93.01642630927822
+"H. Silveira (29, Cerro Largo, Uruguay Primera División 2023)",93.0038454880775
+"S. Đurić (27, Sileks, North Macedonia First League 22-23)",92.83694656185624
+"Rubio (27, Alcoyano, Primera División RFEF 22-23)",92.72229615443068
+"J. Gordon (28, Barrow, League Two 22-23)",92.69025583405435
+"G. Blanco Leschuk (31, Eibar, La Liga 2 22-23)",92.33992194491552
+"C. Baker-Richardson (27, Crewe Alexandra, League Two 22-23)",92.25388227258628
+"V. Muriqi (29, Mallorca, La Liga 22-23)",92.09308301921482
+"T. Suleymanov (23, Nizhny Novgorod, Russian Premier League 22-23)",91.84705147278088
+"G. Cirjan (34, Oţelul, Romanian Liga II 22-23)",91.80915648352592
+"Matheus Babi (25, Santa Clara, Primeira Liga 22-23)",91.65642599874204
+"G. Leyes (33, Academia Cantolao, Peruvian Liga 1 2023)",91.63370795897237
+"J. Romo (29, AEL, Cyprus 1. Division 22-23)",91.20479031454902
+"M. Lepik (22, Kuressaare, Estonian Meistriliiga 2023)",91.20426638785614
+"S. Quigley (30, Rochdale, League Two 22-23)",90.88522278931674
+"E. McGuckin (32, Carrick Rangers, Northern Ireland Premiership 22-23)",90.76222371536346
+"T. Hopper (29, Colchester United, League Two 22-23)",90.46976215692018
+"K. Joseph (21, Oxford United, League One 22-23)",89.93070805272336
+"Rodrigo Muniz (22, Middlesbrough, Championship 22-23)",89.85194643350911
+"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)",89.63807095231229
+"C. Evans (34, Preston North End, Championship 22-23)",89.6229313005257
+"L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)",89.43827578106628

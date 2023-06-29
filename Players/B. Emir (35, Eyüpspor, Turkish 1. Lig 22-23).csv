@@ -1,167 +1,26 @@
-Player 1,Player 2,Similarity
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Erik (22, Al Ain, UAE Pro League 22-23)",50.772962492113095
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Ahmed Jamil (24, Shabab Al Ahli Dubai, UAE Pro League 22-23)",14.258506641901295
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",-16.991619465194056
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","P. Pavlov (22, Al Dhafra, UAE Pro League 22-23)",-20.96451364609936
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Bandar Al Ahbabi (32, Al Ain, UAE Pro League 22-23)",79.27052099560858
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Abdulla Al Baloosh (22, Al Bataeh, UAE Pro League 22-23)",-8.906002642628863
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Ibrahim Saeed (31, Dibba Al Fujairah, UAE Pro League 22-23)",13.435134192989215
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Rúben Canedo (21, Al Wahda, UAE Pro League 22-23)",29.56864770107723
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Khamis Al Hammadi (24, Bani Yas, UAE Pro League 22-23)",-21.074122907390095
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Marcus Meloni (22, Al Sharjah, UAE Pro League 22-23)",31.07819315050263
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Adel Sabeel (25, Khorfakkan, UAE Pro League 22-23)",-25.67080022873636
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Ali Al-Dhanhani (31, Khorfakkan, UAE Pro League 22-23)",70.83378048419857
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Al Hassan Saleh (31, Al Sharjah, UAE Pro League 22-23)",18.211630088433843
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Abdullah Idrees (23, Al Jazira, UAE Pro League 22-23)",-19.42215225214945
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Mohammed Ismael (31, Ajman, UAE Pro League 22-23)",-4.894985798280529
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Khaled Ibrahim (26, Al Sharjah, UAE Pro League 22-23)",16.828601274831374
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Habib Yousuf (27, Dibba Al Fujairah, UAE Pro League 22-23)",-21.87850572780269
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Saeed Sulaiman (24, Ajman, UAE Pro League 22-23)",-10.362221951571223
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Rashid Mohammed (27, Al Nasr, UAE Pro League 22-23)",20.716990318613423
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Zayed Sultan (22, Al Jazira, UAE Pro League 22-23)",-30.001355991200096
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Salem Obaid (29, Al Jazira, UAE Pro League 22-23)",1.368250541629551
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Waleed Rashid (20, Al Ittihad Kalba, UAE Pro League 22-23)",1.0090477384357197
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Hussain Abbas Juma (28, Bani Yas, UAE Pro League 22-23)",-26.40942000684829
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Hazza Salem (33, Al Wasl, UAE Pro League 22-23)",-6.618991018870873
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Bader Nasser (21, Shabab Al Ahli Dubai, UAE Pro League 22-23)",42.62083908039572
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Saoud Saeed (32, Ajman, UAE Pro League 22-23)",-24.38719255768536
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Abdulla Alkarbi (24, Al Wahda, UAE Pro League 22-23)",6.448860197875623
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Fares Khalil (22, Al Wasl, UAE Pro League 22-23)",8.803386978583628
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Waleed Al Yammahi (32, Ajman, UAE Pro League 22-23)",-18.697061016707003
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Sultan Alzaabi (24, Al Ittihad Kalba, UAE Pro League 22-23)",-20.440189574289715
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Hamad Al Marzoqi (26, Al Dhafra, UAE Pro League 22-23)",-1.8977413998932169
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Abdulaziz Sanqour (34, Al Nasr, UAE Pro League 22-23)",-15.201500231604545
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Abdulaziz Al Hamhami (24, Al Ittihad Kalba, UAE Pro League 22-23)",25.131085677707517
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Zouhir (23, Al Wahda, UAE Pro League 22-23)",-26.97234482776489
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Abdelrahman Saleh (23, Al Wasl, UAE Pro League 22-23)",-18.195635578495477
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Saeed Suwaidan (26, Al Bataeh, UAE Pro League 22-23)",-2.31656341604573
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","João Victor (23, Bani Yas, UAE Pro League 22-23)",-41.45322646745741
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Salem Juma Awad (30, Al Wasl, UAE Pro League 22-23)",6.777202170670408
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Bragaru (20, Chornomorets, Ukrainian Premier Liha 22-23)",-10.51214385217078
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Lyakh (22, Rukh Lviv, Ukrainian Premier Liha 22-23)",57.39638603773491
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","D. Miroshnichenko (28, Oleksandria, Ukrainian Premier Liha 22-23)",35.14038723149443
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","I. Perduta (32, Vorskla, Ukrainian Premier Liha 22-23)",33.96670625243429
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Gagun (29, Veres, Ukrainian Premier Liha 22-23)",-10.333890886547554
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","I. Putrya (25, Chornomorets, Ukrainian Premier Liha 22-23)",7.969452576440908
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Kravets (25, Vorskla, Ukrainian Premier Liha 22-23)",39.925136036402826
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","B. Butko (32, Zorya, Ukrainian Premier Liha 22-23)",17.054001266357364
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","I. Gonchar (30, Minaj, Ukrainian Premier Liha 22-23)",17.22970051352574
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Zhychykov (30, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",6.342019435905836
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","D. Nagiyev (27, Inhulets, Ukrainian Premier Liha 22-23)",-6.131349386339478
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Smolyakov (20, Inhulets, Ukrainian Premier Liha 22-23)",-9.017410290567408
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Grysjo (27, Lviv, Ukrainian Premier Liha 22-23)",-22.47640117431301
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","O. Chornomorets (30, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-21.15843454898732
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Adamyuk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",7.729180655191834
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Roman (20, Rukh Lviv, Ukrainian Premier Liha 22-23)",-17.69718322964439
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Y. Dibango (21, Kryvbas KR, Ukrainian Premier Liha 22-23)",12.490722282958677
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Y. Romanyuk (26, Metalist Kharkiv, Ukrainian Premier Liha 22-23)",-14.580649822454523
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Tsurikov (30, Oleksandria, Ukrainian Premier Liha 22-23)",-20.273563568955552
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Batsula (31, Vorskla, Ukrainian Premier Liha 22-23)",76.47147533824494
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","B. Mykhaylichenko (26, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",38.84505548497524
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Y. Pasich (29, Dnipro-1, Ukrainian Premier Liha 22-23)",0.8728439901152721
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)",0.1464593220180289
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",16.938230240260314
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-26.48306055120421
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",18.50905176745424
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",19.219346316439605
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",-30.100020557155663
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",18.111718183822436
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",58.02355269760701
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",17.26877887040721
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",19.860614246007096
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",42.57610819451544
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",50.03188882980585
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",37.10007703077205
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",0.7585720449866128
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",69.3256440151085
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-15.891693115865833
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",36.752579149847854
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",10.199753873734611
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",-8.285050058990718
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",10.977371433805178
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-42.38766828261641
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",-11.60065026496576
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",34.005571163369204
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",-4.616781562176203
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",74.01565383459634
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",-23.17518299360608
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",24.07753776206193
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",2.615106936525877
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",51.19270647394077
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",-13.1344210776948
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",83.72655817606879
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",32.20742702336008
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",-13.079622396531835
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",-21.77198336093599
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",36.25580635410994
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",43.85179000600542
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",40.8723644150205
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",16.878409893080217
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",-11.974480493410004
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",11.054423875139276
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",-12.331630285786485
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",22.05568541818789
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",-20.51668891556338
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",21.68894365409226
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",15.504248564677232
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",26.708185826848677
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",10.97571337190096
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",24.849766030209096
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",4.870250929636381
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",22.103365809616125
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",12.04850518385747
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",-5.467649091049782
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",15.973506207407842
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",14.602080552361574
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",-19.35031526825721
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",13.841480606633064
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",28.293839676784515
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",-43.469142412494136
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",38.76491354545008
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",-26.050488794651866
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",32.56702585425793
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",11.46925637523358
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",41.1802073043524
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",45.319699143928105
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",7.9591637968864255
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",59.2944845245576
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",45.81761809508802
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",18.59085737986321
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",18.940217866965632
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",47.063821445358734
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",-15.135575639363909
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",-0.3848369091665923
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",36.43739840165498
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",9.67162991308306
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",12.91836699226494
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",38.9265261465993
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",-10.78478756664686
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",17.619298461070976
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",19.79630260624631
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",49.734062682448965
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",68.55152569297506
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",-11.577637843049589
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",-11.375543252062997
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",11.497285718429088
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",61.25217227680933
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",-2.447124984190337
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",-10.39624202037038
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",29.65763825554734
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",3.070017654993244
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","P. Mareš (32, RFS, Virsliga 2023)",78.21776195809262
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",81.32349030917793
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",53.431904311427424
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",40.37192621071695
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",4.272498777023885
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",31.233412805417927
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",-17.743248233572338
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",-13.6966622474214
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",28.61756169785417
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",-2.838166482560528
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",39.69392861076947
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",15.674048953611733
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",17.03872546374116
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",5.854107716691705
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",78.27554406674045
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",-21.23752404552011
-"B. Emir (35, Eyüpspor, Turkish 1. Lig 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",6.76788641765413
+Player,Similarity
+"C. Højer (28, Sparta Praha, Czech Fortuna Liga 22-23)",94.25734885542188
+"C. Trimmel (36, Union Berlin, Bundesliga 22-23)",91.90696699802096
+"Tomás Sánchez (29, Algeciras, Primera División RFEF 22-23)",90.6540972499596
+"K. Trippier (32, Newcastle United, Premier League 22-23)",90.50497254079492
+"Guilherme (33, Konyaspor, Süper Lig 22-23)",90.20809838032623
+"Caio Henrique (25, Monaco, Ligue 1 22-23)",90.15571854489424
+"D. Gojny (28, Arka Gdynia, Polish I Liga 22-23)",90.14161288724168
+"Z. Ralte (28, Aizawl, I-League 22-23)",89.89416962875853
+"C. Toma (36, Unirea Slobozia, Romanian Liga II 22-23)",89.8353990321908
+"J. Bree (25, Luton Town, Championship 22-23)",89.4855057257739
+"F. Mullen (29, Cowdenbeath, Scottish League Two 22-23)",88.92498908545691
+"A. Büttner (34, De Graafschap, Eerste Divisie 22-23)",88.91493926318358
+"C. Erkin (34, İstanbul Başakşehir, Süper Lig 22-23)",88.89251408289037
+"Iker Seguín (33, Amorebieta, Primera División RFEF 22-23)",88.74894240757571
+"Filipe Cruz (21, Benfica II, Portugal Segunda Liga 22-23)",88.53285751797908
+"I. Rivero (31, Cruz Azul, Liga MX 22-23)",88.2569191185747
+"Cote (33, Sporting Gijón, La Liga 2 22-23)",87.83936281236116
+"B. Gergényi (25, Zalaegerszegi TE, NB I 22-23)",87.6620669462414
+"E. Wekesser (25, Nürnberg, 2. Bundesliga 22-23)",87.61838438769115
+"T. Ouwejan (26, Schalke 04, Bundesliga 22-23)",87.54743669037647
+"Jean Felipe (29, Estrela Amadora, Portugal Segunda Liga 22-23)",87.50991423380782
+"B. Kovačević (27, Doxa, Cyprus 1. Division 22-23)",87.29487841435463
+"D. Wass (34, Brøndby, Superliga 22-23)",87.12468655344793
+"G. Csemer (29, Ajka, NB II 22-23)",87.024142195644
+"Mohamed Shokry (23, Ceramica, Egyptian Premier League 22-23)",86.7644916334622

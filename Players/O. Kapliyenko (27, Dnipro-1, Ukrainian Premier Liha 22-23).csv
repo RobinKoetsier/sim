@@ -1,106 +1,26 @@
-Player 1,Player 2,Similarity
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","V. Yakimets (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",-6.058494076645844
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","N. Zolotov (28, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",52.40048066618972
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","O. Tymchyk (26, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",6.25006456202764
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","A. Ponedelnik (26, Kryvbas KR, Ukrainian Premier Liha 22-23)",13.769289465464333
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","I. Trubochkin (30, Minaj, Ukrainian Premier Liha 22-23)",32.37439303286071
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","K. Vivcharenko (20, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",20.114953540045107
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","O. Danchenko (28, Zorya, Ukrainian Premier Liha 22-23)",-22.365144439038165
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","Y. Konoplya (23, Shakhtar Donetsk, Ukrainian Premier Liha 22-23)",-1.0215726925583717
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","M. Kravchenko (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",33.17802317958653
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","O. Karavaev (31, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",-14.441252802781475
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","D. Kuzyk (20, Lviv, Ukrainian Premier Liha 22-23)",7.621271315960547
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","V. Dubinchak (24, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",11.052768481128089
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","R. Vantukh (24, Zorya, Ukrainian Premier Liha 22-23)",17.392891141376104
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","A. Buleza (19, Minaj, Ukrainian Premier Liha 22-23)",21.290563922895487
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","D. Kapinus (20, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",-2.125015345879221
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","V. Tanchyk (31, Dnipro-1, Ukrainian Premier Liha 22-23)",-12.16328250008134
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","V. Yemets (25, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",0.3848270835145423
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","Y. Kopyna (26, Oleksandria, Ukrainian Premier Liha 22-23)",9.980266743439952
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","T. Sakiv (25, Inhulets, Ukrainian Premier Liha 22-23)",45.35987423398791
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","M. Shershen (28, Metalist 1925 Kharkiv, Ukrainian Premier Liha 22-23)",47.06190889245333
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","Felipe Rodrigues (27, Vorskla, Ukrainian Premier Liha 22-23)",24.91561571280272
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","P. Polegenko (28, Zorya, Ukrainian Premier Liha 22-23)",33.059859430963044
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","D. Balan (29, Veres, Ukrainian Premier Liha 22-23)",29.80502501140301
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","Y. Hamache (23, Dnipro-1, Ukrainian Premier Liha 22-23)",-5.1832396497001785
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","V. Sydorenko (25, Inhulets, Ukrainian Premier Liha 22-23)",40.4377413205196
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","N. Furtado (25, Cerro Largo, Uruguay Primera División 2023)",6.072304076929428
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","G. Cotugno (28, Deportivo Maldonado, Uruguay Primera División 2023)",38.95975364474916
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","C. Cándido (28, Nacional, Uruguay Primera División 2023)",20.24823970305293
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","J. Acosta (29, Wanderers, Uruguay Primera División 2023)",44.26012801150341
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","N. Rodríguez (31, Defensor Sporting, Uruguay Primera División 2023)",15.876332239705896
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","J. Pintado (25, Defensor Sporting, Uruguay Primera División 2023)",3.8595077296008617
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","G. Camargo (32, Wanderers, Uruguay Primera División 2023)",58.02544101765815
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","J. Álvez (39, Fénix, Uruguay Primera División 2023)",-3.5732790847510203
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","D. Sosa (25, Racing, Uruguay Primera División 2023)",22.78420541560348
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","R. Haller (22, Danubio, Uruguay Primera División 2023)",-16.84201864278528
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","G. Martirena (23, Liverpool, Uruguay Primera División 2023)",1.5464339787367622
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","A. Pereira (22, Racing, Uruguay Primera División 2023)",41.43278039299222
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","E. Castillo (22, La Luz, Uruguay Primera División 2023)",18.126059109956557
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","R. Rabino (25, Cerro Largo, Uruguay Primera División 2023)",19.907532075884703
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","A. García (23, Cerro, Uruguay Primera División 2023)",16.358879186672343
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","M. Samudio (36, Liverpool, Uruguay Primera División 2023)",27.926273572218125
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","F. Kidd (25, River Plate, Uruguay Primera División 2023)",51.083541563412616
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","P. Milans (21, Peñarol, Uruguay Primera División 2023)",0.1694194735398535
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","K. Lewis (24, Danubio, Uruguay Primera División 2023)",48.7562903602765
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","M. Abero (33, Cerro, Uruguay Primera División 2023)",38.32958030222258
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","E. Beltrán (25, Boston River, Uruguay Primera División 2023)",-9.863264824105045
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","E. Ancheta (23, La Luz, Uruguay Primera División 2023)",8.508684421601721
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","L. Lozano (24, Nacional, Uruguay Primera División 2023)",28.820894765251413
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","M. Villa (26, Torque, Uruguay Primera División 2023)",34.33093444297688
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","P. Silva (26, Boston River, Uruguay Primera División 2023)",31.21313116915594
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","U. Ismonaliev (25, Bunyodkor, Uzbek Super League 2023)",12.425017714215771
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","S. Mirsaidov (21, Olympic, Uzbek Super League 2023)",32.77483916242878
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","M. Gofurov (34, Neftchi, Uzbek Super League 2023)",1.5487733175083735
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","B. Shamsiev (21, Olympic, Uzbek Super League 2023)",46.41550758085355
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","B. Shaydulov (22, Surkhon, Uzbek Super League 2023)",41.17885795852932
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","S. Gafurbekov (24, Metalourg, Uzbek Super League 2023)",-7.118119611529174
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","S. Khamidzhonov (22, Surkhon, Uzbek Super League 2023)",42.17602830730601
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","S. Nasrullayev (24, Nasaf, Uzbek Super League 2023)",12.408628700022602
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","I. Vakhobov (23, Qizilqum, Uzbek Super League 2023)",40.68268670977573
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","K. Alizhonov (26, Pakhtakor, Uzbek Super League 2023)",-6.389049412553844
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","J. Ubaydullaev (31, Buxoro, Uzbek Super League 2023)",28.501322643382824
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","S. Andreev (35, Sogdiana, Uzbek Super League 2023)",20.776447957933257
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","D. Akhmadaliev (28, AGMK, Uzbek Super League 2023)",3.369843948661692
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","A. Toshkuziev (25, Metalourg, Uzbek Super League 2023)",-5.578325455687266
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","Thái Bình Hoàng (25, FLC Thanh Hoa, V League 1 2023)",-3.4180861826698243
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","Đỗ Thanh Thịnh (24, Binh Dinh, V League 1 2023)",43.49495370247083
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","Nguyễn Phong Hồng Duy (26, Nam Dinh, V League 1 2023)",-17.89123592424244
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","Phạm Trung Hiếu (24, Hai Phong, V League 1 2023)",18.385999156312348
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","Đoàn Văn Hậu (24, Công An Nhân Dân, V League 1 2023)",9.267334240183205
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","Phan Tuấn Tài (22, Viettel, V League 1 2023)",52.921518097461416
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","Phạm Văn Thành (29, Binh Dinh, V League 1 2023)",19.355474839466726
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","Trần Bảo Toàn (22, Hoang Anh Gia Lai, V League 1 2023)",13.036893124650678
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","N. Pallas (22, Oulu, Veikkausliiga 2023)",0.0599410925246901
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","N. Friberg (27, Haka, Veikkausliiga 2023)",9.722441863238451
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","C. Antwi (23, KuPS, Veikkausliiga 2023)",-15.256445337431073
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","M. Rale (22, Honka, Veikkausliiga 2023)",47.461038849364
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","F. Aspegren (29, Ilves, Veikkausliiga 2023)",12.39489241488434
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","S. Saarinen (22, KuPS, Veikkausliiga 2023)",-15.019355666408009
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","T. Ollila (23, HJK, Veikkausliiga 2023)",18.025922670625263
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","J. Mäkelä (29, KTP, Veikkausliiga 2023)",4.444839532265654
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","K. Ofori (21, SJK, Veikkausliiga 2023)",0.3601598603300364
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","J. Tauriainen (22, Lahti, Veikkausliiga 2023)",26.86274563634598
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","P. Soiri (28, HJK, Veikkausliiga 2023)",4.049838627221045
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","A. Jaunzems (23, Valmiera FC, Virsliga 2023)",-20.431399459240325
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","J. Harustak (21, BFC Daugavpils, Virsliga 2023)",-13.975690046342326
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",14.470114179215331
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","M. Gaye (24, Riga FC, Virsliga 2023)",-34.843982689033375
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",30.572203486642724
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","P. Mareš (32, RFS, Virsliga 2023)",3.437265317135793
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",15.292624997646978
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",21.401420261060338
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",-20.051526415316214
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",14.58830142945782
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","N. Bretschneider (23, FK Auda, Virsliga 2023)",15.835702482976233
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",27.94996709307556
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",41.26838594038012
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",41.884860573738
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",41.64805657626341
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","P. Fall (22, Valmiera FC, Virsliga 2023)",-1.8808530898552924
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",19.569527542118788
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","R. Skrebels (23, FK Auda, Virsliga 2023)",-13.704443581968407
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","E. Birka (23, Valmiera FC, Virsliga 2023)",44.67445960168121
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","R. Savaļnieks (30, RFS, Virsliga 2023)",1.8308451775945207
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",19.704384424519453
-"O. Kapliyenko (27, Dnipro-1, Ukrainian Premier Liha 22-23)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",30.73548905718766
+Player,Similarity
+"S. Cele (21, Golden Arrows, South Africa PSL 22-23)",71.31235328225836
+"T. Ben Zaken (28, Ashdod, Ligat Ha'al 22-23)",70.05917269530137
+"Muhamad Hafizal (30, Perak, Malaysian Super League 2023)",69.32896175977345
+"F. Zuka (27, Rabotnički, North Macedonia First League 22-23)",68.88142221436212
+"J. Patiño (24, Alianza Petrolera, Colombian Primera Division 22-23)",68.04550129992433
+"N. Sasongko (33, Madura United, BRI Liga 1 22-23)",67.40911952152905
+"Amiri Kurdi (31, Al Wahda, Saudi Professional League 22-23)",67.3965860652115
+"D. Rachman (28, PSS Sleman, BRI Liga 1 22-23)",65.74381837347337
+"K. Lhungdim (23, RoundGlass Punjab FC, I-League 22-23)",64.80396812937377
+"S. Fetai (34, Renova, North Macedonia First League 22-23)",64.64868543132609
+"H. Haghverdi (30, Neftchi, Premyer Liqa 22-23)",64.28188289498019
+"N. Bakboord (24, Heracles, Eerste Divisie 22-23)",63.689589069359165
+"A. Yaşar (28, İstanbulspor, Süper Lig 22-23)",63.54041232412047
+"O. Rudzan (24, Skalica, Slovak Super Liga 22-23)",63.43243579551024
+"M. Nikolov (29, Septemvri Sofia, Bulgarian First League 22-23)",63.42422099531896
+"K. Słaby (29, Sandecja Nowy Sącz, Polish I Liga 22-23)",63.32853934921
+"M. Jassim (26, Gokulam Kerala, I-League 22-23)",63.18728798432064
+"N. Kotchpalayuk (31, Chonburi, Thai League 1 22-23)",62.9787338419878
+"Faisal Al Khara (29, Al Sahel, Saudi First Division 22-23)",62.21771314801292
+"L. Kübler (30, Freiburg, Bundesliga 22-23)",62.05889594737171
+"D. Szivacski (26, Vasas, NB I 22-23)",62.02096202574222
+"N. Andrič (31, Borac Banja Luka, Bosnian Premier League 22-23)",61.78606585117441
+"Khalid Al Zaabi (31, Al Dhafra, UAE Pro League 22-23)",61.73050820390428
+"M. Mert (24, Gençlerbirliği, Turkish 1. Lig 22-23)",61.50560833262556
+"W. Harada (26, Sagan Tosu, J1 2023)",61.38836250415088

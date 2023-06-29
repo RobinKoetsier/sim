@@ -1,209 +1,26 @@
-Player 1,Player 2,Similarity
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Dimić (30, Radnički Niš, Serbian SuperLiga 22-23)",10.065433051620865
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Babić (32, Radnik Surdulica, Serbian SuperLiga 22-23)",17.410545102810012
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Baždar (19, Partizan, Serbian SuperLiga 22-23)",35.64448216241617
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","N. Vlašić (25, Torino, Serie A 22-23)",10.326458687154332
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","L. Pellegrini (26, Roma, Serie A 22-23)",52.51000731362005
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","G. Caprari (29, Monza, Serie A 22-23)",30.948922488740298
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","L. Ferguson (23, Bologna, Serie A 22-23)",2.3484404928384377
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Al. Miranchuk (27, Torino, Serie A 22-23)",3.113863030683216
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Brahim Diaz (23, Milan, Serie A 22-23)",29.583824530530705
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Barák (28, Fiorentina, Serie A 22-23)",-4.407681038797331
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","N. Bajrami (24, Sassuolo, Serie A 22-23)",27.44084549237746
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","T. Baldanzi (20, Empoli, Serie A 22-23)",-7.923625978999037
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Pašalić (28, Atalanta, Serie A 22-23)",-0.9484794545472796
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","N. Radonjić (27, Torino, Serie A 22-23)",22.2297574009026
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","C. De Ketelaere (22, Milan, Serie A 22-23)",15.915702264928722
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Verdi (30, Hellas Verona, Serie A 22-23)",55.37915831957867
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","C. Buonaiuto (30, Cremonese, Serie A 22-23)",54.44711700852744
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Colpani (24, Monza, Serie A 22-23)",35.32423069540038
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Antonucci (24, Cittadella, Serie B 22-23)",20.29149942334711
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","G. Luperini (29, Perugia, Serie B 22-23)",28.714297930282346
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","O. Moruţan (24, Pisa, Serie B 22-23)",33.0733811051803
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","D. Falcinelli (31, Modena, Serie B 22-23)",43.897898690288606
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","L. Tremolada (31, Modena, Serie B 22-23)",44.750981953917936
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","C. D'Urso (25, Cosenza, Serie B 22-23)",15.524883577585156
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","L. Garritano (29, Frosinone, Serie B 22-23)",41.01879860805917
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Mancosu (34, Cagliari, Serie B 22-23)",32.81577155613968
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","C. Kouan (23, Perugia, Serie B 22-23)",52.42209107051944
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","C. Falletti (30, Ternana, Serie B 22-23)",22.211882131755587
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Aramu (28, Genoa, Serie B 22-23)",59.27311057879909
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","N. Galazzi (22, Brescia, Serie B 22-23)",51.49197287649498
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","R. Botta (33, Bari, Serie B 22-23)",25.668907956805963
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Tramoni (23, Pisa, Serie B 22-23)",54.340970481994844
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Falzerano (32, Ascoli, Serie B 22-23)",36.35107723929977
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","V. Parigini (27, Como, Serie B 22-23)",22.28272858474869
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Álex Blanco (24, Como, Serie B 22-23)",33.13785729594132
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","N. Bellomo (32, Bari, Serie B 22-23)",54.92905922056478
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","D. Cheryshev (32, Venezia, Serie B 22-23)",41.137679635112754
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","D. Camara (21, Parma, Serie B 22-23)",55.28876380184376
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",74.01786464348422
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Cester (21, Arzignano Valchiampo, Serie C 22-23)",24.62327623065261
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","T. Fantacci (26, Arzignano Valchiampo, Serie C 22-23)",43.48298406267562
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Hraiech (27, Cesena, Serie C 22-23)",48.43996376934873
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","R. Chiarello (29, Cesena, Serie C 22-23)",42.66677851308495
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","J. Bumbu (24, Cesena, Serie C 22-23)",47.22186973573759
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Arena (22, Gubbio, Serie C 22-23)",52.25022115309685
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","L. Cuppone (25, Pescara, Serie C 22-23)",35.04936340493763
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","J. Desogus (20, Pescara, Serie C 22-23)",28.093006383682205
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","R. Kouda (20, Picerno, Serie C 22-23)",40.65539534136452
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","G. Benedetti (24, Pontedera, Serie C 22-23)",57.73306087125874
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","R. Zammarini (26, Pordenone, Serie C 22-23)",-8.159464954704506
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","F. Deli (28, Pordenone, Serie C 22-23)",37.403717876443885
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","N. Bruschi (24, Pro Sesto, Serie C 22-23)",64.42068948184775
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Sala (22, Pro Sesto, Serie C 22-23)",56.11267370019327
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","F. D'Amico (22, Pro Sesto, Serie C 22-23)",66.6217084888576
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","G. Bianco (20, Pro Sesto, Serie C 22-23)",39.10483470277929
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Vergara (20, Pro Vercelli, Serie C 22-23)",59.06788191048605
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",35.229358472721835
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","N. Belloni (28, Siena, Serie C 22-23)",64.40649944042491
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Frediani (29, Siena, Serie C 22-23)",50.24349204610261
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","F. Urso (28, Torres, Serie C 22-23)",42.60212575068624
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","E. Saporiti (21, Torres, Serie C 22-23)",66.78139828593073
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","G. Lisai (33, Torres, Serie C 22-23)",41.99374614218385
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","C. Pasquato (33, Trento, Serie C 22-23)",35.46286287478098
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","C. Attys (22, Trento, Serie C 22-23)",34.91821154813572
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","C. Tavernelli (23, Triestina, Serie C 22-23)",41.89222079604311
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Minesso (33, Triestina, Serie C 22-23)",29.55111612920551
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Stoppa (22, Vicenza, Serie C 22-23)",23.0796247436665
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Kaleb Jiménez (20, Vicenza, Serie C 22-23)",26.466761616228474
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","L. Meazzi (22, Virtus Entella, Serie C 22-23)",37.89646790275587
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","D. Danti (34, Virtus Verona, Serie C 22-23)",43.8543988924333
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. D'Uffizi (18, Viterbese, Serie C 22-23)",44.56902332749707
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",38.70536335337757
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Diego Lopes (29, Lion City Sailors FC, Singapore Premier League 2023)",22.37563075908728
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Y. Hanapi (33, Tampines Rovers, Singapore Premier League 2023)",32.012324000459834
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Faško (28, Dukla Banská Bystrica, Slovak Super Liga 22-23)",43.896759466519605
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Chrien (27, Ružomberok, Slovak Super Liga 22-23)",30.150213732817637
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Fábry (26, Skalica, Slovak Super Liga 22-23)",51.26295973172894
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",11.25882063296182
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","T. Ďubek (36, Zlaté Moravce, Slovak Super Liga 22-23)",38.94111427934198
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",73.20667814517589
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","V. Weiss (33, Slovan Bratislava, Slovak Super Liga 22-23)",33.48328783981997
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Z. Kalmár (27, DAC, Slovak Super Liga 22-23)",40.09296219812612
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Ammar Ramadan (22, DAC, Slovak Super Liga 22-23)",31.90131896278419
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","R. Bartoš (30, Tatran Liptovský Mikuláš, Slovak Super Liga 22-23)",20.81711230652678
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","V. Ndwandwe (27, Golden Arrows, South Africa PSL 22-23)",7.875006741421149
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","B. Aubaas (28, TS Galaxy FC, South Africa PSL 22-23)",1.794665485864608
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","L. Mtshali (25, Moroka Swallows, South Africa PSL 22-23)",46.24043318164777
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","T. Zwane (33, Mamelodi Sundowns, South Africa PSL 22-23)",19.02126218280145
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Luthuli (28, Chippa United, South Africa PSL 22-23)",38.39029049506222
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Memela (35, Richards Bay, South Africa PSL 22-23)",53.250598266150696
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","K. Dlamini (27, Orlando Pirates, South Africa PSL 22-23)",21.967335821074133
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Dominguês (39, Royal AM, South Africa PSL 22-23)",5.184842326332835
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","O. Mongae (29, TS Galaxy FC, South Africa PSL 22-23)",47.36020322998187
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Mdantsane (28, Cape Town, South Africa PSL 22-23)",19.64234788739756
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","X. Mlambo (31, TS Galaxy FC, South Africa PSL 22-23)",26.852925820211908
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","N. Makhubela (29, Golden Arrows, South Africa PSL 22-23)",15.716626404544026
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Shabalala (19, Kaizer Chiefs, South Africa PSL 22-23)",23.69270891268175
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. De Jong (26, Stellenbosch FC, South Africa PSL 22-23)",37.89421239628271
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","T. Goedeman (23, Cape Town, South Africa PSL 22-23)",26.41907386328809
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","J. Rhodes (20, Cape Town, South Africa PSL 22-23)",42.21062954221786
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Mbenyane (35, Chippa United, South Africa PSL 22-23)",-19.817399238623576
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","L. Hlongwane (29, TS Galaxy FC, South Africa PSL 22-23)",-10.716368579722394
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Frøkjær-Jensen (23, OB, Superliga 22-23)",52.81514560903341
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Jørgensen (22, Silkeborg, Superliga 22-23)",11.082542856811992
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","K. Kusk (31, Silkeborg, Superliga 22-23)",25.5272872765432
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",-3.383552331530564
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","I. Jebali (31, OB, Superliga 22-23)",49.53164673808077
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",52.3496763473928
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",29.406495114778163
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",47.17636044005888
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",24.945320112333487
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",44.70252965086102
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",49.909848920060085
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",69.29046355437178
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",44.07190059552852
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",57.76656067583625
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",37.42136339712907
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",50.1665096856216
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",59.74799796758728
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",44.806504037362565
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",34.2986252182272
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",42.605651151238185
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",62.93481102351931
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",49.14269804283104
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",61.755833125371694
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",35.623436929437105
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",49.596672935057015
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",30.930604195369867
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",64.67089473327303
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",49.43186506530769
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",27.5691781485509
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",55.67516728389516
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",13.739228940150488
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",37.364199543975936
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",42.65331884904474
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",35.966168111087306
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",43.54319343580651
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",47.09516176237351
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",54.37714524049946
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",60.08794185471784
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",6.778611903277816
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",14.505554502223749
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",51.5343898527905
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",39.84753403065714
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",49.30413132537076
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",1.9831817806635148
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",27.58669647871711
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",31.519246700869264
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",44.34237020984435
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",33.4788948499218
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",38.36436535865911
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",22.431438838310168
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",47.40788247480373
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",43.2025386101522
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",41.59835430659421
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",63.91275989150608
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",17.13875489429367
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",2.734253036690023
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",28.3847439108664
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",53.667901941174165
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",22.601043850385608
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",32.74379741264449
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",60.40589348730335
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",22.145278160968275
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",60.85623130652973
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",-2.3072313121118246
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",46.07081038904868
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",61.19690400189758
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",9.866933446400388
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",65.92656318022642
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-6.38127442312957
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",-5.810475278093882
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",-7.630892237210485
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",15.685668603840965
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",1.9236552046953828
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",9.34291311284684
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",42.647693278251495
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",5.45451661159437
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",42.49210436689444
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",21.632520344819078
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",26.202314947745144
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",18.88205174895011
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",29.22449708776421
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",31.59860183151357
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",33.46866552979944
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",-17.01641123946017
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-1.5750124545898456
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",31.093470799424168
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",31.948647559822778
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",0.8104823898502238
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",20.218418066795824
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",34.279059029917995
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",30.705353679956605
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",58.24464668717093
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",14.777816985223582
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",20.11338931180611
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",29.740142824789217
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",47.85629960637724
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",55.21520174237965
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",31.002948558524224
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",49.07532590827376
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",2.0150607242840253
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",37.83865576642217
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",35.79364727204546
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",41.55633030814157
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",48.20189475260045
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",61.14982800675398
-"S. Dimitrov (30, Mladost Novi Sad, Serbian SuperLiga 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",44.55234539826792
+Player,Similarity
+"Z. Jánó (18, Liefering, Austrian 2. Liga 22-23)",78.57750071050401
+"M. Laykin (20, Neftekhimik, Russian FNL 2 22-23)",77.49902459672194
+"K. Toporkiewicz (21, Sandecja Nowy Sącz, Polish I Liga 22-23)",76.37307331079926
+"L. Belcastro (32, Arzignano Valchiampo, Serie C 22-23)",74.01786464348422
+"J. Vlasko (33, Skalica, Slovak Super Liga 22-23)",73.20667814517589
+"N. Mathis (20, Dornbirn, Austrian 2. Liga 22-23)",73.02809789374088
+"Omar Fathi Saviola (29, Al Mokawloon, Egyptian Premier League 22-23)",72.90918330437816
+"I. Aliyu (23, Ararat, Armenian Premier League 22-23)",72.76536509242361
+"A. Ilic (18, Sturm Graz II, Austrian 2. Liga 22-23)",72.24106857426406
+"K. Arshid (28, Hapoel Acre, Liga Leumit 22-23)",70.26603405167774
+"R. Mudražija (26, Slaven Belupo, 1. HNL 22-23)",69.84170349670937
+"O. Hajrovic (27, Jedinstvo, Montenegro First League 22-23)",69.65833729822747
+"A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",69.29046355437178
+"K. Krasniqi (27, VfB Oldenburg, 3. Liga 22-23)",69.22239689517274
+"R. Mayse (29, Dungannon Swifts, Northern Ireland Premiership 22-23)",69.0561904194912
+"P. Nebel (20, Karlsruher SC, 2. Bundesliga 22-23)",68.47982223953645
+"Alex Fernandes (20, Cherno More, Bulgarian First League 22-23)",67.79894583905936
+"J. Lankester (23, Cambridge United, League One 22-23)",67.72774967884888
+"K. Köböl (21, Soroksár SC, NB II 22-23)",67.31439912167006
+"R. Malinovskyi (30, Olympique Marseille, Ligue 1 22-23)",67.1879566579748
+"E. Saporiti (21, Torres, Serie C 22-23)",66.78139828593073
+"F. D'Amico (22, Pro Sesto, Serie C 22-23)",66.6217084888576
+"X. Mehmeti (29, Kastrioti Krujë, Albanian Premier League 22-23)",66.50490223033654
+"A. Băluță (29, Puskás FC, NB I 22-23)",65.92917165668749
+"K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",65.92656318022642

@@ -1,21 +1,26 @@
-Player 1,Player 2,Similarity
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","A. Ozols (23, FK Tukums 2000/Telms, Virsliga 2023)",54.98571495865734
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","M. Gaye (24, Riga FC, Virsliga 2023)",43.106318188357726
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","D. Cucurs (23, BFC Daugavpils, Virsliga 2023)",32.5794637651483
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","P. Mareš (32, RFS, Virsliga 2023)",3.154278382459242
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","E. Tīdenbergs (28, FK Liepāja, Virsliga 2023)",-3.3958945699992027
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","R. Maslovs (19, FS Jelgava, Virsliga 2023)",22.42097137729684
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","R. Jurkovskis (26, Riga FC, Virsliga 2023)",35.089800019016195
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","K. Atars (19, SK Super Nova Salaspils, Virsliga 2023)",9.262002156144684
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","N. Bretschneider (23, FK Auda, Virsliga 2023)",33.46712891067198
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","O. Raščevskis (20, SK Super Nova Salaspils, Virsliga 2023)",48.06453868192199
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","M. Toņiševs (23, Valmiera FC, Virsliga 2023)",31.71493439651379
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","V. Fjodorovs (26, FK Metta, Virsliga 2023)",-8.743401034113718
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","Z. Rukhadze (19, FK Metta, Virsliga 2023)",29.889436895931908
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","P. Fall (22, Valmiera FC, Virsliga 2023)",47.05760245942904
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","M. Sidorovs (21, FK Tukums 2000/Telms, Virsliga 2023)",34.88455928461525
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","R. Skrebels (23, FK Auda, Virsliga 2023)",20.580465083731703
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","E. Birka (23, Valmiera FC, Virsliga 2023)",13.217800547129649
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","R. Savaļnieks (30, RFS, Virsliga 2023)",4.685513487098189
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","J. Cirulis (19, SK Super Nova Salaspils, Virsliga 2023)",-6.039602025398588
-"J. Harustak (21, BFC Daugavpils, Virsliga 2023)","J. Grīnbergs (24, FK Liepāja, Virsliga 2023)",31.750019993927275
+Player,Similarity
+"M. Pinton (24, Mantova, Serie C 22-23)",78.44391410403956
+"F. Katipoğlu (23, Adanaspor, Turkish 1. Lig 22-23)",72.68876001541658
+"B. Aguirre (22, Lanús, Argentinian Primera División 2023)",71.8197063496373
+"Tomás Esteves (21, Pisa, Serie B 22-23)",71.81652178309949
+"I. Rata (23, Hapoel Ramat HaSharon, Liga Leumit 22-23)",69.95065418803316
+"Ivo Pinto (33, Fortuna Sittard, Eredivisie 22-23)",69.16683103968731
+"B. Locko (21, Brest, Ligue 1 22-23)",69.11847975512502
+"C. Amirli (26, Sabail, Premyer Liqa 22-23)",68.94689649547139
+"E. Bristow (21, Tranmere Rovers, League Two 22-23)",68.58534336275586
+"A. Tirlea (23, Gimnàstic Tarragona, Primera División RFEF 22-23)",67.53686813545978
+"O. Traorè (25, Osnabrück, 3. Liga 22-23)",67.50855291348013
+"J. Nisembaum (29, Hapoel Acre, Liga Leumit 22-23)",67.2555166542875
+"Á. Lopera (29, Real Betis, La Liga 22-23)",67.13457576004481
+"L. Rosenlöcher (22, Erzgebirge Aue, 3. Liga 22-23)",66.93403281944025
+"A. Koiki (23, Northampton Town, League Two 22-23)",66.81953827280394
+"E. Dahlqvist (23, Landskrona, Superettan 2023)",66.80717933565357
+"S. Zanon (21, Sangiuliano City, Serie C 22-23)",66.35589544332599
+"N. Poojary (27, Hyderabad FC, Indian Super League 22-23)",66.25328087774865
+"A. Fernández (26, Tacuary, Paraguay Division Profesional 2023)",66.14579746901912
+"A. Bangura (23, Cambuur, Eredivisie 22-23)",66.00207296519652
+"J. Hernández (26, Gualaceo, Ecuador Liga Pro 2023)",65.86623236416249
+"A. Brown (21, Lausanne Sport, Swiss Challenge League 22-23)",65.69614538016947
+"R. Hutchinson (23, Sligo Rovers, League of Ireland PL 2023)",65.69154337114146
+"J. Pétris (25, Levski Sofia, Bulgarian First League 22-23)",65.47141776173882
+"D. Murkin (23, Volendam, Eredivisie 22-23)",65.32957914860667

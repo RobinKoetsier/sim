@@ -1,35 +1,26 @@
-Player 1,Player 2,Similarity
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","Oufa (26, ENPPI, Egyptian Premier League 22-23)",89.63807095231229
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","A. Vigh (35, Dorogi FC, NB II 22-23)",90.02886325929275
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","Alisson Safira (28, Vitória Guimarães, Primeira Liga 22-23)",69.24780183832736
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","S. Selmani (21, Kastrioti Krujë, Albanian Premier League 22-23)",84.42405539794639
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","C. Wilkinson (28, Walsall, League Two 22-23)",87.46885825082994
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","José Ángel Carrillo (29, Huesca, La Liga 2 22-23)",79.98261980285051
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","D. Johnson (30, Mansfield Town, League Two 22-23)",87.90006871454771
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","M. Đurić (33, Hellas Verona, Serie A 22-23)",86.57893178416852
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","F. Noccioli (23, San Donato Tavarnelle, Serie C 22-23)",77.85892825259563
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","Bruno Mota (27, Cheonan City, K League 2 2023)",92.3742442848494
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","O. Duarte (27, Jaguares de Córdoba, Colombian Primera Division 22-23)",79.84961421572476
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","I. Ugbo (24, Troyes, Ligue 1 22-23)",77.21847493579482
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","K. Kouassi (19, Sutton United, League Two 22-23)",72.18783251894992
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)",94.81706008423308
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","C. Monschein (30, Ried, Austrian Bundesliga 22-23)",83.20932040771604
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","A. Sitalo (33, Inhulets, Ukrainian Premier Liha 22-23)",90.69398887687709
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","A. Williams (36, Walsall, League Two 22-23)",84.42072417718241
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","R. Nemoto (23, Tochigi, J2 2023)",89.72529189894419
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","A. Yakubu (24, Rio Ave, Primeira Liga 22-23)",85.01306202873153
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","L. Østerby Skjellerup (20, Hobro, Danish 1. Division 22-23)",89.05718500131209
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","G. Cooper (25, Chindia Târgovişte, SuperLiga României 22-23)",81.17486982930471
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","Antoñín Cortés (23, Anorthosis, Cyprus 1. Division 22-23)",80.77120929293538
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","G. Leyes (33, Academia Cantolao, Peruvian Liga 1 2023)",90.92741124899784
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","D. Hylton (34, Northampton Town, League Two 22-23)",73.18085722490855
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","F. Bohman (26, Trelleborg, Superettan 2023)",82.6323080268363
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","K. Connell (21, Raith Rovers, Scottish Championship 22-23)",80.75569624715132
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","J. Zuñiga (29, Xinabajul, Guatemala Liga Nacional 22-23)",71.38440267798248
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","T. Hopper (29, Colchester United, League Two 22-23)",85.70289534384936
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","M. Egho (29, Randers, Superliga 22-23)",88.92184354506796
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","M. Hornyák (29, Csákvári TK, NB II 22-23)",88.58259289730339
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","M. van Duinen (31, Excelsior, Eredivisie 22-23)",86.84240140879544
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","L. Bekui (28, Al Sahel, Saudi First Division 22-23)",73.57391130499144
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","Vitor (25, Najran, Saudi First Division 22-23)",72.55073078683021
-"M. Mouandilmadji (25, RFC Seraing, Belgian Pro League 22-23)","M. Jurina (29, Al Faisaly, Saudi First Division 22-23)",73.86636680979902
+Player,Similarity
+"M. Pink (32, Austria Klagenfurt, Austrian Bundesliga 22-23)",94.81706008423308
+"V. Muriqi (29, Mallorca, La Liga 22-23)",94.06953065854634
+"K. Piątek (27, Salernitana, Serie A 22-23)",93.19297365273631
+"A. Maziero (25, Cumbayá, Ecuador Liga Pro 2023)",93.09794906447206
+"Eneko Jauregi (26, Amorebieta, Primera División RFEF 22-23)",93.0284969315046
+"E. Marzierli (29, San Donato Tavarnelle, Serie C 22-23)",92.55914230270442
+"Yago Cariello (23, Portimonense, Primeira Liga 22-23)",92.39152244684075
+"P. Yordanov (33, OFK Pirin, Bulgarian First League 22-23)",92.38870136700696
+"Bruno Mota (27, Cheonan City, K League 2 2023)",92.3742442848494
+"Yuri Jonathan (25, Jeju United, K League 1 2023)",91.9927899981078
+"J. Rhodes (33, Huddersfield Town, Championship 22-23)",91.86576067006168
+"P. Mlapa (32, Al Nasr, UAE Pro League 22-23)",91.55769363574908
+"T. Suleymanov (23, Nizhny Novgorod, Russian Premier League 22-23)",91.31412777193886
+"N. Komazec (35, Sloboda Tuzla, Bosnian Premier League 22-23)",91.21224588373396
+"R. Berlinski (28, Rot-Weiss Essen, 3. Liga 22-23)",90.97899461216568
+"F. Niederlechner (32, Hertha BSC, Bundesliga 22-23)",90.9507442490478
+"G. Leyes (33, Academia Cantolao, Peruvian Liga 1 2023)",90.92741124899784
+"F. Peraza (30, UTC Cajamarca, Peruvian Liga 1 2023)",90.72770671118026
+"M. Yatabaré (37, Sivasspor, Süper Lig 22-23)",90.69890200656867
+"A. Sitalo (33, Inhulets, Ukrainian Premier Liha 22-23)",90.69398887687709
+"M. Mas (22, Sandecja Nowy Sącz, Polish I Liga 22-23)",90.53080441512049
+"V. Bugay (25, Lviv, Ukrainian Premier Liha 22-23)",90.5178969299636
+"A. Vučenović (25, Enosis, Cyprus 1. Division 22-23)",90.43040644070904
+"R. Kharchouch (27, Excelsior, Eredivisie 22-23)",90.2969597780028
+"S. Cortelezzi (28, Bellinzona, Swiss Challenge League 22-23)",90.28471909275804

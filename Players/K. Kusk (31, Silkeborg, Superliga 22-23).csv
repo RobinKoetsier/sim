@@ -1,104 +1,26 @@
-Player 1,Player 2,Similarity
-"K. Kusk (31, Silkeborg, Superliga 22-23)","S. Tengstedt (22, Silkeborg, Superliga 22-23)",14.206322713544347
-"K. Kusk (31, Silkeborg, Superliga 22-23)","I. Jebali (31, OB, Superliga 22-23)",70.45716229009587
-"K. Kusk (31, Silkeborg, Superliga 22-23)","H. Evjen (23, Brøndby, Superliga 22-23)",42.306842151534646
-"K. Kusk (31, Silkeborg, Superliga 22-23)","A. Isfan (23, Universitatea Craiova, SuperLiga României 22-23)",44.46411097486915
-"K. Kusk (31, Silkeborg, Superliga 22-23)","D. Popadiuc (28, Chindia Târgovişte, SuperLiga României 22-23)",47.09583591155758
-"K. Kusk (31, Silkeborg, Superliga 22-23)","J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",88.56838881272307
-"K. Kusk (31, Silkeborg, Superliga 22-23)","C. Matei (31, Sepsi, SuperLiga României 22-23)",81.10859933160665
-"K. Kusk (31, Silkeborg, Superliga 22-23)","D. Ubbink (29, UTA Arad, SuperLiga României 22-23)",68.78120992308774
-"K. Kusk (31, Silkeborg, Superliga 22-23)","A. Ioniţă (28, Rapid Bucureşti, SuperLiga României 22-23)",57.93441067156415
-"K. Kusk (31, Silkeborg, Superliga 22-23)","Ş. Baiaram (20, Universitatea Craiova, SuperLiga României 22-23)",75.80340157017025
-"K. Kusk (31, Silkeborg, Superliga 22-23)","A. Pitu (20, Farul Constanţa, SuperLiga României 22-23)",51.08618569332376
-"K. Kusk (31, Silkeborg, Superliga 22-23)","C. Zabou (26, Botoşani, SuperLiga României 22-23)",53.83575814184788
-"K. Kusk (31, Silkeborg, Superliga 22-23)","E. Florescu (25, Botoşani, SuperLiga României 22-23)",40.17802393445582
-"K. Kusk (31, Silkeborg, Superliga 22-23)","A. Roguljić (27, Universitatea Craiova, SuperLiga României 22-23)",53.51129136311214
-"K. Kusk (31, Silkeborg, Superliga 22-23)","V. Fazliu (27, Aarau, Swiss Challenge League 22-23)",34.813472889698765
-"K. Kusk (31, Silkeborg, Superliga 22-23)","T. Berdayes Marques (21, Yverdon Sport, Swiss Challenge League 22-23)",17.35139961097247
-"K. Kusk (31, Silkeborg, Superliga 22-23)","M. Qarri (27, Stade Lausanne-Ouchy, Swiss Challenge League 22-23)",72.64374918053555
-"K. Kusk (31, Silkeborg, Superliga 22-23)","T. Chacón (22, Bellinzona, Swiss Challenge League 22-23)",45.1784676572909
-"K. Kusk (31, Silkeborg, Superliga 22-23)","M. Castroman (28, Thun, Swiss Challenge League 22-23)",56.56886563023672
-"K. Kusk (31, Silkeborg, Superliga 22-23)","D. Dos Santos (20, Thun, Swiss Challenge League 22-23)",77.604230667478
-"K. Kusk (31, Silkeborg, Superliga 22-23)","M. Di Giusto (22, Winterthur, Swiss Super League 22-23)",57.50016465089058
-"K. Kusk (31, Silkeborg, Superliga 22-23)","F. Rieder (21, Young Boys, Swiss Super League 22-23)",54.458916324573046
-"K. Kusk (31, Silkeborg, Superliga 22-23)","M. Meyer (27, Luzern, Swiss Super League 22-23)",45.37077638030036
-"K. Kusk (31, Silkeborg, Superliga 22-23)","S. Ramizi (31, Winterthur, Swiss Super League 22-23)",45.76485585329987
-"K. Kusk (31, Silkeborg, Superliga 22-23)","D. Males (22, Basel, Swiss Super League 22-23)",55.52492943738907
-"K. Kusk (31, Silkeborg, Superliga 22-23)","D. Kutesa (25, Servette, Swiss Super League 22-23)",66.73682979502988
-"K. Kusk (31, Silkeborg, Superliga 22-23)","P. Pušić (24, Grasshopper, Swiss Super League 22-23)",73.1121423315454
-"K. Kusk (31, Silkeborg, Superliga 22-23)","M. Bottani (32, Lugano, Swiss Super League 22-23)",82.13489020952942
-"K. Kusk (31, Silkeborg, Superliga 22-23)","U. Bislimi (23, Lugano, Swiss Super League 22-23)",47.97924977706289
-"K. Kusk (31, Silkeborg, Superliga 22-23)","A. Antunes (22, Servette, Swiss Super League 22-23)",25.416766117815204
-"K. Kusk (31, Silkeborg, Superliga 22-23)","M. Shabani (24, Grasshopper, Swiss Super League 22-23)",29.49898028421636
-"K. Kusk (31, Silkeborg, Superliga 22-23)","A. Maxim (32, Beşiktaş, Süper Lig 22-23)",65.47097785045561
-"K. Kusk (31, Silkeborg, Superliga 22-23)","D. Mertens (36, Galatasaray, Süper Lig 22-23)",65.54381392056267
-"K. Kusk (31, Silkeborg, Superliga 22-23)","E. Akbaba (30, Adana Demirspor, Süper Lig 22-23)",67.32603348837077
-"K. Kusk (31, Silkeborg, Superliga 22-23)","Fredy (33, Antalyaspor, Süper Lig 22-23)",40.89818863775763
-"K. Kusk (31, Silkeborg, Superliga 22-23)","E. Bekiroğlu (27, Alanyaspor, Süper Lig 22-23)",67.57451468512924
-"K. Kusk (31, Silkeborg, Superliga 22-23)","G. Zahid (28, Ankaragücü, Süper Lig 22-23)",58.79308931230359
-"K. Kusk (31, Silkeborg, Superliga 22-23)","E. Bardhi (27, Trabzonspor, Süper Lig 22-23)",46.5392573662942
-"K. Kusk (31, Silkeborg, Superliga 22-23)","B. Kuwas (30, Giresunspor, Süper Lig 22-23)",67.84058297190751
-"K. Kusk (31, Silkeborg, Superliga 22-23)","V. Savićević (29, Giresunspor, Süper Lig 22-23)",50.24116877686446
-"K. Kusk (31, Silkeborg, Superliga 22-23)","M. Zajc (28, Fenerbahçe, Süper Lig 22-23)",51.88851288269117
-"K. Kusk (31, Silkeborg, Superliga 22-23)","Luiz Adriano (36, Antalyaspor, Süper Lig 22-23)",-8.68659126627426
-"K. Kusk (31, Silkeborg, Superliga 22-23)","E. Çekiçi (26, Konyaspor, Süper Lig 22-23)",63.10091975166695
-"K. Kusk (31, Silkeborg, Superliga 22-23)","D. Saba (30, Sivasspor, Süper Lig 22-23)",75.58041625090989
-"K. Kusk (31, Silkeborg, Superliga 22-23)","Samu Sáiz (32, Sivasspor, Süper Lig 22-23)",82.72400674663494
-"K. Kusk (31, Silkeborg, Superliga 22-23)","Heberty (34, Bangkok United, Thai League 1 22-23)",64.95738639752648
-"K. Kusk (31, Silkeborg, Superliga 22-23)","S. Mirzaev (32, Muang Thong United, Thai League 1 22-23)",63.09325243578139
-"K. Kusk (31, Silkeborg, Superliga 22-23)","Tyronne (32, Nakhon Ratchasima, Thai League 1 22-23)",51.50072111891591
-"K. Kusk (31, Silkeborg, Superliga 22-23)","J. Kaewprom (35, Ratchaburi, Thai League 1 22-23)",62.304237427712025
-"K. Kusk (31, Silkeborg, Superliga 22-23)","S. Purisay (36, Chonburi, Thai League 1 22-23)",62.89170914405169
-"K. Kusk (31, Silkeborg, Superliga 22-23)","L. Thiamrat (31, Sukhothai, Thai League 1 22-23)",26.87147779599432
-"K. Kusk (31, Silkeborg, Superliga 22-23)","E. Panya (23, Muang Thong United, Thai League 1 22-23)",66.19879689602695
-"K. Kusk (31, Silkeborg, Superliga 22-23)","C. Sapysakunphon (27, Sukhothai, Thai League 1 22-23)",-2.711214807965856
-"K. Kusk (31, Silkeborg, Superliga 22-23)","C. Thongthae (32, Prachuap, Thai League 1 22-23)",35.60031884329896
-"K. Kusk (31, Silkeborg, Superliga 22-23)","A. Bouallegui (25, Métlaoui, Tunisian Ligue 1 22-23)",1.9155561731712265
-"K. Kusk (31, Silkeborg, Superliga 22-23)","B. Hajji (0, Métlaoui, Tunisian Ligue 1 22-23)",-35.03883291777486
-"K. Kusk (31, Silkeborg, Superliga 22-23)","M. Diallo (27, Tataouine, Tunisian Ligue 1 22-23)",23.53043205099306
-"K. Kusk (31, Silkeborg, Superliga 22-23)","M. Amine Tritar (27, Hammam-Sousse, Tunisian Ligue 1 22-23)",15.159949787521152
-"K. Kusk (31, Silkeborg, Superliga 22-23)","Hussein Al Saedi (26, CS Sfaxien, Tunisian Ligue 1 22-23)",55.01126341891898
-"K. Kusk (31, Silkeborg, Superliga 22-23)","Z. Boutmene (22, Etoile du Sahel, Tunisian Ligue 1 22-23)",59.98853661553528
-"K. Kusk (31, Silkeborg, Superliga 22-23)","M. Triki (21, AS Soliman, Tunisian Ligue 1 22-23)",0.3051200048742614
-"K. Kusk (31, Silkeborg, Superliga 22-23)","Y. Mosrati (23, Ben Guerdane, Tunisian Ligue 1 22-23)",14.916429064138084
-"K. Kusk (31, Silkeborg, Superliga 22-23)","M. Boulaabi (30, CA Bizertin, Tunisian Ligue 1 22-23)",9.191301577557155
-"K. Kusk (31, Silkeborg, Superliga 22-23)","A. Regattin (31, Pendikspor, Turkish 1. Lig 22-23)",67.04500566063724
-"K. Kusk (31, Silkeborg, Superliga 22-23)","K. Avcı (33, Bandırmaspor, Turkish 1. Lig 22-23)",38.306028918524696
-"K. Kusk (31, Silkeborg, Superliga 22-23)","G. Landel (32, Boluspor, Turkish 1. Lig 22-23)",-10.03267813302316
-"K. Kusk (31, Silkeborg, Superliga 22-23)","R. Niyaz (27, Eyüpspor, Turkish 1. Lig 22-23)",38.83312113564833
-"K. Kusk (31, Silkeborg, Superliga 22-23)","O. Derici (30, Denizlispor, Turkish 1. Lig 22-23)",21.37230769221157
-"K. Kusk (31, Silkeborg, Superliga 22-23)","S. Eralp (26, Gençlerbirliği, Turkish 1. Lig 22-23)",63.75419395156501
-"K. Kusk (31, Silkeborg, Superliga 22-23)","M. Hašek (27, BB Erzurumspor, Turkish 1. Lig 22-23)",-32.03097751481939
-"K. Kusk (31, Silkeborg, Superliga 22-23)","Ö. Özdemir (25, Denizlispor, Turkish 1. Lig 22-23)",5.051495482109439
-"K. Kusk (31, Silkeborg, Superliga 22-23)","M. Demirci (28, Tuzlaspor, Turkish 1. Lig 22-23)",65.54015921908602
-"K. Kusk (31, Silkeborg, Superliga 22-23)","D. Hümmet (26, Rizespor, Turkish 1. Lig 22-23)",-31.45061651134337
-"K. Kusk (31, Silkeborg, Superliga 22-23)","F. Miya (25, Rizespor, Turkish 1. Lig 22-23)",17.59513004281274
-"K. Kusk (31, Silkeborg, Superliga 22-23)","A. Aosman (28, Pendikspor, Turkish 1. Lig 22-23)",9.725398460645176
-"K. Kusk (31, Silkeborg, Superliga 22-23)","João Novais (29, Al Bataeh, UAE Pro League 22-23)",58.31619825466801
-"K. Kusk (31, Silkeborg, Superliga 22-23)","T. Dhliwayo (22, Dibba Al Fujairah, UAE Pro League 22-23)",40.83679127207323
-"K. Kusk (31, Silkeborg, Superliga 22-23)","A. Taarabt (33, Al Nasr, UAE Pro League 22-23)",80.37988851749719
-"K. Kusk (31, Silkeborg, Superliga 22-23)","F. Cartabia (30, Shabab Al Ahli Dubai, UAE Pro League 22-23)",74.68580406769316
-"K. Kusk (31, Silkeborg, Superliga 22-23)","F. Tănase (28, Al Jazira, UAE Pro League 22-23)",35.83360460306221
-"K. Kusk (31, Silkeborg, Superliga 22-23)","M. Palacios (21, Al Ain, UAE Pro League 22-23)",27.542269796391537
-"K. Kusk (31, Silkeborg, Superliga 22-23)","S. Sidibe (20, Al Wasl, UAE Pro League 22-23)",-10.849283311649344
-"K. Kusk (31, Silkeborg, Superliga 22-23)","Khalfan Mubarak (28, Al Jazira, UAE Pro League 22-23)",61.29729309560843
-"K. Kusk (31, Silkeborg, Superliga 22-23)","G. Milanov (31, Al Dhafra, UAE Pro League 22-23)",32.033867943461416
-"K. Kusk (31, Silkeborg, Superliga 22-23)","Khalid Al Baloushi (24, Al Ain, UAE Pro League 22-23)",46.799695628245246
-"K. Kusk (31, Silkeborg, Superliga 22-23)","V. Buyalskyi (30, Dynamo Kyiv, Ukrainian Premier Liha 22-23)",57.42592550621472
-"K. Kusk (31, Silkeborg, Superliga 22-23)","S. Buletsa (24, Zorya, Ukrainian Premier Liha 22-23)",71.62988078709974
-"K. Kusk (31, Silkeborg, Superliga 22-23)","Talles (25, Rukh Lviv, Ukrainian Premier Liha 22-23)",46.2850188434626
-"K. Kusk (31, Silkeborg, Superliga 22-23)","S. Bolbat (29, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",72.85137035995687
-"K. Kusk (31, Silkeborg, Superliga 22-23)","D. Oliynyk (35, Vorskla, Ukrainian Premier Liha 22-23)",51.46198688516562
-"K. Kusk (31, Silkeborg, Superliga 22-23)","O. Lebedenko (33, Veres, Ukrainian Premier Liha 22-23)",3.471687367944066
-"K. Kusk (31, Silkeborg, Superliga 22-23)","S. Sharay (26, Veres, Ukrainian Premier Liha 22-23)",55.92973640333624
-"K. Kusk (31, Silkeborg, Superliga 22-23)","Y. Smyrnyi (24, Kolos Kovalivka, Ukrainian Premier Liha 22-23)",-24.96900042649873
-"K. Kusk (31, Silkeborg, Superliga 22-23)","E. Mustafaev (21, Oleksandria, Ukrainian Premier Liha 22-23)",32.76358792637923
-"K. Kusk (31, Silkeborg, Superliga 22-23)","O. Belyaev (23, Lviv, Ukrainian Premier Liha 22-23)",69.94288291862738
-"K. Kusk (31, Silkeborg, Superliga 22-23)","M. Lunyov (25, Kryvbas KR, Ukrainian Premier Liha 22-23)",29.398327024097693
-"K. Kusk (31, Silkeborg, Superliga 22-23)","S. Rodríguez (30, Peñarol, Uruguay Primera División 2023)",27.74184886365391
-"K. Kusk (31, Silkeborg, Superliga 22-23)","D. Zabala (31, Nacional, Uruguay Primera División 2023)",85.63853771293223
-"K. Kusk (31, Silkeborg, Superliga 22-23)","J. Iskandarov (29, Navbahor, Uzbek Super League 2023)",49.0963058900571
-"K. Kusk (31, Silkeborg, Superliga 22-23)","K. Iminov (23, Buxoro, Uzbek Super League 2023)",73.92223197724874
-"K. Kusk (31, Silkeborg, Superliga 22-23)","Willis Furtado (25, KTP, Veikkausliiga 2023)",43.47861039330755
-"K. Kusk (31, Silkeborg, Superliga 22-23)","J. Laine (22, Haka, Veikkausliiga 2023)",57.52976410532514
-"K. Kusk (31, Silkeborg, Superliga 22-23)","L. Vapne (19, FK Metta, Virsliga 2023)",57.87116974899573
+Player,Similarity
+"Akram Afif (26, Al Sadd, Qatari Stars League 22-23)",95.61169880752234
+"H. Boumous (27, ATK Mohun Bagan Football Club, Indian Super League 22-23)",91.66380975860363
+"Joan Román (30, Podbeskidzie Bielsko-Biała, Polish I Liga 22-23)",90.53110787645426
+"F. Boulaya (30, Al Gharafa, Qatari Stars League 22-23)",90.40996411555146
+"V. Bezecourt (29, Geylang International, Singapore Premier League 2023)",90.05098584278106
+"R. Matsumura (28, Persis Solo, BRI Liga 1 22-23)",89.42917884928983
+"G. Chakvetadze (23, Slovan Bratislava, Slovak Super Liga 22-23)",88.68584345614985
+"J. Bauza (27, U Craiova 1948, SuperLiga României 22-23)",88.56838881272307
+"Brahim Diaz (23, Milan, Serie A 22-23)",88.22217219018269
+"J. Bustos (28, Borneo FC, BRI Liga 1 22-23)",88.1034231565676
+"T. Almada (22, Atlanta United, MLS 2023)",87.97835168119478
+"R. Cherki (19, Olympique Lyonnais, Ligue 1 22-23)",87.70955708204772
+"R. Botta (33, Bari, Serie B 22-23)",87.70036096522672
+"R. Gauld (27, Vancouver Whitecaps, MLS 2023)",87.6782116226673
+"A. Gholizadeh (26, Charleroi, Belgian Pro League 22-23)",87.33917747758882
+"R. Wolski (30, Wisła Płock, Ekstraklasa 22-23)",87.29498698564551
+"C. Mochrie (20, Dunfermline Athletic, Scottish League One 22-23)",87.28351909693998
+"B. Cohen (22, Beitar Jerusalem, Ligat Ha'al 22-23)",87.28125743832324
+"An. Miranchuk (27, Lokomotiv Moskva, Russian Premier League 22-23)",87.14432956363592
+"Xavi Simons (20, PSV, Eredivisie 22-23)",85.98706521347131
+"D. Zabala (31, Nacional, Uruguay Primera División 2023)",85.63853771293223
+"Marquinhos (23, Ferencváros, NB I 22-23)",85.56305628201534
+"L. González (32, Junior, Colombian Primera Division 22-23)",85.21104974860336
+"F. Muslija (24, Paderborn, 2. Bundesliga 22-23)",85.16309453864211
+"F. Russo (25, San Donato Tavarnelle, Serie C 22-23)",84.5842691199477
