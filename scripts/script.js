@@ -34,7 +34,7 @@ d3.csv("names.csv").then(function (data) {
       var height = 500;
 
       // Define margin
-      var margin = { top: 25, right: 20, bottom: 50, left: 200 };
+      var margin = { top: 25, right: 50, bottom: 50, left: 200 };
 
       // Calculate the inner width and height of the chart
       var innerWidth = width - margin.left - margin.right;
@@ -52,6 +52,17 @@ d3.csv("names.csv").then(function (data) {
       var xScale = d3.scaleLinear()
         .domain([0, d3.max(filteredData, function (d) { return parseFloat(d.Similarity); })])
         .range([0, innerWidth]);
+
+
+        var xAxis = d3.axisBottom(xScale); // Create the x-axis component
+
+        // Append the x-axis to the chart
+        svg.append("g")
+  .attr("class", "x-axis")
+  .attr("transform", "translate(0, " + (innerHeight + 25) + ")")
+  .call(xAxis);
+        
+
 
       // Create y-scale
       var yScale = d3.scaleBand()
@@ -78,10 +89,8 @@ d3.csv("names.csv").then(function (data) {
       // Limit y-axis domain to only the values present in the filtered data
       yScale.domain(filteredData.map(function (d) { return d['Player']; }));
 
-      // Create x-scale
-      var xScale = d3.scaleLinear()
-        .domain([0, d3.max(filteredData, function (d) { return parseFloat(d.Similarity); })])
-        .range([0, innerWidth]);
+ 
+
 
       //Draw the  Chart Label:
       svg
